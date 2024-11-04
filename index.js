@@ -2,6 +2,18 @@ const express = require("express");
 const sqlite3 = require("sqlite3").verbose();
 const cors = require("cors");
 const fs = require("fs");
+const path = require("path");
+
+// Configuração de caminhos
+const DATA_DIR = path.join(__dirname, "data");
+const QUESTOES_JSON_PATH =
+  process.env.QUESTOES_JSON_PATH || path.join(DATA_DIR, "questoes.json");
+const DB_PATH = process.env.DB_PATH || path.join(DATA_DIR, "questoes.db");
+
+// Criar diretório data se não existir
+if (!fs.existsSync(DATA_DIR)) {
+  fs.mkdirSync(DATA_DIR);
+}
 
 const app = express();
 
@@ -56,7 +68,6 @@ function syncQuestoes(db, novasQuestoes) {
       });
 
       stmt.finalize(() => {
-        // Correção aqui: usando get em vez de all para contagem
         db.get("SELECT COUNT(*) as count FROM questoes", [], (err, row) => {
           if (err) {
             console.error("Erro ao contar questões após sincronização:", err);
@@ -76,7 +87,7 @@ function syncQuestoes(db, novasQuestoes) {
 // Carregando questões do arquivo JSON
 let questoesIniciais;
 try {
-  questoesIniciais = JSON.parse(fs.readFileSync("./questoes.json", "utf8"));
+  questoesIniciais = JSON.parse(fs.readFileSync(QUESTOES_JSON_PATH, "utf8"));
   console.log("=== Carregamento Inicial ===");
   console.log(
     `Encontradas ${questoesIniciais.length} questões no arquivo JSON`
@@ -88,7 +99,7 @@ try {
 }
 
 // Conexão com SQLite
-const db = new sqlite3.Database("./questoes.db", (err) => {
+const db = new sqlite3.Database(DB_PATH, (err) => {
   if (err) {
     console.error("Erro ao conectar ao banco:", err);
     return;
@@ -117,14 +128,14 @@ const db = new sqlite3.Database("./questoes.db", (err) => {
       syncQuestoes(db, questoesIniciais);
 
       // Observar mudanças no arquivo JSON
-      fs.watch("./questoes.json", (eventType, filename) => {
+      fs.watch(QUESTOES_JSON_PATH, (eventType, filename) => {
         if (eventType === "change") {
           console.log("\n=== Atualização Detectada ===");
           console.log("Arquivo questoes.json modificado, atualizando banco...");
           console.log("===========================");
           try {
             const questoesAtualizadas = JSON.parse(
-              fs.readFileSync("./questoes.json", "utf8")
+              fs.readFileSync(QUESTOES_JSON_PATH, "utf8")
             );
             syncQuestoes(db, questoesAtualizadas);
           } catch (error) {
