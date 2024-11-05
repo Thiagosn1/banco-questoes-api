@@ -4204,5 +4204,629 @@
       }
     ],
     "resposta_correta": 3
+  },
+  {
+    "id": "179",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "Ao escrever seu testamento, um pai deixou instruções para que sua herança fosse dividida entre seus três filhos. O filho mais velho deverá receber o triplo do que receber o filho mais novo e esse, por sua vez, deve receber a metade do que couber ao filho do meio. O percentual da herança que será deixada ao filho mais velho é de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "17%"
+      },
+      {
+        "id": 2,
+        "texto": "33%"
+      },
+      {
+        "id": 3,
+        "texto": "40%"
+      },
+      {
+        "id": 4,
+        "texto": "50%"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "180",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "O Brasil apresentou um crescimento acentuado da fome nos últimos anos. O 2º Inquérito Nacional sobre Insegurança Alimentar no Contexto da Pandemia da Covid-19 no país indica que cerca de 33 milhões de brasileiros passam fome (aproximadamente 15% da população do país). As principais causas da fome no Brasil são:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "as condições climáticas e a guerra"
+      },
+      {
+        "id": 2,
+        "texto": "o excesso populacional e a localização"
+      },
+      {
+        "id": 3,
+        "texto": "a crise econômica e a desigualdade social"
+      },
+      {
+        "id": 4,
+        "texto": "a corrupção e a queda na produção de alimentos"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "181",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "Os primeiros trabalhadores que chegaram para a construção da nova capital de Goiás instalaram-se em:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Campinas"
+      },
+      {
+        "id": 2,
+        "texto": "Pirenópolis"
+      },
+      {
+        "id": 3,
+        "texto": "Pilar de Goiás"
+      },
+      {
+        "id": 4,
+        "texto": "Santa Cruz de Goiás"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "182",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "Leia o texto a seguir.\nOs casarões da cidade de Goiás, os prédios centenários pelo interior e o acervo art déco de Goiânia são riquezas históricas que contam com a proteção e reconhecimento internacionais. A antiga Vila Boa, por exemplo, foi classificada pela Unesco como Patrimônio Cultural Mundial, em 2001.\nO Estado de Goiás possui ainda dois parques nacionais reconhecidos pela Unesco como Patrimônio Natural Mundial, que são, respectivamente:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Araguaia e Paraúna"
+      },
+      {
+        "id": 2,
+        "texto": "Águas Lindas e Mata Atlântica"
+      },
+      {
+        "id": 3,
+        "texto": "Chapada dos Veadeiros e Parque das Emas"
+      },
+      {
+        "id": 4,
+        "texto": "Águas do Paraíso e Parque Altamiro de Moura Pacheco"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "183",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "A utilização de slides é uma prática corporativa bem comum. Servidores públicos devem dominar a utilização de ferramentas para gerência e apresentação de slides para manejá-los em reuniões estratégicas e de rotina. No LibreOffice Impress versão 7, como é possível acessar a ferramenta que permite alterar o efeito visual da transição de um slide específico?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Clicando com o botão direito sobre o slide sendo alterado"
+      },
+      {
+        "id": 2,
+        "texto": "Clicando com botão direito nas miniaturas ao lado esquerdo da tela e selecionando 'Propriedades do Slide'"
+      },
+      {
+        "id": 3,
+        "texto": "Acessando o menu 'Formatar' > Slides"
+      },
+      {
+        "id": 4,
+        "texto": "Acessando o menu 'Apresentação de Slides'"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "184",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "Leia o texto a seguir.\nO Programa Mapa de Caracteres é uma ferramenta dos sistemas operacionais Microsoft Windows que permite inserir símbolos e caracteres especiais e depois copiá-los para seus documentos.\nDisponível em: <https://pt.wikipedia.org/wiki/Mapa_de_Caracteres#:~:text=O%20Programa%20Mapa%20de%20Caracteres,copi%C3%A1%2Dlos%20para%20seus%20documentos>. Acesso em 09 jun. 2023. [Adaptado].\nEssa ferramenta é especialmente útil quando o usuário não sabe como gerar, por combinação de teclas, os caracteres especiais necessários que não constam no teclado convencional. Um exemplo disso é o símbolo 'ª'. Ainda que muitos editores convertam automaticamente um número acompanhado do caracter 'a' para o caracter especial indicado, no caso do Bloco de Notas onde isso não acontece, esse caracter pode ser obtido pela combinação das teclas:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Alt e a tecla a"
+      },
+      {
+        "id": 2,
+        "texto": "Shift e a tecla a"
+      },
+      {
+        "id": 3,
+        "texto": "Ctrl e o número 166"
+      },
+      {
+        "id": 4,
+        "texto": "Alt e o número 166"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "185",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "A fórmula utilizada em planilhas eletrônicas no LibreOffice Calc versão 7 para calcular a média entre o menor e o maior dos números presentes entre as células F1 e F4 é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "= MÉDIA(MAIOR(F1:F4),MENOR(F1:F4))"
+      },
+      {
+        "id": 2,
+        "texto": "=MÉDIA(MÍNIMO(F1:F4);MÁXIMO(F1:F4))"
+      },
+      {
+        "id": 3,
+        "texto": "=MÉDIA(F1:F4;MÍNIMO(F1:F4),MÁXIMO(F1:F4))"
+      },
+      {
+        "id": 4,
+        "texto": "=MÉDIA(MAIOR,MENOR;(F1:F4))"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "186",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "A extensão dos arquivos passíveis de serem instalados em um computador com sistema operacional Microsoft Windows é a:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": ".ins"
+      },
+      {
+        "id": 2,
+        "texto": ".dep"
+      },
+      {
+        "id": 3,
+        "texto": ".msw"
+      },
+      {
+        "id": 4,
+        "texto": ".msi"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "187",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "Navegadores Web são as ferramentas utilizadas para acessar sítios web. Neste sentido, ao olhar para um endereço como 'http://www.google.com', a porção 'google.com' refere-se ao:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "protocolo"
+      },
+      {
+        "id": 2,
+        "texto": "tipo de servidor"
+      },
+      {
+        "id": 3,
+        "texto": "nome do domínio"
+      },
+      {
+        "id": 4,
+        "texto": "nome do diretório"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "188",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "Quando a administração observa que o ato administrativo que ela praticou está ilegal, ela deve:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "mantê-lo"
+      },
+      {
+        "id": 2,
+        "texto": "anulá-lo"
+      },
+      {
+        "id": 3,
+        "texto": "revogá-lo"
+      },
+      {
+        "id": 4,
+        "texto": "suspendê-lo"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "189",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "É considerada 'brasileira nata' a pessoa:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "nascida no exterior, filha de brasileiros a serviço da República Federativa do Brasil"
+      },
+      {
+        "id": 2,
+        "texto": "de origem portuguesa, reconhecida por equiparação"
+      },
+      {
+        "id": 3,
+        "texto": "nascida em qualquer um dos países do Mercosul"
+      },
+      {
+        "id": 4,
+        "texto": "de origem estrangeira que adquire a nacionalidade brasileira"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "190",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "Xavier é prefeito de uma determinada cidade e nomeou seu filho Josanilton, médico veterinário, como chefe da coletoria de tributos. O Ministério Público (MP) questionou a nomeação, por ferir o princípio da:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "segurança jurídica"
+      },
+      {
+        "id": 2,
+        "texto": "publicidade"
+      },
+      {
+        "id": 3,
+        "texto": "moralidade"
+      },
+      {
+        "id": 4,
+        "texto": "continuidade"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "191",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "Quando um agente público pratica um ato administrativo típico de função a qual não está investido, esse ato administrativo tem vício de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "objeto"
+      },
+      {
+        "id": 2,
+        "texto": "motivação"
+      },
+      {
+        "id": 3,
+        "texto": "finalidade"
+      },
+      {
+        "id": 4,
+        "texto": "competência"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "192",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "Segundo os direitos e as garantias fundamentais presentes na constituição, o racismo é considerado um crime:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "indecoroso e imoral"
+      },
+      {
+        "id": 2,
+        "texto": "inafiançável e imprescritível"
+      },
+      {
+        "id": 3,
+        "texto": "incontestável e inconsequente"
+      },
+      {
+        "id": 4,
+        "texto": "indecente e inconveniente"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "193",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "A capacidade legítima do Estado de implementar suas políticas por meio de seu governo é chamada de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "governabilidade"
+      },
+      {
+        "id": 2,
+        "texto": "governança"
+      },
+      {
+        "id": 3,
+        "texto": "responsabilização"
+      },
+      {
+        "id": 4,
+        "texto": "transparência"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "194",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "A comunicação organizacional é compreendida como um processo composto por diversas etapas e componentes. A interferência estranha à mensagem que torna a comunicação menos eficaz é chamada de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "feedback"
+      },
+      {
+        "id": 2,
+        "texto": "codificador"
+      },
+      {
+        "id": 3,
+        "texto": "ruído"
+      },
+      {
+        "id": 4,
+        "texto": "canal"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "195",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "Leia o texto a seguir.\nCaracteriza-se como sendo o processo racional para tomada de decisão, a fim de selecionar e implementar um conjunto de ações que possibilitarão a partir de uma situação atual, alcançar uma situação futura desejada.\nTal afirmativa refere-se:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "à organização"
+      },
+      {
+        "id": 2,
+        "texto": "ao planejamento"
+      },
+      {
+        "id": 3,
+        "texto": "à direção"
+      },
+      {
+        "id": 4,
+        "texto": "ao controle"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "196",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "Um almoxarifado é um depósito que recebe os materiais que a empresa quer estocar e guardar. Nesse sentido, a armazenagem diz respeito ao recebimento, à classificação, à movimentação e ao acondicionamento dos materiais. São objetivos da gestão de um depósito ou almoxarifado:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "diminuir o tamanho médio das unidades armazenadas e aumentar o preço da armazenagem"
+      },
+      {
+        "id": 2,
+        "texto": "diminuir o tempo de movimentação dos materiais e aumentar o custo médio de armazenagem"
+      },
+      {
+        "id": 3,
+        "texto": "eliminar os custos de armazenamento e aumentar o preço dos produtos vendidos"
+      },
+      {
+        "id": 4,
+        "texto": "reduzir os custos de armazenamento e aumentar o nível de serviço aos clientes"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "197",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "O método de arquivamento no qual a classificação é feita por assuntos e que exige a interpretação dos documentos conforme o conhecimento das atividades empresariais é chamado de método:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "ideográfico"
+      },
+      {
+        "id": 2,
+        "texto": "geográfico"
+      },
+      {
+        "id": 3,
+        "texto": "alfabético"
+      },
+      {
+        "id": 4,
+        "texto": "cronológico"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "198",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "Leia o texto a seguir.\nOs políticos devem estar permanentemente prestando contas aos cidadãos. Quanto mais clara for a responsabilização do político perante os cidadãos e a cobrança destes em relação ao governante, mais democrático será o regime.\nBRESSER PEREIRA, Luiz Carlos. A reforma do Estado dos anos 90: lógica e mecanismos de controle. Lua Nova: Revista de cultura e política, p. 49-95, 1998.\nAs características mencionadas referem-se ao conceito de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "governabilidade"
+      },
+      {
+        "id": 2,
+        "texto": "governança"
+      },
+      {
+        "id": 3,
+        "texto": "accountability"
+      },
+      {
+        "id": 4,
+        "texto": "legitimidade"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "199",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "Leia o caso a seguir.\nCerto servidor público sugeriu ao seu superior hierárquico a seguinte mudança em seu departamento: as atividades passariam a ser interligadas, as funções permanentes passariam a ser vistas como elos de uma corrente e não como unidades isoladas. Dessa forma, as unidades trabalhariam de forma coordenada, aumentando a eficiência da organização.\nA sugestão do servidor está relacionada ao conceito de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "gestão por desempenho"
+      },
+      {
+        "id": 2,
+        "texto": "gestão por processos"
+      },
+      {
+        "id": 3,
+        "texto": "gestão de desempenho"
+      },
+      {
+        "id": 4,
+        "texto": "gestão por competências"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "200",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "O princípio que veda que as despesas ou receitas sejam incluídas no orçamento nos seus montantes líquidos é o princípio:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "do orçamento bruto"
+      },
+      {
+        "id": 2,
+        "texto": "da totalidade"
+      },
+      {
+        "id": 3,
+        "texto": "da universalidade"
+      },
+      {
+        "id": 4,
+        "texto": "da proibição do estorno"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "201",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "Pode-se dizer que redação oficial é a maneira pela qual o Poder Público redige comunicações oficiais e atos normativos. Para atender aos princípios da redação oficial, deve-se:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "utilizar palavras e expressões simples, em seu sentido comum, mesmo quando o texto versar sobre assunto técnico"
+      },
+      {
+        "id": 2,
+        "texto": "usar frases longas, bem estruturadas; apresentar as orações na ordem direta e evitar intercalações excessivas"
+      },
+      {
+        "id": 3,
+        "texto": "utilizar palavras e expressões em outro idioma apenas quando dispensáveis, em razão de serem designações ou expressões de uso já consagrado ou de não terem exata tradução"
+      },
+      {
+        "id": 4,
+        "texto": "evitar caracterizações e comentários supérfluos, adjetivos e advérbios inúteis e a subordinação excessiva"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "202",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
+    "enunciado": "O conjunto estruturado de atividades sequenciais que apresentam relação lógica entre si e que transformam entradas em saídas, com a finalidade de atender às necessidades dos clientes internos e externos da empresa é denominado de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "processo"
+      },
+      {
+        "id": 2,
+        "texto": "projeto"
+      },
+      {
+        "id": 3,
+        "texto": "planejamento"
+      },
+      {
+        "id": 4,
+        "texto": "organização"
+      }
+    ],
+    "resposta_correta": 1
   }
 ]
