@@ -1304,7 +1304,7 @@
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Câmara Municipal de Anápolis – GO",
-    "enunciado": "Leia o trecho a seguir.\nEl Niño atual é um dos mais intensos dos últimos 50 anos.\nDisponível em: <https://metsul.com>. Acesso em: 27 nov. 2023.\nO fenômeno climático El Niño está associado principalmente:",
+    "enunciado": "Leia o trecho a seguir.\n\nEl Niño atual é um dos mais intensos dos últimos 50 anos.\nDisponível em: <https://metsul.com>. \nAcesso em: 27 nov. 2023.\n\nO fenômeno climático El Niño está associado principalmente:",
     "alternativas": [
       {
         "id": 1,
