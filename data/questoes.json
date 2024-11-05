@@ -4828,5 +4828,291 @@
       }
     ],
     "resposta_correta": 1
+  },
+  {
+    "id": "203",
+    "cargo": "Professor de Informática",
+    "nivel": "Superior",
+    "prova": "Prefeitura Municipal de Mato Leitão - RS",
+    "enunciado": "No fim do mês, realizou-se, numa escola, um encontro com pais e professores para discutir a situação escolar dos filhos. Analisando-se as falas de alguns pais, assinalar aquela que é estruturada a partir de um eufemismo, isto é, foi falada com a intenção de amenizar a situação real:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "\"Minha filha faz tudo, só não sabe de nada!\""
+      },
+      {
+        "id": 2,
+        "texto": "\"As notas baixas são um reflexo da sabedoria das crianças!\""
+      },
+      {
+        "id": 3,
+        "texto": "\"Infelizmente, a nota desses alunos reflete sua limitação estudantil.\""
+      },
+      {
+        "id": 4,
+        "texto": "\"As provas daquele professor são um inferno na terra.\""
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "204",
+    "cargo": "Professor de Informática",
+    "nivel": "Superior",
+    "prova": "Prefeitura Municipal de Mato Leitão - RS",
+    "enunciado": "Considerando a regência de alguns nomes, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n( ) Quando alguma novela faz apologia de assuntos sensíveis, todos a criticam.\n( ) Nem todas vacinas podem ser benéficas das pessoas.\n( ) Atualmente, sou morador de Fortaleza.\n( ) Desde sempre, a escola pública é ávida por melhorias.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "C - C - E - E"
+      },
+      {
+        "id": 2,
+        "texto": "E - E - C - C"
+      },
+      {
+        "id": 3,
+        "texto": "C - E - E - C"
+      },
+      {
+        "id": 4,
+        "texto": "E - C - C - E"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "205",
+    "cargo": "Professor de Informática",
+    "nivel": "Superior",
+    "prova": "Prefeitura Municipal de Mato Leitão - RS",
+    "enunciado": "Transpondo a oração: \"Pedro amava a cidade grande.\" para a voz passiva analítica, obteremos a forma verbal:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Foi amada"
+      },
+      {
+        "id": 2,
+        "texto": "Era amada"
+      },
+      {
+        "id": 3,
+        "texto": "É amada"
+      },
+      {
+        "id": 4,
+        "texto": "Fora amada"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "206",
+    "cargo": "Professor de Informática",
+    "nivel": "Superior",
+    "prova": "Prefeitura Municipal de Mato Leitão - RS",
+    "enunciado": "Assinalar a alternativa em que a palavra sublinhada NÃO está sendo usada no sentido literal:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "\"A mesa mata mais gente do que a guerra.\" (Maistre)"
+      },
+      {
+        "id": 2,
+        "texto": "\"A mosca é o termômetro da higiene.\" (Sofocleto)"
+      },
+      {
+        "id": 3,
+        "texto": "\"O mito é o nada que é tudo.\" (Fernando Pessoa)"
+      },
+      {
+        "id": 4,
+        "texto": "\"O mentiroso deve ter boa memória.\" (Quintiliano)"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "207",
+    "cargo": "Professor de Informática",
+    "nivel": "Superior",
+    "prova": "Prefeitura Municipal de Mato Leitão - RS",
+    "enunciado": "Assinalar a alternativa em que a pontuação está corretamente empregada:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O trabalho, embora não seja excelente, apresenta dados importantes"
+      },
+      {
+        "id": 2,
+        "texto": "O trabalho embora não seja excelente, apresenta, dados importantes"
+      },
+      {
+        "id": 3,
+        "texto": "O trabalho, embora não seja excelente apresenta dados importantes"
+      },
+      {
+        "id": 4,
+        "texto": "O trabalho, embora não seja excelente, apresenta, dados, importantes"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "208",
+    "cargo": "Professor de Informática",
+    "nivel": "Superior",
+    "prova": "Prefeitura Municipal de Mato Leitão - RS",
+    "enunciado": "Analisar o seguinte trecho de uma notícia:\n\"Com aparência rechonchuda e surreal, os tardígrados intrigam pesquisadores há anos. Esse animal de oito patas cuja extensão não ultrapassa um milímetro pode ser encontrado em quase todos os habitats do mundo, e tem uma capacidade insuperável de sobreviver nas situações mais extremas.\"\n(Fonte: G1 — adaptado.)\nSe passarmos a palavra \"animal\" para o plural, quantas outras palavras deverão ser alteradas para que se mantenha a concordância da frase?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "3"
+      },
+      {
+        "id": 2,
+        "texto": "4"
+      },
+      {
+        "id": 3,
+        "texto": "5"
+      },
+      {
+        "id": 4,
+        "texto": "7"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "209",
+    "cargo": "Professor de Informática",
+    "nivel": "Superior",
+    "prova": "Prefeitura Municipal de Mato Leitão - RS",
+    "enunciado": "A inflação baixa, estável e previsível traz inúmeros benefícios para a sociedade, possibilitando o crescimento econômico do Brasil. Adotar as medidas necessárias para atingir a meta de inflação anual é uma atribuição de qual das instituições listadas a seguir?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Banco do Brasil"
+      },
+      {
+        "id": 2,
+        "texto": "Banco Central"
+      },
+      {
+        "id": 3,
+        "texto": "Caixa Econômica Federal"
+      },
+      {
+        "id": 4,
+        "texto": "Agência Nacional de Preços"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "210",
+    "cargo": "Professor de Informática",
+    "nivel": "Superior",
+    "prova": "Prefeitura Municipal de Mato Leitão - RS",
+    "enunciado": "Com base nos conceitos sobre o meio ambiente, é correto afirmar que o Brasil é formado por seis biomas diferentes. O maior bioma existente no Brasil é a(o):",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Caatinga"
+      },
+      {
+        "id": 2,
+        "texto": "Cerrado"
+      },
+      {
+        "id": 3,
+        "texto": "Pampa"
+      },
+      {
+        "id": 4,
+        "texto": "Amazônia"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "211",
+    "cargo": "Professor de Informática",
+    "nivel": "Superior",
+    "prova": "Prefeitura Municipal de Mato Leitão - RS",
+    "enunciado": "Um usuário trabalha com vários aplicativos abertos simultaneamente e precisa de uma rápida velocidade de carregamento de páginas e arquivos. Sendo assim, dos seguintes, qual componente de hardware é essencial para garantir que o computador do usuário mantenha um bom desempenho multitarefas?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Placa de vídeo"
+      },
+      {
+        "id": 2,
+        "texto": "Memória RAM"
+      },
+      {
+        "id": 3,
+        "texto": "Pen drive"
+      },
+      {
+        "id": 4,
+        "texto": "Browser"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "212",
+    "cargo": "Professor de Informática",
+    "nivel": "Superior",
+    "prova": "Prefeitura Municipal de Mato Leitão - RS",
+    "enunciado": "A respeito do Excel 2016, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n( ) A nova pasta de trabalho geralmente começa com uma única planilha, chamada \"Planilha1\".\n( ) O Excel permite que o usuário tenha somente uma única planilha por pasta de trabalho.\n( ) As guias localizadas na parte inferior da janela do Excel permitem que o usuário alterne facilmente entre as diferentes planilhas na mesma pasta de trabalho.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "C - E - E"
+      },
+      {
+        "id": 2,
+        "texto": "E - E - C"
+      },
+      {
+        "id": 3,
+        "texto": "C - E - C"
+      },
+      {
+        "id": 4,
+        "texto": "E - C - E"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "213",
+    "cargo": "Professor de Informática",
+    "nivel": "Superior",
+    "prova": "Prefeitura Municipal de Mato Leitão - RS",
+    "enunciado": "Considerando-se o Word 2016, qual das seguintes formatações NÃO é visualmente representada por marcas na régua?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Tabulação"
+      },
+      {
+        "id": 2,
+        "texto": "Espaçamento entre linhas"
+      },
+      {
+        "id": 3,
+        "texto": "Recuo"
+      },
+      {
+        "id": 4,
+        "texto": "Parágrafo"
+      }
+    ],
+    "resposta_correta": 2
   }
 ]
