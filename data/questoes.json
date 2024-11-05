@@ -3632,5 +3632,577 @@
       }
     ],
     "resposta_correta": 4
+  },
+  {
+    "id": "157",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "O sujeito da oração está corretamente identificado e classificado na alternativa:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "'vinte e três' – sujeito composto"
+      },
+      {
+        "id": 2,
+        "texto": "'O bicho alfabeto' – sujeito simples"
+      },
+      {
+        "id": 3,
+        "texto": "'tem' – sujeito indeterminado"
+      },
+      {
+        "id": 4,
+        "texto": "'ou quase' – sujeito oculto"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "158",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "Na oração 'Dizem que os cariocas somos pouco dados aos jardins públicos', de Machado de Assis, assinale a figura predominante:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Metonímia"
+      },
+      {
+        "id": 2,
+        "texto": "Eufemismo"
+      },
+      {
+        "id": 3,
+        "texto": "Ironia"
+      },
+      {
+        "id": 4,
+        "texto": "Silepse de pessoa"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "159",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "Identifique a alternativa onde ocorre erro de regência verbal:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Esse filme? Assisti ele."
+      },
+      {
+        "id": 2,
+        "texto": "Prefiro estudar a trabalhar."
+      },
+      {
+        "id": 3,
+        "texto": "Simpatizei com aquela pessoa."
+      },
+      {
+        "id": 4,
+        "texto": "O aluno se esqueceu do caderno."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "160",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "Julgue os itens a seguir e assinale a alternativa que NÃO está de acordo com a concordância nominal e verbal.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Eu não sou mais um na multidão capitalista."
+      },
+      {
+        "id": 2,
+        "texto": "Em todas as circunstâncias sou eu quem toma as decisões."
+      },
+      {
+        "id": 3,
+        "texto": "Encontramos caídas as roupas e os prendedores, provavelmente foi o vento."
+      },
+      {
+        "id": 4,
+        "texto": "O acordo não substitui as reivindicação, a não ser que desistamo dos direitos e da luta."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "161",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "Julgue os itens a seguir quanto ao emprego da crase. 1- Os passageiros partirão às dezenove horas. 2- Ele estava à cantar quando seu pai apareceu repentinamente. 3- As informações foram solicitadas à diretora. 4- Entregamos a encomenda àquela menina. A alternativa que apresenta a sequência correta é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "1, 2, 3 estão corretos."
+      },
+      {
+        "id": 2,
+        "texto": "2, 3, 4 estão corretos."
+      },
+      {
+        "id": 3,
+        "texto": "1, 3, 4 estão corretos."
+      },
+      {
+        "id": 4,
+        "texto": "2, 1, 4 estão corretos."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "162",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "Com quatro palitos de tamanhos iguais forma-se um quadrado de área A e perímetro P. Sabendo que A-P = -4, então cada palito mede:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "2"
+      },
+      {
+        "id": 2,
+        "texto": "4"
+      },
+      {
+        "id": 3,
+        "texto": "6"
+      },
+      {
+        "id": 4,
+        "texto": "8"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "163",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "Sabe-se que a carga máxima que pode ser transportada por um caminhão é igual à 50 sacos de cimento ou 75 sacos de argamassa. Se neste caminhão, já foram colocados 32 sacos de cimento, para atingir a carga máxima do caminhão, ainda podem ser colocados quantos sacos de argamassa?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "25"
+      },
+      {
+        "id": 2,
+        "texto": "26"
+      },
+      {
+        "id": 3,
+        "texto": "27"
+      },
+      {
+        "id": 4,
+        "texto": "28"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "164",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "Um quadro foi vendido por R$ 880,00, dado que o lucro obtido na venda foi de 25% sobre o valor de custo, então podemos afirmar que o valor de custo do quadro foi igual à:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "R$ 604,10"
+      },
+      {
+        "id": 2,
+        "texto": "R$ 704,00"
+      },
+      {
+        "id": 3,
+        "texto": "R$ 804,20"
+      },
+      {
+        "id": 4,
+        "texto": "R$ 904,00"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "165",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "No alto de uma torre de transmissão de rádio, duas luzes 'piscam' com frequências diferentes. A primeira luz pisca 12 vezes por minuto e a segunda pisca 16 vezes por minuto. Se em um dado momento as duas luzes piscam simultaneamente, então, elas voltarão a piscar simultaneamente após:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "0,8 horas"
+      },
+      {
+        "id": 2,
+        "texto": "1 minuto"
+      },
+      {
+        "id": 3,
+        "texto": "10 horas"
+      },
+      {
+        "id": 4,
+        "texto": "14 segundos"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "166",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "Usando seis dos algarismos 1, 2, 3, 4, 5, 6 e 7 sem repeti-los, a quantidade de números pares que podem ser formados é igual à:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "840"
+      },
+      {
+        "id": 2,
+        "texto": "960"
+      },
+      {
+        "id": 3,
+        "texto": "2160"
+      },
+      {
+        "id": 4,
+        "texto": "2520"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "167",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "A quantidade de múltiplos de 4 que existem entre 100 e 1000 é igual à:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "200"
+      },
+      {
+        "id": 2,
+        "texto": "224"
+      },
+      {
+        "id": 3,
+        "texto": "244"
+      },
+      {
+        "id": 4,
+        "texto": "264"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "168",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "Três rolos de fio medindo respectivamente 40 m, 50 m e 170 m, foram cortados em pedaços iguais e com maior tamanho possível, sem deixar sobras. Nessas condições o número de pedaços obtidos e o tamanho de cada um deles serão, respectivamente, iguais à:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "20 pedaços com 10 metros"
+      },
+      {
+        "id": 2,
+        "texto": "22 pedaços com 12 metros"
+      },
+      {
+        "id": 3,
+        "texto": "26 pedaços com 10 metros"
+      },
+      {
+        "id": 4,
+        "texto": "10 pedaços com 26 metros"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "169",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "Um menino de 1,50 m de altura observa em um dia ensolarado, a sombra de uma árvore e a sua própria sombra. Não dispondo de fita métrica ou de trena, ele toma uma corda, mede sua sombra e a compara com a da árvore, verificando esta ser 12 vezes maior que a sua. Nessas condições a altura da árvore é igual à:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "18 m"
+      },
+      {
+        "id": 2,
+        "texto": "20 m"
+      },
+      {
+        "id": 3,
+        "texto": "22 m"
+      },
+      {
+        "id": 4,
+        "texto": "24 m"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "170",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "Redação Oficial é a maneira pela qual o poder Público redige atos normativos e comunicações. Sendo assim, assinale a alternativa que contemple um dos atributos exigidos na redação oficial.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Informalidade"
+      },
+      {
+        "id": 2,
+        "texto": "O formato irregular"
+      },
+      {
+        "id": 3,
+        "texto": "Concisão"
+      },
+      {
+        "id": 4,
+        "texto": "Diversificação"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "171",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "Assinale a alternativa que contemple a correta definição de Arquivo.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "É o conjunto de material, em sua maioria impresso, disposto ordenadamente para estudo, pesquisa e consulta."
+      },
+      {
+        "id": 2,
+        "texto": "É a acumulação ordenada de documentos criados por uma instituição ou pessoa, preservados para a consecução de seus objetivos."
+      },
+      {
+        "id": 3,
+        "texto": "É uma instituição de interesse público, criada com a finalidade de conservar, estudar e colocar à disposição do público conjuntos de peças e objetos de valor cultural."
+      },
+      {
+        "id": 4,
+        "texto": "Serviço responsável pela centralização de documentos e disseminação de informações."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "172",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "De acordo com os elementos dos atos administrativos, assinale a alternativa que preencha corretamente a lacuna abaixo. O elemento __________ é o conteúdo do ato; é a própria alteração na ordem jurídica; é aquilo de que o ato dispõe.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "objeto"
+      },
+      {
+        "id": 2,
+        "texto": "motivo"
+      },
+      {
+        "id": 3,
+        "texto": "competência"
+      },
+      {
+        "id": 4,
+        "texto": "finalidade"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "173",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "O Poder de Polícia trata-se de atividade estatal que limita o exercício dos direitos individuais em prol do interesse coletivo. Assinale a alternativa que contemple corretamente as características (atributos) do Poder de Polícia:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Discricionariedade, Exigibilidade, Executoriedade, Coercibilidade, Indegabilidade."
+      },
+      {
+        "id": 2,
+        "texto": "Vinculariedade, Exigibilidade, Variabilidade, Executoriedade e Coercibilidade."
+      },
+      {
+        "id": 3,
+        "texto": "Discricionariedade, Variabilidade, Autoexecutoriedade, Coercibilidade, Atividade Positiva."
+      },
+      {
+        "id": 4,
+        "texto": "Vinculariedade, Discricionariedade, Autoexecutoriedade, Coercibilidade, Indelegabilidade."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "174",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "Assinale a alternativa que trata do Princípio da Publicidade:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Este é o principal conceito para a configuração do regime jurídico-administrativo, pois se justifica no sentido de que a Administração Pública só poderá ser exercida quando estiver em conformidade com a Lei."
+      },
+      {
+        "id": 2,
+        "texto": "Por este principio constitucional, temos que a administração tem o dever de oferecer transparência de todos os atos que praticar, e de todas as informações que estejam armazenadas em seus bancos de dados referentes aos administrados."
+      },
+      {
+        "id": 3,
+        "texto": "Por tal princípio temos que a Administração Pública tem que manter uma posição de neutralidade em relação aos seus administrados, não podendo prejudicar nem mesmo privilegiar quem quer que seja. Dessa forma a Administração pública deve servir a todos, sem distinção ou aversões pessoais ou partidárias, buscando sempre atender ao interesse público."
+      },
+      {
+        "id": 4,
+        "texto": "Trata de obedecer não somente a lei jurídica mas também a lei ética da própria instituição, ou seja, o administrador público precisa seguir alguns padrões éticos. Possuem pressupostos que, quando não seguidos, tornam a atividade pública ilegítima."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "175",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "O Executivo, Legislativo e o Judiciário são considerados:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Poderes Estatais"
+      },
+      {
+        "id": 2,
+        "texto": "Poderes Governamentais"
+      },
+      {
+        "id": 3,
+        "texto": "Poderes da União"
+      },
+      {
+        "id": 4,
+        "texto": "Órgãos da Administração Pública"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "176",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "Os Recursos Materiais são aqueles que:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "constituem todos os aspectos relacionados com o dinheiro utilizado pela empresa para financiar suas operações;"
+      },
+      {
+        "id": 2,
+        "texto": "constituem toda forma de atividade humana dentro da empresa;"
+      },
+      {
+        "id": 3,
+        "texto": "constituem toda atividade voltada para o atendimento do mercado de clientes e consumidores da empresa;"
+      },
+      {
+        "id": 4,
+        "texto": "refere-se aos elementos físicos empregados por uma organização e concorre para a constituição de seu produto final, que poderá ser um material processado ou serviço."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "177",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "Ao pressionar as teclas CTRL + B no Microsoft Word 2010, o que ocorre?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Salva o documento."
+      },
+      {
+        "id": 2,
+        "texto": "Copia parte do texto."
+      },
+      {
+        "id": 3,
+        "texto": "Negrita o texto selecionado."
+      },
+      {
+        "id": 4,
+        "texto": "Altera background."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "178",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "enunciado": "Em relação a arquivos e pastas no sistema operacional Windows é correto afirmar:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a extensão da Pasta no Windows é .EXE"
+      },
+      {
+        "id": 2,
+        "texto": "arquivos com extensão .xlsx são próprio do Power Point"
+      },
+      {
+        "id": 3,
+        "texto": "a estrutura de uma Pasta pode ser composta com Pastas e Subpastas"
+      },
+      {
+        "id": 4,
+        "texto": "arquivos com extensão .docx podem ser abertos pelo software PAINT"
+      }
+    ],
+    "resposta_correta": 3
   }
 ]
