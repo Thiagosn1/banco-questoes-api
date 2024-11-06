@@ -862,7 +862,7 @@
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Câmara Municipal de Alexânia-GO",
-    "enunciado": "Assinale corretamente o significado de “protocolar um documento”.",
+    "enunciado": "Assinale corretamente o significado de **protocolar um documento**.",
     "alternativas": [
       {
         "id": 1,
@@ -2771,7 +2771,7 @@
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Prefeitura Municipal de Abadiânia - GO",
-    "enunciado": "Entendo o que você diz, apenas não me importo. Na frase, podemos dizer que o sujeito é:",
+    "enunciado": "Entendo o que você diz, apenas não me importo. \n\nNa frase, podemos dizer que o sujeito é:",
     "alternativas": [
       { "id": 1, "texto": "Oculto" },
       { "id": 2, "texto": "Simples" },
@@ -2925,7 +2925,7 @@
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Prefeitura Municipal de Abadiânia - GO",
-    "enunciado": "O que é verdadeiro sobre a função administrativa de 'Dirigir':",
+    "enunciado": "O que é verdadeiro sobre a função administrativa de **Dirigir**:",
     "alternativas": [
       {
         "id": 1,
@@ -3406,7 +3406,7 @@
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Prefeitura Municipal de Campo Alegre de Goiás - GO",
-    "enunciado": "Sobre papéis do controle na administração, leia as afirmações a seguir: \n\n1. Limitar a autonomia dos funcionários. \n2. Acompanhar a frequência dos funcionários. \n3. Acompanhar as variações no desempenho organizacional. \n4. Avaliar se os objetivos estão sendo alcançados. \n5. Desencorajar a inovação e a criatividade. Quais estão corretas?",
+    "enunciado": "Sobre papéis do controle na administração, leia as afirmações a seguir: \n\n1. Limitar a autonomia dos funcionários. \n2. Acompanhar a frequência dos funcionários. \n3. Acompanhar as variações no desempenho organizacional. \n4. Avaliar se os objetivos estão sendo alcançados. \n5. Desencorajar a inovação e a criatividade. \n\nQuais estão corretas?",
     "alternativas": [
       { "id": 1, "texto": "1 e 2." },
       { "id": 2, "texto": "1, 2 e 3." },
@@ -3688,7 +3688,7 @@
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Prefeitura Municipal de Edéia - GO",
-    "enunciado": "Na oração 'Dizem que os cariocas somos pouco dados aos jardins públicos', de Machado de Assis, assinale a figura predominante:",
+    "enunciado": "Na oração **Dizem que os cariocas somos pouco dados aos jardins públicos**, de Machado de Assis, assinale a figura predominante:",
     "alternativas": [
       {
         "id": 1,
@@ -3766,7 +3766,7 @@
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Prefeitura Municipal de Edéia - GO",
-    "enunciado": "Julgue os itens a seguir quanto ao emprego da crase. \n\n1- Os passageiros partirão às dezenove horas. \n2- Ele estava à cantar quando seu pai apareceu repentinamente. \n3- As informações foram solicitadas à diretora. \n4- Entregamos a encomenda àquela menina. A alternativa que apresenta a sequência correta é:",
+    "enunciado": "Julgue os itens a seguir quanto ao emprego da crase. \n\n1- Os passageiros partirão às dezenove horas. \n2- Ele estava à cantar quando seu pai apareceu repentinamente. \n3- As informações foram solicitadas à diretora. \n4- Entregamos a encomenda àquela menina. \n\nA alternativa que apresenta a sequência correta é:",
     "alternativas": [
       {
         "id": 1,
@@ -4650,7 +4650,7 @@
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
-    "enunciado": "Leia o texto a seguir.\nCaracteriza-se como sendo o processo racional para tomada de decisão, a fim de selecionar e implementar um conjunto de ações que possibilitarão a partir de uma situação atual, alcançar uma situação futura desejada.\nTal afirmativa refere-se:",
+    "enunciado": "Leia o texto a seguir.\n\nCaracteriza-se como sendo o processo racional para tomada de decisão, a fim de selecionar e implementar um conjunto de ações que possibilitarão a partir de uma situação atual, alcançar uma situação futura desejada.\nTal afirmativa refere-se:",
     "alternativas": [
       {
         "id": 1,
@@ -4728,7 +4728,7 @@
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Prefeitura Municipal de Santa Helena de Goiás - GO",
-    "enunciado": "Leia o texto a seguir.\nOs políticos devem estar permanentemente prestando contas aos cidadãos. Quanto mais clara for a responsabilização do político perante os cidadãos e a cobrança destes em relação ao governante, mais democrático será o regime.\nBRESSER PEREIRA, Luiz Carlos. A reforma do Estado dos anos 90: lógica e mecanismos de controle. Lua Nova: Revista de cultura e política, p. 49-95, 1998.\nAs características mencionadas referem-se ao conceito de:",
+    "enunciado": "Leia o texto a seguir.\n\nOs políticos devem estar permanentemente prestando contas aos cidadãos. Quanto mais clara for a responsabilização do político perante os cidadãos e a cobrança destes em relação ao governante, mais democrático será o regime.\n\nAs características mencionadas referem-se ao conceito de:",
     "alternativas": [
       {
         "id": 1,
