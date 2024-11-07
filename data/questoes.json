@@ -4,24 +4,12 @@
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Câmara Municipal de Alexânia-GO",
-    "enunciado": "Segundo o texto, qual é a principal emoção do narrador ao ver a criatura no trecho do texto?",
+    "enunciado": "“Vi abrir-se o olho amarelo sem brilho da criatura. Ela respirava com dificuldade, e um movimento convulsivo agitava seus membros. Como posso descrever minhas emoções ante aquela catástrofe, como rescrever aquela ruína que eu, com esforço infinito e zelo, havia tentado formar? Seus membros eram bem proporcionados, e eu havia escolhido e trabalhado suas feições para que fossem belas. Belas! Meu Deus! Sua pele amarela mal cobria o relevo dos músculos e das artérias que jaziam por baixo; seus cabelos eram corridos e de um negro lustroso; seus dentes, alvos como pérola. Todas essas exuberâncias, porém, não formavam senão um contraste horrível com seus olhos desmaiados, quase da mesma cor acinzentada das órbitas onde se cravavam, e com a pele encarquilhada e os lábios negros e retos.” \n\n(Mary Shelley, no livro “Frankstein (ou o Prometeu Moderno)\n\nSegundo o texto, qual é a principal emoção do narrador ao ver a criatura no trecho do texto?",
     "alternativas": [
-      {
-        "id": 1,
-        "texto": "Alegria e satisfação com o sucesso do experimento"
-      },
-      {
-        "id": 2,
-        "texto": "Medo e horror diante da aparência da criatura"
-      },
-      {
-        "id": 3,
-        "texto": "Indiferença em relação à criatura que criou"
-      },
-      {
-        "id": 4,
-        "texto": "Orgulho por ter conseguido dar vida à criatura"
-      }
+      { "id": 1, "texto": "Alegria e satisfação com o sucesso do experimento" },
+      { "id": 2, "texto": "Medo e horror diante da aparência da criatura" },
+      { "id": 3, "texto": "Indiferença em relação à criatura que criou" },
+      { "id": 4, "texto": "Orgulho por ter conseguido dar vida à criatura" }
     ],
     "resposta_correta": 2
   },
@@ -32,22 +20,10 @@
     "prova": "Câmara Municipal de Alexânia-GO",
     "enunciado": "Ainda tendo como base o texto acima, qual das características da criatura descritas no texto contribui mais para o contraste horrível mencionado pelo narrador?",
     "alternativas": [
-      {
-        "id": 1,
-        "texto": "Seus dentes, alvos como pérola"
-      },
-      {
-        "id": 2,
-        "texto": "Seus cabelos corridos e de um negro lustroso"
-      },
-      {
-        "id": 3,
-        "texto": "Sua pele amarela que mal cobria os músculos"
-      },
-      {
-        "id": 4,
-        "texto": "Seus membros bem proporcionados"
-      }
+      { "id": 1, "texto": "Seus dentes, alvos como pérola" },
+      { "id": 2, "texto": "Seus cabelos corridos e de um negro lustroso" },
+      { "id": 3, "texto": "Sua pele amarela que mal cobria os músculos" },
+      { "id": 4, "texto": "Seus membros bem proporcionados" }
     ],
     "resposta_correta": 3
   },
@@ -56,20 +32,14 @@
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Câmara Municipal de Alexânia-GO",
-    "enunciado": "Qual dos temas abaixo não é abordado na música **Fuá na casa de Cabral** de Hélder Vasconcelos?",
+    "enunciado": "**Fuá na casa de Cabral**\n\nNaquele Brasil antigo\nPerdido no desengano\nSeu Cabral chegou nadando\nE não preocupou com nada\nDeu ordem a rapaziada\nMandou varrer o terreiro\nMe chame o pai do chiqueiro\nQue hoje eu quero forró\nToré, samba, catimbó\nQue eu já virei brasileiro\nFoi gente de todo tipo\nNa festa de seu Cabral\nPortuguês de Portugal\nRaceado no Oriente\nNegão bebeu aguardente\nCaboclo foi na Jurema\nSeu Cabral pediu um tema\nDanou-se a cantar poesia\nAté amanhecer o dia numa viola pequena\nNo fim da festa e da farra\nCabral não sentiu preguiça\nMandou logo rezar a missa pra ficar aliviado\nChamando o padre apressado\nMandou começar ligeiro\nBotando ordem no terreiro\nCom seu maracá na mão\nJurando pelo alcorão que era crente verdadeiro\nMas na hora da verdade\nQuando passou a cachaça\nSeu Cabral sentou na praça\nCaiu na reflexão\nDisse: Esta situação\nSei que nunca mais resolvo\nEntão falou para o povo\nJuro que me arrependi\nO Brasil que eu descobri\nQueria cobrir de novo. \n\n(Hélder Vasconcelos, Música de Mombojó)\n\nQual dos temas abaixo não é abordado na música **Fuá na casa de Cabral** de Hélder Vasconcelos?",
     "alternativas": [
       {
         "id": 1,
         "texto": "A chegada de Cabral ao Brasil e a celebração que se seguiu"
       },
-      {
-        "id": 2,
-        "texto": "A influência da religião no Brasil colonial"
-      },
-      {
-        "id": 3,
-        "texto": "A importância da miscigenação no Brasil moderno"
-      },
+      { "id": 2, "texto": "A influência da religião no Brasil colonial" },
+      { "id": 3, "texto": "A importância da miscigenação no Brasil moderno" },
       {
         "id": 4,
         "texto": "A reflexão de Cabral sobre as consequências de sua chegada ao Brasil"
@@ -82,24 +52,12 @@
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Câmara Municipal de Alexânia-GO",
-    "enunciado": "Na música, qual a emoção de Cabral no fim da festa?",
+    "enunciado": "Na música **Fuá na casa de Cabral**, qual a emoção de Cabral no fim da festa?",
     "alternativas": [
-      {
-        "id": 1,
-        "texto": "Alegria"
-      },
-      {
-        "id": 2,
-        "texto": "Pesar"
-      },
-      {
-        "id": 3,
-        "texto": "Empolgação"
-      },
-      {
-        "id": 4,
-        "texto": "Cansaço"
-      }
+      { "id": 1, "texto": "Alegria" },
+      { "id": 2, "texto": "Pesar" },
+      { "id": 3, "texto": "Empolgação" },
+      { "id": 4, "texto": "Cansaço" }
     ],
     "resposta_correta": 2
   },
@@ -108,24 +66,12 @@
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Câmara Municipal de Alexânia-GO",
-    "enunciado": "Na música \"Fuá na casa de Cabral\", qual elemento cultural é mencionado para mostrar a diversidade presente na festa?",
+    "enunciado": "Na música **Fuá na casa de Cabral**, qual elemento cultural é mencionado para mostrar a diversidade presente na festa?",
     "alternativas": [
-      {
-        "id": 1,
-        "texto": "O uso do maracá na missa"
-      },
-      {
-        "id": 2,
-        "texto": "A mistura de diferentes bebidas alcoólicas"
-      },
-      {
-        "id": 3,
-        "texto": "A presença de poesia e cantoria até o amanhecer"
-      },
-      {
-        "id": 4,
-        "texto": "A dança e a música típicas do Oriente"
-      }
+      { "id": 1, "texto": "O uso do maracá na missa" },
+      { "id": 2, "texto": "A mistura de diferentes bebidas alcoólicas" },
+      { "id": 3, "texto": "A presença de poesia e cantoria até o amanhecer" },
+      { "id": 4, "texto": "A dança e a música típicas do Oriente" }
     ],
     "resposta_correta": 1
   },
@@ -2266,7 +2212,7 @@
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Câmara Municipal de Araguapaz - GO",
-    "enunciado": "Qual das seguintes afirmativas sobre o \"papo\", também chamado de bócio endêmico, em Goiás é correta?",
+    "enunciado": "O “papo” era muito comum na Capitania/Província de Goiás no século XIX, conforme registros dos cientistas-viajantes Pohl e Saint Hilaire e também do militar português Cunha Mattos. No início do século XX, ainda eram comuns os “papudos” em várias regiões do Estado de Goiás, presente nos registros dos médicos sanitaristas Belisário Penna e Arthur Neiva, de 1910 e do Frei Audrin (1963).\n\nQual das seguintes afirmativas sobre o **papo**, também chamado de bócio endêmico, em Goiás é correta?",
     "alternativas": [
       {
         "id": 1,
@@ -2287,12 +2233,13 @@
     ],
     "resposta_correta": 2
   },
+
   {
     "id": "91",
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Câmara Municipal de Araguapaz - GO",
-    "enunciado": "Sobre a problemática do desmatamento no Cerrado, assinale a alternativa correta.",
+    "enunciado": "“O desmatamento no Cerrado aumentou pelo quarto ano seguido e o governo federal anunciou um plano de preservação do bioma. É o quarto ano consecutivo de aumento da derrubada de vegetação nativa, (...). O pior resultado se concentra na área que os técnicos chamam de Matopiba, que abrange parte dos estados de Maranhão, Tocantins, Piauí e Bahia. Juntos, concentram 75% da área desmatada. Só a Bahia teve um aumento de 38% no período. Goiás e Mato Grosso tiveram as maiores quedas: 18% cada.”\n(adaptado de: https://g1.globo.com/jornal-nacional/noticia/2023/11/28/governo-federal-anunciaplano-de-preservacao-do-cerrado-apos-desmatamento-do-bioma-aumentar-pelo-4o-ano-seguido.ghtml. Data de acesso: 29/11/2023).\n\nSobre a problemática do desmatamento no Cerrado, assinale a alternativa correta.",
     "alternativas": [
       {
         "id": 1,
@@ -2318,33 +2265,7 @@
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Câmara Municipal de Araguapaz - GO",
-    "enunciado": "Quais as consequências da União Ibérica para o Brasil?",
-    "alternativas": [
-      {
-        "id": 1,
-        "texto": "A União Ibérica não fortaleceu a economia brasileira; pelo contrário, resultou em um aumento significativo na produção açucareira."
-      },
-      {
-        "id": 2,
-        "texto": "As relações comerciais entre Brasil e Espanha não foram beneficiadas; ao contrário, houve um enfraquecimento que prejudicou a estabilidade econômica na colônia."
-      },
-      {
-        "id": 3,
-        "texto": "O Brasil sofreu com as invasões holandesas, pois a União Ibérica enfraqueceu a posição de Portugal no cenário internacional, abrindo espaço para a ocupação holandesa."
-      },
-      {
-        "id": 4,
-        "texto": "A União Ibérica teve impactos significativos no Brasil; as relações coloniais foram alteradas durante esse período, especialmente devido às invasões holandesas."
-      }
-    ],
-    "resposta_correta": 3
-  },
-  {
-    "id": "92",
-    "cargo": "Assistente Administrativo",
-    "nivel": "Médio",
-    "prova": "Câmara Municipal de Araguapaz - GO",
-    "enunciado": "Quais as consequências da União Ibérica para o Brasil?",
+    "enunciado": "A União Ibérica, que ocorreu entre 1580 e 1640, representou a unificação dos reinos de Espanha e Portugal. Este período foi marcado pelo domínio espanhol sobre o reino português, motivado pela morte de Dom Sebastião na Batalha de Alcácer-Quibir e pela ausência de herdeiros diretos ao trono português. Dom Henrique, tio-avô de Dom Sebastião, assumiu como o novo rei de Portugal, mas faleceu dois anos depois, sem deixar sucessores. Alegando parentesco com Dom Sebastião, o rei da Espanha, Dom Filipe II, ascendeu ao trono português, incorporando Portugal ao território espanhol.\n\nQuais as consequências da União Ibérica para o Brasil?",
     "alternativas": [
       {
         "id": 1,
@@ -2508,18 +2429,18 @@
       },
       {
         "id": 2,
-        "texto": "As afirmativas II e IV estão corretas."
+        "texto": "As afirmativas I, II e IV estão corretas."
       },
       {
         "id": 3,
-        "texto": "Todas as afirmativas estão corretas."
+        "texto": "As afirmativas II e IV estão corretas."
       },
       {
         "id": 4,
-        "texto": "Apenas as afirmativas I e IV estão corretas."
+        "texto": "Todas as afirmativas estão corretas."
       }
     ],
-    "resposta_correta": 3
+    "resposta_correta": 2
   },
   {
     "id": "99",
@@ -5138,5 +5059,194 @@
       }
     ],
     "resposta_correta": 2
+  },
+  {
+    "id": "214",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Araguapaz - GO",
+    "enunciado": "Tamanho do agronegócio na economia brasileira ajuda a explicar desempenho do PIB\nPor Jornal Nacional, 05/12/2023 21h15\n\nCom a supersafra do começo de 2023, a agropecuária carregou um crescimento de 12,5% no primeiro trimestre. Nos três meses seguintes, ainda houve espaço para mais 0,5% de alta.\nNo interior do país, o produtor rural segue o tempo da terra, que só em setembro desperta para o plantio. E a plantação cresce sem saber que dá ritmo à atividade econômica. Na cidade grande, uma massa de trabalhadores diminuiu o passo. Negócios estacionaram e comerciantes empataram as contas no terceiro trimestre do ano.\nPode-se observar que com a supersafra do começo de 2023, a agropecuária carregou um crescimento de 12,5% no primeiro trimestre. Nos três meses seguintes, ainda houve espaço para mais 0,5% de alta. Com a entresafra, o setor tinha pouco a entregar: queda de 3,3% no terceiro trimestre.\nExiste um grande mercado no Brasil - com representantes da indústria e dos serviços - que vive do dinamismo e dos frutos da agropecuária. É o chamado agronegócio, que passou de 18,6% a 24,3% do Produto Interno Bruto nos últimos dez anos.\nÉ por isso que quando é época de entressafra no campo, a economia também colhe pouco resultado. Ser forte na produção de alimentos é uma vantagem competitiva, mas não colocar todos os ovos na mesma cesta, seria ainda melhor na máxima dos economistas.\n“É importante a gente pensar que essa vantagem competitiva foi construída ao longo do tempo com pesquisa agrícola, com todo setor de inovação ali de sementes, plantio, técnicas agronômicas. Então, muito mais uma história de sucesso, uma construção e fortalecimento de uma vantagem competitiva que os outros setores não conseguiram construir. Isso que reflete esse diferencial de competitividade”, afirma André Diz, pesquisador da FGV Agro.\nSe a potência é o solo, a ameaça é a mudança climática. “Na Argentina, o efeito climático foi catastrófico esse ano e esse é um risco crescente para o Brasil. O Brasil precisa entrar, como está entrando, com força nessa discussão de mudança climática até por ameaça ao seu próprio negócio, porque as mudanças climáticas representam um risco considerável para o agronegócio brasileiro”, diz Paulo Gala, economista-chefe do Banco Master.\nUm desafio desse tamanho, o produtor rural não vence sozinho. “A parte da gente, a gente tem que fazer o mais assertivo possível e bem feito. Só que o clima a gente não controla”, diz o produtor rural Sidney Flach.\n\nO texto apresenta uma reportagem sobre o desempenho do agronegócio em 2023. Com base nas informações apresentadas, assinale a alternativa que corretamente explicita o impacto da entressafra no setor agropecuário.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A entressafra impulsiona o setor agropecuário, resultando em um aumento significativo no terceiro trimestre."
+      },
+      {
+        "id": 2,
+        "texto": "Durante a entressafra, o setor agropecuário enfrenta uma queda de 3,3% no terceiro trimestre."
+      },
+      {
+        "id": 3,
+        "texto": "A entressafra não tem impacto no setor agropecuário, que mantém um crescimento constante."
+      },
+      {
+        "id": 4,
+        "texto": "O texto não fornece informações sobre o impacto da entressafra no setor agropecuário."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "215",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Araguapaz - GO",
+    "enunciado": "De acordo com o texto anterior, qual é a relação entre a atividade econômica na cidade e a temporada agrícola no interior do país?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A atividade econômica na cidade cresce proporcionalmente à temporada agrícola no interior."
+      },
+      {
+        "id": 2,
+        "texto": "Enquanto a temporada agrícola no interior impulsiona o crescimento econômico, a atividade na cidade diminui."
+      },
+      {
+        "id": 3,
+        "texto": "Não há nenhuma relação entre a atividade econômica na cidade e a temporada agrícola no interior."
+      },
+      {
+        "id": 4,
+        "texto": "A atividade econômica na cidade e no interior segue o mesmo ritmo durante todo o ano."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "216",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Araguapaz - GO",
+    "enunciado": "Quanto à funcionalidade discursiva, o trecho 'No interior do país, o produtor rural segue o tempo da terra, que só em setembro desperta para o plantio' pode ser classificado como:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Argumentativo, ao defender o valor de o produtor rural seguir o tempo da terra."
+      },
+      {
+        "id": 2,
+        "texto": "Descritivo, pois descreve um cenário rural e a relação do produtor e o tempo."
+      },
+      {
+        "id": 3,
+        "texto": "Informativo, pois fornece dados gerais sobre a atividade do produtor rural."
+      },
+      {
+        "id": 4,
+        "texto": "Narrativo, ao contar uma história sobre o produtor rural e o plantio diário."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "217",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Araguapaz - GO",
+    "enunciado": "Tamanho do agronegócio na economia brasileira ajuda a explicar desempenho do PIB\nPor Jornal Nacional, 05/12/2023 21h15\n\nCom a supersafra do começo de 2023, a agropecuária carregou um crescimento de 12,5% no primeiro trimestre. Nos três meses seguintes, ainda houve espaço para mais 0,5% de alta.\nNo interior do país, o produtor rural segue o tempo da terra, que só em setembro desperta para o plantio. E a plantação cresce sem saber que dá ritmo à atividade econômica. Na cidade grande, uma massa de trabalhadores diminuiu o passo. Negócios estacionaram e comerciantes empataram as contas no terceiro trimestre do ano.\nPode-se observar que com a supersafra do começo de 2023, a agropecuária carregou um crescimento de 12,5% no primeiro trimestre. Nos três meses seguintes, ainda houve espaço para mais 0,5% de alta. Com a entresafra, o setor tinha pouco a entregar: queda de 3,3% no terceiro trimestre.\nExiste um grande mercado no Brasil - com representantes da indústria e dos serviços - que vive do dinamismo e dos frutos da agropecuária. É o chamado agronegócio, que passou de 18,6% a 24,3% do Produto Interno Bruto nos últimos dez anos.\nÉ por isso que quando é época de entressafra no campo, a economia também colhe pouco resultado. Ser forte na produção de alimentos é uma vantagem competitiva, mas não colocar todos os ovos na mesma cesta, seria ainda melhor na máxima dos economistas.\n“É importante a gente pensar que essa vantagem competitiva foi construída ao longo do tempo com pesquisa agrícola, com todo setor de inovação ali de sementes, plantio, técnicas agronômicas. Então, muito mais uma história de sucesso, uma construção e fortalecimento de uma vantagem competitiva que os outros setores não conseguiram construir. Isso que reflete esse diferencial de competitividade”, afirma André Diz, pesquisador da FGV Agro.\nSe a potência é o solo, a ameaça é a mudança climática. “Na Argentina, o efeito climático foi catastrófico esse ano e esse é um risco crescente para o Brasil. O Brasil precisa entrar, como está entrando, com força nessa discussão de mudança climática até por ameaça ao seu próprio negócio, porque as mudanças climáticas representam um risco considerável para o agronegócio brasileiro”, diz Paulo Gala, economista-chefe do Banco Master.\nUm desafio desse tamanho, o produtor rural não vence sozinho. “A parte da gente, a gente tem que fazer o mais assertivo possível e bem feito. Só que o clima a gente não controla”, diz o produtor rural Sidney Flach.\n\nConsiderando o uso de pronomes para a progressão textual, na oração 'É por isso que quando é época de entressafra no campo, a economia também colhe pouco resultado.', a que termo o pronome **isso** se refere?",
+    "alternativas": [
+      { "id": 1, "texto": "Ao crescimento da agropecuária." },
+      { "id": 2, "texto": "À época de entressafra no campo." },
+      { "id": 3, "texto": "Ao dinamismo e aos frutos da agropecuária." },
+      { "id": 4, "texto": "Ao agronegócio como um todo." }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "218",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Araguapaz - GO",
+    "enunciado": "Observa-se uma retomada pronominal na seguinte passagem do texto: 'Um desafio desse tamanho, o produtor rural não vence sozinho.'. Assinale a alternativa que melhor apresenta a função dessa retomada feita pelo autor.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Reforçar a ideia de que todo desafio grande, requer esforço coletivo."
+      },
+      {
+        "id": 2,
+        "texto": "Fazer referência à magnitude das mudanças climáticas discutidas anteriormente."
+      },
+      {
+        "id": 3,
+        "texto": "Indicar que o desafio mencionado está relacionado ao tamanho do produtor rural."
+      },
+      {
+        "id": 4,
+        "texto": "Sugerir que o tamanho do desafio enfrentado pelo produtor rural é desconhecido."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "219",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Araguapaz - GO",
+    "enunciado": "Qual é a relação sintática estabelecida pela conjunção 'Se' na frase 'Se a potência é o solo, a ameaça é a mudança climática.'?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Estabelece uma condição para a afirmação seguinte."
+      },
+      { "id": 2, "texto": "Introduz uma explicação para o termo anterior." },
+      { "id": 3, "texto": "Conecta termos de mesma função na oração." },
+      { "id": 4, "texto": "Indica uma oposição entre os termos." }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "220",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Araguapaz - GO",
+    "enunciado": "Tamanho do agronegócio na economia brasileira ajuda a explicar desempenho do PIB\nPor Jornal Nacional, 05/12/2023 21h15\n\nCom a supersafra do começo de 2023, a agropecuária carregou um crescimento de 12,5% no primeiro trimestre. Nos três meses seguintes, ainda houve espaço para mais 0,5% de alta.\nNo interior do país, o produtor rural segue o tempo da terra, que só em setembro desperta para o plantio. E a plantação cresce sem saber que dá ritmo à atividade econômica. Na cidade grande, uma massa de trabalhadores diminuiu o passo. Negócios estacionaram e comerciantes empataram as contas no terceiro trimestre do ano.\nPode-se observar que com a supersafra do começo de 2023, a agropecuária carregou um crescimento de 12,5% no primeiro trimestre. Nos três meses seguintes, ainda houve espaço para mais 0,5% de alta. Com a entresafra, o setor tinha pouco a entregar: queda de 3,3% no terceiro trimestre.\nExiste um grande mercado no Brasil - com representantes da indústria e dos serviços - que vive do dinamismo e dos frutos da agropecuária. É o chamado agronegócio, que passou de 18,6% a 24,3% do Produto Interno Bruto nos últimos dez anos.\nÉ por isso que quando é época de entressafra no campo, a economia também colhe pouco resultado. Ser forte na produção de alimentos é uma vantagem competitiva, mas não colocar todos os ovos na mesma cesta, seria ainda melhor na máxima dos economistas.\n“É importante a gente pensar que essa vantagem competitiva foi construída ao longo do tempo com pesquisa agrícola, com todo setor de inovação ali de sementes, plantio, técnicas agronômicas. Então, muito mais uma história de sucesso, uma construção e fortalecimento de uma vantagem competitiva que os outros setores não conseguiram construir. Isso que reflete esse diferencial de competitividade”, afirma André Diz, pesquisador da FGV Agro.\nSe a potência é o solo, a ameaça é a mudança climática. “Na Argentina, o efeito climático foi catastrófico esse ano e esse é um risco crescente para o Brasil. O Brasil precisa entrar, como está entrando, com força nessa discussão de mudança climática até por ameaça ao seu próprio negócio, porque as mudanças climáticas representam um risco considerável para o agronegócio brasileiro”, diz Paulo Gala, economista-chefe do Banco Master.\nUm desafio desse tamanho, o produtor rural não vence sozinho. “A parte da gente, a gente tem que fazer o mais assertivo possível e bem feito. Só que o clima a gente não controla”, diz o produtor rural Sidney Flach.\n\nNo texto, é possível ler um discurso direto do pesquisador André Diz em defesa da vantagem competitiva do agronegócio brasileiro. Qual é a causa que embasa esse posicionamento do pesquisador?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Porque o agronegócio tem uma produção mais diversificada do que outros setores."
+      },
+      {
+        "id": 2,
+        "texto": "Devido à alta demanda internacional por produtos agrícolas brasileiros nos últimos dez anos."
+      },
+      {
+        "id": 3,
+        "texto": "Em razão do investimento contínuo em pesquisa agrícola, inovação e técnicas agronômicas."
+      },
+      {
+        "id": 4,
+        "texto": "Porque o agronegócio brasileiro não enfrenta ameaças externas, ao contrário de outros setores."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "221",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Araguapaz - GO",
+    "enunciado": "Ao analisarmos a oração 'Se a potência é o solo, a ameaça é a mudança climática.', como se classifica a função sintática da expressão 'a potência'?",
+    "alternativas": [
+      { "id": 1, "texto": "Sujeito da oração." },
+      { "id": 2, "texto": "Objeto direto da oração." },
+      { "id": 3, "texto": "Objeto indireto da oração." },
+      { "id": 4, "texto": "Adjunto adnominal da oração." }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "222",
+    "cargo": "Assistente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Araguapaz - GO",
+    "enunciado": "Panorama do Agro\n\nA CNA defende, trabalha e fala em seu nome e de todos os produtores rurais do Brasil.\n\nNos últimos 40 anos a produção agropecuária brasileira se desenvolveu de tal forma que o Brasil será o grande fornecedor de alimentos do futuro.\nTemos, hoje, uma agricultura adaptada às regiões tropicais e uma legião de produtores rurais conscientes de suas responsabilidades com o meio ambiente aliadas à produção de alimentos. Essas pessoas compõem o setor produtivo mais moderno do mundo, que vem transformando a economia brasileira.\nProduzindo cada vez mais, o Agro brasileiro reduziu drasticamente o preço da alimentação, melhorando a saúde e qualidade de vida da população urbana, liberando seu poder de compra para bens produzidos pela indústria e pelo setor de serviços. Produzindo excedentes cada vez maiores, o agro expandiu suas vendas para o mundo, conquistou novos mercados, gerando superávits cambiais que libertam a economia brasileira.\nO efeito transformador da revolução agrícola dos últimos 40 anos é certamente o fato mais importante da história econômica recente do Brasil e continua abrindo perspectivas para o desenvolvimento futuro do país.\n\nDe acordo com o texto, qual é o impacto positivo da produção agropecuária brasileira na população urbana?",
+    "alternativas": [
+      { "id": 1, "texto": "Diminuição dos excedentes." },
+      { "id": 2, "texto": "Redução do poder de compra." },
+      { "id": 3, "texto": "Aumento dos preços dos alimentos." },
+      { "id": 4, "texto": "Melhoria da saúde e qualidade de vida" }
+    ],
+    "resposta_correta": 4
   }
 ]
