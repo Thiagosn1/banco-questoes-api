@@ -2873,7 +2873,7 @@
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Prefeitura Municipal de Abadiânia - GO",
-    "enunciado": "Qual das seguintes afirmações é verdadeira sobre a função administrativa de 'Planejar':",
+    "enunciado": "Qual das seguintes afirmações é verdadeira sobre a função administrativa de **Planejar**:",
     "alternativas": [
       {
         "id": 1,
@@ -2948,7 +2948,7 @@
     "cargo": "Assistente Administrativo",
     "nivel": "Médio",
     "prova": "Prefeitura Municipal de Abadiânia - GO",
-    "enunciado": "Qual das seguintes afirmações é verdadeira sobre a função administrativa de 'Controlar':",
+    "enunciado": "Qual das seguintes afirmações é verdadeira sobre a função administrativa de **Controlar**:",
     "alternativas": [
       {
         "id": 1,
