@@ -48,8 +48,8 @@ function syncQuestoes(db, novasQuestoes) {
       }
 
       const stmt = db.prepare(`
-        INSERT INTO questoes (cargo, nivel, prova, enunciado, alternativas, resposta_correta) 
-        VALUES (?, ?, ?, ?, ?, ?)
+        INSERT INTO questoes (cargo, nivel, prova, banca, enunciado, alternativas, resposta_correta) 
+        VALUES (?, ?, ?, ?, ?, ?, ?)
       `);
 
       novasQuestoes.forEach((questao, index) => {
@@ -57,6 +57,7 @@ function syncQuestoes(db, novasQuestoes) {
           questao.cargo,
           questao.nivel,
           questao.prova,
+          questao.banca,
           questao.enunciado,
           JSON.stringify(questao.alternativas),
           questao.resposta_correta,
@@ -110,14 +111,15 @@ const db = new sqlite3.Database(DB_PATH, (err) => {
   // Criar tabela de questões
   db.run(
     `CREATE TABLE IF NOT EXISTS questoes (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    cargo TEXT,
-    nivel TEXT,
-    prova TEXT,
-    enunciado TEXT,
-    alternativas TEXT,
-    resposta_correta INTEGER
-  )`,
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      cargo TEXT,
+      nivel TEXT,
+      prova TEXT,
+      banca TEXT,
+      enunciado TEXT,
+      alternativas TEXT,
+      resposta_correta INTEGER
+    )`,
     (err) => {
       if (err) {
         console.error("Erro ao criar tabela:", err);
@@ -222,13 +224,21 @@ app.get("/api/questoes/:id", (req, res) => {
 
 // Adicionar nova questão
 app.post("/api/questoes", (req, res) => {
-  const { cargo, nivel, prova, enunciado, alternativas, resposta_correta } =
-    req.body;
+  const {
+    cargo,
+    nivel,
+    prova,
+    banca,
+    enunciado,
+    alternativas,
+    resposta_correta,
+  } = req.body;
 
   if (
     !cargo ||
     !nivel ||
     !prova ||
+    !banca ||
     !enunciado ||
     !alternativas ||
     !resposta_correta
@@ -238,11 +248,12 @@ app.post("/api/questoes", (req, res) => {
 
   console.log("Adicionando nova questão...");
   db.run(
-    "INSERT INTO questoes (cargo, nivel, prova, enunciado, alternativas, resposta_correta) VALUES (?, ?, ?, ?, ?, ?)",
+    "INSERT INTO questoes (cargo, nivel, prova, banca, enunciado, alternativas, resposta_correta) VALUES (?, ?, ?, ?, ?, ?, ?)",
     [
       cargo,
       nivel,
       prova,
+      banca,
       enunciado,
       JSON.stringify(alternativas),
       resposta_correta,
