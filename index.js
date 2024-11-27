@@ -158,6 +158,7 @@ app.get("/", (req, res) => {
       "GET /api/questoes/:id": "Retorna uma questão específica",
       "POST /api/questoes": "Adiciona uma nova questão",
       "GET /api/status": "Verifica o status da API",
+      "GET /api/ping": "Verifica se a API está ativa",
     },
     status: "online",
   });
@@ -179,6 +180,11 @@ app.get("/api/status", (req, res) => {
       version: "1.0.0",
     });
   });
+});
+
+// Endpoint de ping para evitar inatividade
+app.get("/api/ping", (req, res) => {
+  res.json({ status: "API está ativa", timestamp: new Date().toISOString() });
 });
 
 // Listar todas as questões
