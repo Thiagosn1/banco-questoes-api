@@ -5560,7 +5560,7 @@
     "prova": "Prefeitura Municipal de Coluna/MG",
     "banca": "Reis & Reis",
     "enunciado": "A figura do cartaz abaixo faz parte de uma campanha contra queimadas lançada pelo governo federal em 2020. Leia o cartaz e assinale a alternativa correta: Que figura de linguagem é empregada no slogan “Diga sim à vida e não à queimada”?",
-    "image_url": "http://exemplo.com/imagem.jpg",
+    "image_url": "/assets/figura1.png",
     "alternativas": [
       { "id": 1, "texto": "Antítese" },
       { "id": 2, "texto": "Antônimo" },
