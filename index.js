@@ -48,8 +48,8 @@ function syncQuestoes(db, novasQuestoes) {
       }
 
       const stmt = db.prepare(`
-        INSERT INTO questoes (cargo, nivel, prova, banca, enunciado, alternativas, resposta_correta) 
-        VALUES (?, ?, ?, ?, ?, ?, ?)
+        INSERT INTO questoes (cargo, nivel, prova, banca, enunciado, image_url, alternativas, resposta_correta)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
       `);
 
       novasQuestoes.forEach((questao, index) => {
@@ -59,6 +59,7 @@ function syncQuestoes(db, novasQuestoes) {
           questao.prova,
           questao.banca,
           questao.enunciado,
+          questao.image_url,
           JSON.stringify(questao.alternativas),
           questao.resposta_correta,
           (err) => {
@@ -117,6 +118,7 @@ const db = new sqlite3.Database(DB_PATH, (err) => {
       prova TEXT,
       banca TEXT,
       enunciado TEXT,
+      image_url TEXT,
       alternativas TEXT,
       resposta_correta INTEGER
     )`,
@@ -130,7 +132,7 @@ const db = new sqlite3.Database(DB_PATH, (err) => {
       syncQuestoes(db, questoesIniciais);
 
       // Observar mudanças no arquivo JSON
-      fs.watch(QUESTOES_JSON_PATH, (eventType, filename) => {
+      fs.watch(QUESTOES_JSON_PATH, (eventType) => {
         if (eventType === "change") {
           console.log("\n=== Atualização Detectada ===");
           console.log("Arquivo questoes.json modificado, atualizando banco...");

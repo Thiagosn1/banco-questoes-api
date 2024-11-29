@@ -5007,7 +5007,7 @@
     "nivel": "Superior",
     "prova": "Prefeitura Municipal de Mato Leitão - RS",
     "banca": "OBJETIVA CONCURSOS",
-    "enunciado": "Considerando a regência de alguns nomes, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n( ) Quando alguma novela faz apologia de assuntos sensíveis, todos a criticam.\n( ) Nem todas vacinas podem ser benéficas das pessoas.\n( ) Atualmente, sou morador de Fortaleza.\n( ) Desde sempre, a escola pública é ávida por melhorias.",
+    "enunciado": "Considerando a regência de alguns nomes, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n\n( ) Quando alguma novela faz apologia de assuntos sensíveis, todos a criticam.\n( ) Nem todas vacinas podem ser benéficas das pessoas.\n( ) Atualmente, sou morador de Fortaleza.\n( ) Desde sempre, a escola pública é ávida por melhorias.",
     "alternativas": [
       {
         "id": 1,
@@ -5061,7 +5061,7 @@
     "nivel": "Superior",
     "prova": "Prefeitura Municipal de Mato Leitão - RS",
     "banca": "OBJETIVA CONCURSOS",
-    "enunciado": "Assinalar a alternativa em que a palavra sublinhada NÃO está sendo usada no sentido literal:",
+    "enunciado": "Assinalar a alternativa em que a palavra sublinhada **NÃO** está sendo usada no sentido literal:",
     "alternativas": [
       {
         "id": 1,
@@ -5115,7 +5115,7 @@
     "nivel": "Superior",
     "prova": "Prefeitura Municipal de Mato Leitão - RS",
     "banca": "OBJETIVA CONCURSOS",
-    "enunciado": "Analisar o seguinte trecho de uma notícia:\n\"Com aparência rechonchuda e surreal, os tardígrados intrigam pesquisadores há anos. Esse animal de oito patas cuja extensão não ultrapassa um milímetro pode ser encontrado em quase todos os habitats do mundo, e tem uma capacidade insuperável de sobreviver nas situações mais extremas.\"\n(Fonte: G1 — adaptado.)\nSe passarmos a palavra \"animal\" para o plural, quantas outras palavras deverão ser alteradas para que se mantenha a concordância da frase?",
+    "enunciado": "Analisar o seguinte trecho de uma notícia:\n\n\"Com aparência rechonchuda e surreal, os tardígrados intrigam pesquisadores há anos. Esse animal de oito patas cuja extensão não ultrapassa um milímetro pode ser encontrado em quase todos os habitats do mundo, e tem uma capacidade insuperável de sobreviver nas situações mais extremas.\"\n(Fonte: G1 — adaptado.)\n\nSe passarmos a palavra **animal** para o plural, quantas outras palavras deverão ser alteradas para que se mantenha a concordância da frase?",
     "alternativas": [
       {
         "id": 1,
@@ -5223,7 +5223,7 @@
     "nivel": "Superior",
     "prova": "Prefeitura Municipal de Mato Leitão - RS",
     "banca": "OBJETIVA CONCURSOS",
-    "enunciado": "A respeito do Excel 2016, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n( ) A nova pasta de trabalho geralmente começa com uma única planilha, chamada \"Planilha1\".\n( ) O Excel permite que o usuário tenha somente uma única planilha por pasta de trabalho.\n( ) As guias localizadas na parte inferior da janela do Excel permitem que o usuário alterne facilmente entre as diferentes planilhas na mesma pasta de trabalho.",
+    "enunciado": "A respeito do Excel 2016, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA:\n\n( ) A nova pasta de trabalho geralmente começa com uma única planilha, chamada \"Planilha1\".\n( ) O Excel permite que o usuário tenha somente uma única planilha por pasta de trabalho.\n( ) As guias localizadas na parte inferior da janela do Excel permitem que o usuário alterne facilmente entre as diferentes planilhas na mesma pasta de trabalho.",
     "alternativas": [
       {
         "id": 1,
@@ -5250,7 +5250,7 @@
     "nivel": "Superior",
     "prova": "Prefeitura Municipal de Mato Leitão - RS",
     "banca": "OBJETIVA CONCURSOS",
-    "enunciado": "Considerando-se o Word 2016, qual das seguintes formatações NÃO é visualmente representada por marcas na régua?",
+    "enunciado": "Considerando-se o Word 2016, qual das seguintes formatações **NÃO** é visualmente representada por marcas na régua?",
     "alternativas": [
       {
         "id": 1,
@@ -5468,5 +5468,105 @@
       { "id": 4, "texto": "Melhoria da saúde e qualidade de vida" }
     ],
     "resposta_correta": 4
+  },
+  {
+    "id": "223",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "Faça uma leitura atenta do texto a seguir e responda a questão sobre ele.\n\n**Ensino de Língua Portuguesa**\n\nAutor: Clecio Bunzen, da Universidade Federal de São Paulo-UNIFESP\n\nOs processos de escolarização e de alfabetização sempre elegeram o ensino do “ler e do escrever” como um de seus objetivos centrais. Por tal razão, o currículo escolar dedica um tempo e um espaço específicos para o que se chama atualmente de “ensino de Língua Portuguesa”, isto é, o ensino formal e planejado que almeja formar leitores e produtores competentes de textos verbais e visuais, desde a Educação Infantil até o Ensino Médio. O ensino de Língua Portuguesa encontra-se, então, organizado em torno de práticas e atividades que procuram levar as crianças a se apropriarem, progressivamente, das capacidades de compreender textos e de produzi-los em diferentes modalidades (escrita, oral, multimodal), de forma crítica e contextualizada.\n\nNo Ciclo de Alfabetização, o ensino de Língua Portuguesa encontra-se geralmente organizado em torno de quatro grandes eixos de ensino: (i) leitura de textos; (ii) produção de textos; (iii) oralidade e (iv) conhecimentos linguísticos. Tais eixos são normalmente trabalhados de forma inter-relacionada e em diferentes áreas do conhecimento. Nas aulas de História, Matemática e Ciências, por exemplo, as crianças leem e escrevem textos verbo-visuais de gêneros específicos: calendários, gráficos, linha do tempo e relatórios, entre outros. Por tal razão, as diversas propostas curriculares contemporâneas têm defendido que o texto seja visto como a unidade de ensino de Língua Portuguesa e os gêneros textuais como seus principais objetos de ensino.\n\nNa esfera escolar, as crianças têm oportunidades de viver experiências planejadas, usar a linguagem e refletir sobre as práticas de linguagem. Ao ler a capa de um livro de literatura infantil, refletir sobre palavras novas de uma canção ou tentar grafar uma palavra na produção de legendas, elas se engajam em situações de aprendizagem em que a escuta e a leitura de textos de diferentes gêneros, assim como a produção de textos orais e escritos ganham grande relevância para o seu desenvolvimento humano. No Ciclo de Alfabetização, ganha importância também o trabalho de análise, reflexão e sistematização sobre os conhecimentos linguísticos em diferentes níveis (fonológico, morfossintático, semântico), uma vez que as crianças também estão se apropriando do sistema de escrita de base alfabética, do léxico e da gramática da língua portuguesa. Por essa razão, o ensino de Língua Portuguesa volta-se para reflexões sistemáticas sobre a relação entre o oral e o escrito, para questões da variação linguística e aspectos da textualidade (como os sinais de pontuação) e da normatividade (como algumas regularidades ortográficas). Defende-se ainda, como um princípio pedagógico do ensino da Língua Portuguesa, que a linguagem é o lugar da diversidade e da heterogeneidade de práticas culturais; por isso as práticas escolares precisam ser sensíveis às diferenças culturais e linguísticas, utilizando-as a favor da formação cidadã e de uma aprendizagem significativa da língua materna.\n\n(Fonte: https://www.ceale.fae.ufmg.br/glossarioceale/verbetes/ensino-de-lingua-portuguesa/Acesso em 01/06/2024)\n\n01) Assinale a alternativa **incorreta**.\n\nDe acordo com o texto “Ensino de Língua Portuguesa”, de Clecio Bunzen:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "No Ciclo de Alfabetização, o trabalho de análise, reflexão e sistematização sobre os conhecimentos linguísticos tem sido destacado."
+      },
+      {
+        "id": 2,
+        "texto": "A linguagem é o lugar da diversidade e da homogeneidade de práticas culturais, pois o acesso ao conhecimento da língua deve ser igual para todos."
+      },
+      {
+        "id": 3,
+        "texto": "Podemos concluir que o “ensino de Língua Portuguesa” sempre teve como objetivo o ensino da leitura e da escrita."
+      },
+      {
+        "id": 4,
+        "texto": "A escola é o local onde as crianças têm oportunidades de usar e refletir sobre a linguagem."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "224",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "O texto “Ensino de Língua Portuguesa” é considerado um texto do tipo:",
+    "alternativas": [
+      { "id": 1, "texto": "Descritivo" },
+      { "id": 2, "texto": "Dissertativo" },
+      { "id": 3, "texto": "Injuntivo" },
+      { "id": 4, "texto": "Narrativo" }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "225",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "Na oração “Vou vender meu carro e minha bicicleta”, o termo destacado é:",
+    "alternativas": [
+      { "id": 1, "texto": "Um objeto direto" },
+      { "id": 2, "texto": "Um objeto indireto" },
+      { "id": 3, "texto": "Um objeto direto e indireto" },
+      { "id": 4, "texto": "Um complemento nominal" }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "226",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "Na oração “Carolina tem amor à mãe”, o termo sublinhado é:",
+    "alternativas": [
+      { "id": 1, "texto": "Um adjunto adverbial" },
+      { "id": 2, "texto": "Um predicado nominal" },
+      { "id": 3, "texto": "Um complemento nominal" },
+      { "id": 4, "texto": "Um objeto indireto" }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "227",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "Quanto à posição da sílaba tônica, as palavras são classificadas em:",
+    "alternativas": [
+      { "id": 1, "texto": "Ditongos, tritongos e hiatos" },
+      { "id": 2, "texto": "Átonas e tônicas" },
+      {
+        "id": 3,
+        "texto": "Monossílabas, dissílabas, trissílabas e polissílabas"
+      },
+      { "id": 4, "texto": "Oxítonas, paroxítonas e proparoxítonas" }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "228",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "A figura do cartaz abaixo faz parte de uma campanha contra queimadas lançada pelo governo federal em 2020. Leia o cartaz e assinale a alternativa correta: Que figura de linguagem é empregada no slogan “Diga sim à vida e não à queimada”?",
+    "image_url": "http://exemplo.com/imagem.jpg",
+    "alternativas": [
+      { "id": 1, "texto": "Antítese" },
+      { "id": 2, "texto": "Antônimo" },
+      { "id": 3, "texto": "Paradoxo" },
+      { "id": 4, "texto": "Comparação" }
+    ],
+    "resposta_correta": 1
   }
 ]
