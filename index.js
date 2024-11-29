@@ -4,28 +4,46 @@ const cors = require("cors");
 const fs = require("fs");
 const path = require("path");
 
-// Configuração de caminhos
 const DATA_DIR = path.join(__dirname, "data");
 const QUESTOES_JSON_PATH =
   process.env.QUESTOES_JSON_PATH || path.join(DATA_DIR, "questoes.json");
 const DB_PATH = process.env.DB_PATH || path.join(DATA_DIR, "questoes.db");
 
-// Criar diretório data se não existir
 if (!fs.existsSync(DATA_DIR)) {
   fs.mkdirSync(DATA_DIR);
 }
 
 const app = express();
 
-// Configurações básicas
 app.use(cors());
 app.use(express.json());
 
-// Middleware de log
 app.use((req, res, next) => {
   console.log(`${new Date().toISOString()} - ${req.method} ${req.url}`);
   next();
 });
+
+function atualizarQuestoesJSON() {
+  try {
+    const questoes = JSON.parse(fs.readFileSync(QUESTOES_JSON_PATH, "utf8"));
+
+    const questoesReindexadas = questoes.map((questao, index) => ({
+      ...questao,
+      id: (index + 1).toString(),
+    }));
+
+    fs.writeFileSync(
+      QUESTOES_JSON_PATH,
+      JSON.stringify(questoesReindexadas, null, 2)
+    );
+
+    console.log("Questões reindexadas com sucesso");
+    return questoesReindexadas;
+  } catch (error) {
+    console.error("Erro ao atualizar questões:", error);
+    return [];
+  }
+}
 
 // Função para sincronizar questões
 function syncQuestoes(db, novasQuestoes) {
@@ -85,21 +103,11 @@ function syncQuestoes(db, novasQuestoes) {
   });
 }
 
-// Carregando questões do arquivo JSON
-let questoesIniciais;
-try {
-  questoesIniciais = JSON.parse(fs.readFileSync(QUESTOES_JSON_PATH, "utf8"));
-  console.log("=== Carregamento Inicial ===");
-  console.log(
-    `Encontradas ${questoesIniciais.length} questões no arquivo JSON`
-  );
-  console.log("==========================");
-} catch (error) {
-  console.error("Erro ao carregar arquivo de questões:", error);
-  questoesIniciais = [];
-}
+let questoesIniciais = atualizarQuestoesJSON();
+console.log("=== Carregamento Inicial ===");
+console.log(`Encontradas ${questoesIniciais.length} questões no arquivo JSON`);
+console.log("==========================");
 
-// Conexão com SQLite
 const db = new sqlite3.Database(DB_PATH, (err) => {
   if (err) {
     console.error("Erro ao conectar ao banco:", err);
@@ -108,7 +116,6 @@ const db = new sqlite3.Database(DB_PATH, (err) => {
 
   console.log("Conectado ao banco SQLite");
 
-  // Criar tabela de questões
   db.run(
     `CREATE TABLE IF NOT EXISTS questoes (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -126,30 +133,21 @@ const db = new sqlite3.Database(DB_PATH, (err) => {
         return;
       }
 
-      // Sincronização inicial
       syncQuestoes(db, questoesIniciais);
 
-      // Observar mudanças no arquivo JSON
       fs.watch(QUESTOES_JSON_PATH, (eventType) => {
         if (eventType === "change") {
           console.log("\n=== Atualização Detectada ===");
           console.log("Arquivo questoes.json modificado, atualizando banco...");
           console.log("===========================");
-          try {
-            const questoesAtualizadas = JSON.parse(
-              fs.readFileSync(QUESTOES_JSON_PATH, "utf8")
-            );
-            syncQuestoes(db, questoesAtualizadas);
-          } catch (error) {
-            console.error("Erro ao atualizar questões:", error);
-          }
+          const questoesAtualizadas = atualizarQuestoesJSON();
+          syncQuestoes(db, questoesAtualizadas);
         }
       });
     }
   );
 });
 
-// Rota raiz
 app.get("/", (req, res) => {
   res.json({
     message: "API de Questões de Concurso",
@@ -164,7 +162,6 @@ app.get("/", (req, res) => {
   });
 });
 
-// Status da API
 app.get("/api/status", (req, res) => {
   db.get("SELECT COUNT(*) as total FROM questoes", [], (err, result) => {
     if (err) {
@@ -182,12 +179,10 @@ app.get("/api/status", (req, res) => {
   });
 });
 
-// Endpoint de ping para evitar inatividade
 app.get("/api/ping", (req, res) => {
   res.json({ status: "API está ativa", timestamp: new Date().toISOString() });
 });
 
-// Listar todas as questões
 app.get("/api/questoes", (req, res) => {
   console.log("Buscando todas as questões...");
   db.all("SELECT * FROM questoes", [], (err, rows) => {
@@ -206,7 +201,6 @@ app.get("/api/questoes", (req, res) => {
   });
 });
 
-// Buscar questão por ID
 app.get("/api/questoes/:id", (req, res) => {
   const { id } = req.params;
   console.log(`Buscando questão ID: ${id}`);
@@ -228,7 +222,6 @@ app.get("/api/questoes/:id", (req, res) => {
   });
 });
 
-// Adicionar nova questão
 app.post("/api/questoes", (req, res) => {
   const {
     cargo,
@@ -284,7 +277,6 @@ app.post("/api/questoes", (req, res) => {
   );
 });
 
-// Middleware de erro
 app.use((err, req, res, next) => {
   console.error("Erro na aplicação:", err.stack);
   res.status(500).json({
@@ -293,19 +285,16 @@ app.use((err, req, res, next) => {
   });
 });
 
-// Middleware para rotas não encontradas
 app.use((req, res) => {
   console.log(`Rota não encontrada: ${req.method} ${req.url}`);
   res.status(404).json({ error: "Rota não encontrada" });
 });
 
-// Inicialização do servidor
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`Servidor rodando na porta ${PORT}`);
 });
 
-// Tratamento de erros não capturados
 process.on("uncaughtException", (err) => {
   console.error("Erro não tratado:", err);
 });
