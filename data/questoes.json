@@ -5567,5 +5567,211 @@
       { "id": 4, "texto": "Comparação" }
     ],
     "resposta_correta": 1
+  },
+  {
+    "id": "229",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "O texto abaixo é a letra da canção Vozes da Seca, de autoria de Luiz Gonzaga. \n\nSeu doutô os nordestino têm muita gratidão\nPelo auxílio dos sulista nessa seca do sertão\n Mas doutô uma esmola a um homem qui é são\n Ou lhe mata de vergonha ou vicia o cidadão\n\n É por isso que pidimo proteção a vosmicê\n Home pur nóis escuído para as rédias do pudê\n Pois doutô dos vinte estado temos oito sem chovê\n Veja bem, quase a metade do Brasil tá sem cumê\n\n Dê serviço a nosso povo, encha os rio de barrage\n Dê cumida a preço bom, não esqueça a açudage\n Livre assim nóis da ismola, que no fim dessa estiage\n Lhe pagamo inté os juru sem gastar nossa corage\n\n Se o doutô fizer assim salva o povo do sertão\n Quando um dia a chuva vim, que riqueza pra nação!\n Nunca mais nóis pensa em seca, vai dá tudo nesse chão\n Como vê nosso distino mercê tem nas vossa mão\n Mercê tem na vossa mão!\n\n Com relação à letra da canção acima, **não** podemos afirmar que:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A falta de concordância indica a baixa escolaridade e a classe social do falante, no caso um nordestino pobre."
+      },
+      {
+        "id": 2,
+        "texto": "A variedade linguística predominante no texto é a variedade padrão da região Nordeste do Brasil."
+      },
+      {
+        "id": 3,
+        "texto": "A variedade linguística predominante no texto é a variedade regional típica do falante nordestino de classe social mais baixa."
+      },
+      {
+        "id": 4,
+        "texto": "Na letra da canção, tem-se um exemplo de dialeto, que é uma variedade linguística originada das diferenças de região ou território."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "230",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "A falta de concordância verbal presente na letra de Vozes da Seca ocorre predominantemente também no:",
+    "alternativas": [
+      { "id": 1, "texto": "Domínio jornalístico" },
+      { "id": 2, "texto": "Registro falado" },
+      { "id": 3, "texto": "Registro escrito" },
+      { "id": 4, "texto": "Texto digitado" }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "231",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "São características da linguagem formal, exceto:",
+    "alternativas": [
+      { "id": 1, "texto": "Tem um maior prestígio dentro da sociedade." },
+      {
+        "id": 2,
+        "texto": "Uso correto das normas gramaticais, tanto na escrita quanto na fala, com a utilização de um vocabulário mais rico e de uma pronúncia mais clara."
+      },
+      { "id": 3, "texto": "Tem como público-alvo superiores hierárquicos." },
+      {
+        "id": 4,
+        "texto": "Está sujeita a variações regionais, culturais e sociais."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "232",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "Leia a tirinha abaixo. Podemos afirmar que na tirinha ocorre um caso de:",
+    "alternativas": [
+      { "id": 1, "texto": "Intertextualidade" },
+      { "id": 2, "texto": "Linguagem formal" },
+      { "id": 3, "texto": "Preconceito linguístico" },
+      { "id": 4, "texto": "Variedade da norma culta" }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "233",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "O escritor e compositor .............................. membro da Academia Brasileira de Letras (ABL), morreu dia 23 de outubro de 2024, na Suíça. Ele sofria de Alzheimer e se submeteu a um procedimento de morte assistida. O crítico literário e filósofo deixou uma carta explicando a decisão. Um trecho da carta dizia 'Espero ter vivido com dignidade e espero morrer com dignidade'. Marque a alternativa que completa corretamente o enunciado acima:",
+    "alternativas": [
+      { "id": 1, "texto": "Sérgio Cabral." },
+      { "id": 2, "texto": "Cid Moreira." },
+      { "id": 3, "texto": "Antonio Cicero." },
+      { "id": 4, "texto": "Agnaldo Rayol." }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "234",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "Tormenta, classificada como 'tempestade do século', provoca mortes, inundações e deixa mais de 3 milhões sem energia na Flórida. Ele atingiu a Flórida duas semanas depois que o furacão Helene matou pelo menos 225 pessoas no mesmo estado, além de Geórgia, Carolina do Sul, Tennessee, Virgínia e Carolina do Norte (este o estado mais afetado). Esse furacão ocorrido em outubro de 2024 ganhou o nome de:",
+    "alternativas": [
+      { "id": 1, "texto": "Milton." },
+      { "id": 2, "texto": "Mitch." },
+      { "id": 3, "texto": "Harold." },
+      { "id": 4, "texto": "Hilary." }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "235",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "Quem ganhou o Prêmio Nobel da Paz em 2024?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Agência das Nações Unidas de Assistência aos Refugiados da Palestina (UNRWA)."
+      },
+      {
+        "id": 2,
+        "texto": "A organização Nihon Hidankyo, coletivo formado por japoneses sobreviventes às bombas atômicas de Nagasaki e Hiroshima."
+      },
+      { "id": 3, "texto": "António Guterres, secretário-geral da ONU." },
+      { "id": 4, "texto": "Volodymyr Zelensky, presidente da Ucrânia." }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "236",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "A 29ª Conferência das Nações Unidas sobre as Mudanças Climáticas, a COP29. Neste ano de 2024, o evento aconteceu entre os dias 11 e 22 de novembro, e, novamente, teve como sede um país onde a indústria petrolífera é relevante. Alguns, inclusive, se referem ao país como o 'berço da indústria moderna dos combustíveis fósseis'. Qual é esse país sede?",
+    "alternativas": [
+      { "id": 1, "texto": "Azerbaijão." },
+      { "id": 2, "texto": "Alemanha." },
+      { "id": 3, "texto": "Índia." },
+      { "id": 4, "texto": "Catar." }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "237",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "“A mentira continuará a ser duramente combatida. O ilícito será investigado e, se provado, será punido na forma da legislação vigente. O medo não tem assento em alguma casa de Justiça”. A afirmação foi feita durante seu discurso de posse como Presidente do Tribunal Superior Eleitoral (TSE). Portanto, o(a) atual ministro(a) do TSE para o biênio 2024-2026 é:",
+    "alternativas": [
+      { "id": 1, "texto": "Alexandre de Moraes." },
+      { "id": 2, "texto": "José Antônio Dias Toffoli." },
+      { "id": 3, "texto": "Rosa Maria Pires Weber." },
+      { "id": 4, "texto": "Cármen Lúcia Antunes Rocha." }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "238",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "Em um dos países com o maior número de feminicídios no continente, a nova presidente do México foi eleita com quase 60% dos votos e vai governar a segunda maior economia da América Latina. Ela foi eleita dia 02/06/2024 e seu nome é:",
+    "alternativas": [
+      { "id": 1, "texto": "Claudia Sheinbaum." },
+      { "id": 2, "texto": "Laura Chinchilla." },
+      { "id": 3, "texto": "Xiomara Castro." },
+      { "id": 4, "texto": "Michelle Bachelet." }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "239",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "São cidades mais afetadas pela enchente desse ano no Rio Grande do Sul, exceto:",
+    "alternativas": [
+      { "id": 1, "texto": "Bento Gonçalves." },
+      { "id": 2, "texto": "Canoas." },
+      { "id": 3, "texto": "Lajeado." },
+      { "id": 4, "texto": "São José dos Pinhais." }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "240",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "A Copa América de 2024 foi realizada entre 20 de junho a 14 de julho, nos Estados Unidos. Qual foi o campeão da Copa América de 2024?",
+    "alternativas": [
+      { "id": 1, "texto": "Colômbia." },
+      { "id": 2, "texto": "Argentina." },
+      { "id": 3, "texto": "Brasil." },
+      { "id": 4, "texto": "Uruguai." }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "241",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Coluna/MG",
+    "banca": "Reis & Reis",
+    "enunciado": "A Secretaria de Estado de Saúde de Minas Gerais (SES-MG) informou que o Laboratório Central de Saúde Pública (Lacen-MG), da Fundação Ezequiel Dias (Funed), identificou 72 amostras que testaram positivo para a ...................................... de num total de 427 amostras de casos suspeitos de arboviroses. É uma doença causada por um arbovírus do gênero Orthobunyavirus, da família Peribunyaviridae. Os sintomas são parecidos com os da dengue e da chikungunya: dor de cabeça, dor muscular, dor nas articulações, náusea e diarreia. Marque a alternativa que completa corretamente o enunciado acima:",
+    "alternativas": [
+      { "id": 1, "texto": "H5N1 - Gripe Aviária." },
+      { "id": 2, "texto": "Febre Garnache." },
+      { "id": 3, "texto": "Febre Oropouche." },
+      { "id": 4, "texto": "Gripe H8N2 – Gripe Otoboke." }
+    ],
+    "resposta_correta": 3
   }
 ]
