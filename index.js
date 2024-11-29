@@ -48,8 +48,8 @@ function syncQuestoes(db, novasQuestoes) {
       }
 
       const stmt = db.prepare(`
-        INSERT INTO questoes (cargo, nivel, prova, banca, enunciado, image_url, alternativas, resposta_correta)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+        INSERT INTO questoes (cargo, nivel, prova, banca, enunciado, alternativas, resposta_correta)
+        VALUES (?, ?, ?, ?, ?, ?, ?)
       `);
 
       novasQuestoes.forEach((questao, index) => {
@@ -59,7 +59,6 @@ function syncQuestoes(db, novasQuestoes) {
           questao.prova,
           questao.banca,
           questao.enunciado,
-          questao.image_url,
           JSON.stringify(questao.alternativas),
           questao.resposta_correta,
           (err) => {
@@ -115,10 +114,9 @@ const db = new sqlite3.Database(DB_PATH, (err) => {
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       cargo TEXT,
       nivel TEXT,
-      prova TEXT,
+      prova TEXT, 
       banca TEXT,
       enunciado TEXT,
-      image_url TEXT,
       alternativas TEXT,
       resposta_correta INTEGER
     )`,
