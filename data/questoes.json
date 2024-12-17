@@ -5773,5 +5773,1328 @@
       { "id": 4, "texto": "Gripe H8N2 – Gripe Otoboke." }
     ],
     "resposta_correta": 3
+  },
+  {
+    "id": "242",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Os dois primeiros versos da estrofe formam um período composto por subordinação. Assinale a alternativa que classifica correta, e respectivamente, as orações desse período.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "oração principal e oração substantiva objetiva direta."
+      },
+      {
+        "id": 2,
+        "texto": "oração adjetiva explicativa e oração principal."
+      },
+      {
+        "id": 3,
+        "texto": "oração principal e oração adjetiva restritiva."
+      },
+      {
+        "id": 4,
+        "texto": "oração principal e oração substantiva subjetiva."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "243",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Em “Se eu soubesse o quanto dói a vida”, a partícula se pode ser classificada como:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "pronome reflexivo."
+      },
+      {
+        "id": 2,
+        "texto": "conjunção integrante."
+      },
+      {
+        "id": 3,
+        "texto": "conjunção causal."
+      },
+      {
+        "id": 4,
+        "texto": "conjunção condicional."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "244",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Os termos: “a vida” (v.3), “Essa dor” (v. 4) e “ninguém” (v. 6) exercem, respectivamente, a função sintática de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "sujeito – sujeito – sujeito."
+      },
+      {
+        "id": 2,
+        "texto": "objeto direto – sujeito – objeto direto."
+      },
+      {
+        "id": 3,
+        "texto": "sujeito – sujeito – predicativo do sujeito."
+      },
+      {
+        "id": 4,
+        "texto": "objeto direto – núcleo do sujeito – objeto direto."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "245",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Marque a alternativa em que as palavras são acentuadas pela mesma razão.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "alguém – áspero."
+      },
+      {
+        "id": 2,
+        "texto": "pastéis – rouxinóis."
+      },
+      {
+        "id": 3,
+        "texto": "ginásio – países."
+      },
+      {
+        "id": 4,
+        "texto": "catástrofe – raízes."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "246",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Analise as assertivas a seguir\nI. Tanto extinção quanto sumiço estão escritas de forma correta.\nII. Nesta sequência não há erro de grafia: digerir, sugerir, ajuizar, expelir.\nIII. Somente um vocábulo está correto na seguinte sequência: mochila, adolecente, salsicha, xingamento.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Apenas a I está correta."
+      },
+      {
+        "id": 2,
+        "texto": "Apenas a II está correta."
+      },
+      {
+        "id": 3,
+        "texto": "Apenas I e II estão corretas."
+      },
+      {
+        "id": 4,
+        "texto": "Apenas a III está correta."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "247",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Julgue as assertivas a seguir quanto à concordância verbal.\nI. Nenhuma religião, nenhuma cultura, nenhuma língua deve ser considerada superior à outra.\nII. Vende-se casas a 500m da praia.\nIII. Nem os beijos, os carinhos, as promessas, nada disso a convenceu.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Está correta apenas a I."
+      },
+      {
+        "id": 2,
+        "texto": "Está correta apenas a II."
+      },
+      {
+        "id": 3,
+        "texto": "Estão corretas apenas I e III."
+      },
+      {
+        "id": 4,
+        "texto": "Estão corretas II e III."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "248",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Assinale a alternativa em que a supressão de vírgula não muda o sentido da frase.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Aceito, obrigado."
+      },
+      {
+        "id": 2,
+        "texto": "O problema é sério, mas não insolúvel."
+      },
+      {
+        "id": 3,
+        "texto": "Este, juiz, é corrupto."
+      },
+      {
+        "id": 4,
+        "texto": "Isso só, ele resolve."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "249",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "É uma característica predominante da linguagem do texto:\n“Enquanto o mar inaugura\nUm verde novinho em folha\nArgumentar com doçura\nCom uma cachaça de rolha\nE com o olhar esquecido\nNo encontro de céu e mar\nBem devagar ir sentindo\nA terra toda a rodar”",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "poética"
+      },
+      {
+        "id": 2,
+        "texto": "publicitária"
+      },
+      {
+        "id": 3,
+        "texto": "coloquial"
+      },
+      {
+        "id": 4,
+        "texto": "acadêmica"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "250",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Julgue as assertivas quanto à identificação do processo de formação das palavras em destaque.\nI. Não era um grande pintor, mas arriscava algumas pinceladas (derivação prefixal).\nII. Há sempre alguém disposto a apedrejar (derivação parassintética).\nIII. Ele se desculpou pelo atraso (derivação regressiva).",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Está correta apenas a I."
+      },
+      {
+        "id": 2,
+        "texto": "Estão corretas apenas I e II."
+      },
+      {
+        "id": 3,
+        "texto": "Estão corretas apenas II e III."
+      },
+      {
+        "id": 4,
+        "texto": "Estão corretas apenas I e III."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "251",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Em qual das alternativas o uso do acento grave (crase) está incorreto?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A pensão à qual tenho direito, finalmente me foi concedida."
+      },
+      {
+        "id": 2,
+        "texto": "Chegará grande quantidade de turistas à partir de dezembro."
+      },
+      {
+        "id": 3,
+        "texto": "Impossível resistir àquela visão de um mar azul com águas calmas."
+      },
+      {
+        "id": 4,
+        "texto": "A angústia faz mal à alma."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "252",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "O passo de Gabriela tem 60cm de medida de comprimento. Para ir de sua casa à escola, ela caminha sem parar durante 25 minutos, dando um passo por segundo. A distância da casa de Gabriela à escola é de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "840 m"
+      },
+      {
+        "id": 2,
+        "texto": "900 m"
+      },
+      {
+        "id": 3,
+        "texto": "950 m"
+      },
+      {
+        "id": 4,
+        "texto": "980 m"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "253",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Um agricultor tem que regar 60 pés de acerola ao longo de uma vereda retilínea e distando 1 metro uma da outra. Ele encheu seu regador numa fonte situada na mesma vereda, a 15 metros do primeiro pé de acerola, e a cada viagem rega 3 pés de acerola. Começando e terminando na fonte, o percurso total que esse agricultor terá que caminhar até regar todos os pés de acerola é de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "1820 m"
+      },
+      {
+        "id": 2,
+        "texto": "1830 m"
+      },
+      {
+        "id": 3,
+        "texto": "1840 m"
+      },
+      {
+        "id": 4,
+        "texto": "1850 m"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "254",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Para um serviço voluntário na Festa do Chocolate na Barraca do Doce em prol do Paróquia local existem 7 voluntários para exercer 4 funções distintas. Qualquer um deles está habilitado para exercer qualquer uma dessas funções. Portanto, podem ser escolhidos quaisquer 4 dentre os 7 voluntários e atribuir a cada um deles uma das 4 funções existentes. As possibilidades que existem para essa atribuição, é de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "820"
+      },
+      {
+        "id": 2,
+        "texto": "840"
+      },
+      {
+        "id": 3,
+        "texto": "860"
+      },
+      {
+        "id": 4,
+        "texto": "880"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "255",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Uma empresa de construção tem 15 trabalhadores que constroem 3 casas em 45 dias, trabalhando 8 horas por dia. Quantos trabalhadores devem ser contratados para juntar-se a esses trabalhadores para construírem 5 casas em 30 dias, trabalhando 6 horas por dia:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "50"
+      },
+      {
+        "id": 2,
+        "texto": "45"
+      },
+      {
+        "id": 3,
+        "texto": "40"
+      },
+      {
+        "id": 4,
+        "texto": "35"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "256",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Uma escola lançou uma campanha para seus alunos arrecadarem, durante 30 dias, alimentos não perecíveis para doar ao Instituição Filantrópica da cidade. Cinquenta alunos aceitaram a tarefa e nos primeiros 20 dias trabalharam 4h diárias, arrecadando 60kg de alimentos por dia. Decorrido esse período, 30 alunos desistiram do projeto, e o restante dos alunos passaram a trabalhar 3h diárias nos dias seguintes até o término da campanha. Admitindo-se que o ritmo de coleta tenha se mantido constante, a quantidade de alimentos arrecadados ao final do prazo estipulado seria de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "180kg"
+      },
+      {
+        "id": 2,
+        "texto": "240kg"
+      },
+      {
+        "id": 3,
+        "texto": "1380kg"
+      },
+      {
+        "id": 4,
+        "texto": "1420kg"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "257",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Com o prêmio da Mega Sena acumulado, três amigos resolveram fazer um bolão e após algumas tentativas foram contemplados com um prêmio que foi dividido proporcionalmente, conforme a participação financeira de cada um: Hélio recebeu 40% do prêmio; Emerson recebeu 7/20 do prêmio; Edgar recebeu R$65.000,00 que restou do prêmio. Nas condições acima expostas, é correto afirmar que:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O valor total do prêmio é de R$ 300.000,00."
+      },
+      {
+        "id": 2,
+        "texto": "Hélio recebeu R$ 104.000,00 e Emerson recebeu R$ 90.000,00."
+      },
+      {
+        "id": 3,
+        "texto": "Hélio recebeu R$ 91.000,00 e Emerson recebeu R$ 104.000,00."
+      },
+      {
+        "id": 4,
+        "texto": "Hélio recebeu R$ 104.000,00 e Emerson recebeu R$ 91.000,00."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "258",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Um tanque de água tem uma torneira de entrada e uma de saída. A torneira de entrada enche o tanque a uma taxa de 9 litros por minutos, enquanto a torneira de saída esvazia o tanque a uma taxa de 7 litros por minuto. Se o tanque inicialmente contém 140 litros de água, quanto tempo levará para o tanque atingir 200 litros:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "30 minutos"
+      },
+      {
+        "id": 2,
+        "texto": "40 minutos"
+      },
+      {
+        "id": 3,
+        "texto": "50 minutos"
+      },
+      {
+        "id": 4,
+        "texto": "1 hora"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "259",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Antônio, Alberto e Augusto foram jogar videogame. Antônio comprou 2/3 do número de fichas compradas por Alberto, e Augusto, 5/4 do número de fichas compradas por Antônio. Depois de ter usado 3 fichas, Augusto comentou com Antônio: “Agora temos, juntos, a mesma quantidade de fichas de Alberto”. Antônio, Alberto e Augusto tem quantas fichas, respectivamente:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "6, 4 e 5 fichas."
+      },
+      {
+        "id": 2,
+        "texto": "4, 6 e 5 fichas."
+      },
+      {
+        "id": 3,
+        "texto": "4, 5 e 6 fichas."
+      },
+      {
+        "id": 4,
+        "texto": "5, 6 e 4 fichas."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "260",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Daqui a 6 anos, a idade de Yasmin será igual ao quadrado da idade dela há 6 anos. A idade atual de Yasmin, é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "3 anos"
+      },
+      {
+        "id": 2,
+        "texto": "5 anos"
+      },
+      {
+        "id": 3,
+        "texto": "10 anos"
+      },
+      {
+        "id": 4,
+        "texto": "12 anos"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "261",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Ao fornecer suporte técnico, qual das alternativas descreve corretamente um problema relacionado a hardware?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Atualização de sistema operacional."
+      },
+      {
+        "id": 2,
+        "texto": "Falha no monitor de um computador."
+      },
+      {
+        "id": 3,
+        "texto": "Erro de software ao abrir um aplicativo."
+      },
+      {
+        "id": 4,
+        "texto": "Falta de conexão com a internet."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "262",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Qual é a função principal de uma manutenção preventiva em equipamentos de informática?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Formatar o computador."
+      },
+      {
+        "id": 2,
+        "texto": "Reparar componentes danificados após uma falha."
+      },
+      {
+        "id": 3,
+        "texto": "Identificar e corrigir possíveis problemas antes que causem falhas."
+      },
+      {
+        "id": 4,
+        "texto": "Realizar backup dos dados da rede."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "263",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "O que é essencial ao criar e gerenciar contas de usuários em uma rede de computadores?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Instalar impressoras para todos os usuários."
+      },
+      {
+        "id": 2,
+        "texto": "Garantir que todos os sistemas operacionais estejam atualizados."
+      },
+      {
+        "id": 3,
+        "texto": "Atribuir permissões adequadas e garantir a segurança das informações."
+      },
+      {
+        "id": 4,
+        "texto": "Configurar roteadores e switches de rede."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "264",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Qual é a principal finalidade de uma estratégia de backup em um ambiente de TI?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Melhorar o desempenho dos servidores."
+      },
+      {
+        "id": 2,
+        "texto": "Garantir a recuperação de dados em caso de falhas."
+      },
+      {
+        "id": 3,
+        "texto": "Aumentar a velocidade da rede."
+      },
+      {
+        "id": 4,
+        "texto": "Detectar e prevenir ataques cibernéticos."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "265",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Ao gerenciar a infraestrutura de rede, qual dispositivo é responsável por conectar diferentes segmentos de rede e garantir a comunicação entre eles?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Impressora."
+      },
+      {
+        "id": 2,
+        "texto": "Switch."
+      },
+      {
+        "id": 3,
+        "texto": "Scanner."
+      },
+      {
+        "id": 4,
+        "texto": "Antivírus."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "266",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Qual das opções a seguir é uma medida de segurança da informação em um ambiente corporativo?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Atribuir permissões de usuário sem controle de acesso."
+      },
+      {
+        "id": 2,
+        "texto": "Desativar o antivírus para economizar recursos."
+      },
+      {
+        "id": 3,
+        "texto": "Implementar políticas de senhas e restrições de acesso."
+      },
+      {
+        "id": 4,
+        "texto": "Ignorar atualizações de segurança em sistemas operacionais."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "267",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Analise os itens a seguir e marque a alternativa correta:\nSegundo o artigo 3º do Estatuto dos Servidores Públicos (Lei n. 016/90), o sistema de Administração de Pessoal compreende os seguintes órgãos:\nI. Órgãos de Assistência direta e imediata do Prefeito Municipal;\nII. Órgãos Centrais de Direção Superior;\nIII. Órgãos de Assessoramento Técnico;\nIV. Órgãos Vinculados.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Apenas os itens I, II e III estão corretos."
+      },
+      {
+        "id": 2,
+        "texto": "Apenas os itens I, III e IV estão corretos."
+      },
+      {
+        "id": 3,
+        "texto": "Apenas os itens I e II estão corretos."
+      },
+      {
+        "id": 4,
+        "texto": "Todos os itens estão corretos."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "268",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "Nos termos do artigo 4° do Estatuto dos Servidores Públicos (Lei n. 016/90), o Órgão de Assistência direta e imediata do Prefeito Municipal, subordinado ao seu gabinete, é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a Secretaria Geral de Administração."
+      },
+      {
+        "id": 2,
+        "texto": "o Departamento de Pessoal."
+      },
+      {
+        "id": 3,
+        "texto": "a Secretaria de Serviços Socais."
+      },
+      {
+        "id": 4,
+        "texto": "o Departamento de Fiscalização."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "269",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "No Microsoft Windows 7 ou superior, qual é a função do Windows Explorer?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Organizar e editar documentos de texto."
+      },
+      {
+        "id": 2,
+        "texto": "Exibir e gerenciar arquivos, pastas e diretórios no sistema."
+      },
+      {
+        "id": 3,
+        "texto": "Realizar cálculos e funções matemáticas."
+      },
+      {
+        "id": 4,
+        "texto": "Criar apresentações de slides."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "270",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "No Microsoft Word, qual comando representa áreas específicas de um documento que permitem a inserção de informações repetidas em todas as páginas, sem que seja necessário editá-las manualmente em cada uma delas.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Orientação da página."
+      },
+      {
+        "id": 2,
+        "texto": "Cabeçalhos e rodapés."
+      },
+      {
+        "id": 3,
+        "texto": "Clip-art."
+      },
+      {
+        "id": 4,
+        "texto": "Números de linha."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "271",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Baliza - GO",
+    "banca": "ITAME",
+    "enunciado": "“Nasceu em Taubaté, São Paulo, no dia 18 de abril de 1882. Alfabetizado pela mãe, logo despertou o gosto pela leitura, lendo todos os livros infantis da biblioteca de seu avô o Visconde de Tremembé. Ele situa-se entre os autores do Pré-Modernismo, período que precedeu a Semana de Arte Moderna, e consagrou-se como um dos primeiros autores de literatura infantil de nosso país e de toda América Latina, 'O Sítio do Pica-pau Amarelo' é sua obra de maior destaque, porém, também deixou uma extensa obra voltada para o público adulto onde retratava os vilarejos decadentes do Vale do Paraíba.”\n(Texto adaptado de https://www.ebiografia.com)\nA qual renomado escritor da literatura brasileira pertence o texto mencionado anteriormente?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Oswald de Andrade."
+      },
+      {
+        "id": 2,
+        "texto": "Carlos Drummond de Andrade."
+      },
+      {
+        "id": 3,
+        "texto": "Monteiro Lobato."
+      },
+      {
+        "id": 4,
+        "texto": "Manuel Bandeira."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "272",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "Leia o texto para responder as questões.\n\n CASO DE CANÁRIO\n\n Carlos Drummond de Andrade\n\nCasara-se havia duas semanas. Por isso, em casa dos sogros, a família resolveu que ele é que daria cabo do canário:\n__ Você compreende. Nenhum de nós teria coragem de sacrificar o pobrezinho, que nos deu tanta alegria. Todos somos muito ligados a ele, seria uma barbaridade. Você é diferente, ainda não teve tempo de afeiçoar-se ao bichinho. Vai ver que nem reparou nele, durante o noivado.\n__ Mas eu também tenho coração, ora essa. Como é que vou matar um pássaro só porque o conheço há menos tempo do que vocês?\n __ Porque não tem cura, o médico já disse. Pensa que não tentamos tudo? É para ele não sofrer mais e não aumentar o nosso sofrimento. Seja bom; vá.\n O sogro e a sogra apelaram no mesmo tom. Os olhos claros de sua mulher pediram-lhe com doçura:\n __ Vai, meu bem.\n Com repugnância pela obra de misericórdia que ia praticar, ele aproximou-se da gaiola. O canário nem sequer abriu o olho. Jazia a um canto, arrepiado, morto-vivo. É, esse está mesmo na última lona, e dói ver a lenta agonia de um ser tão gracioso, que viveu para cantar.\n __ Primeiro me tragam um vidro de éter e algodão. Assim ele não sentirá o horror da coisa.\n Embebeu de éter a bolinha de algodão, tirou o canário para fora com infinita delicadeza, aconchegou-o na palma da mão esquerda e, olhando para outro lado, aplicou-lhe a bolinha no bico. Sempre sem olhar para a vítima, deu-lhe uma torcida rápida e leve, com dois dedos no pescoço.\n E saiu para a rua, pequenino por dentro, angustiado, achando a condição humana uma droga. As pessoas da casa não quiseram aproximar-se do cadáver. Coube à cozinheira recolher a gaiola, para que sua vista não despertasse saudade e remorso em ninguém. Não havendo jardim para sepultar o corpo, depositou-o na lata de lixo.\n Chegou a hora de jantar, mas quem é que tinha fome naquela casa enlutada? O sacrificador, esse ficara rodando por aí, e seu desejo seria não voltar para casa nem para dentro de si mesmo. No dia seguinte, pela manhã, a cozinheira foi ajeitar a lata de lixo para o caminhão, e recebeu uma bicada voraz no dedo.\n __ Ui!\n Não é que o canário tinha ressuscitado, perdão, reluzia vivinho da silva, com uma fome danada?\n __ Ele estava precisando mesmo era de éter - concluiu o estrangulador, que se sentiu ressuscitar, por sua vez.\n\n No trecho “Chegou a hora de jantar, mas quem é que tinha fome naquela casa enlutada?” Considerando o princípio de coesão o termo, **mas**, exprime uma",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "oposição."
+      },
+      {
+        "id": 2,
+        "texto": "conclusão."
+      },
+      {
+        "id": 3,
+        "texto": "concessão."
+      },
+      {
+        "id": 4,
+        "texto": "consequência."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "273",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "Qual é a alternativa em que todas as palavras têm um dígrafo consonantal?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "olho – essa - compreende – família."
+      },
+      {
+        "id": 2,
+        "texto": "que – também – mulher – aumentar."
+      },
+      {
+        "id": 3,
+        "texto": "pobrezinho – bichinho – quiseram – disse."
+      },
+      {
+        "id": 4,
+        "texto": "repugnância – olhando – porque – sacrificador."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "274",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "No trecho “Com repugnância pela obra de misericórdia que ia praticar, ele aproximou-se da gaiola. O canário nem sequer abriu o olho. Jazia a um canto, arrepiado, morto-vivo. É, esse está mesmo na última lona, e dói ver a lenta agonia de um ser tão gracioso, que viveu para cantar.” Predomina a linguagem",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "poética."
+      },
+      {
+        "id": 2,
+        "texto": "formal."
+      },
+      {
+        "id": 3,
+        "texto": "informal."
+      },
+      {
+        "id": 4,
+        "texto": "jornalística."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "275",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "O trecho “Jazia a um canto, arrepiado, mortovivo.” No texto tem a mesma ideia de",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Estava completamente imóvel num canto, encrespado, morto-vivo."
+      },
+      {
+        "id": 2,
+        "texto": "Estava repousando num canto, desenrugado, nem morto e nem vivo."
+      },
+      {
+        "id": 3,
+        "texto": "Estava deslocado em um canto, desfranzido, morto-vivo."
+      },
+      {
+        "id": 4,
+        "texto": "Estava inquieto num canto, ouriçado, nem morto e nem vivo."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "276",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "No trecho “Coube à cozinheira recolher a gaiola...” Para saber porque a expressão destacada tem crase, é preciso recorrer a qual regra (correta)?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A letra “a” dos pronomes vão receber o sinal indicativo de crase por causa do termo regente."
+      },
+      {
+        "id": 2,
+        "texto": "Nas situações em que o nome se apresentar modificado por um adjunto adnominal há a crase."
+      },
+      {
+        "id": 3,
+        "texto": "A letra “a” que acompanha locuções femininas adverbiais, prepositivas e conjuntivas recebe o acento grave."
+      },
+      {
+        "id": 4,
+        "texto": "Substitui-se a palavra feminina por uma masculina equivalente. Caso ocorra a combinação a+o, a crase está confirmada."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "277",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "Marque a alternativa em que todas as palavras são substantivos.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "enlutada – desejo – bicada – olhar."
+      },
+      {
+        "id": 2,
+        "texto": "pássaro – família – gracioso – ligados."
+      },
+      {
+        "id": 3,
+        "texto": "semanas – sofrimento – canário – apelaram."
+      },
+      {
+        "id": 4,
+        "texto": "coragem – barbaridade – noivado – estrangulador."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "278",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "Na oração “O sogro e a sogra apelaram no mesmo tom.” O termo em destaque é",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Adjunto adnominal."
+      },
+      {
+        "id": 2,
+        "texto": "Predicativo do sujeito."
+      },
+      {
+        "id": 3,
+        "texto": "Complemento nominal."
+      },
+      {
+        "id": 4,
+        "texto": "Adjunto adverbial de modo."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "279",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "Em qual alternativa está expressa uma oração coordenada aditiva?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "“É para ele não sofrer mais e não aumentar o nosso sofrimento.”"
+      },
+      {
+        "id": 2,
+        "texto": "“Todos somos muito ligados a ele, seria uma barbaridade.”"
+      },
+      {
+        "id": 3,
+        "texto": "“As pessoas da casa não quiseram aproximar-se do cadáver.”"
+      },
+      {
+        "id": 4,
+        "texto": "“Ele estava precisando mesmo era de éter - concluiu o estrangulador...”"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "280",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "Leia o texto para responder as questões.\n\n“Quando hoje acordei, ainda fazia escuro\n [...]\n Chovia.\n Chovia uma triste chuva de resignação.\n Como contraste e consolo ao calor tempestuoso da noite.”\n\nNos versos de Manuel Bandeira: 'Chovia uma triste chuva' qual é a figura de linguagem predominante?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Perífrase."
+      },
+      {
+        "id": 2,
+        "texto": "Pleonasmo."
+      },
+      {
+        "id": 3,
+        "texto": "Anacoluto."
+      },
+      {
+        "id": 4,
+        "texto": "Hipérbole."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "281",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "Considerando as classes de palavras, no verso 'Quando hoje acordei, ainda fazia escuro,' a palavra destacada é um(a)",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Interjeição."
+      },
+      {
+        "id": 2,
+        "texto": "Conjunção."
+      },
+      {
+        "id": 3,
+        "texto": "Advérbio de tempo."
+      },
+      {
+        "id": 4,
+        "texto": "Advérbio de modo."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "282",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "Um serviço de diretório que fornece os métodos para armazenar dados de diretório e disponibilizá-los para os administradores e usuários da rede está relacionado a que serviço:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "EFS (Encrypting File System)"
+      },
+      {
+        "id": 2,
+        "texto": "Active Directory Domain Services"
+      },
+      {
+        "id": 3,
+        "texto": "Enumerador de Barramento PNP-X IP"
+      },
+      {
+        "id": 4,
+        "texto": "ICS (Compartilhamento de Conexão com a Internet)"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "283",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "Em relação a Conexão de Área de Trabalho Remota do Windows 7 é incorreto afirmar:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "É possível conectar impressora remota"
+      },
+      {
+        "id": 2,
+        "texto": "Não permite regular velocidade da conexão"
+      },
+      {
+        "id": 3,
+        "texto": "É permitido iniciar um programa a seguir na conexão"
+      },
+      {
+        "id": 4,
+        "texto": "É permitido conectar somente a unidade de DVD/CD."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "284",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "Sobre a Transferência Fácil do Windows 7 é incorreto afirmar:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A Transferência Fácil do Windows migra programas instalados."
+      },
+      {
+        "id": 2,
+        "texto": "Transfere arquivos e configurações usando uma rede."
+      },
+      {
+        "id": 3,
+        "texto": "Os dois computadores devem oferecer suporte ao método de transferência escolhido."
+      },
+      {
+        "id": 4,
+        "texto": "Permite copiar arquivos, fotos, músicas, configurações e muito mais de um computador executando o Windows XP para outro executando o Windows 7."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "285",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "De acordo com o Regimento Jurídico Único da Prefeitura de Campinorte, “Provimento é o ato pelo qual se efetua o preenchimento do cargo público, com a designação de seu titular”. O provimento derivado dar-se-á por meio de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Contrato"
+      },
+      {
+        "id": 2,
+        "texto": "Posse"
+      },
+      {
+        "id": 3,
+        "texto": "Promoção"
+      },
+      {
+        "id": 4,
+        "texto": "Substituição"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "286",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "Com base na Lei Orgânica Municipal, assinale a afirmativa correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A política de desenvolvimento urbano, executada pelo Poder Público Estadual, tem por objetivo ordenar o pleno desenvolvimento das funções sociais da cidade e garantir o bem-estar de seus habitantes."
+      },
+      {
+        "id": 2,
+        "texto": "O Plano Diretor, aprovado pela Câmara Municipal, é o instrumento básico da política de desenvolvimento e de expansão urbana."
+      },
+      {
+        "id": 3,
+        "texto": "A propriedade urbana cumpre sua função social, quando atende às exigências fundamentais de ordenação da cidade, expressas no Estatuto dos Servidores Municipais."
+      },
+      {
+        "id": 4,
+        "texto": "As desapropriações de imóveis urbanos serão feitas sem prévia e com justa indenização em dinheiro."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "287",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "No Microsoft Word 2010 ao pressionar ALT + A o que ocorre:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Aciona o menu Arquivo"
+      },
+      {
+        "id": 2,
+        "texto": "Aciona a janela Abrir"
+      },
+      {
+        "id": 3,
+        "texto": "Aciona o botão Alterar Estilo"
+      },
+      {
+        "id": 4,
+        "texto": "Aciona o comando Alinhar"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "288",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "Em relação ao comando Mesclar e Centralizar no Microsoft Excel 2010 em duas ou mais células é correto afirmar:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Une as células selecionadas a uma célula maior e centraliza o conteúdo na nova célula."
+      },
+      {
+        "id": 2,
+        "texto": "Torna todo conteúdo em visível em uma célula, exibindo-o em várias linhas."
+      },
+      {
+        "id": 3,
+        "texto": "Une as células selecionadas a uma célula menor e centraliza o conteúdo na nova célula."
+      },
+      {
+        "id": 4,
+        "texto": "Torna todo conteúdo em visível em uma célula, não exibindo-o em várias linhas."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "289",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "PEQUIM, 5 Agosto - O Ministério de Comércio da China informou nesta segunda-feira que companhias chinesas pararam de comprar produtos agrícolas dos Estados Unidos, e que a China não descarta impor tarifas a esses bens norte-americanos comprados após 3 de agosto.\n\n O fragmento acima, retirado do site UOL, revela mais um evento que constitui a guerra comercial entre China e EUA. Ao anunciar na última frase que “não descarta impor tarifas a esses bens norte-americanos”, o governo chinês propõe:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "o aumento das tarifas alfandegárias."
+      },
+      {
+        "id": 2,
+        "texto": "a supressão de medidas protecionistas."
+      },
+      {
+        "id": 3,
+        "texto": "a isenção de impostos a investidores estrangeiros."
+      },
+      {
+        "id": 4,
+        "texto": "a suspensão de impostos sobre produtos importados."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "290",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Campinorte - GO",
+    "banca": "ITAME",
+    "enunciado": "Foi um período da História do Brasil em que houve cassação de direitos políticos de opositores ao regime; repressão aos movimentos sociais e manifestações políticas de oposição; censura aos meios de comunicação; censura aos artistas; aproximação dos Estados Unidos; controle dos sindicatos; e implantação do bipartidarismo. \n\nO texto refere-se às características do(s):",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Estado Novo, durante a Era Vargas."
+      },
+      {
+        "id": 2,
+        "texto": "Regime Militar, instituído pelo Golpe em 1964."
+      },
+      {
+        "id": 3,
+        "texto": "mandatos presidenciais petistas, entre 2003 e 2016."
+      },
+      {
+        "id": 4,
+        "texto": "período de redemocratização do Brasil, pós Constituição de 1988."
+      }
+    ],
+    "resposta_correta": 2
   }
 ]
