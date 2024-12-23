@@ -7233,33 +7233,6 @@
     "resposta_correta": 1
   },
   {
-    "id": "296",
-    "cargo": "Técnico em Informática",
-    "nivel": "Médio",
-    "prova": "Prefeitura Municipal de Edéia - GO",
-    "banca": "ITAME",
-    "enunciado": "Questão 27 - Enunciado não informado. Por favor, forneça o conteúdo.",
-    "alternativas": [
-      {
-        "id": 1,
-        "texto": "Alternativa correta."
-      },
-      {
-        "id": 2,
-        "texto": "Alternativa incorreta."
-      },
-      {
-        "id": 3,
-        "texto": "Alternativa incorreta."
-      },
-      {
-        "id": 4,
-        "texto": "Alternativa incorreta."
-      }
-    ],
-    "resposta_correta": 1
-  },
-  {
     "id": "297",
     "cargo": "Técnico em Informática",
     "nivel": "Médio",
