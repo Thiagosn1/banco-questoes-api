@@ -7096,5 +7096,221 @@
       }
     ],
     "resposta_correta": 2
+  },
+  {
+    "id": "291",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "banca": "ITAME",
+    "enunciado": "Pressionando CTRL + Y no Microsoft Excel o que ocorre?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Refaz uma ação."
+      },
+      {
+        "id": 2,
+        "texto": "Abre a janela auto-ajuda."
+      },
+      {
+        "id": 3,
+        "texto": "Insere a fórmula concatenar."
+      },
+      {
+        "id": 4,
+        "texto": "Cola documento especial."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "292",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "banca": "ITAME",
+    "enunciado": "Em relação ao SQL é incorreto afirmar.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Contém recurso para definição da estrutura de dados."
+      },
+      {
+        "id": 2,
+        "texto": "Permite a modificação de dados no banco de dados."
+      },
+      {
+        "id": 3,
+        "texto": "Recursos como DDL, DMD, DQL, DCL, DTL, DLD fazem parte do SQL."
+      },
+      {
+        "id": 4,
+        "texto": "Compõe na especificação de restrições de segurança."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "293",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "banca": "ITAME",
+    "enunciado": "A fórmula =ARRUMAR(texto) corresponde a qual função no Microsoft Excel?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Converter números em texto, o que pode dificultar a referência em cálculos posteriores."
+      },
+      {
+        "id": 2,
+        "texto": "Remove todos os espaços do texto exceto os espaços únicos entre palavras."
+      },
+      {
+        "id": 3,
+        "texto": "Cria uma frase unindo os dados da coluna A com outro texto."
+      },
+      {
+        "id": 4,
+        "texto": "Permite que você altere a maneira de exibir um número aplicando formatação a ele, com códigos de formatação."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "294",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "banca": "ITAME",
+    "enunciado": "Em relação a mala direta do Microsoft Word é incorreto afirmar.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O documento principal que contém o texto básico, é o mesmo em todos os documentos de saída."
+      },
+      {
+        "id": 2,
+        "texto": "A lista de destinatários é um banco de dados que contém as informações que podem ser mescladas com os documentos de saída."
+      },
+      {
+        "id": 3,
+        "texto": "O texto em um documento de saída pode ser o mesmo em todos os documentos de saída, mas você pode aplicar formatação em documentos específicos."
+      },
+      {
+        "id": 4,
+        "texto": "A lista de destinatários é um arquivo de banco de dados do Microsoft Access ou uma planilha do Power Point."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "295",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "banca": "ITAME",
+    "enunciado": "Qual arquitetura do SQL é disponível e permitido na instalação no sistema operacional Windows?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "32bits ou 64bits."
+      },
+      {
+        "id": 2,
+        "texto": "Ram e Rom."
+      },
+      {
+        "id": 3,
+        "texto": "Linkon e Linkoff."
+      },
+      {
+        "id": 4,
+        "texto": "Server e Vision."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "296",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "banca": "ITAME",
+    "enunciado": "Questão 27 - Enunciado não informado. Por favor, forneça o conteúdo.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Alternativa correta."
+      },
+      {
+        "id": 2,
+        "texto": "Alternativa incorreta."
+      },
+      {
+        "id": 3,
+        "texto": "Alternativa incorreta."
+      },
+      {
+        "id": 4,
+        "texto": "Alternativa incorreta."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "297",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "banca": "ITAME",
+    "enunciado": "Ao pressionar as teclas CTRL + B no Microsoft Word 2010, o que ocorre?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Salva o documento."
+      },
+      {
+        "id": 2,
+        "texto": "Copia parte do texto."
+      },
+      {
+        "id": 3,
+        "texto": "Negrita o texto selecionado."
+      },
+      {
+        "id": 4,
+        "texto": "Altera background."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "298",
+    "cargo": "Técnico em Informática",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Edéia - GO",
+    "banca": "ITAME",
+    "enunciado": "Em relação a arquivos e pastas no sistema operacional Windows é correto afirmar:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A extensão da Pasta no Windows é .EXE."
+      },
+      {
+        "id": 2,
+        "texto": "Arquivos com extensão .xlsx são próprios do Power Point."
+      },
+      {
+        "id": 3,
+        "texto": "A estrutura de uma Pasta pode ser composta com Pastas e Subpastas."
+      },
+      {
+        "id": 4,
+        "texto": "Arquivos com extensão .docx podem ser abertos pelo software PAINT."
+      }
+    ],
+    "resposta_correta": 3
   }
 ]
