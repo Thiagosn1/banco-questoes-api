@@ -10013,5 +10013,1462 @@
       }
     ],
     "resposta_correta": 3
+  },
+  {
+    "id": "387",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "De acordo com a ortografia oficial vigente, marque a alternativa correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "As palavras \"início\" e \"série\" recebem acento gráfico com base em regras gramaticais diferentes."
+      },
+      {
+        "id": 2,
+        "texto": "Nas palavras \"jurídicas\" e \"econômicas\", o emprego do acento gráfico possui justificativas gramaticais diferentes."
+      },
+      {
+        "id": 3,
+        "texto": "Todas as paroxítonas terminadas em \"ens\" são acentuadas."
+      },
+      {
+        "id": 4,
+        "texto": "Os vocábulos \"líquido\" e \"translúcido\" recebem acentuação gráfica com base na mesma regra gramatical."
+      },
+      {
+        "id": 5,
+        "texto": "As palavras \"órgãos\" e \"últimos\" são acentuadas pela incidência da mesma regra gramatical."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "388",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa cuja palavra encontra-se corretamente acentuada:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "rítmo"
+      },
+      {
+        "id": 2,
+        "texto": "ítens"
+      },
+      {
+        "id": 3,
+        "texto": "vírus"
+      },
+      {
+        "id": 4,
+        "texto": "ruím"
+      },
+      {
+        "id": 5,
+        "texto": "traíu"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "389",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "De acordo com o Novo Acordo Ortográfico, assinale a alternativa em que todas as palavras estão grafadas corretamente:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "idéia, urubú, fútil"
+      },
+      {
+        "id": 2,
+        "texto": "inútil, assembleia, voo"
+      },
+      {
+        "id": 3,
+        "texto": "revólver, parabéns, juíz"
+      },
+      {
+        "id": 4,
+        "texto": "colméia, raíz, juízo"
+      },
+      {
+        "id": 5,
+        "texto": "herói, ruído, juri"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "390",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a opção que possui ERRO de pontuação:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Ainda tenho esperanças, pois a situação do país irá mudar."
+      },
+      {
+        "id": 2,
+        "texto": "No Brasil, a diferença entre as classes sociais ainda é muito grande."
+      },
+      {
+        "id": 3,
+        "texto": "O Brasil, é um país extremamente desigual."
+      },
+      {
+        "id": 4,
+        "texto": "Não se sabe exatamente quando, mas, em breve, o país sairá dessa crise."
+      },
+      {
+        "id": 5,
+        "texto": "O Centro-oeste, que é uma região próspera do país, ajudará o Brasil a sair da crise."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "391",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Marque a alternativa correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Ele, apesar de tudo, não deveria ter sido preso."
+      },
+      {
+        "id": 2,
+        "texto": "Ele tinha, uma pistola automática em sua residência."
+      },
+      {
+        "id": 3,
+        "texto": "Conduziram-no à prisão, mas só permitiram que, ligasse para o advogado, na delegacia."
+      },
+      {
+        "id": 4,
+        "texto": "Precisando, de um advogado, procure."
+      },
+      {
+        "id": 5,
+        "texto": "Em fila, os parentes, aguardavam, ansiosamente, o horário de visitas aos detentos."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "392",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Analise a frase abaixo e, em seguida, marque a alternativa que, na ordem, complementa de forma correta os campos em branco: A plenária, que foi realizada na ______ superior do prédio anexo, teve como pauta a ______ acerca dos limites da ______ de direitos patrimoniais disponíveis.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "seção - sessão - discussão - seção"
+      },
+      {
+        "id": 2,
+        "texto": "sessão - cessão - discursão - seção"
+      },
+      {
+        "id": 3,
+        "texto": "seção - cessão - discursão - sessão"
+      },
+      {
+        "id": 4,
+        "texto": "sessão - sessão - discussão - cessão"
+      },
+      {
+        "id": 5,
+        "texto": "sessão - seção - discussão - cessão"
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "393",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa em que todas as palavras estão grafadas de maneira correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "deslise - sossego - atravez"
+      },
+      {
+        "id": 2,
+        "texto": "avestruz - análize - objeção"
+      },
+      {
+        "id": 3,
+        "texto": "obcecado - exceção - empecilho"
+      },
+      {
+        "id": 4,
+        "texto": "ancioso - quiseram - repercussão"
+      },
+      {
+        "id": 5,
+        "texto": "excessivo - obcessão - precisão"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "394",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Considerando a significação das palavras abaixo, assinale a alternativa que relaciona corretamente seus sinônimos, atentando para a grafia: NOTÁVEL - IMEDIATO - CONCEDER - CONSERTAR - CONFIRMAR - PRINCIPIANTE",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "iminente - eminente - deferir - ratificar - retificar - incipiente"
+      },
+      {
+        "id": 2,
+        "texto": "eminente - iminente - deferir - retificar - ratificar - incipiente"
+      },
+      {
+        "id": 3,
+        "texto": "eminente - iminente - diferir - ratificar - retificar - insipiente"
+      },
+      {
+        "id": 4,
+        "texto": "iminente - eminente - diferir - retificar - ratificar - incipiente"
+      },
+      {
+        "id": 5,
+        "texto": "eminente - iminente - deferir - ratificar - retificar - insipiente"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "395",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "De acordo com o Novo Acordo Ortográfico, assinale a alternativa em que todas as palavras estão grafadas corretamente:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "microondas - guarda-roupa - retro-mencionada"
+      },
+      {
+        "id": 2,
+        "texto": "pré-escolar - arqui-inimigo - sócio-educativo"
+      },
+      {
+        "id": 3,
+        "texto": "infraestrutura - semiaberto - intermunicipal"
+      },
+      {
+        "id": 4,
+        "texto": "auto-conhecimento - supratranscrito - sub-desenvolvido"
+      },
+      {
+        "id": 5,
+        "texto": "preexistente - micro-ônibus - auto-escola"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "396",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa que preenche corretamente a lacuna: O processo ______ me referi foi anulado pelo tribunal.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "que"
+      },
+      {
+        "id": 2,
+        "texto": "o qual"
+      },
+      {
+        "id": 3,
+        "texto": "à que"
+      },
+      {
+        "id": 4,
+        "texto": "ao qual"
+      },
+      {
+        "id": 5,
+        "texto": "em que"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "397",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa que complementa corretamente as lacunas abaixo: 1-A audiência _____ assistimos foi bastante tumultuada. 2 - Aquele livro _____ gostou é muito bom. 3- O reeducando cumpriu _____ condições impostas. 4 - O renomado jurista, _____ obras foram reeditadas, é o meu preferido. 5- Finalmente cheguei _____ local de trabalho.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a que - de que - as - cujas - ao"
+      },
+      {
+        "id": 2,
+        "texto": "a que- que - as - de cujas - ao"
+      },
+      {
+        "id": 3,
+        "texto": "que - de que - com as - cujas - no"
+      },
+      {
+        "id": 4,
+        "texto": "a qual - que - com as - cuja as - no"
+      },
+      {
+        "id": 5,
+        "texto": "que- que - as - cujo as - ao"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "398",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa que preenche corretamente as lacunas: _____ saiu mais cedo da festa? - _____ tive vontade. -E não revela _____? -Nem eu sei o _____",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Por que, Porque, por que, por quê"
+      },
+      {
+        "id": 2,
+        "texto": "Por que, Porque, por quê, porquê"
+      },
+      {
+        "id": 3,
+        "texto": "Porquê, Por que, porque, por quê"
+      },
+      {
+        "id": 4,
+        "texto": "Por quê, Porque, por que, porquê"
+      },
+      {
+        "id": 5,
+        "texto": "Porque, Porque, por quê, por quê"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "399",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Marque a alternativa que apresenta a relação das palavras que complementam corretamente as lacunas abaixo: _____ três meses não chove. Daqui _____ pouco terminarei as atividades programadas para hoje. Agora _____ pouco busquei os processos que estavam conclusos _____ mais de trinta dias. A sede do Ministério Público fica _____ cerca de trinta metros de distância.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A-a– há – há – a"
+      },
+      {
+        "id": 2,
+        "texto": "Há-há-a-a- há"
+      },
+      {
+        "id": 3,
+        "texto": "A-há- a-há-a"
+      },
+      {
+        "id": 4,
+        "texto": "Há-a-a-a-a"
+      },
+      {
+        "id": 5,
+        "texto": "Há-a- há - há - a"
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "400",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Leia atentamente as alternativas abaixo e assinale a que possui oração com sujeito indeterminado:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Choveu pouco no último verão."
+      },
+      {
+        "id": 2,
+        "texto": "Faz dois anos que não viajo."
+      },
+      {
+        "id": 3,
+        "texto": "Há muitos motivos para que eu permaneça aqui."
+      },
+      {
+        "id": 4,
+        "texto": "Aprovaram-se todos os cadastros."
+      },
+      {
+        "id": 5,
+        "texto": "Precisa-se de novos funcionários neste setor."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "401",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "A secretaria do Ministério Público costuma iniciar os atendimentos ao público cedo, pela manhã. No entanto, certo dia, em razão do período de festividades local (Festa de Nossa Senhora da Abadia de Muquém), a pontualidade no atendimento restou parcialmente comprometida. Com isso, 2/5 do público que aguardava atendimento foi ouvido com atraso, sendo que 14 desses indivíduos experimentaram mais de 30 minutos de atraso. Os demais cidadãos foram atendidos pontualmente. Assim, pode-se afirmar que, nessa ocasião, a razão entre o número de atendidos com mais de 30 minutos de atraso e o número de pessoas atendidas pontualmente, nessa ordem, foi de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "1:3."
+      },
+      {
+        "id": 2,
+        "texto": "2:3."
+      },
+      {
+        "id": 3,
+        "texto": "2:5."
+      },
+      {
+        "id": 4,
+        "texto": "3:4."
+      },
+      {
+        "id": 5,
+        "texto": "1:6."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "402",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Por questões orçamentárias, temporariamente o auxílio transporte do servidor público foi pago com 10% de desconto sobre o valor total devido a esse título. Sabendo-se que o valor pago foi de R$ 315,00, é correto afirmar que o valor total dessa verba era de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "R$ 350,00."
+      },
+      {
+        "id": 2,
+        "texto": "R$ 345,00."
+      },
+      {
+        "id": 3,
+        "texto": "R$ 346,50."
+      },
+      {
+        "id": 4,
+        "texto": "R$ 358,50."
+      },
+      {
+        "id": 5,
+        "texto": "R$ 360,00."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "403",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Em determinado órgão público, 1/3 dos servidores estão aptos a se aposentar. Dos que ainda não podem aposentar, 18% ainda estão no estágio probatório e correspondem a 270 servidores. Nesse caso, o total de servidores que podem aposentar são:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "2 250."
+      },
+      {
+        "id": 2,
+        "texto": "750."
+      },
+      {
+        "id": 3,
+        "texto": "920."
+      },
+      {
+        "id": 4,
+        "texto": "850."
+      },
+      {
+        "id": 5,
+        "texto": "1 500."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "404",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "O órgão estadual de administração penitenciária destinou verba para aquisição de material para três diferentes estabelecimentos prisionais em valores proporcionais ao número de detentos de cada um. O estabelecimento A possui 320 detentos, o estabelecimento prisional B possui 450 detentos e a unidade prisional C, por sua vez, possui 480 detentos. Sabendo que a verba disponibilizada soma um total de R$ 11.250,00, qual foi a quantia, em reais, destinada à unidade prisional B?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "2 880."
+      },
+      {
+        "id": 2,
+        "texto": "3 600."
+      },
+      {
+        "id": 3,
+        "texto": "3 750."
+      },
+      {
+        "id": 4,
+        "texto": "4 050."
+      },
+      {
+        "id": 5,
+        "texto": "4 320."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "405",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Os servidores do Ministério Público organizaram uma confraternização de fim de ano de modo que cada um deveria contribuir com a quantia de R$ 20,00 para arcar com o gasto total de bebidas e alimentação. Porém, no dia do evento, faltaram 5 pessoas, motivo pelo qual os presentes tiveram que cobrir as despesas dos faltantes. Assim, cada um contribuiu com mais R$ 2,00. O número de pessoas que efetivamente compareceu à festa foi de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "50."
+      },
+      {
+        "id": 2,
+        "texto": "55."
+      },
+      {
+        "id": 3,
+        "texto": "35."
+      },
+      {
+        "id": 4,
+        "texto": "40."
+      },
+      {
+        "id": 5,
+        "texto": "45."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "406",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Ficou determinado que seria distribuído entre as secretarias do Ministério Público da comarca de Niquelândia três tipos de papel: 150 papéis reciclados, 130 papéis brancos e demais papéis contendo o timbre da instituição, correspondendo esses últimos a 65% do total de papel a serem distribuído. Assim, o total de papéis a ser distribuído é de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "400."
+      },
+      {
+        "id": 2,
+        "texto": "580."
+      },
+      {
+        "id": 3,
+        "texto": "600."
+      },
+      {
+        "id": 4,
+        "texto": "750."
+      },
+      {
+        "id": 5,
+        "texto": "800."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "407",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "No curso de capacitação dos secretários para aprendizagem do sistema Atena, a aula ocorrerá das 08h30min às 11h55min, sendo dividida em dois blocos com um intervalo de 15 minutos entre eles. Nesse ínterim, quando deve iniciar o intervalo, sabendo que o 2° bloco de aula deve durar 20 minutos a menos que o 1º bloco?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "10h25."
+      },
+      {
+        "id": 2,
+        "texto": "10h20."
+      },
+      {
+        "id": 3,
+        "texto": "10h15."
+      },
+      {
+        "id": 4,
+        "texto": "10h30."
+      },
+      {
+        "id": 5,
+        "texto": "10h35."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "408",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Faça a correta correspondência: I-3,8 metros correspondem a _____ cm; II - 3000 gramas correspondem a _____ kg; III-3 mililitros correspondem a _____ litros.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "I -380cm; II - 30kg; III- 3 litros."
+      },
+      {
+        "id": 2,
+        "texto": "I - 380cm; II - 3Kg; III- 0,03 litros."
+      },
+      {
+        "id": 3,
+        "texto": "I -3800cm; II - 3Kg; III- 0,3 litros."
+      },
+      {
+        "id": 4,
+        "texto": "I -38cm; II - 30Kg; III - 3 litros."
+      },
+      {
+        "id": 5,
+        "texto": "I-38000cm; II - 3kg; III -30 litros."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "409",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "No Brasil, o sistema monetário é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "binário."
+      },
+      {
+        "id": 2,
+        "texto": "decimal."
+      },
+      {
+        "id": 3,
+        "texto": "binário e decimal."
+      },
+      {
+        "id": 4,
+        "texto": "quinário."
+      },
+      {
+        "id": 5,
+        "texto": "nenhuma das alternativas acima."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "410",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "A Ditadura militar no Brasil foi o regime instaurado em 1 de abril de 1964 e que durou até 15 de março de 1985. De caráter autoritário e nacionalista, teve início com o golpe militar que derrubou o governo de João Goulart, o então presidente democraticamente eleito. O regime acabou quando José Sarney assumiu a presidência, o que deu início ao período conhecido como Nova República. Foram Presidentes da República durante o período conhecido como Ditadura Militar (1964/1988), exceto:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Emílio Garrastazu Médici,"
+      },
+      {
+        "id": 2,
+        "texto": "Humberto de Alencar Castello Branco,"
+      },
+      {
+        "id": 3,
+        "texto": "Ernesto Geisel;"
+      },
+      {
+        "id": 4,
+        "texto": "Artur da Silva Bernardes;"
+      },
+      {
+        "id": 5,
+        "texto": "João Batista Figueiredo."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "411",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Na Constituição de 1.824, outorgada por D. Pedro I, havia um poder que deveria garantir o equilíbrio entre os demais poderes e que seria exercido pelo imperador. Trata-se do Poder:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Executivo;"
+      },
+      {
+        "id": 2,
+        "texto": "Legislativo;"
+      },
+      {
+        "id": 3,
+        "texto": "Judiciário;"
+      },
+      {
+        "id": 4,
+        "texto": "Inquisitorial;"
+      },
+      {
+        "id": 5,
+        "texto": "Moderador."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "412",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Na história recente do Brasil, foi realizado um ato político de impedimento do Presidente da República, com forte participação e apoio populares, por meio de uma manifestação de rua, constituída, sobretudo por jovens conhecidos como caras-pintadas. A manifestação popular mencionada refere-se ao impedimento do ex-Presidente da República:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Ernesto Geisel;"
+      },
+      {
+        "id": 2,
+        "texto": "Fernando Collor de Melo;"
+      },
+      {
+        "id": 3,
+        "texto": "Fernando Henrique Cardoso"
+      },
+      {
+        "id": 4,
+        "texto": "Itamar Franco;"
+      },
+      {
+        "id": 5,
+        "texto": "Tancredo Neves."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "413",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "A Era Vargas (1930 - 1945) apresentou:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O abandono definitivo da política de proteção ao café;"
+      },
+      {
+        "id": 2,
+        "texto": "A crescente centralização político-administrativa."
+      },
+      {
+        "id": 3,
+        "texto": "Um respeito aos princípios democráticos, em toda sua duração."
+      },
+      {
+        "id": 4,
+        "texto": "Um leve \"surto industrial\", resultante da conjuntura da Grande Guerra (1914 - 1918)."
+      },
+      {
+        "id": 5,
+        "texto": "Um caráter extremamente ditatorial, em todas as suas três fases."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "414",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "A Europa dos anos 30 conheceu os extremismos resultantes do confronto ideológico entre os totalitarismos de esquerda e de direita. Eram representantes de direita (nazi-fascismo), no Brasil:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "os aliancistas, reunidos em torno da Aliança Nacional Libertadora;"
+      },
+      {
+        "id": 2,
+        "texto": "os \"camisas-verdes\" liderados por Luís Carlos Prestes;"
+      },
+      {
+        "id": 3,
+        "texto": "os tenentes, que após a Revolução de 1930, tornaram-se defensores do Estado Fascista;"
+      },
+      {
+        "id": 4,
+        "texto": "os integralistas, sob a liderança de Plínio Salgado, sonhavam com um Estado Totalitário;"
+      },
+      {
+        "id": 5,
+        "texto": "os getulistas, adeptos de um Estado Forte, sob a liderança de Vargas."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "415",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Predomina no Estado de Goiás a vegetação típica de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Cerrado;"
+      },
+      {
+        "id": 2,
+        "texto": "Caatinga;"
+      },
+      {
+        "id": 3,
+        "texto": "Floresta de Araucária;"
+      },
+      {
+        "id": 4,
+        "texto": "Floresta Tropical;"
+      },
+      {
+        "id": 5,
+        "texto": "Pantanal;"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "416",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Os seguintes países fazem fronteira com o Brasil, exceto:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Colômbia;"
+      },
+      {
+        "id": 2,
+        "texto": "Paraguai;"
+      },
+      {
+        "id": 3,
+        "texto": "Guiana Francesa;"
+      },
+      {
+        "id": 4,
+        "texto": "Chile;"
+      },
+      {
+        "id": 5,
+        "texto": "Bolívia."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "417",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "O BRICS é um agrupamento econômico atualmente composto por cinco países. Não se trata de um bloco econômico ou uma instituição internacional, mas de um mecanismo internacional na forma de um agrupamento informal, ou seja, não registrado burocraticamente com estatuto e carta de princípios. Atualmente, os BRICS são detentores de mais de 21% do PIB mundial, formando o grupo de países que mais crescem no planeta. Além disso, representam 42% da população mundial, 45% da força de trabalho e o maior poder de consumo do mundo. Destacam-se também pela abundância de suas riquezas nacionais e as condições favoráveis que atualmente apresentam para explorá-las. Fazem parte do BRICS os seguintes países, exceto:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Brasil;"
+      },
+      {
+        "id": 2,
+        "texto": "Rússia,"
+      },
+      {
+        "id": 3,
+        "texto": "Indonésia,"
+      },
+      {
+        "id": 4,
+        "texto": "China;"
+      },
+      {
+        "id": 5,
+        "texto": "África do Sul."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "418",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "A soja é a cultura agrícola brasileira que mais cresceu nas últimas três décadas e corresponde a 49% da área plantada em grãos do país. O aumento da produtividade está associado aos avanços tecnológicos, ao manejo e eficiência dos produtores. O grão é componente essencial na fabricação de rações animais e com uso crescente na alimentação humana encontra-se em franco crescimento. Fonte: Ministério da Agricultura (http://www.agricultura.gov.br/vegetal/culturas/soja). Assinale a alternativa que identifica as duas Regiões que se destacam como as duas principais produtoras de soja do Brasil:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Centro-Oeste e Sul;"
+      },
+      {
+        "id": 2,
+        "texto": "Sul e Sudeste;"
+      },
+      {
+        "id": 3,
+        "texto": "Centro-Oeste e Nordeste;"
+      },
+      {
+        "id": 4,
+        "texto": "Sul e Nordeste;"
+      },
+      {
+        "id": 5,
+        "texto": "Norte e Nordeste;"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "419",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "A Região Centro-Oeste é umas das cinco regiões do Brasil definidas pelo Instituto Brasileiro de Geografia e Estatística (IBGE) em 1969. É formada por:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Três estados mais o Distrito Federal;"
+      },
+      {
+        "id": 2,
+        "texto": "Quatro estados;"
+      },
+      {
+        "id": 3,
+        "texto": "Três estados mais Brasília;"
+      },
+      {
+        "id": 4,
+        "texto": "Cinco estados;"
+      },
+      {
+        "id": 5,
+        "texto": "Quatro estados mais o Distrito Federal."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "420",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Os navegadores de internet ou browsers servem para permitir o acesso do usuário a documentos enviados pelos servidores bem como o acesso às informações ou páginas da internet. Abaixo são listados navegadores de internet, exceto:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Internet Explorer;"
+      },
+      {
+        "id": 2,
+        "texto": "Mozilla Firefox;"
+      },
+      {
+        "id": 3,
+        "texto": "Safari;"
+      },
+      {
+        "id": 4,
+        "texto": "Opera;"
+      },
+      {
+        "id": 5,
+        "texto": "Atena."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "421",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Marque a opção que NÃO apresenta um sistema operacional (SO):",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Linux;"
+      },
+      {
+        "id": 2,
+        "texto": "Windows 7;"
+      },
+      {
+        "id": 3,
+        "texto": "Windows 8;"
+      },
+      {
+        "id": 4,
+        "texto": "RAM;"
+      },
+      {
+        "id": 5,
+        "texto": "Windows XP;"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "422",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Um certo consumidor queria adquirir um computador para uso pessoal e, ao fazer uma pesquisa pela Internet observou as seguintes qualidades nas configurações dos componentes de hardware de uma máquina: 3.3 GHz, 4 MB, 2 TB, 100 Mbps e 64 bits. De acordo com as informações acima:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "3.3 GHz é a velocidade do processador;"
+      },
+      {
+        "id": 2,
+        "texto": "2 TB é a quantidade de memória RAM;"
+      },
+      {
+        "id": 3,
+        "texto": "100 Mbps é a velocidade do chipset;"
+      },
+      {
+        "id": 4,
+        "texto": "4 MB é a capacidade do HD;"
+      },
+      {
+        "id": 5,
+        "texto": "64 bits é a capacidade da memória ROM."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "423",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Quanto à configuração dos microcomputadores, tem-se as seguintes espécies de dispositivos utilizados para processamento de dados pela CPU: 1. os utilizados exclusivamente na entrada de dados; 2. os empregados exclusivamente na saída de dados; 3. os periféricos que podem ser utilizados na entrada e também na saída de dados, desde que em momentos distintos. A opção que indica corretamente cada uma dessas espécies, respectivamente, é a:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "teclado, impressora multifuncional e plotter;"
+      },
+      {
+        "id": 2,
+        "texto": "scanner, impressora laserjet e pendrive;"
+      },
+      {
+        "id": 3,
+        "texto": "plotter, impressora laserjet e scanner;"
+      },
+      {
+        "id": 4,
+        "texto": "pendrive, impressora multifuncional e teclado;"
+      },
+      {
+        "id": 5,
+        "texto": "pendrive, plotter e scanner."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "424",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "De acordo com a Constituição Federal de 1988, são funções institucionais do Ministério Público, exceto:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "promover, privativamente, a ação penal pública, na forma da lei."
+      },
+      {
+        "id": 2,
+        "texto": "zelar pelo efetivo respeito dos Poderes Públicos e dos serviços de relevância pública aos direitos assegurados na Constituição, promovendo as medidas necessárias a sua garantia."
+      },
+      {
+        "id": 3,
+        "texto": "representação judicial e consultoria jurídica de entidades públicas."
+      },
+      {
+        "id": 4,
+        "texto": "promover o inquérito civil e a ação civil pública, para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos."
+      },
+      {
+        "id": 5,
+        "texto": "requisitar diligências investigatórias e a instauração de inquérito policial, indicados os fundamentos jurídicos de suas manifestações processuais."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "425",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Ainda de acordo com a Constituição Federal, marque a alternativa incorreta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado, incumbindolhe a defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis."
+      },
+      {
+        "id": 2,
+        "texto": "O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado, incumbindolhe, como expressão e instrumento do regime democrático, fundamentalmente, a orientação jurídica, a promoção dos direitos humanos e a defesa, em todos os graus, judicial e extrajudicial, dos direitos individuais e coletivos, de forma integral e gratuita, aos necessitados."
+      },
+      {
+        "id": 3,
+        "texto": "São princípios institucionais do Ministério Público a unidade, a indivisibilidade e a independência funcional."
+      },
+      {
+        "id": 4,
+        "texto": "As funções do Ministério Público só podem ser exercidas por integrantes da carreira, que deverão residir na comarca da respectiva lotação, salvo autorização do chefe da instituição."
+      },
+      {
+        "id": 5,
+        "texto": "Ao Ministério Público é assegurada autonomia funcional e administrativa, podendo, observado o disposto no art. 169, propor ao Poder Legislativo a criação e extinção de seus cargos e serviços auxiliares, provendo-os por concurso público de provas ou de provas e títulos, a política remuneratória e os planos de carreira; a lei disporá sobre sua organização e funcionamento."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "426",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O Ministério Público da União compreende o Ministério Público Federal, o Ministério Público do Trabalho, o Ministério Público Militar e o Ministério Público junto ao Tribunal de Contas."
+      },
+      {
+        "id": 2,
+        "texto": "O Ministério Público do Distrito Federal e Territórios não pertence ao Ministério Público da União."
+      },
+      {
+        "id": 3,
+        "texto": "Aos membros do Ministério Público são asseguradas as seguintes garantias: estabilidade, inamovibilidade e irredutibilidade de subsídio."
+      },
+      {
+        "id": 4,
+        "texto": "A todos os membros do Ministério Público é permitido exercer a advocacia."
+      },
+      {
+        "id": 5,
+        "texto": "A distribuição de processos no Ministério Público será imediata."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "427",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "É órgão da Administração Superior do Ministério Público do Estado de Goiás:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a Corregedoria Geral do Ministério Público"
+      },
+      {
+        "id": 2,
+        "texto": "os Procuradores de Justiça."
+      },
+      {
+        "id": 3,
+        "texto": "os Centros de Apoio Operacional."
+      },
+      {
+        "id": 4,
+        "texto": "a Escola Superior do Ministério Público."
+      },
+      {
+        "id": 5,
+        "texto": "o Procurador-Geral de Justiça."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "428",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "De acordo com a Lei Complementar n° 25/98, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A Corregedoria Geral do Ministério Público é órgão da administração superior do Ministério Público, incumbindo-lhe velar pela observância de seus princípios institucionais."
+      },
+      {
+        "id": 2,
+        "texto": "O Conselho Superior é o órgão da administração superior encarregado de orientar e fiscalizar as atividades funcionais e a conduta dos membros do Ministério Público, bem como de fiscalizar e avaliar os resultados das metas institucionais e atividades dos demais órgãos da administração e dos órgãos auxiliares da atividade funcional."
+      },
+      {
+        "id": 3,
+        "texto": "O Colégio de Procuradores de Justiça, órgão de administração superior do Ministério Público, é presidido pelo Procurador-Geral de Justiça e integrado por 5 (cinco) Procuradores de Justiça eleitos, três pelos Promotores de Justiça em exercício e dois pelo Colégio de Procuradores de Justiça, para mandato de 1 (um) ano, vedada a reeleição."
+      },
+      {
+        "id": 4,
+        "texto": "Ao Procurador-Geral de Justiça compete, dentre outras atribuições, exercer a chefia do Ministério Público, representando-o judicial e extrajudicialmente, bem como integrar, como membro nato, e presidir o Colégio de Procuradores de Justiça, o Conselho Superior do Ministério Público e a Comissão de Concurso;"
+      },
+      {
+        "id": 5,
+        "texto": "A Procuradoria Geral de Justiça, órgão de direção superior do Ministério Público, funcionará em sede própria e será chefiada pelo Procurador-Geral de Justiça, nomeado pelo Governador do Estado dentre os integrantes vitalícios e em atividade na carreira, indicados em lista tríplice, para mandato de 4 (quatro) anos, permitidas sucessivas reconduções."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "429",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Ainda de acordo com a Lei Complementar nº 25/98, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "As Promotorias de Justiça poderão ser especializadas, criminais, cíveis, cumulativas ou gerais."
+      },
+      {
+        "id": 2,
+        "texto": "São consideradas Promotorias especializadas aquelas cujos cargos que as integram têm suas funções definidas pela espécie de infração penal, pela natureza da relação jurídica de direito civil ou pela competência de determinado órgão jurisdicional, fixada exclusivamente em razão da matéria."
+      },
+      {
+        "id": 3,
+        "texto": "São consideradas Promotorias cumulativas ou gerais aquelas cujos cargos que as integram têm suas funções definidas para a esfera penal, exclusivamente, sem distinção entre espécies de infração penal ou de órgão jurisdicional com competência fixada exclusivamente em razão da matéria."
+      },
+      {
+        "id": 4,
+        "texto": "Cada Promotoria de Justiça deverá manter os livros, pastas e arquivos obrigatórios, bem como registro e controle permanente dos procedimentos e expedientes, findos ou em andamento."
+      },
+      {
+        "id": 5,
+        "texto": "A Promotoria de Justiça será obrigatoriamente especializada se os cargos que a integram contiverem na sua denominação indicativo de espécie de infração penal, de relação jurídica de direito civil ou de órgão jurisdicional com competência definida exclusivamente em razão da matéria."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "430",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "De acordo com a Lei 10.460/88 (Estatuto dos Servidores Públicos do Estado de Goiás), são deveres do funcionário público, exceto:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "obediência às ordens superiores, ainda que manifestamente ilegais."
+      },
+      {
+        "id": 2,
+        "texto": "pontualidade."
+      },
+      {
+        "id": 3,
+        "texto": "guardar sigilo sobre os assuntos de natureza confidencial."
+      },
+      {
+        "id": 4,
+        "texto": "lealdade às instituições constitucionais e administrativas a que servir."
+      },
+      {
+        "id": 5,
+        "texto": "manter espírito de solidariedade, cooperação e lealdade para com os colegas de serviço."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "431",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "Ainda de acordo com a Lei 10.460/88 (Estatuto dos Servidores Públicos do Estado de Goiás), assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Constitui transgressão disciplinar e ao funcionário é proibido negligenciar ou descumprir qualquer ordem legítima."
+      },
+      {
+        "id": 2,
+        "texto": "Pelo exercício irregular de suas atribuições, o funcionário responde civil, penal e administrativamente."
+      },
+      {
+        "id": 3,
+        "texto": "As sanções civis, penais e disciplinares poderão acumular-se, sendo umas e outras independentes entre si, bem assim as instâncias civil, penal e administrativa."
+      },
+      {
+        "id": 4,
+        "texto": "A absolvição criminal afasta, em qualquer hipótese, a responsabilidade civil ou administrativa."
+      },
+      {
+        "id": 5,
+        "texto": "A responsabilidade civil decorre de procedimento omissivo ou comissivo, doloso ou culposo, que importe em prejuízo da Fazenda Pública Estadual ou de terceiros."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "432",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "A respeito das penalidades por transgressão disciplinar, previstas na Lei 10.460/88 (Estatuto dos Servidores Públicos do Estado de Goiás), assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Na aplicação das penas disciplinares não serão considerados os antecedentes do servidor."
+      },
+      {
+        "id": 2,
+        "texto": "A coação resistível para a prática de transgressão disciplinar é circunstância que agrava a pena."
+      },
+      {
+        "id": 3,
+        "texto": "Havendo conveniência para o serviço, a pena de suspensão poderá ser convertida em multa, na base de 20% (vinte por cento) por dia de vencimento ou remuneração, obrigando-se, neste caso, o funcionário a permanecer no serviço."
+      },
+      {
+        "id": 4,
+        "texto": "A pena de demissão será aplicada, dentre outras hipóteses, nos casos de contumácia na prática de transgressões disciplinares puníveis com suspensão."
+      },
+      {
+        "id": 5,
+        "texto": "Entende-se por contumácia a prática, no período de 5 (cinco) anos consecutivos, contado da data da primeira transgressão, de 3 (três) ou mais transgressões disciplinares pelas quais o servidor tenha sido efetivamente punido."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "433",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
+    "banca": "Não informada",
+    "enunciado": "De acordo com a Lei 14.810/04 (Plano de Carreira dos Servidores do Ministério Público do Estado de Goiás), marque a alternativa correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Admite-se a promoção e a progressão funcional durante o estágio probatório."
+      },
+      {
+        "id": 2,
+        "texto": "Promoção vertical é a elevação do servidor de uma classe para a imediatamente superior, dentro do mesmo cargo, da mesma categoria funcional e do mesmo grupo ocupacional."
+      },
+      {
+        "id": 3,
+        "texto": "A progressão funcional possui como critério específico o servidor estar enquadrado na referência atual por um período mínimo de 05 (cinco) anos."
+      },
+      {
+        "id": 4,
+        "texto": "A promoção vertical depende do número de vagas."
+      },
+      {
+        "id": 5,
+        "texto": "Os cargos são divididos em referências, com diferença de 5% (cinco por cento) de uma para outra."
+      }
+    ],
+    "resposta_correta": 2
   }
 ]
