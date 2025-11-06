@@ -7285,5 +7285,2733 @@
       }
     ],
     "resposta_correta": 3
+  },
+  {
+    "id": "299",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa que apresenta uma frase correta do ponto de vista gramatical.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Há vícios e vícios, e os que mais assolam a humanidade estão liberados pelos costumes a tempos."
+      },
+      {
+        "id": 2,
+        "texto": "Há um ano, no fórum, soube que seria o feliz proprietário de uma fazenda dali há um ou dois meses."
+      },
+      {
+        "id": 3,
+        "texto": "Daqui há pouco vão querer revogar a lei da gravidade."
+      },
+      {
+        "id": 4,
+        "texto": "As casas populares de a muito não passam de promessas."
+      },
+      {
+        "id": 5,
+        "texto": "Marcaram presença no evento autoridades que, havia não muito tempo, haviam sido processadas por improbidade."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "300",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa que apresenta uma frase correta do ponto de vista gramatical.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "É a comissão de deputados à cuja proposta de lei me referi."
+      },
+      {
+        "id": 2,
+        "texto": "Nunca me esqueço da rua à esquerda do mercado central e a qual todos nos dirigíamos todo santo dia."
+      },
+      {
+        "id": 3,
+        "texto": "Algumas poucas palavras a vista do acontecido e nada mais – a isso se resumiu o pronunciamento do prefeito."
+      },
+      {
+        "id": 4,
+        "texto": "Estão reservadas raras oportunidades a quem não se dedica a fazer o melhor, bem como àqueles que são pobres de espírito."
+      },
+      {
+        "id": 5,
+        "texto": "Costumamos não dar tanta atenção as soluções mais óbvias, que às vezes são as melhores."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "301",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa que apresenta uma frase INCORRETA do ponto de vista gramatical.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Las Vegas é aquela cidade que a noite ferve..."
+      },
+      {
+        "id": 2,
+        "texto": "Las Vegas é aquela cidade que à noite ferve..."
+      },
+      {
+        "id": 3,
+        "texto": "Las Vegas é aquela cidade cuja noite ferve..."
+      },
+      {
+        "id": 4,
+        "texto": "Las Vegas é aquela cidade em que a noite ferve..."
+      },
+      {
+        "id": 5,
+        "texto": "Las Vegas é aquela cidade que tem noite efervescente..."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "302",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Considere a seguinte frase: Eles não sabem por que não sabem. Assinale a assertiva cujo conteúdo transmite exatamente as mesmas informações que a frase acima.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Eles não sabem porque não sabem."
+      },
+      {
+        "id": 2,
+        "texto": "Eles não sabem por quê; não sabem!"
+      },
+      {
+        "id": 3,
+        "texto": "Eles não sabem – por quê? Não sabem."
+      },
+      {
+        "id": 4,
+        "texto": "Eles não sabem o porquê; não sabem."
+      },
+      {
+        "id": 5,
+        "texto": "Eles não sabem o porquê de não saberem."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "303",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Considere a seguinte situação. O corpo de bombeiros organizou uma força-tarefa destinada à realização de vistorias exclusivamente nos apartamentos residenciais de uma dada cidade, e a meta era avaliar todos esses apartamentos residenciais. Nenhum dos apartamentos do condomínio \"Edifício Ascari\" deixou de ser vistoriado. Alguns apartamentos do condomínio \"Edifício San Marino\" já foram vistoriados. No condomínio \"Edifício Gioconda\", alguns dos apartamentos a serem vistoriados já o foram. O edifício em questão possui apartamentos residenciais e apartamentos usados como escritórios comerciais. Nos três edifícios, os condôminos que já tiveram o apartamento vistoriado estão no aguardo de um comunicado da prefeitura atestando a condição regular dos seus imóveis. Diante disso, e considerando aspectos gramaticais e semânticos, é possível corretamente dizer que:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Os condôminos do edifício Ascari, cujos apartamentos já foram vistoriados estão aguardando o comunicado."
+      },
+      {
+        "id": 2,
+        "texto": "Os condôminos do edifício San Marino, cujos apartamentos já foram vistoriados, estão aguardando o comunicado."
+      },
+      {
+        "id": 3,
+        "texto": "Os condôminos do edifício Gioconda, cujos apartamentos já foram vistoriados, estão aguardando o comunicado."
+      },
+      {
+        "id": 4,
+        "texto": "Os condôminos do edifício Gioconda estão aguardando o comunicado."
+      },
+      {
+        "id": 5,
+        "texto": "Os condôminos do edifício Gioconda cujos apartamentos foram vistoriados estão aguardando o comunicado."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "304",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa em que não há incorreção gramatical.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Deixei de chamar-lhe pelo apelido de infância."
+      },
+      {
+        "id": 2,
+        "texto": "João está satisfeito: as mesmas tarefas consomem-lhe hoje menos tempo que no início da carreira, um ano atrás."
+      },
+      {
+        "id": 3,
+        "texto": "Senhor advogado, pedi ao órgão responsável que informe-lhe o local da reunião marcada para a semana que vem."
+      },
+      {
+        "id": 4,
+        "texto": "Não era minha obrigação fazer esse trabalho. O fiz porque quis."
+      },
+      {
+        "id": 5,
+        "texto": "O advogado está furioso porque nomeia-se sempre um desafeto seu como defensor dativo."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "305",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Considere o seguinte texto: Patrícia estava sendo investigada pela promotoria da comarca de Suazilândia de Goiás e pela promotoria de Romanópolis de Goiás. A certa altura de suas investigações, o promotor titular atuante em Suazilândia de Goiás, Sérgio, recebe a notícia de que Patrícia estaria namorando o chefe dela, Pedro (promotor titular da comarca de Patópolis), e que o casal teria arquitetado as irregularidades em apuração. Ao saber disso, Pedro resolve desde logo enviar ofício prestando informações a Sérgio, a fim de esclarecer a situação. Patrícia, notando a atitude de Pedro, decide também redigir um documento, mas prestando informações altamente comprometedoras sobre o chefe, e encaminha tal expediente a Raimundo, promotor titular de Romanópolis de Goiás. Sérgio vem a se comunicar com Raimundo, prestando-lhe as informações que recebera mediante o referido ofício. Uma semana depois, eis que Patrícia aparece na Promotoria de Suazilândia de Goiás e presta informações diretamente a Sérgio, que lhe faz diversas perguntas. Raimundo, ainda, vem a prestar informações sobre Pedro à Corregedoria-Geral do Ministério Público. Considerando o seguinte início de frase: O texto acima permite vislumbrar a existência de alguns personagens e promotorias, dentre os quais: Raimundo e... Considere as seguintes possibilidades de finais para a frase: 1) ao menos uma promotoria cujo titular prestou informações. 2) ao menos uma promotoria a cujo titular prestou informações. 3) ao menos uma promotoria acerca de cujo titular prestou informações. 4) ao menos uma promotoria porquanto cujo titular prestou informações. Quais, dentre os fragmentos \"1\", \"2\", \"3\" e \"4\", completariam a frase de forma a se poder reputar verdadeiro o seu conteúdo?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Somente \"2\" e \"3\"."
+      },
+      {
+        "id": 2,
+        "texto": "Somente \"3\" e \"4\"."
+      },
+      {
+        "id": 3,
+        "texto": "Somente \"1\" e \"3\"."
+      },
+      {
+        "id": 4,
+        "texto": "Somente \"1\" e \"4\"."
+      },
+      {
+        "id": 5,
+        "texto": "Somente \"1\" e \"2\"."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "306",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Assinale, dentre as alternativas \"a\", \"b\", \"c\", \"d\", aquela que apresenta uma frase correta do ponto de vista gramatical. Se não for o caso de nenhuma delas, assinale a alternativa \"e\".",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Trata-se o caso de uma antiga desavença entre os membros da família Mezenga e os membros da família Berdinazzi."
+      },
+      {
+        "id": 2,
+        "texto": "Trata-se os casos com o rigor que merecem."
+      },
+      {
+        "id": 3,
+        "texto": "Trata-se o cachorro com ração de primeira: o dono todo dia lhe enche o prato com a melhor e mais cara de todas."
+      },
+      {
+        "id": 4,
+        "texto": "Tratam-se de antigas desavenças entre os membros da família Mezenga e os membros da família Berdinazzi."
+      },
+      {
+        "id": 5,
+        "texto": "Nenhuma das alternativas anteriores apresenta uma frase correta do ponto de vista gramatical."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "307",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa que apresenta uma frase correta do ponto de vista gramatical.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A testemunha não compareceu porque estava doente?"
+      },
+      {
+        "id": 2,
+        "texto": "José é o chefe da jovem Maria, ou seja, é sobre as ordens dele que tal funcionária desempenha suas funções."
+      },
+      {
+        "id": 3,
+        "texto": "Não é a toa que eles são os mais assíduos frequentadores do banco dos réus na comarca."
+      },
+      {
+        "id": 4,
+        "texto": "Sexta-feira é aquele dia da semana mais modorrento, que passa devagar, e onde todos ficam muito ansiosos."
+      },
+      {
+        "id": 5,
+        "texto": "A senhora quer que eu ligo lá?"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "308",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Considere a frase abaixo: Embora fosse o mais jovem de sua turma, era o mais bem preparado. O termo \"embora\" pode ser substituído, mantendo o sentido e a correção gramatical da frase mesmo desacompanhado de qualquer outra alteração nela, pela expressão contida em alguma das alternativas abaixo. Encontre e assinale tal alternativa.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "conquanto"
+      },
+      {
+        "id": 2,
+        "texto": "apesar que"
+      },
+      {
+        "id": 3,
+        "texto": "porquanto"
+      },
+      {
+        "id": 4,
+        "texto": "inobstante"
+      },
+      {
+        "id": 5,
+        "texto": "a despeito de"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "309",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Do total de autos existentes em uma promotoria de justiça, sabe-se que 3/5 têm mais de dez anos e que 2/9 tratam sobre patrimônio público. A partir dessa informação, é possível dizer que o número total de processos não está compreendido entre:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "11 e 52"
+      },
+      {
+        "id": 2,
+        "texto": "53 e 94"
+      },
+      {
+        "id": 3,
+        "texto": "110 e 140"
+      },
+      {
+        "id": 4,
+        "texto": "139 e 177"
+      },
+      {
+        "id": 5,
+        "texto": "1030 e 1050"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "310",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "João e José, respectivamente secretário e oficial de uma promotoria de justiça, têm, cada qual, uma mesma quantidade de serviço sobre suas mesas. Considere que ambos iniciaram a realização dos respectivos serviços às 13h00min, e que João foi mais eficiente, gastando 80% do tempo usado por José para a conclusão das tarefas. Se João e José trabalharam ininterruptamente até finalizar essas suas atividades e João havia terminado as respectivas às 16h05, qual foi o horário em que José terminou seus próprios serviços?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "16h42min00seg"
+      },
+      {
+        "id": 2,
+        "texto": "16h51min15seg"
+      },
+      {
+        "id": 3,
+        "texto": "16h44min40seg"
+      },
+      {
+        "id": 4,
+        "texto": "16h44min24seg"
+      },
+      {
+        "id": 5,
+        "texto": "19h21min00seg"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "311",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Pedro tinha uma dívida de R$1000,00 perante a empresa de cartões de crédito em 31 de janeiro de 2014 e deixou de pagá-la, acreditando que no ano novo tudo se resolveria. Em vez disso, Pedro recebe uma cobrança dessa empresa logo em janeiro de 2015, acompanhada da memória de cálculo da dívida atualizada até 31 de dezembro de 2014. Suponha que, nesse cálculo, a taxa de juros aplicada pela empresa tenha sido de 15% ao mês para os primeiros seis meses da dívida e 20% para cada um dos demais, bem como o fato de que tenham sido aplicados \"juros sobre juros\" (juros compostos). Considere, ainda, que o cálculo não fez incidir qualquer índice a título de correção monetária. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O resultado a que chegou a empresa de cartão de crédito seria igualmente atingido se ela aplicasse a taxa média de 17,5% ao mês para os juros, mantido o sistema \"juros sobre juros\"."
+      },
+      {
+        "id": 2,
+        "texto": "O resultado a que chegou a empresa de cartão de crédito seria igualmente atingido se fosse aplicada a taxa média de 17,2727...% ao mês para os juros, porque 17,2727... é o resultado da seguinte conta: (6 x 15) + (5 x 20) / 11"
+      },
+      {
+        "id": 3,
+        "texto": "Pelos cálculos da empresa de cartões, a dívida deve ter chegado a dobrar, mas não a triplicar no período."
+      },
+      {
+        "id": 4,
+        "texto": "Pelos cálculos da empresa de cartões, a dívida deve ter chegado a triplicar, mas não a quadruplicar no período."
+      },
+      {
+        "id": 5,
+        "texto": "O valor da dívida seguramente superou R$4.000,00, nos cálculos da empresa de cartões"
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "312",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "O Prefeito de uma certa cidade, no dia em que iniciou sua gestão, abasteceu os três hospitais municipais – \"A\", \"B\", \"C\" – com todos os artigos médico-hospitalares de que precisavam para poderem funcionar. Além disso, organizou em poucas horas um estoque central de artigos médico-hospitalares para atender exclusivamente \"A\", \"B\", \"C\". \"A\" busca a cada 11 dias, no estoque central, os artigos médico-hospitalares de que necessita para suas rotinas. \"B\" o faz a cada 7 dias. \"C\", a cada 5 dias. Considere que: 1) a Prefeitura mantém o estoque central sempre cheio, exceto pelo fato de que só lhe providencia reposições de material no dia seguinte àquele em que haja ocorrido fornecimento a algum hospital; 2) o estoque central consegue armazenar, no máximo, o suficiente para atender aos pedidos de dois hospitais no mesmo dia. Diante disso, a primeira vez em que faltarão artigos no estoque central para que possa atender a todos os pedidos diários ocorrerá em uma data do:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "1º ano de mandato"
+      },
+      {
+        "id": 2,
+        "texto": "2º ano de mandato"
+      },
+      {
+        "id": 3,
+        "texto": "3º ano de mandato"
+      },
+      {
+        "id": 4,
+        "texto": "4º ano de mandato"
+      },
+      {
+        "id": 5,
+        "texto": "5º ano de mandato"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "313",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Um a cada 08 habitantes de um determinado povoado está desempregado. Sete a cada 20 desempregados desse povoado sobrevivem graças a \"bicos\". Se o povoado tem 3200 habitantes e, dentre eles, só pessoas desempregadas fazem \"bicos\", responda: quantos habitantes desse povoado fazem \"bicos\"?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "35"
+      },
+      {
+        "id": 2,
+        "texto": "140"
+      },
+      {
+        "id": 3,
+        "texto": "70"
+      },
+      {
+        "id": 4,
+        "texto": "210"
+      },
+      {
+        "id": 5,
+        "texto": "105"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "314",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Considere que 1kg de presunto custa R$25,00 no supermercado de uma cidade do interior de Goiás e que Maria comprou 350g de presunto em Goiânia por R$7,00. Quão mais caro está o presunto no supermercado do interior em relação a Goiânia?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "17,5%"
+      },
+      {
+        "id": 2,
+        "texto": "25%"
+      },
+      {
+        "id": 3,
+        "texto": "20%"
+      },
+      {
+        "id": 4,
+        "texto": "22,5%"
+      },
+      {
+        "id": 5,
+        "texto": "15%"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "315",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Se um determinado aparelho celular custa R$800,00 e seu preço diminui 10% a cada seis meses, em dois anos ele estará custando:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Menos de R$500,00"
+      },
+      {
+        "id": 2,
+        "texto": "mais que R$520 e menos de R$530"
+      },
+      {
+        "id": 3,
+        "texto": "mais que R$540 e menos de R$550"
+      },
+      {
+        "id": 4,
+        "texto": "mais que R$560 e menos de R$570"
+      },
+      {
+        "id": 5,
+        "texto": "mais que R$570 e menos de R$580"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "316",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Do total de funcionários (entre homens e mulheres) de uma grande empresa, sabe-se que: i) 453 são solteiros(as); ii) 302 moram em imóvel próprio; iii) 133 têm mais de 40 anos. Se 1/8 do total de funcionários é de pessoas solteiras que moram em imóvel próprio e têm mais de 40 anos, pode-se inferir que a empresa tem um número de funcionários maior que:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "1000"
+      },
+      {
+        "id": 2,
+        "texto": "1100"
+      },
+      {
+        "id": 3,
+        "texto": "1050"
+      },
+      {
+        "id": 4,
+        "texto": "1020"
+      },
+      {
+        "id": 5,
+        "texto": "900"
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "317",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "A uma velocidade de 80 km/h, o consumo médio de um carro é de 4 litros de combustível a cada 48 km. Sabendo-se que o acréscimo de cada 1km/h implica uma queda de rendimento de 0,1 km rodado por litro de combustível consumido e que, após rodar os primeiros 600 km de uma viagem a 80km/h, o motorista desse carro seguiu à velocidade 100km/h por mais duas horas, qual foi o consumo total, em litros de combustível?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "60 litros."
+      },
+      {
+        "id": 2,
+        "texto": "80 litros."
+      },
+      {
+        "id": 3,
+        "texto": "70 litros."
+      },
+      {
+        "id": 4,
+        "texto": "55 litros."
+      },
+      {
+        "id": 5,
+        "texto": "90 litros."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "318",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Acerca da organização política e administrativa do território brasileiro, é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "o Brasil é uma república federativa formada por 27 unidades, sendo 26 Estados e um Distrito Federal."
+      },
+      {
+        "id": 2,
+        "texto": "na divisão político-administrativa do Brasil, em 1988 é extinto o Território Federal de Fernando de Noronha, que passa a fazer parte do Estado de Pernambuco."
+      },
+      {
+        "id": 3,
+        "texto": "a Constituição Federal de 1988 criou o Estado do Tocantins, que passou a pertencer à região Norte."
+      },
+      {
+        "id": 4,
+        "texto": "a divisão político-administrativa do Brasil foi estruturada tendo como critério principal e determinante as condições naturais do território brasileiro."
+      },
+      {
+        "id": 5,
+        "texto": "a divisão política do território brasileiro tem mudado no decorrer do tempo"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "319",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Analise as assertivas: I) Minerais são substâncias ou compostos químicos sólidos inorgânicos de estrutura química bem definida, resultantes de processos físico-químicos; II) A argila é um exemplo de mineral não-metálico. III) As rochas magmáticas intrusivas resultam do resfriamento do magma no interior da crosta da Terra, tendo como exemplo o granito. IV) As rochas sedimentares resultam da sedimentação de fragmentos de rochas que sofreram intemperismo. Está correto o que se afirma em:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "I, II, III e IV."
+      },
+      {
+        "id": 2,
+        "texto": "I, III e IV."
+      },
+      {
+        "id": 3,
+        "texto": "I e IV."
+      },
+      {
+        "id": 4,
+        "texto": "II e III."
+      },
+      {
+        "id": 5,
+        "texto": "I, II e III."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "320",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Sobre o tema \"Blocos Econômicos Supranacionais\", é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A APEC corresponde ao bloco que objetiva a Cooperação Econômica da Ásia e do Pacífico."
+      },
+      {
+        "id": 2,
+        "texto": "O NAFTA é um instrumento de integração entre as economias dos EUA, do Canadá e do México."
+      },
+      {
+        "id": 3,
+        "texto": "A UNIÃO EUROPEIA passou a ter essa denominação com a entrada em vigor do Tratado de Maastricht, sendo antes conhecida como Comunidade Econômica Europeia."
+      },
+      {
+        "id": 4,
+        "texto": "O G-8 é formado pelos oito países mais industrializados do mundo e tem como objetivo coordenar a política econômica e monetária mundial."
+      },
+      {
+        "id": 5,
+        "texto": "O MERCOSUL foi criado pela junção inicial de Brasil, Argentina e Uruguai, tendo o Paraguai ingressado posteriormente."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "321",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Marque a alternativa INCORRETA acerca dos pontos cardeais e colaterais.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Os pontos cardeais são concebidos a partir da posição na qual o Sol se encontra durante o dia."
+      },
+      {
+        "id": 2,
+        "texto": "O Norte (N) é também denominado austral."
+      },
+      {
+        "id": 3,
+        "texto": "O Leste (L) é intitulado oriente."
+      },
+      {
+        "id": 4,
+        "texto": "Entre o Sul (S) e o Oeste (O) fica o ponto colateral Sudoeste (SO)."
+      },
+      {
+        "id": 5,
+        "texto": "O Sul é igualmente chamado de meridional."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "322",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Leia o seguinte texto e, a seguir, responda. O Produto Interno Bruto (PIB) da atividade de serviços caiu 0,7% no primeiro trimestre de 2015 em relação ao quarto trimestre de 2014. Os dados foram divulgados pelo Instituto Brasileiro de Geografia e Estatística (IBGE), que anunciou nesta sexta-feira (29/5) os resultados das Contas Nacionais Trimestrais. Na comparação com o primeiro trimestre do ano passado, o PIB de serviços mostrou queda de 3%. A agropecuária foi o único setor sob a ótica da produção com alta no período, subindo 4,7%, sob influência de uma safra relevante da soja. \"A soja teve uma safra relevante no primeiro trimestre deste ano, com ganho de produtividade e uma boa expectativa para este ano\", afirmou a coordenadora de Contas Nacionais do IBGE, Rebeca Palis. (Fonte: revistagloborural.globo.com/Noticias/Economia-e-Negocios/noticia/2015/05, acessado em 18/08/2015) Os crescentes resultados da soja no contexto da história econômica recente da agropecuária brasileira são oriundos, sobretudo:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "da descentralização agrária em favor das cooperativas."
+      },
+      {
+        "id": 2,
+        "texto": "do processo de redução de impostos rurais pelo governo e incentivo aos produtores."
+      },
+      {
+        "id": 3,
+        "texto": "do aumento da produtividade e da atuação do agronegócio."
+      },
+      {
+        "id": 4,
+        "texto": "da democratização ampla das propriedades rurais com incentivos dos Programas Sociais."
+      },
+      {
+        "id": 5,
+        "texto": "da maior oferta de mão de obra no meio rural do país."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "323",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "No Windows 7, em sua configuração padrão, quando o usuário selecionar uma imagem, utilizar o atalho de teclado \"Shift+Delete\" e realizar as devidas confirmações, a imagem:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "será enviada para a área de trabalho."
+      },
+      {
+        "id": 2,
+        "texto": "terá um atalho criado na mesma pasta."
+      },
+      {
+        "id": 3,
+        "texto": "terá um atalho enviado para a área de trabalho."
+      },
+      {
+        "id": 4,
+        "texto": "será excluída em definitivo, sem ser enviada para a lixeira."
+      },
+      {
+        "id": 5,
+        "texto": "será enviada para a lixeira."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "324",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "No Windows 7, ao selecionar a opção de desligamento ______________, o vídeo desligará e o computador entrará em modo de baixo consumo de energia. Na próxima vez em que o usuário ligar o computador e inserir sua senha (se necessário), a aparência da tela, em relação aos programas, será exatamente igual a quando ele desligou o computador. Assinale a alternativa que preenche corretamente a lacuna do texto:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "fazer logoff."
+      },
+      {
+        "id": 2,
+        "texto": "suspender."
+      },
+      {
+        "id": 3,
+        "texto": "bloquear."
+      },
+      {
+        "id": 4,
+        "texto": "reiniciar."
+      },
+      {
+        "id": 5,
+        "texto": "trocar usuário."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "325",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Em um computador com o sistema operacional Windows 7, em sua configuração padrão, diversos atalhos de teclado estão associados ao uso da Área de Transferência. O atalho de teclado destinado a desfazer a ação anterior é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Ctrl+Z"
+      },
+      {
+        "id": 2,
+        "texto": "Ctrl+D"
+      },
+      {
+        "id": 3,
+        "texto": "Alt+U"
+      },
+      {
+        "id": 4,
+        "texto": "Alt+Z"
+      },
+      {
+        "id": 5,
+        "texto": "Ctrl+U"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "326",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Software livre é uma forma de manifestação de um software que permite as adaptações ou modificações em seu código, todavia é necessário solicitar a permissão ao proprietário para modificá-lo."
+      },
+      {
+        "id": 2,
+        "texto": "Quanto ao sistema operacional Windows 7, é possível executá-lo em pen drive ou disco rígido, utilizando um recurso chamado Windows To Go, contribuindo para o acesso de discos internos do computador \"host\"."
+      },
+      {
+        "id": 3,
+        "texto": "No aplicativo BrOfficeCalc 3.0, o valor da célula A2 poderá ser testado utilizando-se a função =SE(A2>1000;A2*0,15;A2*0,05); se o referido valor for maior que 1.000, deverá ser multiplicado por 0,05."
+      },
+      {
+        "id": 4,
+        "texto": "Por meio do IE7, é possível que um usuário tenha acesso a recursos da denominada Web 2.0."
+      },
+      {
+        "id": 5,
+        "texto": "O Mozilla Firefox consiste em um pacote de aplicativos integrados, no qual se encontra uma ferramenta que permite a edição, a alteração e a criação de páginas web. Essas facilidades não são encontradas no IE7, que está limitado apenas para funcionar como navegador na Internet."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "327",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "No que tange ao desenho constitucional do Ministério Público, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "São princípios institucionais do Ministério Público a unidade, a indivisibilidade e a independência funcional."
+      },
+      {
+        "id": 2,
+        "texto": "O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis."
+      },
+      {
+        "id": 3,
+        "texto": "Durante a execução orçamentária do exercício, poderá haver a realização de despesas ou a assunção de obrigações que extrapolem os limites estabelecidos na lei de diretrizes orçamentárias, exceto se previamente autorizadas, mediante a abertura de créditos suplementares ou especiais."
+      },
+      {
+        "id": 4,
+        "texto": "Ao Ministério Público é assegurada autonomia funcional e administrativa, podendo, observado o disposto no art. 169, propor ao Poder Legislativo a criação e extinção de seus cargos e serviços auxiliares, provendo-os por concurso público de provas ou de provas e títulos, a política remuneratória e os planos de carreira; a lei disporá sobre sua organização e funcionamento."
+      },
+      {
+        "id": 5,
+        "texto": "O Ministério Público elaborará sua proposta orçamentária dentro dos limites estabelecidos na lei de diretrizes orçamentárias."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "328",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "São funções institucionais do Ministério Público, EXCETO:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "promover, privativamente, a ação penal pública, na forma da lei."
+      },
+      {
+        "id": 2,
+        "texto": "zelar pelo efetivo respeito dos Poderes Públicos e dos serviços de relevância pública aos direitos assegurados na Constituição Federal, promovendo as medidas necessárias a sua garantia."
+      },
+      {
+        "id": 3,
+        "texto": "exercer o controle externo da atividade policial, na forma da lei complementar mencionada em lei orgânica."
+      },
+      {
+        "id": 4,
+        "texto": "requisitar diligências investigatórias e a instauração de inquérito policial, indicados os fundamentos jurídicos de suas manifestações processuais."
+      },
+      {
+        "id": 5,
+        "texto": "realizar a representação judicial e a consultoria jurídica de entidades públicas."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "329",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Dentre as atividades de competência do Conselho Nacional do Ministério Público, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "zelar pela autonomia funcional e administrativa do Ministério Público, podendo expedir atos regulamentares, no âmbito de sua competência, ou recomendar providências."
+      },
+      {
+        "id": 2,
+        "texto": "zelar pela observância do art. 37 da Constituição Federal e apreciar, somente mediante provocação, a legalidade dos atos administrativos praticados por membros ou órgãos do Ministério Público da União e dos Estados, podendo desconstituí-los, revê-los ou fixar prazo para que se adotem as providências necessárias ao exato cumprimento da lei, sem prejuízo da competência dos Tribunais de Contas."
+      },
+      {
+        "id": 3,
+        "texto": "receber e conhecer das reclamações contra membros ou órgãos do Ministério Público da União ou dos Estados, inclusive contra seus serviços auxiliares, sem prejuízo da competência disciplinar e correicional da instituição, podendo avocar processos disciplinares em curso, determinar a remoção, a disponibilidade ou a aposentadoria com subsídios ou proventos proporcionais ao tempo de serviço e aplicar outras sanções administrativas, assegurada ampla defesa."
+      },
+      {
+        "id": 4,
+        "texto": "rever, de ofício ou mediante provocação, os processos disciplinares de membros do Ministério Público da União ou dos Estados julgados há menos de um ano."
+      },
+      {
+        "id": 5,
+        "texto": "elaborar relatório anual, propondo as providências que julgar necessárias sobre a situação do Ministério Público no País e as atividades do Conselho, o qual deve integrar a mensagem prevista no art. 84, XI da Constituição Federal."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "330",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Marque a assertiva que NÃO representa uma vedação a membros do Ministério Público:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "receber, a qualquer título e sob qualquer pretexto, honorários, percentagens ou custas processuais."
+      },
+      {
+        "id": 2,
+        "texto": "exercer a advocacia."
+      },
+      {
+        "id": 3,
+        "texto": "participar de sociedade comercial como cotista ou acionista."
+      },
+      {
+        "id": 4,
+        "texto": "exercer, ainda que em disponibilidade, qualquer outra função pública, salvo uma de magistério."
+      },
+      {
+        "id": 5,
+        "texto": "exercer atividade político-partidária."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "331",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "São órgãos da Administração Superior do Ministério Público, EXCETO:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a Procuradoria Geral de Justiça."
+      },
+      {
+        "id": 2,
+        "texto": "o Colégio de Procuradores de Justiça."
+      },
+      {
+        "id": 3,
+        "texto": "o Conselho Superior do Ministério Público."
+      },
+      {
+        "id": 4,
+        "texto": "as Promotorias de Justiça."
+      },
+      {
+        "id": 5,
+        "texto": "a Corregedoria Geral do Ministério Público."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "332",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "São órgãos de execução do Ministério Público, EXCETO:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "o Procurador-Geral de Justiça."
+      },
+      {
+        "id": 2,
+        "texto": "O Colégio de Procuradores de Justiça."
+      },
+      {
+        "id": 3,
+        "texto": "o Conselho Superior do Ministério Público."
+      },
+      {
+        "id": 4,
+        "texto": "os Centros de Apoio Operacional."
+      },
+      {
+        "id": 5,
+        "texto": "os Procuradores de Justiça."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "333",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Compete ao Colégio de Procuradores de Justiça, EXCETO:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "decidir sobre a vitaliciedade de membros do Ministério Público."
+      },
+      {
+        "id": 2,
+        "texto": "aprovar a proposta orçamentária anual do Ministério Público, bem como os projetos de criação, modificação e extinção de cargos e serviços auxiliares."
+      },
+      {
+        "id": 3,
+        "texto": "conferir posse e exercício, na segunda quinzena do mês de dezembro, aos membros do Conselho Superior do Ministério Público."
+      },
+      {
+        "id": 4,
+        "texto": "dar posse ao Procurador Geral de Justiça."
+      },
+      {
+        "id": 5,
+        "texto": "eleger, dar posse e exercício ao Corregedor-Geral do Ministério Público."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "334",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Constitui transgressão disciplinar e ao funcionário é proibido, EXCETO:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "valer-se do cargo para lograr proveito pessoal ilícito."
+      },
+      {
+        "id": 2,
+        "texto": "representar contra superior hierárquico."
+      },
+      {
+        "id": 3,
+        "texto": "propor transações pecuniárias a superior ou a subordinado com o objetivo de auferir lucro."
+      },
+      {
+        "id": 4,
+        "texto": "aconselhar ou concorrer para não ser cumprida qualquer ordem de autoridade competente, ou para que seja retardada a sua execução."
+      },
+      {
+        "id": 5,
+        "texto": "simular doença para esquivar-se do cumprimento da obrigação."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "335",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Acerca das responsabilidades do servidor público civil do Estado de Goiás, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Pelo exercício irregular de suas atribuições, o funcionário responde somente civil e administrativamente"
+      },
+      {
+        "id": 2,
+        "texto": "A responsabilidade civil decorre de procedimento omissivo ou comissivo, doloso ou culposo, que importe em prejuízo da Fazenda Pública Estadual ou de terceiros."
+      },
+      {
+        "id": 3,
+        "texto": "Tratando-se de dano causado a terceiro, responderá o funcionário perante a Fazenda Pública Estadual, em ação regressiva, proposta depois de transitar em julgado a decisão de última instância que houver condenado a Fazenda a indenizar o terceiro prejudicado."
+      },
+      {
+        "id": 4,
+        "texto": "A responsabilidade penal abrange os crimes e contravenções imputados ao funcionário como tal."
+      },
+      {
+        "id": 5,
+        "texto": "A absolvição criminal só afasta a responsabilidade civil ou administrativa se negar a existência do fato ou afastar do acusado a respectiva autoria."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "336",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Acerca das penalidades disciplinares, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Considera-se reincidente o servidor que, no prazo de 5 (cinco) anos, após ter sido condenado em decisão de que não caiba mais recurso administrativo, venha a praticar a mesma ou outra transgressão."
+      },
+      {
+        "id": 2,
+        "texto": "A pena de repreensão, que será sempre aplicada por escrito e deverá constar do assentamento individual do servidor, destina-se à punição de faltas de natureza grave."
+      },
+      {
+        "id": 3,
+        "texto": "Além da pena judicial que couber, serão considerados como de suspensão os dias em que o funcionário deixar de atender às convocações do júri sem motivo justificado."
+      },
+      {
+        "id": 4,
+        "texto": "O funcionário suspenso perderá todas as vantagens e direitos decorrentes do exercício do cargo."
+      },
+      {
+        "id": 5,
+        "texto": "A extinção da punibilidade será reconhecida e declarada de ofício pela autoridade instauradora."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "337",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "A data de 7 de setembro de 1822 refere-se a:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "abolição da escravatura"
+      },
+      {
+        "id": 2,
+        "texto": "vinda da Corte Portuguesa ao Brasil"
+      },
+      {
+        "id": 3,
+        "texto": "proclamação da República"
+      },
+      {
+        "id": 4,
+        "texto": "declaração de independência"
+      },
+      {
+        "id": 5,
+        "texto": "dia do fico"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "338",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Após o final do período ditatorial militar e a instauração da Nova República, os presidentes brasileiros eleitos diretamente foram, respectivamente:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "José Sarney, Fernando Collor, Fernando Henrique, Lula e Dilma"
+      },
+      {
+        "id": 2,
+        "texto": "Fernando Collor, Fernando Henrique, Lula e Dilma"
+      },
+      {
+        "id": 3,
+        "texto": "Fernando Collor, Itamar Franco, Fernando Henrique, Lula e Dilma"
+      },
+      {
+        "id": 4,
+        "texto": "José Sarney, Fernando Collor, Itamar Franco, Fernando Henrique e Lula."
+      },
+      {
+        "id": 5,
+        "texto": "José Sarney, Fernando Collor, Itamar Franco, Fernando Henrique, Lula e Dilma."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "339",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Após o Golpe Militar de 1964, quem assumiu a Presidência do Brasil?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Emílio Médici"
+      },
+      {
+        "id": 2,
+        "texto": "Castello Branco"
+      },
+      {
+        "id": 3,
+        "texto": "Ernesto Geisel"
+      },
+      {
+        "id": 4,
+        "texto": "Juscelino Kubitscheck de Oliveira"
+      },
+      {
+        "id": 5,
+        "texto": "João Figueiredo"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "340",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "A implantação do sufrágio feminino no Brasil deu-se em:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "1932"
+      },
+      {
+        "id": 2,
+        "texto": "1900"
+      },
+      {
+        "id": 3,
+        "texto": "1988"
+      },
+      {
+        "id": 4,
+        "texto": "1822"
+      },
+      {
+        "id": 5,
+        "texto": "1889"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "341",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
+    "banca": "Não informada",
+    "enunciado": "Qual Presidente do Brasil tinha como meta \"Cinquenta anos de progresso em cinco anos de governo\", o Plano de Metas?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Jânio Quadros"
+      },
+      {
+        "id": 2,
+        "texto": "João Goulart"
+      },
+      {
+        "id": 3,
+        "texto": "Juscelino Kubitscheck de Oliveira"
+      },
+      {
+        "id": 4,
+        "texto": "Fernando Collor de Melo"
+      },
+      {
+        "id": 5,
+        "texto": "Emílio Médici"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "342",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Se os grileiros de terra _________ atitudes nefastas, precisarão se _________ com a justiça, quando a população brasileira __________ contra a repetição de tais abusos. Para formar a frase correta e coerente, as lacunas devem ser preenchidas por:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Mantiver – a ver – intervirem."
+      },
+      {
+        "id": 2,
+        "texto": "Mantiver – haver – intervir."
+      },
+      {
+        "id": 3,
+        "texto": "Mantiverem – haver – intervier."
+      },
+      {
+        "id": 4,
+        "texto": "Mantiverem – a ver – intervierem."
+      },
+      {
+        "id": 5,
+        "texto": "Nenhuma das alternativas anteriores."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "343",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa cujo emprego do pronome está em conformidade com a norma padrão da língua:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Não autorizam-nos a ler os documentos sigilosos."
+      },
+      {
+        "id": 2,
+        "texto": "Nos falaram que continham informações confidenciais."
+      },
+      {
+        "id": 3,
+        "texto": "Ninguém nos informou sobre o teor dos documentos."
+      },
+      {
+        "id": 4,
+        "texto": "Conformado, se rendeu às punições."
+      },
+      {
+        "id": 5,
+        "texto": "Todos querem que combata-se a corrupção."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "344",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa que completa, correta e respectivamente, as lacunas das frases. ___________ situações insustentáveis do lixo no Brasil. Esse problema chega ________ autoridades que deverão tomar ______ providências cabíveis.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "As … as … as."
+      },
+      {
+        "id": 2,
+        "texto": "Há … às … as."
+      },
+      {
+        "id": 3,
+        "texto": "Há … as … às."
+      },
+      {
+        "id": 4,
+        "texto": "Às … as … às."
+      },
+      {
+        "id": 5,
+        "texto": "As … hás … as."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "345",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa que completa correta e respectivamente as lacunas das frases seguintes: I – Encaminhamos _________________ cópia do novo memorando. II – Os advogados ficaram __________________ satisfeitos com a sentença. III – Devemos permanecer sempre _________________________. IV – Água é ________________ para a saúde. V – Nos últimos dias, enfrentamos calor e poluição ____________.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Anexa, bastante, alerta, bom, intensos."
+      },
+      {
+        "id": 2,
+        "texto": "Anexo, bastante, alertas, boa, intensos."
+      },
+      {
+        "id": 3,
+        "texto": "Anexo, bastantes, alertas, boa, intensa."
+      },
+      {
+        "id": 4,
+        "texto": "Anexa, bastantes, alertas, bom, intensa."
+      },
+      {
+        "id": 5,
+        "texto": "Anexa, bastante, alertas, boa, intensos."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "346",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a frase incorreta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Vai haver dois concursos este ano."
+      },
+      {
+        "id": 2,
+        "texto": "Daqui até sua casa são dois quilômetros."
+      },
+      {
+        "id": 3,
+        "texto": "São quatro horas da tarde."
+      },
+      {
+        "id": 4,
+        "texto": "Houveram duas aulas ontem."
+      },
+      {
+        "id": 5,
+        "texto": "Eles haverão de encontrar uma solução para o problema."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "347",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Assinale os pronomes de tratamento adequados para as seguintes autoridades: I – Papa; II- Juiz de Direito; III – Reitor; IV – Cardeal",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Vossa Santidade, Vossa Excelência, Vossa Magnificência, Vossa Eminência."
+      },
+      {
+        "id": 2,
+        "texto": "Vossa Eminência, Vossa Excelência, Vossa Senhoria, Vossa Santidade."
+      },
+      {
+        "id": 3,
+        "texto": "Vossa Santidade, Vossa Excelência, Vossa Magnificência, Vossa Senhoria."
+      },
+      {
+        "id": 4,
+        "texto": "Vossa Excelência Reverendíssima; Vossa Excelência; Vossa Eminência, Vossa Senhoria."
+      },
+      {
+        "id": 5,
+        "texto": "Vossa Senhoria, Vossa Excelência, Vossa Graça, Vossa Beatitude."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "348",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Indique qual das seguintes palavras é um advérbio de negação:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Pouco."
+      },
+      {
+        "id": 2,
+        "texto": "Mal."
+      },
+      {
+        "id": 3,
+        "texto": "Jamais."
+      },
+      {
+        "id": 4,
+        "texto": "Pior."
+      },
+      {
+        "id": 5,
+        "texto": "Nenhuma das alternativas."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "349",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternava correta de acordo com o padrão culto escrito da língua portuguesa:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A educação brasileira nem chegou à convalecença: ainda está na UTI."
+      },
+      {
+        "id": 2,
+        "texto": "A medicina é uma carreira extritamente profissional, não prepara para outras funções."
+      },
+      {
+        "id": 3,
+        "texto": "É lamentável que as associações médicas manifestam uma atitude tíbia diante das faculdades fracas."
+      },
+      {
+        "id": 4,
+        "texto": "Os médicos, como os pilotos de avião, deveria passar por provas periódicas, para demonstrar sua atualização."
+      },
+      {
+        "id": 5,
+        "texto": "Ao reivindicarem uma supervisão nas faculdades de medicina, as associações médicas mostram preocupação com a saúde da população."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "350",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa correta quanto à ortografia:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O relatório sobre as condições climáticas representa um consenso avassalador que chega a ser sóbrio diante do volume de evidências, especialmente das adaptações ecológicas ao aquecimento."
+      },
+      {
+        "id": 2,
+        "texto": "Com essa atitude política, as previsões se tornarão uma profescia auto-realizável, um resultado inevitável da omissão dos políticos."
+      },
+      {
+        "id": 3,
+        "texto": "O urso polar sobre bancos de gelo cada vez menores, fadado à estinção, transformou-se no íconi do aquecimento global."
+      },
+      {
+        "id": 4,
+        "texto": "O animal não socumbiu apenas à seca, mas também ao impacto da aridez da região ecessivamente explorada."
+      },
+      {
+        "id": 5,
+        "texto": "À medida que a água se torna mais cara, o ônos dos ajustes ao novo regime passará para os grupos subauternos, como os agricultores e os pobres das áreas urbanas."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "351",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa que preenche, correta e respectivamente, as lacunas das frases, quanto ao sinal indicativo da crase: Para fazer vatapá, tutu ____ mineira e todas as comidas favoritas dos brasileiros. O papa quer interagir com a multidão, mas o risco será analisado caso ____ caso. Ajudar empresas ____ transformar seu ambiente de trabalho.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A … a … a."
+      },
+      {
+        "id": 2,
+        "texto": "À … à … a."
+      },
+      {
+        "id": 3,
+        "texto": "À … a … a."
+      },
+      {
+        "id": 4,
+        "texto": "A … à … à."
+      },
+      {
+        "id": 5,
+        "texto": "À …à … à."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "352",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Você enviou uma correspondência ao Presidente da República. Assinale a alternativa com o texto correto, de acordo com a norma culta.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Meritíssimo, é inadmissível que o Brasil detenha os piores rendimentos em educação. Se as autoridades não reverem os programas educacionais, o futuro do país estará comprometido."
+      },
+      {
+        "id": 2,
+        "texto": "Excelência, é inadmiscível que o Brasil detém os piores rendimentos em educação. Se as autoridades não revirem os programas educacionais, o futuro do país estará comprometido."
+      },
+      {
+        "id": 3,
+        "texto": "Excelência, é inadimissível que o Brasil detenha os piores rendimentos em educação. Se as autoridades não reverem os programas educacionais, o futuro do país estará comprometido."
+      },
+      {
+        "id": 4,
+        "texto": "Excelência, é inadmissível que o Brasil detenha os piores rendimentos em educação. Se as autoridades não revirem os programas educacionais, o futuro do país estará comprometido."
+      },
+      {
+        "id": 5,
+        "texto": "Prezado Senhor, é inadmissível que o Brasil detêem os piores rendimentos em educação. Se as autoridades não revirem os programas educacionais, o futuro do país estará comprometido."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "353",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "A razão entre a velocidade de uma bicicleta e a de uma motocicleta é 1/6. Se a bicicleta percorre 110km em 5 horas e 30 minutos, qual a velocidade da motocicleta?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "120 km/h."
+      },
+      {
+        "id": 2,
+        "texto": "100 km/h."
+      },
+      {
+        "id": 3,
+        "texto": "130 km/h."
+      },
+      {
+        "id": 4,
+        "texto": "80 km/h."
+      },
+      {
+        "id": 5,
+        "texto": "110 km/h."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "354",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "A idade de um pai está para 13, assim como a idade do filho está para 7. Se a idade do pai excede a do filho em 36 anos, qual a idade de cada um?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O pai tem 50 e o filho tem 24."
+      },
+      {
+        "id": 2,
+        "texto": "O pai tem 60 e o filho tem 34."
+      },
+      {
+        "id": 3,
+        "texto": "O pai tem 78 e o filho tem 42."
+      },
+      {
+        "id": 4,
+        "texto": "O pai tem 77 e o filho tem 41."
+      },
+      {
+        "id": 5,
+        "texto": "O pai tem 63 e o filho tem 29."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "355",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Certa obra foi feita por 10 trabalhadores em 15 dias. Em quantos dias 30 trabalhadores farão a mesma obra?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "7 dias."
+      },
+      {
+        "id": 2,
+        "texto": "6 dias."
+      },
+      {
+        "id": 3,
+        "texto": "5 dias."
+      },
+      {
+        "id": 4,
+        "texto": "4 dias."
+      },
+      {
+        "id": 5,
+        "texto": "3 dias."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "356",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Efetuando o pagamento da taxa de condomínio após o vencimento, um morador pagou R$ 225,00 de multa. Como a taxa devida era de R$ 1.500,00 qual foi a taxa percentual de multa?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "13%."
+      },
+      {
+        "id": 2,
+        "texto": "17%."
+      },
+      {
+        "id": 3,
+        "texto": "20%."
+      },
+      {
+        "id": 4,
+        "texto": "5%."
+      },
+      {
+        "id": 5,
+        "texto": "15%."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "357",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Determinar os juros simples resultantes da aplicação de R$ 500.000,00 durante 4 anos à taxa de 30% ao ano:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "R$ 400.000,00."
+      },
+      {
+        "id": 2,
+        "texto": "R$ 600.000,00."
+      },
+      {
+        "id": 3,
+        "texto": "R$ 300.000,00."
+      },
+      {
+        "id": 4,
+        "texto": "R$ 350.000,00."
+      },
+      {
+        "id": 5,
+        "texto": "R$ 650.000,00."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "358",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Um professor recomendou a leitura de obras da escritora Márcia Kupstas a um grupo de 30 jovens. Depois de algum tempo, o professor realizou um levantamento para saber quais livros foram lidos. Verificou-se, então, que 21 alunos tinham lido Um amigo no escuro, 19 alunos leram Crescer é perigoso e 12 alunos leram essas duas obras. Pergunta-se: quantos alunos leram apenas o livro Um amigo no escuro e quantos alunos leram apenas o livro Crescer é perigoso?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "13 alunos leram apenas Um amigo no escuro e 10 alunos leram apenas Crescer é perigoso."
+      },
+      {
+        "id": 2,
+        "texto": "11 alunos leram apenas Um amigo no escuro e 12 alunos leram apenas Crescer é perigoso."
+      },
+      {
+        "id": 3,
+        "texto": "10 alunos leram apenas Um amigo no escuro e 9 alunos leram apenas Crescer é perigoso."
+      },
+      {
+        "id": 4,
+        "texto": "9 alunos leram apenas Um amigo no escuro e 7 alunos leram apenas Crescer é perigoso."
+      },
+      {
+        "id": 5,
+        "texto": "8 alunos leram apenas Um amigo no escuro e 6 alunos leram apenas Crescer é perigoso."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "359",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "A Bíblia nos diz que a arca de Noé tinha 300 côvados de comprimento. Sabendo que um côvado tem 525 mm, determine em metros o comprimento dessa arca:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "157,5 metros."
+      },
+      {
+        "id": 2,
+        "texto": "143,8 metros."
+      },
+      {
+        "id": 3,
+        "texto": "166,7 metros."
+      },
+      {
+        "id": 4,
+        "texto": "155,5 metros."
+      },
+      {
+        "id": 5,
+        "texto": "145,5 metros."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "360",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Transforme 1.200.000 m² em km²:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "1.200 km²."
+      },
+      {
+        "id": 2,
+        "texto": "120 km²."
+      },
+      {
+        "id": 3,
+        "texto": "1,2 km²."
+      },
+      {
+        "id": 4,
+        "texto": "12 km²."
+      },
+      {
+        "id": 5,
+        "texto": "0,12 km²."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "361",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Em uma xícara cabem 150 ml de chá. Quantas dessas xícaras são necessárias para encher uma garrafa térmica com 1,20 litros de capacidade?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "10 xícaras."
+      },
+      {
+        "id": 2,
+        "texto": "12 xícaras."
+      },
+      {
+        "id": 3,
+        "texto": "15 xícaras."
+      },
+      {
+        "id": 4,
+        "texto": "5 xícaras."
+      },
+      {
+        "id": 5,
+        "texto": "8 xícaras."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "362",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Para aviar uma receita médica, uma farmácia de manipulação usou 3,6 g de certa substância para produzir comprimidos de 150 mg cada um, só com essa substância. Quanto comprimidos foram produzidos?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "22 comprimidos."
+      },
+      {
+        "id": 2,
+        "texto": "24 comprimidos."
+      },
+      {
+        "id": 3,
+        "texto": "26 comprimidos."
+      },
+      {
+        "id": 4,
+        "texto": "28 comprimidos."
+      },
+      {
+        "id": 5,
+        "texto": "36 comprimidos."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "363",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "A República Brasileira começou com um Governo Provisório encabeçado por:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Benjamin Constant."
+      },
+      {
+        "id": 2,
+        "texto": "D. Pedro I."
+      },
+      {
+        "id": 3,
+        "texto": "D. Pedro II."
+      },
+      {
+        "id": 4,
+        "texto": "Marechal Deodoro da Fonseca."
+      },
+      {
+        "id": 5,
+        "texto": "Marechal Floriano Peixoto."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "364",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Em relação ao Período Republicano do Brasil, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A Proclamação da República foi um movimento eminentemente elitista que ocorreu sem luta e sem a participação direta das camadas populares."
+      },
+      {
+        "id": 2,
+        "texto": "A fase em que os militares ocuparam a liderança política do país também ficou conhecida como a República da Espada."
+      },
+      {
+        "id": 3,
+        "texto": "Entre as medidas tomadas pelo Governo Provisório, instalado logo após a Proclamação da República, podemos citar a extinção da vitaliciedade do Senado e a decretação da expulsão da Família Real do Brasil."
+      },
+      {
+        "id": 4,
+        "texto": "O coronelismo foi um dos mais característicos fenômenos sociais e políticos da República Velha."
+      },
+      {
+        "id": 5,
+        "texto": "A supremacia de Minas Gerais e do Rio de Janeiro na política nacional ficou conhecida como política do café com leite, uma referência aos principais produtos destes estados e à alternância dos seus representantes no poder."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "365",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "No início da Primeira República (1889-1930), a oligarquia governante teve que enfrentar, no sertão baiano, um movimento social denominado:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Cabanagem."
+      },
+      {
+        "id": 2,
+        "texto": "Campanha Civilista."
+      },
+      {
+        "id": 3,
+        "texto": "Levante do Contestado."
+      },
+      {
+        "id": 4,
+        "texto": "Revolta de Canudos."
+      },
+      {
+        "id": 5,
+        "texto": "Revolução Farroupilha."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "366",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Criada por lei, a Comissão Nacional da Verdade ganhou notoriedade com os trabalhos de investigação das violações cometidas no período da Ditadura Militar no Brasil. No entanto, em sua criação, a Comissão também poderia apurar violações cometidas por parte do estado a partir de 1946, quando o Brasil ainda não se encontrava no período conhecido como Ditadura Militar, mas era governado pelo general:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Eurico Gaspar Dutra."
+      },
+      {
+        "id": 2,
+        "texto": "Floriano Vieira Peixoto."
+      },
+      {
+        "id": 3,
+        "texto": "Getúlio Dornelles Vargas."
+      },
+      {
+        "id": 4,
+        "texto": "Manuel Deodoro da Fonseca."
+      },
+      {
+        "id": 5,
+        "texto": "Ernesto Geisel."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "367",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "São características do modelo político do período da Ditadura no Brasil, exceto:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O Regime político baseado na centralização do poder."
+      },
+      {
+        "id": 2,
+        "texto": "O movimento Tenentista, levando as camadas médias a se identificarem com os tenentes, uma vez que estes almejavam uma efetiva participação política."
+      },
+      {
+        "id": 3,
+        "texto": "O fortalecimento do Poder Executivo que, exercido pelos militares e aliados civis, se outorgou plenos poderes."
+      },
+      {
+        "id": 4,
+        "texto": "A censura dos meios de comunicação e a criação da Lei de Imprensa e da Lei de Segurança Nacional."
+      },
+      {
+        "id": 5,
+        "texto": "O controle dos sindicatos e entidades classistas."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "368",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Acerca do cerrado, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Trata-se da formação vegetal característica do Centro-Oeste Brasileiro."
+      },
+      {
+        "id": 2,
+        "texto": "É constituído de árvores relativamente baixas e tortuosas, disseminadas em meio a arbustos, subarbustos e gramíneas."
+      },
+      {
+        "id": 3,
+        "texto": "Desenvolve-se em solo típico do planalto central, constituído de areias e argilas, soltas ou consolidadas em arenitos, filitos, calcário e pedregulhos."
+      },
+      {
+        "id": 4,
+        "texto": "Encontra-se sob risco de extinção em razão da substituição por pastagens e culturas de grãos e eucalipto."
+      },
+      {
+        "id": 5,
+        "texto": "São exemplos de espécies nativas típicas: ipê, pequi e araucária."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "369",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "A região Centro-Oeste é uma das cinco regiões do Brasil definidas pelo IBGE (Instituto Brasileiro de Geografia e Estatística). Sobre ela, é correto afirmar:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "É a primeira região do país em superfície territorial."
+      },
+      {
+        "id": 2,
+        "texto": "É formada pelos Estados de Goiás, Tocantins e Mato Grosso."
+      },
+      {
+        "id": 3,
+        "texto": "É formada somente pelos Estados de Goiás, Mato Grosso e Mato Grosso do Sul."
+      },
+      {
+        "id": 4,
+        "texto": "É formada pelos Estados de Goiás, Mato Grosso, Mato Grosso do Sul e pelo Distrito Federal."
+      },
+      {
+        "id": 5,
+        "texto": "É formada pelos Estados de Goiás, Tocantins, Minas Gerais e pelo Distrito Federal."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "370",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "\"A massa mantém a marca, a marca mantém a mídia e a mídia controla a massa\" (George Orwell, 1903-1950). Sobre a sociedade de consumo, considere as seguintes afirmativas: I – É o designativo para o tipo de sociedade do mundo desenvolvido que se caracteriza pelo consumo massivo de bens e serviços. II – Na sociedade de consumo, a oferta geralmente excede a procura, os produtos são normalizados e os padrões de consumo estão massificados. III – Seu surgimento está diretamente ligado ao desenvolvimento industrial. IV – Na sociedade de consumo as técnicas e estratégias de marketing e a atuação da mídia não são importantes, assumindo papel secundário.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Todas as afirmativas estão corretas."
+      },
+      {
+        "id": 2,
+        "texto": "Todas as afirmativas estão incorretas."
+      },
+      {
+        "id": 3,
+        "texto": "Somente as afirmativas I e III estão corretas."
+      },
+      {
+        "id": 4,
+        "texto": "Somente as afirmativas I, II e III estão corretas."
+      },
+      {
+        "id": 5,
+        "texto": "Somente as afirmativas II e IV estão corretas."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "371",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "No ano de 1991, pelo Tratado de Assunção, foi criada uma organização econômica que atualmente tem como países membros Brasil, Argentina, Paraguai, Uruguai e Venezuela chamada de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Pacto Andino;"
+      },
+      {
+        "id": 2,
+        "texto": "MERCOSUL (Mercado Comum do Sul)."
+      },
+      {
+        "id": 3,
+        "texto": "NAFTA (Tratado Norte-Americano de Livre Comércio)."
+      },
+      {
+        "id": 4,
+        "texto": "ALCA (Área de Livre Comércio das Américas)."
+      },
+      {
+        "id": 5,
+        "texto": "ALADI (Associação Latino-Americana de Integração)."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "372",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Sobre a República Federativa do Brasil quanto à organização política e administrativa, cartografia e território, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Sua organização política e administrativa compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos, nos termos tratados pela vigente Constituição Federal de 1988."
+      },
+      {
+        "id": 2,
+        "texto": "Em termos quantitativos, é composta por 27 estados-membros e pelo Distrito Federal."
+      },
+      {
+        "id": 3,
+        "texto": "A Constituição Federal de 1988 extinguiu o território federal de Fernando de Noronha que passou a pertencer ao estado de Pernambuco."
+      },
+      {
+        "id": 4,
+        "texto": "É cortada pela Linha do Equador e pelo Trópico de Capricórnio."
+      },
+      {
+        "id": 5,
+        "texto": "É o maior país da América do Sul em extensão territorial."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "373",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Quanto à definição de hardware, assinale a opção correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "É o conjunto dos programas do computador."
+      },
+      {
+        "id": 2,
+        "texto": "É um tipo de vírus."
+      },
+      {
+        "id": 3,
+        "texto": "É um tipo de email."
+      },
+      {
+        "id": 4,
+        "texto": "É a parte física do computador (tudo o que se pode tocar)."
+      },
+      {
+        "id": 5,
+        "texto": "É a área de acesso à Internet."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "374",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "No sistema operacional Windows 7, em sua configuração padrão, qual atalho de teclado permite alternar entre janelas ou programas abertos?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Alt+Tab"
+      },
+      {
+        "id": 2,
+        "texto": "Ctrl+Tab"
+      },
+      {
+        "id": 3,
+        "texto": "Alt+F4"
+      },
+      {
+        "id": 4,
+        "texto": "Ctrl+X"
+      },
+      {
+        "id": 5,
+        "texto": "Alt+F6"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "375",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Spam é o termo utilizado para referir-se aos e-mails não solicitados geralmente enviados para um grande número de pessoas."
+      },
+      {
+        "id": 2,
+        "texto": "Backup é uma cópia de segurança de dados de um determinado dispositivo."
+      },
+      {
+        "id": 3,
+        "texto": "Os programas Internet Explorer, Mozilla Firefox e Google Chrome são navegadores utilizados para acesso a páginas da WEB."
+      },
+      {
+        "id": 4,
+        "texto": "O dispositivo firewall é um elemento de segurança da rede de comunicação de dados."
+      },
+      {
+        "id": 5,
+        "texto": "O envio e o recebimento de dados na internet, entre duas máquinas, constituem, respectivamente, em dowmfile e upfile."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "376",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Os aplicativos a seguir são usados para edição de texto, exceto:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "BrOffice Writer."
+      },
+      {
+        "id": 2,
+        "texto": "Microsoft Word."
+      },
+      {
+        "id": 3,
+        "texto": "Windows Media Player."
+      },
+      {
+        "id": 4,
+        "texto": "NotePad."
+      },
+      {
+        "id": 5,
+        "texto": "WordPad."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "377",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático, dos interesses sociais e individuais indisponíveis."
+      },
+      {
+        "id": 2,
+        "texto": "São princípios institucionais do Ministério Público a unidade, a indivisibilidade e a independência funcional."
+      },
+      {
+        "id": 3,
+        "texto": "São garantias do membro do Ministério Público a vitaliciedade, a inamovibilidade e a irredutibilidade de subsídios."
+      },
+      {
+        "id": 4,
+        "texto": "O Ministério Público da União compreende: o Ministério Público Federal; o Ministério Público do Trabalho; o Ministério Público Militar; o Ministério Público do Distrito Federal e Territórios."
+      },
+      {
+        "id": 5,
+        "texto": "Compete ao Ministério Público representar o Estado judicial e extrajudicialmente, exercendo as atividades de consultoria e assessoramento jurídico do Poder Executivo."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "378",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa que não contém função institucional do Ministério Público:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Exercer o controle externo da atividade policial."
+      },
+      {
+        "id": 2,
+        "texto": "Zelar pelo efetivo respeito dos Poderes Públicos e dos serviços de relevância pública aos direitos assegurados na Constituição da República, promovendo as medidas necessárias à sua garantia."
+      },
+      {
+        "id": 3,
+        "texto": "Promover, privativamente, a ação penal pública, na forma da lei."
+      },
+      {
+        "id": 4,
+        "texto": "Promover a defesa dos necessitados, em todos os graus, judicial e extrajudicial, de forma integral e gratuita."
+      },
+      {
+        "id": 5,
+        "texto": "Defender judicialmente os direitos e interesses das populações indígenas."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "379",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa que contém somente órgãos de execução do Ministério Público:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O Procurador-Geral de Justiça; o Colégio de Procuradores de Justiça; as Promotorias de Justiça."
+      },
+      {
+        "id": 2,
+        "texto": "O Procurador-Geral de Justiça; a Corregedoria-Geral de Justiça; os Procuradores de Justiça."
+      },
+      {
+        "id": 3,
+        "texto": "O Colégio de Procuradores de Justiça; os Procuradores de Justiça; os Promotores de Justiça."
+      },
+      {
+        "id": 4,
+        "texto": "O Colégio de Procuradores de Justiça; os Centros de Apoio Operacional; a Escola Superior do Ministério Público."
+      },
+      {
+        "id": 5,
+        "texto": "O Conselho Superior do Ministério Público; a Corregedoria-Geral do Ministério Público; as Procuradorias de Justiça."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "380",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Compete ao Conselho Superior do Ministério Público:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Editar atos de aposentadoria, exoneração e outros que importem vacância de cargos."
+      },
+      {
+        "id": 2,
+        "texto": "Realizar inspeções nas Promotorias e Procuradorias de Justiça, remetendo relatório reservado ao Colégio de Procuradores de Justiça."
+      },
+      {
+        "id": 3,
+        "texto": "Decidir sobre a vitaliciedade de membros do Ministério Público."
+      },
+      {
+        "id": 4,
+        "texto": "Remeter aos demais órgãos da Administração Superior do Ministério Público informações necessárias ao desempenho de suas atribuições."
+      },
+      {
+        "id": 5,
+        "texto": "Autorizar, por maioria absoluta de seus integrantes, que o Procurador-Geral de Justiça ajuíze ação civil de decretação de perda do cargo de membro do Ministério Público."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "381",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa incorreta quanto à Corregedoria-Geral do Ministério Público:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O Corregedor-Geral do Ministério Público será eleito pelo Colégio de Procuradores, dentre os Procuradores de Justiça, para mandato de dois anos, vedada a recondução."
+      },
+      {
+        "id": 2,
+        "texto": "A Corregedoria-Geral do Ministério Público poderá propor ao Conselho Superior do Ministério Público, na forma da Lei Orgânica, o não vitaliciamento do membro do Ministério Público;"
+      },
+      {
+        "id": 3,
+        "texto": "O Corregedor-Geral do Ministério Público é membro nato do Colégio de Procuradores de Justiça e do Conselho Superior do Ministério Público."
+      },
+      {
+        "id": 4,
+        "texto": "A Corregedoria-Geral do Ministério Público é o órgão orientador e fiscalizador das atividades funcionais e da conduta dos membros do Ministério Público, incumbindolhe, entre outras atribuições, realizar correições e inspeções."
+      },
+      {
+        "id": 5,
+        "texto": "Compete ao Corregedor-Geral do Ministério Público aplicar aos servidores do Ministério Público as sanções de repreensão e suspensão."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "382",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "De acordo com a Lei Estadual n. 10.460/1988, constitui transgressão disciplinar e ao funcionário é proibido, exceto:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Retirar, sem prévia autorização da autoridade competente, qualquer documento ou objeto da repartição;"
+      },
+      {
+        "id": 2,
+        "texto": "Valer-se do cargo para lograr proveito pessoal ilícito;"
+      },
+      {
+        "id": 3,
+        "texto": "Exercer comércio ou participar de sociedade comercial, ainda que seja como acionista, cotista ou comanditário;"
+      },
+      {
+        "id": 4,
+        "texto": "Entreter-se, durante as horas de trabalho, em palestras ou outros afazeres estranhos ao serviço;"
+      },
+      {
+        "id": 5,
+        "texto": "Cometer a pessoa estranha à repartição, fora dos casos previstos em lei, o desempenho de encargo que lhe competir ou a seus subordinados;"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "383",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Não constitui pena disciplinar prevista na Lei Estadual n. 10.460/88:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Cassação de aposentadoria ou disponibilidade."
+      },
+      {
+        "id": 2,
+        "texto": "Demissão."
+      },
+      {
+        "id": 3,
+        "texto": "Exoneração."
+      },
+      {
+        "id": 4,
+        "texto": "Multa."
+      },
+      {
+        "id": 5,
+        "texto": "Repreensão."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "384",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Os servidores do Ministério Público são avaliados mediante os fatores antiguidade, profissional e desempenho. De acordo com o disposto na Lei Estadual n. 14.810/2004, para a contagem do tempo de serviço, não são excluídos os afastamentos em virtude de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Faltas ao serviço não abonadas."
+      },
+      {
+        "id": 2,
+        "texto": "Férias."
+      },
+      {
+        "id": 3,
+        "texto": "Licença para tratar de interesses particulares."
+      },
+      {
+        "id": 4,
+        "texto": "Pena de suspensão recebida durante o período de aquisição que antecede o processo de promoção."
+      },
+      {
+        "id": 5,
+        "texto": "Tempo de serviço em outros órgãos ou entidades do serviço público."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "385",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Aos membros do Ministério Público aplicam-se as seguintes vedações, exceto:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Receber honorários e custas processuais."
+      },
+      {
+        "id": 2,
+        "texto": "Exercer o magistério."
+      },
+      {
+        "id": 3,
+        "texto": "Exercer atividade político-partidária."
+      },
+      {
+        "id": 4,
+        "texto": "Exercer a advocacia."
+      },
+      {
+        "id": 5,
+        "texto": "Receber, a qualquer título ou pretexto, auxílios ou contribuições de pessoas físicas, entidades públicas ou privadas, ressalvadas as exceções previstas em lei."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "386",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Alexânia",
+    "banca": "Não informada",
+    "enunciado": "Não constitui prerrogativa dos Membros do Ministério Público no exercício da função:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Receber intimação pessoal em qualquer processo ou grau de jurisdição, através da entrega dos autos com vista."
+      },
+      {
+        "id": 2,
+        "texto": "Gozar de inviolabilidade pelas opiniões que externar ou pelo teor de suas manifestações processuais ou procedimentais, nos limites de sua independência funcional."
+      },
+      {
+        "id": 3,
+        "texto": "Ter acesso ao réu ou indiciado preso, a qualquer momento, desde que não decretada a incomunicabilidade."
+      },
+      {
+        "id": 4,
+        "texto": "Requisitar a realização de buscas ou o fornecimento gratuito de certidões a cartórios, tabelionatos e ofícios de justiça, inclusive autenticação de documentos."
+      },
+      {
+        "id": 5,
+        "texto": "Ingressar e transitar livremente em qualquer edifício ou recinto em que funcione repartição judicial, policial ou estabelecimento de internação coletiva onde deva praticar ato, colher prova ou informação útil ao desempenho de suas funções."
+      }
+    ],
+    "resposta_correta": 3
   }
 ]
