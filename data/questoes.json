@@ -11470,5 +11470,935 @@
       }
     ],
     "resposta_correta": 2
+  },
+  {
+    "id": "434",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa que corresponde ao uso incorreto da vírgula:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O Ministério Público do Estado de Goiás, vem à digna presença de Vossa Excelência oferecer denúncia."
+      },
+      {
+        "id": 2,
+        "texto": "São princípios institucionais do Ministério Público: a unidade, a indivisibilidade e a independência funcional;"
+      },
+      {
+        "id": 3,
+        "texto": "Semana passada, os advogados compareceram ao gabinete do Promotor de Justiça;"
+      },
+      {
+        "id": 4,
+        "texto": "Em observância aos princípios da ampla defesa e do contraditório, o juiz prolatou a sentença."
+      },
+      {
+        "id": 5,
+        "texto": "O oficial de promotoria de justiça pode, quando assim determinado pelo promotor de justiça, ajudar nas tarefas realizadas pelo secretário auxiliar."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "435",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Assinale o item em que a palavra destacada está incorretamente grafada:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O padre da igreja matriz de Campinas promoveu uma festa **__beneficiente__**."
+      },
+      {
+        "id": 2,
+        "texto": "O acusado foi **__absolvido__** da acusação que lhe foi imputada na denúncia."
+      },
+      {
+        "id": 3,
+        "texto": "A **__fragrância__** das flores era agradável."
+      },
+      {
+        "id": 4,
+        "texto": "O oficial de promotoria deve **__cumprir__** as ordens emanadas da chefia imediata."
+      },
+      {
+        "id": 5,
+        "texto": "A **__infração__** especificada no Código de Trânsito Brasileiro era apenada com detenção."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "436",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Marque a frase em que o acento indicativo de crase foi usado inadequadamente:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Submeteram o candidato à provações difíceis;"
+      },
+      {
+        "id": 2,
+        "texto": "Escrevia à Machado de Assis;"
+      },
+      {
+        "id": 3,
+        "texto": "Ela se referiu às pessoas felizes;"
+      },
+      {
+        "id": 4,
+        "texto": "Cigarro é prejudicial à saúde;"
+      },
+      {
+        "id": 5,
+        "texto": "Ainda que atrasada, a candidata compareceu à entrevista."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "437",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Eleja a opção que complementa corretamente as lacunas a seguir: ______, entre os profissionais da área, que se o governo não ________ o diálogo com as instituições, se o empresariado não ________ as perdas salariais e se os sindicatos não ________ nas discussões classistas ________ sérios problemas a serem resolvidos.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Comenta-se; mantiver; repuser; intervierem; haverão."
+      },
+      {
+        "id": 2,
+        "texto": "Comentam-se; manter; repor; intervirem; haverão."
+      },
+      {
+        "id": 3,
+        "texto": "Comenta-se; mantesse; repuser; intervierem; haverão."
+      },
+      {
+        "id": 4,
+        "texto": "Comenta-se; mantiver; repuser; intervierem; haverá."
+      },
+      {
+        "id": 5,
+        "texto": "Comenta-se; mantiver; repuser; intervirem; haverá."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "438",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Tendo em vista as regras de concordância, assinale a opção em que a forma verbal está errada:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Faltam aos gestores públicos atenção com a destinação de recursos nas áreas de educação e saúde;"
+      },
+      {
+        "id": 2,
+        "texto": "Se utilizada corretamente, a tecnologia traz vantagens ao desenvolvimento de crianças e adolescentes."
+      },
+      {
+        "id": 3,
+        "texto": "Existem defensivos agrícolas que fazem mal à saúde."
+      },
+      {
+        "id": 4,
+        "texto": "Haverá dias frios no mês de dezembro."
+      },
+      {
+        "id": 5,
+        "texto": "Espero que as normas sejam apropriadas à resolução do conflito."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "439",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "O Atual Acordo Ortográfico trouxe importantes alterações nas regras de acentuação gráfica. Considerando a norma padrão culta vigente, assinale a alternativa em que a palavra destacada foi acentuada INCORRETAMENTE:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Eles **__têm__** duas filhas."
+      },
+      {
+        "id": 2,
+        "texto": "Saiu com tanta pressa que nem **__pôde__** se despedir."
+      },
+      {
+        "id": 3,
+        "texto": "Ao **__pôr__** a mão no bolso percebeu que estava sem dinheiro."
+      },
+      {
+        "id": 4,
+        "texto": "Os novos horários **__convêm__** aos estudantes."
+      },
+      {
+        "id": 5,
+        "texto": "Eu **__abençôo__** a união de vocês."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "440",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Partindo da análise da ortografia, assinale a alternativa em que todas as palavras estão redigidas corretamente:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A menina ficou frustrada ao ver o seu balão murchar."
+      },
+      {
+        "id": 2,
+        "texto": "Em virtude das péssimas condições metereológicas, o piloto teve dificuldade para aterrisar a nave."
+      },
+      {
+        "id": 3,
+        "texto": "A sua supertição nunca foi empecilho para lograr êxito na vida profissional."
+      },
+      {
+        "id": 4,
+        "texto": "Sentir a fragância das flores logo pela manhã é um previlégio para poucos."
+      },
+      {
+        "id": 5,
+        "texto": "Sabendo que tinha chances, reinvindicou os seus direitos."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "441",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Em busca da segurança\n\nInvestimentos crescentes em equipamentos de segurança por parte do mercado imobiliário são sintomas de uma grave doença de que são vítimas as grandes cidades brasileiras, incluindo Goiânia. A lista de recursos tecnológicos utilizados é extensa: inclui câmeras, fechaduras eletromagnéticas, botão antipânico, vidro à prova de bala, identificação facial, entre outros equipamentos.\n\nA preocupação em dotar condomínios verticais com complexos sistemas de segurança é, obviamente, um reflexo da violência extramuros. Em que pese a redução na maior parte dos indicadores criminais, comportamento que vem sendo percebido desde 2016, Goiás ainda enfrenta índices epidêmicos de violência, considerando os parâmetros da Organização Mundial de Saúde.\n\nNo ano passado foram 1994 homicídios no Estado, números que explicam os investimentos em condomínios. Em busca da sensação de segurança, cercada por muros e protegida por aparelhos sofisticados, a população se torna prisioneira do medo. É preciso atacar a doença e não os sintomas, o que exige uma política de segurança pública responsável, inteligente e eficaz.\n\n(Disponível em: https://www.opopular.com.br/noticias/opiniao/editorial-1.145048/em-busca-da-segurança-1.185759. Acesso em 30/12/2019. Adaptado)\n\nDe acordo com a mensagem central do texto, é possível afirmar que a solução mais pertinente e recomendável para a problemática apresentada é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O investimento em recursos tecnológicos no ramo da segurança."
+      },
+      {
+        "id": 2,
+        "texto": "A mudança para condomínios verticais cercados por muros e protegidos por aparelhos sofisticados de segurança."
+      },
+      {
+        "id": 3,
+        "texto": "A implementação de uma política de segurança pública, responsável, inteligente e eficaz."
+      },
+      {
+        "id": 4,
+        "texto": "O fornecimento gratuito de medicamentos por parte do poder público."
+      },
+      {
+        "id": 5,
+        "texto": "Segurança e economia andam em lados opostos."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "442",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Em busca da segurança\n\nInvestimentos crescentes em equipamentos de segurança por parte do mercado imobiliário são sintomas de uma grave doença de que são vítimas as grandes cidades brasileiras, incluindo Goiânia. A lista de recursos tecnológicos utilizados é extensa: inclui câmeras, fechaduras eletromagnéticas, botão antipânico, vidro à prova de bala, identificação facial, entre outros equipamentos.\n\nA preocupação em dotar condomínios verticais com complexos sistemas de segurança é, obviamente, um reflexo da violência extramuros. Em que pese a redução na maior parte dos indicadores criminais, comportamento que vem sendo percebido desde 2016, Goiás ainda enfrenta índices epidêmicos de violência, considerando os parâmetros da Organização Mundial de Saúde.\n\nNo ano passado foram 1994 homicídios no Estado, números que explicam os investimentos em condomínios. Em busca da sensação de segurança, cercada por muros e protegida por aparelhos sofisticados, a população se torna prisioneira do medo. É preciso atacar a doença e não os sintomas, o que exige uma política de segurança pública responsável, inteligente e eficaz.\n\n(Disponível em: https://www.opopular.com.br/noticias/opiniao/editorial-1.145048/em-busca-da-segurança-1.185759. Acesso em 30/12/2019. Adaptado)\n\nAnalisando atentamente o texto apresentado, é possível depreender corretamente que:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A menção a \"uma grave doença de que são vítimas as grandes cidades brasileiras\" (1º parágafo) faz alusão aos problemas de saúde cada vez mais frequentes nas populações urbanas, decorrentes dos contratempos da vida moderna, como a ansiedade, a depressão e o pânico, o que justifica a adesão ao botão antipânico."
+      },
+      {
+        "id": 2,
+        "texto": "Os \"índices epidêmicos de violência\" (2º parágrafo) estão diretamente relacionados ao aumento constante geral da criminalidade no Estado de Goiás."
+      },
+      {
+        "id": 3,
+        "texto": "Os recursos tecnológicos disponíveis para o enfrentamento da violência são escassos, o que torna o sociedade \"prisioneira do medo\" (3º parágrafo)."
+      },
+      {
+        "id": 4,
+        "texto": "Os muros e os aparelhos sofisticados presentes nos condomínios são capazes de fazer cessar, de forma permanente e absoluta, a sensação de insegurança que acomete a população."
+      },
+      {
+        "id": 5,
+        "texto": "A busca por segurança impulsiona o crescimento do mercado voltado para aquisição de equipamentos de segurança, mas é necessária uma política estatal para se combater as causas do aumento da violência."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "443",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa em que todas as palavras estejam com a grafia CORRETA:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "pretenção – sociedade"
+      },
+      {
+        "id": 2,
+        "texto": "Certidãos – indentidade"
+      },
+      {
+        "id": 3,
+        "texto": "ínterim - diligência"
+      },
+      {
+        "id": 4,
+        "texto": "excessão – perquerir"
+      },
+      {
+        "id": 5,
+        "texto": "difragar - corrupssão"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "444",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "A alternativa que apresenta erro quanto à acentuação em um dos vocábulos é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "pólen, abdômen"
+      },
+      {
+        "id": 2,
+        "texto": "tórax, látex"
+      },
+      {
+        "id": 3,
+        "texto": "ímã, órfãs"
+      },
+      {
+        "id": 4,
+        "texto": "raízes, amável"
+      },
+      {
+        "id": 5,
+        "texto": "ítem, bambú"
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "445",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa que a palavra esteja grafada de forma CORRETA após o acordo ortográfico",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Ideia"
+      },
+      {
+        "id": 2,
+        "texto": "geléia"
+      },
+      {
+        "id": 3,
+        "texto": "agüentar"
+      },
+      {
+        "id": 4,
+        "texto": "bilíngüe"
+      },
+      {
+        "id": 5,
+        "texto": "cinqüenta"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "446",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa em que a palavra formada, assim como \"superagradável\", é grafada sem hífen.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Super + habilidade."
+      },
+      {
+        "id": 2,
+        "texto": "Super + requintado."
+      },
+      {
+        "id": 3,
+        "texto": "Super + regional."
+      },
+      {
+        "id": 4,
+        "texto": "Super + hidratação."
+      },
+      {
+        "id": 5,
+        "texto": "Super + dosagem"
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "447",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Homônimo é o termo utilizado para designar duas ou mais palavras com o mesmo som, mas com significados distintos, conforme é possível verificar no quadrinho abaixo:\n\nAssinale a alternativa em que os homônimos NÃO foram utilizados de forma adequada ao sentido do texto:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Maria aproveitava para **__coser__** as suas roupas enquanto aguardava a sua avó **__cozer__** a sua refeição predileta."
+      },
+      {
+        "id": 2,
+        "texto": "Embora fosse **__expectador__** assíduo dos espetáculos sanguinários transmitidos na TV, João era **__espectador__** de um futuro com menos violência."
+      },
+      {
+        "id": 3,
+        "texto": "Antes do início do **__concerto__** da orquestra principal, foi necessário o **__conserto__** do palco, que estava deteriorado."
+      },
+      {
+        "id": 4,
+        "texto": "Embora permanecesse **__estático__**, sem esboçar nenhuma reação, todos viam que Pedro estava **__extático__** com a boa nova, pelo brilho nos seus olhos."
+      },
+      {
+        "id": 5,
+        "texto": "O significativo aumento de produtos alimentares, como o **__extrato__** de tomate, afeta principalmente o **__estrato__** social hipossuficiente economicamente."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "448",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Em uma cidade, a razão entre a quantidade de homens e de mulheres é 5/6. São 32.000 homens nesta cidade. Qual é a quantidade de mulheres:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "38.400;"
+      },
+      {
+        "id": 2,
+        "texto": "3.840;"
+      },
+      {
+        "id": 3,
+        "texto": "30.000;"
+      },
+      {
+        "id": 4,
+        "texto": "36.000;"
+      },
+      {
+        "id": 5,
+        "texto": "28.000."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "449",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Uma indústria empregava 980 funcionários. Neste ano, a quantidade de funcionários aumentou 75%. Quantos funcionários há agora?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "735;"
+      },
+      {
+        "id": 2,
+        "texto": "1.715;"
+      },
+      {
+        "id": 3,
+        "texto": "1.700;"
+      },
+      {
+        "id": 4,
+        "texto": "686;"
+      },
+      {
+        "id": 5,
+        "texto": "1.666."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "450",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Em um curso de informática, 80% dos alunos foram aprovados, 15% reprovados e 6 alunos desistiram do curso. Quantos alunos haviam neste curso?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "150;"
+      },
+      {
+        "id": 2,
+        "texto": "100;"
+      },
+      {
+        "id": 3,
+        "texto": "180;"
+      },
+      {
+        "id": 4,
+        "texto": "200;"
+      },
+      {
+        "id": 5,
+        "texto": "120."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "451",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "MP obtém liminar que obriga Saneago a fazer a limpeza geral do sistema de abastecimento de água de Crixás. (…) Acolhendo pedido do Ministério Público de Goiás, o juiz da comarca determinou a realização do procedimento de limpeza (desincrustação), limpeza e manutenção de todo o sistema de tratamento e abastecimento de água do município de Crixás, no prazo de 90 dias, sob pena de multa diária de R$ 5 mil. (…) Assim, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "se a multa for de 58 dias, ela será de R$ 295.000,00"
+      },
+      {
+        "id": 2,
+        "texto": "se a multa for de 66 dias, ela será de R$ 330.000,00"
+      },
+      {
+        "id": 3,
+        "texto": "se a multa for de 37 dias, ela será de R$ 180.000,00"
+      },
+      {
+        "id": 4,
+        "texto": "se a multa for de 23 dias, ela será de R$ 125.000,00"
+      },
+      {
+        "id": 5,
+        "texto": "se a multa for de 98 dias, ela será de R$ 495.000,00"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "452",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "O oficial de promotoria de Crixás descobriu que teria que intimar 200 pessoas para uma oitiva no Ministério Público, acerca de uma investigação de improbidade que estava acontecendo. Analisando os endereços, ficou constatado que 44% por cento era na zona rural, 36% na zona urbana e 20% estava com endereço de outra cidade. ASSIM, EM NÚMEROS, TEMOS que:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "44 pessoas moram na zona rural; 72 pessoas moram na zona urbana; 40 pessoas moram em outra cidade."
+      },
+      {
+        "id": 2,
+        "texto": "88 pessoas moram na zona rural; 72 pessoas moram na zona urbana; 40 pessoas moram em outra cidade."
+      },
+      {
+        "id": 3,
+        "texto": "44 pessoas moram na zona rural; 72 pessoas moram na zona urbana; 44 pessoas moram em outra cidade."
+      },
+      {
+        "id": 4,
+        "texto": "44 pessoas moram na zona rural; 76 pessoas moram na zona urbana; 36 pessoas moram em outra cidade."
+      },
+      {
+        "id": 5,
+        "texto": "88 pessoas moram na zona rural; 70 pessoas moram na zona urbana; 42 pessoas moram em outra cidade."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "453",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Pedro tem planos de obter um rendimento de R$ 800,00 de juros através de um capital de R$ 40.000,00 aplicado a um taxa mensal de 0,5% ao mês. Em quanto tempo ele conseguirá este resultado?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "2 meses."
+      },
+      {
+        "id": 2,
+        "texto": "4 meses."
+      },
+      {
+        "id": 3,
+        "texto": "5 meses."
+      },
+      {
+        "id": 4,
+        "texto": "8 meses."
+      },
+      {
+        "id": 5,
+        "texto": "10 meses."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "454",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Dona Euripa decidiu presentear a sua netinha com um cofre com moedas de R$ 0,10 e R$ 0,25. Na ocasião, avó e neta contabilizaram 44 moedas, totalizando o valor de R$ 8,00. Com base nestes dados, é correto afirmar que havia:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "25 moedas de R$ 0,10 e 19 moedas de R$ 0,25."
+      },
+      {
+        "id": 2,
+        "texto": "14 moedas de R$ 0,10 e 3 moedas de R$ 0,25."
+      },
+      {
+        "id": 3,
+        "texto": "22 moedas de cada."
+      },
+      {
+        "id": 4,
+        "texto": "24 moedas de R$ 0,10 e 20 moedas de R$ 0,25."
+      },
+      {
+        "id": 5,
+        "texto": "20 moedas de R$ 0,10 e 24 moedas de R$ 0,25."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "455",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Um vestido foi vendido em uma liquidação por R$ 84,00 com 25% de desconto. Nessas condições, é correto afirmar que o preço original da peça era:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "R$ 102,00."
+      },
+      {
+        "id": 2,
+        "texto": "R$ 120,00."
+      },
+      {
+        "id": 3,
+        "texto": "R$ 112,00."
+      },
+      {
+        "id": 4,
+        "texto": "R$ 98,00."
+      },
+      {
+        "id": 5,
+        "texto": "R$ 114,00."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "456",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "É possível afirmar com correção que 35% de 40% corresponde a:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "7 %."
+      },
+      {
+        "id": 2,
+        "texto": "9%"
+      },
+      {
+        "id": 3,
+        "texto": "14%"
+      },
+      {
+        "id": 4,
+        "texto": "17%"
+      },
+      {
+        "id": 5,
+        "texto": "25%"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "457",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "A respeito da implantação da ditadura militar no Brasil, marque a alternativa incorreta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A ditadura brasileira foi um ato isolado e independente uma vez que não sofreu influência internacional nos âmbitos político e econômico."
+      },
+      {
+        "id": 2,
+        "texto": "Por meio da ditadura militar brasileira houve a institucionalização da censura;"
+      },
+      {
+        "id": 3,
+        "texto": "O Ato Institucional nº 5 (AI-5) decretado em dezembro de 1968 demonstrou a repressão e o poder estatal de forma intensa."
+      },
+      {
+        "id": 4,
+        "texto": "Repressão aos movimentos sociais e manifestações políticas de oposição, censura aos artistas e meios de comunicação são algumas das características do regime militar no Brasil."
+      },
+      {
+        "id": 5,
+        "texto": "O período ditatorial foi marcado por um forte crescimento da economia e aumento da dívida externa."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "458",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "No que concerne à Constituição de 1988 e os avanços da cidadania, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A Carta da República consolidou o ideal democrático no Brasil conferindo especial destaque aos vários aspectos que garantem os direitos de cidadania ao povo brasileiro;"
+      },
+      {
+        "id": 2,
+        "texto": "A Constituição Federal de 1988 restabeleceu as eleições diretas para os cargos de presidente da República, governadores de estado e prefeitos municipais;"
+      },
+      {
+        "id": 3,
+        "texto": "Foi um importante avanço na história brasileira porque colocou fim à censura referente aos meios de comunicação, às obras de arte, à música, aos filmes e ao teatro."
+      },
+      {
+        "id": 4,
+        "texto": "O artigo 5º da Constituição Federal de 1988 pode ser considerado um dos mais importantes do texto constitucional uma vez que prevê os direitos fundamentais com o objetivo de assegurar uma vida digna, livre e igualitária aos cidadãos do país."
+      },
+      {
+        "id": 5,
+        "texto": "A C.F/88 apesar de ser considerada a carta cidadã prevê hipóteses de pena de prisão perpétua e de desterro em casos de terrorismo."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "459",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Considerando o contexto histórico em que se deu a Independência do Brasil, é CORRETO o que se afirma em:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Após a queda de Napoleão Bonaparte, grandes potências monárquicas se reuniram para discutir a redefinição das fronteiras europeias, na Convenção de Viena. Em razão da permanência da família real no continente americano e da instabilidade política que sofria, não foi admitida a participação portuguesa no referido acordo."
+      },
+      {
+        "id": 2,
+        "texto": "O Partido Brasileiro – agrupamento de pessoas que lutavam pela independência da colônia e contra o retorno de medidas controladoras – representava basicamente os interesses de aristocratas rurais, burocratas e comerciantes. As tratativas deste grupo com a família real portuguesa, em especial com dom Pedro I, foram predominantemente marcadas por desentendimentos e conflitos de interesses."
+      },
+      {
+        "id": 3,
+        "texto": "A decisão de dom Pedro I de permanecer na colônia contrariando as exigências emanadas das cortes de Portugal, marco conhecido como o \"Dia do Fico\", recebeu integral apoio das tropas portuguesas que permaneceram no Rio de Janeiro."
+      },
+      {
+        "id": 4,
+        "texto": "Em maio de 1.822, um novo ministério organizado por Dom Pedro I e sob a chefia de José Bonifácio estabeleceu o \"Cumpra-se\", decreto pelo qual as ordens de Portugal só seriam executadas dentro do território brasileiro com a expressa anuência do príncipe regente."
+      },
+      {
+        "id": 5,
+        "texto": "A independência significou a libertação das amarras coloniais, com o atendimento dos interesses da maioria da população e o declínio socioeconômico e político da aristocracia rural."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "460",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "O texto a seguir faz referência à realidade experimentada após a proclamação da República:\n\n\"A proclamação da República envolveu grandes expectativas para o país. Imaginava-se que boa parte de seus males estava ligada à forma de governo monárquico, e que a república, regime de iguais regidos por uma mesma lei, seria moderna e menos propensa a vícios. Em pouco tempo essas expectativas foram frustradas. 'Essa não é a república dos meus sonhos', teria dito Martinho Prado da Silva Jr., um dos fundadores do regime, já em 1.891.\"\n\n(Cláudio Vicentino e Gianpaolo Dorigo, in \"História Geral e do Brasil\", volume 3, editora Scipione, 2ª edição, São Paulo, 2013.)\n\nFoi uma característica observada na fase inicial da experiência republicana:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A inauguração do sistema presidencialista de governo e a tripartição dos poderes em Executivo, Legislativo e Judiciário, independentes entre si."
+      },
+      {
+        "id": 2,
+        "texto": "O voto universal e secreto, excluídos do processo eleitoral, no entanto, os analfabetos, mendigos, menores de 21 anos, padres, soldados e mulheres."
+      },
+      {
+        "id": 3,
+        "texto": "O governo provisório do militar Floriano Peixoto, seguido da sua eleição direta, por maioria dos votos populares, como primeiro Presidente da República após a promulgação da Constituição Federal de 1.891."
+      },
+      {
+        "id": 4,
+        "texto": "Os altos investimentos na alfabetização da população e a consequente redução dos índices de analfabetismo."
+      },
+      {
+        "id": 5,
+        "texto": "A produção de café como atividade de grande relevo para a economia do país, com a utilização exclusiva de mão de obra escrava."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "461",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Desde a proclamação da República em 15 de novembro de 1889, o Brasil teve diversos chefes de governo, assinale a alternativa que contém o nome de presidente eleito indiretamente:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Campos Sales;"
+      },
+      {
+        "id": 2,
+        "texto": "Eurico Gaspar Dutra;"
+      },
+      {
+        "id": 3,
+        "texto": "Juscelino Kubitschek;"
+      },
+      {
+        "id": 4,
+        "texto": "João Figueiredo;"
+      },
+      {
+        "id": 5,
+        "texto": "Jânio Quadros."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "462",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "A respeito da agropecuária e o circuito do agronegócio podemos dizer:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A agropecuária também é conhecida como \"agrobusiness\" podendo ser conceituada como o conjunto de negócios referentes à agricultura e pecuária sob um enfoque econômico."
+      },
+      {
+        "id": 2,
+        "texto": "São exemplos de alguns setores da economia que fazem parte do agronegócio: indústria de tratores e peças e lojas veterinárias e laboratórios que fornecem vacinas e rações para a pecuária de corte e leiteira."
+      },
+      {
+        "id": 3,
+        "texto": "O agronegócio não ocupa lugar de destaque na economia dos países subdesenvolvidos ou em desenvolvimento."
+      },
+      {
+        "id": 4,
+        "texto": "A produção agropecuária é destinada apenas ao mercado interno."
+      },
+      {
+        "id": 5,
+        "texto": "A produção agropecuária é destinada apenas ao mercado externo."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "463",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "O cenário econômico atual é caracterizado pela existência de alianças econômicas entre países, com o fim de alcançar um maior nível de integração, o crescimento comercial e a dinamização exigida pelo mercado globalizado. Tais tratativas, embora possuam alguns objetivos comuns, podem ter diferentes tipologias quanto aos objetivos e amplitude. O Bloco Econômico que busca, em regra, a eliminação de barreiras alfandegárias internas, a uniformização das tarifas de comércio exterior e a liberalização da circulação de capitais, mercadorias, serviços e pessoas no interior do bloco, embora não promova a uniformização da moeda, é classificado como:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Zona de preferências tarifárias."
+      },
+      {
+        "id": 2,
+        "texto": "Zona de livre comércio."
+      },
+      {
+        "id": 3,
+        "texto": "União Aduaneira."
+      },
+      {
+        "id": 4,
+        "texto": "União Política e Monetária."
+      },
+      {
+        "id": 5,
+        "texto": "Mercado Comum."
+      }
+    ],
+    "resposta_correta": 5
   }
 ]
