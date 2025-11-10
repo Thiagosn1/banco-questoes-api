@@ -12400,5 +12400,408 @@
       }
     ],
     "resposta_correta": 5
+  },
+  {
+    "id": "464",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Quanto às noções básicas relacionadas à internet e ao correio eletrônico, marque a alternativa incorreta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "É necessário possuir um endereço de e-mail para que possamos utilizar o correio eletrônico."
+      },
+      {
+        "id": 2,
+        "texto": "Observando o tamanho permitido, podemos anexar qualquer tipo de arquivo à mensagem enviada por e-mail."
+      },
+      {
+        "id": 3,
+        "texto": "O sistema de e-mail somente permite ao usuário enviar mensagens não sendo possível recebê-las ou adicionar arquivos."
+      },
+      {
+        "id": 4,
+        "texto": "O correio eletrônico é um dos principais serviços da internet."
+      },
+      {
+        "id": 5,
+        "texto": "Na opção encaminhar mensagem do correio eletrônico tanto o texto da mensagem original recebida quanto eventuais anexos são incorporados à mensagem de encaminhamento"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "465",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "De acordo com o Dicionário de Informática & Internet, da autora Márcia Regina Sawaya, editora Nobel: consiste em \"um arquivo que é remetido, automaticamente, pelo servidor de rede ao disco rígido do usuário quando este entra em certos sites da WWW (World Wide Web) alojados no servidor. Este arquivo, chamado de _______, é usado pelos servidores para manter rastro dos padrões e preferências dos usuários. Deste modo, em uma visita posterior ao mesmo site, os servidores reconhecem o ______ e tornam-se aptos a usar a informação nele armazenada para personalizar o que será enviado ao usuário\". É correto afirmar que a autora conceitua:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Cookie."
+      },
+      {
+        "id": 2,
+        "texto": "Gateway."
+      },
+      {
+        "id": 3,
+        "texto": "Spam."
+      },
+      {
+        "id": 4,
+        "texto": "Nuvem."
+      },
+      {
+        "id": 5,
+        "texto": "Freeware."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "466",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Um servidor deseja imprimir as páginas 15 a 25 de um determinado arquivo produzido no Word. Para tanto, para personalizar o número de páginas deve preencher o campo correspondente com a seguinte sintaxe:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "15,25."
+      },
+      {
+        "id": 2,
+        "texto": "15;25."
+      },
+      {
+        "id": 3,
+        "texto": "15-25."
+      },
+      {
+        "id": 4,
+        "texto": "15*25."
+      },
+      {
+        "id": 5,
+        "texto": "15\"25."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "467",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Todas as ferramentas abaixo fazem parte do pacote de aplicações de escritório Pacote LibreOffice, exceto:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Writer."
+      },
+      {
+        "id": 2,
+        "texto": "Calc."
+      },
+      {
+        "id": 3,
+        "texto": "Impress"
+      },
+      {
+        "id": 4,
+        "texto": "Draw.."
+      },
+      {
+        "id": 5,
+        "texto": "Outlook Express."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "468",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Em consonância com o que preceitua o Estatuto dos Funcionários Públicos Civis do Estado de Goiás e de suas autarquias, são deveres do funcionário, exceto:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "discrição;"
+      },
+      {
+        "id": 2,
+        "texto": "urbanidade;"
+      },
+      {
+        "id": 3,
+        "texto": "pontualidade;"
+      },
+      {
+        "id": 4,
+        "texto": "zelo pela economia do material e conservação do material que lhe for confiado;"
+      },
+      {
+        "id": 5,
+        "texto": "obediência às normas superiores, mesmo quando manifestamente ilegais."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "469",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "À luz da Lei Estadual n.º 10.460, de 22 de fevereiro de 1988 NÃO É transgressão disciplinar:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "abandonar o serviço para o qual tenha sido designado;"
+      },
+      {
+        "id": 2,
+        "texto": "valer-se do cargo para lograr proveito pessoal ilícito;"
+      },
+      {
+        "id": 3,
+        "texto": "fazer uso indevido de veículo da repartição;"
+      },
+      {
+        "id": 4,
+        "texto": "atender, em serviço, com desatenção ou indelicadeza qualquer pessoa do público;"
+      },
+      {
+        "id": 5,
+        "texto": "zelar pela eficiência e urbanidade."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "470",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Nos termos da Carta da República, são funções institucionais do Ministério Público:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "vitaliciedade;"
+      },
+      {
+        "id": 2,
+        "texto": "inamovibilidade, salvo por motivo de interesse público;"
+      },
+      {
+        "id": 3,
+        "texto": "exercer atividade político-partidária;"
+      },
+      {
+        "id": 4,
+        "texto": "defender judicialmente os direitos e interesses das populações indígenas;"
+      },
+      {
+        "id": 5,
+        "texto": "irredutibilidade de subsídio."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "471",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Nos termos da Lei Orgânica do Ministério Público do Estado de Goiás, Lei Complementar nº 25, de 06 de julho de 1998, é correto afirmar que são, concomitantemente, órgãos da Administração Superior e órgãos de execução do Ministério Público:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A Procuradoria Geral de Justiça e os Órgãos de Apoio Técnico Administrativo e de Assessoramento."
+      },
+      {
+        "id": 2,
+        "texto": "A Corregedoria Geral do Ministério Público e o Colégio de Procuradores de Justiça."
+      },
+      {
+        "id": 3,
+        "texto": "O Procurador Geral de Justiça e a Escola Superior do Ministério Público."
+      },
+      {
+        "id": 4,
+        "texto": "O Colégio de Procuradores de Justiça e o Conselho Superior do Ministério Público."
+      },
+      {
+        "id": 5,
+        "texto": "As Procuradorias de Justiça e as Promotorias de Justiça."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "472",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "A Corregedoria Geral do Ministério Público desempenha relevante papel na orientação, fiscalização e avaliação dos resultados de metas institucionais, atividades funcionais e conduta dos membros. Considerando o disposto na Lei Complementar nº 25, de 06 de julho de 1998, no que diz respeito ao processo de escolha, é INCORRETO afirmar que o Corregedor-Geral será eleito:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Em votação secreta."
+      },
+      {
+        "id": 2,
+        "texto": "Pelo Conselho Superior do Ministério Público, entre os membros da instituição."
+      },
+      {
+        "id": 3,
+        "texto": "Para mandato de dois anos, em regime de dedicação exclusiva."
+      },
+      {
+        "id": 4,
+        "texto": "Na primeira quinzena do mês que anteceder o término do mandato."
+      },
+      {
+        "id": 5,
+        "texto": "Permitida a reeleição, observado o mesmo procedimento."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "473",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Nos termos do Estatuto dos Servidores Civis do Estado de Goiás, Lei nº 10.460/1988, no tocante às penalidades, é correto afirmar que são circunstâncias que agravam a pena, EXCETO:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A prática de transgressão para assegurar execução ou ocultação, a impunidade ou vantagem decorrente de outra transgressão."
+      },
+      {
+        "id": 2,
+        "texto": "O abuso de autoridade ou de poder."
+      },
+      {
+        "id": 3,
+        "texto": "A execução ou participação na transgressão disciplinar mediante paga ou promessa de recompensa."
+      },
+      {
+        "id": 4,
+        "texto": "A prática de transgressão disciplinar com o concurso de duas ou mais pessoas."
+      },
+      {
+        "id": 5,
+        "texto": "A prática da transgressão com abuso de confiança nos cargos de chefia e assessoramento."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "474",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Ao Ministério Público, organizado em carreira, é assegurada autonomia funcional, administrativa e financeira, cabendo-lhe, especialmente:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Propor ao Poder Legislativo a criação e a extinção de seus cargos e de seus serviços auxiliares, bem como a fixação e o reajuste dos vencimentos e vantagens dos seus membros e de seus servidores, sempre que o poder judiciário solicitar."
+      },
+      {
+        "id": 2,
+        "texto": "Praticar atos e decidir unicamente a situação funcional e administrativa do pessoal, ativo e inativo, da carreira e dos serviços auxiliares, organizados em quadros próprios;"
+      },
+      {
+        "id": 3,
+        "texto": "Elaborar suas folhas de pagamento e expedir os competentes demonstrativos, de 15 em 15 dias."
+      },
+      {
+        "id": 4,
+        "texto": "Editar atos de aposentadoria, exoneração e outros que importem em vacância de cargos de carreira e de serviços auxiliares, bem como os de disponibilidade de membros do Ministério Público e de seus servidores;"
+      },
+      {
+        "id": 5,
+        "texto": "Elaborar seus regimentos internos anualmente."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": "475",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Conforme a CF/88, são funções institucionais do Ministério Público, salvo:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Promover, privativamente, a ação penal pública, na forma da lei;"
+      },
+      {
+        "id": 2,
+        "texto": "Zelar pelo efetivo respeito dos Poderes Públicos e dos serviços de relevância pública aos direitos assegurados nesta Constituição, promovendo as medidas necessárias a sua garantia;"
+      },
+      {
+        "id": 3,
+        "texto": "Promover o inquérito civil e a ação civil pública, para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos;"
+      },
+      {
+        "id": 4,
+        "texto": "Promover a ação de inconstitucionalidade ou representação para fins de intervenção da União e dos Estados, nos casos previstos nesta Constituição;"
+      },
+      {
+        "id": 5,
+        "texto": "Exercer o controle interno da atividade policial, na forma da lei complementar mencionada no artigo anterior."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": "476",
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Crixás",
+    "banca": "Não informada",
+    "enunciado": "Conforme a CF/88, são funções institucionais do Ministério Público, salvo:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Defender judicialmente os direitos e interesses das populações indígenas;"
+      },
+      {
+        "id": 2,
+        "texto": "Expedir notificações nos procedimentos administrativos de sua competência, requisitando informações e documentos para instruí-los, na forma da lei complementar respectiva;"
+      },
+      {
+        "id": 3,
+        "texto": "Exercer as funções de polícia marítima, aeroportuária e de fronteiras, quando não existentes;"
+      },
+      {
+        "id": 4,
+        "texto": "Requisitar diligências investigatórias e a instauração de inquérito policial, indicados os fundamentos jurídicos de suas manifestações processuais;"
+      },
+      {
+        "id": 5,
+        "texto": "Exercer outras funções que lhe forem conferidas, desde que compatíveis com sua finalidade, sendo-lhe vedada a representação judicial e a consultoria jurídica de entidades públicas."
+      }
+    ],
+    "resposta_correta": 3
   }
 ]
