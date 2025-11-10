@@ -9121,7 +9121,7 @@
     "nivel": "Fundamental",
     "prova": "Ministério Público de Goiás - Comarca de Alexânia",
     "banca": "Não informada",
-    "enunciado": "Um professor recomendou a leitura de obras da escritora Márcia Kupstas a um grupo de 30 jovens. Depois de algum tempo, o professor realizou um levantamento para saber quais livros foram lidos. Verificou-se, então, que 21 alunos tinham lido Um amigo no escuro, 19 alunos leram Crescer é perigoso e 12 alunos leram essas duas obras. Pergunta-se: quantos alunos leram apenas o livro Um amigo no escuro e quantos alunos leram apenas o livro Crescer é perigoso?",
+    "enunciado": "Um professor recomendou a leitura de obras da escritora Márcia Kupstas a um grupo de 30 jovens. Depois de algum tempo, o professor realizou um levantamento para saber quais livros foram lidos. Verificou-se, então, que 21 alunos tinham lido Um amigo no escuro, 19 alunos leram Crescer é perigoso e 12 alunos leram essas duas obras. \n\nPergunta-se: quantos alunos leram apenas o livro Um amigo no escuro e quantos alunos leram apenas o livro Crescer é perigoso?",
     "alternativas": [
       {
         "id": 1,
@@ -9493,7 +9493,7 @@
     "nivel": "Fundamental",
     "prova": "Ministério Público de Goiás - Comarca de Alexânia",
     "banca": "Não informada",
-    "enunciado": "\"A massa mantém a marca, a marca mantém a mídia e a mídia controla a massa\" (George Orwell, 1903-1950). Sobre a sociedade de consumo, considere as seguintes afirmativas: I – É o designativo para o tipo de sociedade do mundo desenvolvido que se caracteriza pelo consumo massivo de bens e serviços. II – Na sociedade de consumo, a oferta geralmente excede a procura, os produtos são normalizados e os padrões de consumo estão massificados. III – Seu surgimento está diretamente ligado ao desenvolvimento industrial. IV – Na sociedade de consumo as técnicas e estratégias de marketing e a atuação da mídia não são importantes, assumindo papel secundário.",
+    "enunciado": "\"A massa mantém a marca, a marca mantém a mídia e a mídia controla a massa\" (George Orwell, 1903-1950). \n\nSobre a sociedade de consumo, considere as seguintes afirmativas: \n\nI – É o designativo para o tipo de sociedade do mundo desenvolvido que se caracteriza pelo consumo massivo de bens e serviços. \nII – Na sociedade de consumo, a oferta geralmente excede a procura, os produtos são normalizados e os padrões de consumo estão massificados. \nIII – Seu surgimento está diretamente ligado ao desenvolvimento industrial. IV – Na sociedade de consumo as técnicas e estratégias de marketing e a atuação da mídia não são importantes, assumindo papel secundário.",
     "alternativas": [
       {
         "id": 1,
