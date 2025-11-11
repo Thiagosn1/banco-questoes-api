@@ -1598,7 +1598,7 @@
     "nivel": "Médio",
     "prova": "Câmara Municipal de Anápolis – GO",
     "banca": "Instituto Verbena/UFG",
-    "enunciado": "No Brasil, o acesso à informação pública está inscrito na Constituição Federal de 1988 no capítulo que versa sobre os Direitos e Deveres Individuais e Coletivos, em especial no inciso XXXIII do artigo 5º, que traz: 'XXXIII – todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado'. É este dispositivo que a Lei n° 12.527/2011, também conhecida como Lei de Acesso à Informação Pública, regulamenta. Ao efetivar o direito de acesso à informação, através de suas diretrizes gerais, a referida lei",
+    "enunciado": "No Brasil, o acesso à informação pública está inscrito na Constituição Federal de 1988 no capítulo que versa sobre os Direitos e Deveres Individuais e Coletivos, em especial no inciso XXXIII do artigo 5º, que traz: 'XXXII\n\nI – todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado'. É este dispositivo que a Lei n° 12.527/2011, também conhecida como Lei de Acesso à Informação Pública, regulamenta. Ao efetivar o direito de acesso à informação, através de suas diretrizes gerais, a referida lei",
     "alternativas": [
       {
         "id": 1,
@@ -2381,7 +2381,7 @@
     "nivel": "Médio",
     "prova": "Câmara Municipal de Araguapaz - GO",
     "banca": "Ganzaroli Assessoria",
-    "enunciado": "“O desmatamento no Cerrado aumentou pelo quarto ano seguido e o governo federal anunciou um plano de preservação do bioma. É o quarto ano consecutivo de aumento da derrubada de vegetação nativa, (...). O pior resultado se concentra na área que os técnicos chamam de Matopiba, que abrange parte dos estados de Maranhão, Tocantins, Piauí e Bahia. Juntos, concentram 75% da área desmatada. Só a Bahia teve um aumento de 38% no período. Goiás e Mato Grosso tiveram as maiores quedas: 18% cada.”\n(adaptado de: https://g1.globo.com/jornal-nacional/noticia/2023/11/28/governo-federal-anunciaplano-de-preservacao-do-cerrado-apos-desmatamento-do-bioma-aumentar-pelo-4o-ano-seguido.ghtml. Data de acesso: 29/11/2023).\n\nSobre a problemática do desmatamento no Cerrado, assinale a alternativa correta.",
+    "enunciado": "“O desmatamento no Cerrado aumentou pelo quarto ano seguido e o governo federal anunciou um plano de preservação do bioma. É o quarto ano consecutivo de aumento da derrubada de vegetação nativa, (...). O pior resultado se concentra na área que os técnicos chamam de Matopiba, que abrange parte dos estados de Maranhão, Tocantins, Piauí e Bahia. Juntos, concentram 75% da área desmatada. Só a Bahia teve um aumento de 38% no período. Goiás e Mato Grosso tiveram as maiores quedas: 18% cada.”\n(adaptado de: https://g1.globo.com/jornal-nacional/noticia/2023/11/28/governo-federal-anunciaplano-de-preservacao-do-cerrado-apos-desmatamento-do-bioma-aumentar-pelo-4o-ano-seguido.ghtml. Data de acesso: 29/11/2023).\n\nSobre a problemática do desmatamento no Cerrado,\n\nassinale a alternativa correta.",
     "alternativas": [
       {
         "id": 1,
@@ -2570,7 +2570,7 @@
     "nivel": "Médio",
     "prova": "Câmara Municipal de Araguapaz - GO",
     "banca": "Ganzaroli Assessoria",
-    "enunciado": "Licitação é o processo por meio do qual a Administração Pública contrata obras, serviços, compras e alienações. Em outras palavras, licitação é a forma como a Administração Pública pode comprar e vender. Considerando os objetivos do processo licitatório, analise as afirmativas abaixo e assinale a alternativa correta: \n\nI- Assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de vida do objeto. \nII- Assegurar tratamento isonômico entre os licitantes, bem como a justa competição. \nIII- Recusar contratações com sobrepreço ou com preços manifestamente inexequíveis e superfaturamento na execução dos contratos. \nIV- Incentivar a inovação e o desenvolvimento nacional sustentável.",
+    "enunciado": "Licitação é o processo por meio do qual a Administração Pública contrata obras, serviços, compras e alienações. Em outras palavras, licitação é a forma como a Administração Pública pode comprar e vender. Considerando os objetivos do processo licitatório, analise as afirmativas abaixo e\n\nassinale a alternativa correta:\n\nI- Assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de vida do objeto. \nI\n\nI- Assegurar tratamento isonômico entre os licitantes, bem como a justa competição. \nII\n\nI- Recusar contratações com sobrepreço ou com preços manifestamente inexequíveis e superfaturamento na execução dos contratos. \nIV- Incentivar a inovação e o desenvolvimento nacional sustentável.",
     "alternativas": [
       {
         "id": 1,
@@ -2597,7 +2597,7 @@
     "nivel": "Médio",
     "prova": "Câmara Municipal de Araguapaz - GO",
     "banca": "Ganzaroli Assessoria",
-    "enunciado": "O principal objetivo da análise ABC é identificar os itens de maior valor de demanda e sobre eles exercer uma gestão mais refinada, especialmente por representarem altos valores de investimentos e, muitas vezes, com impactos estratégicos para a sobrevivência da organização. Considerando os percentuais aproximados (não são fixos) da Curva ABC (ou Curva de Pareto), assinale a alternativa correta:",
+    "enunciado": "O principal objetivo da análise ABC é identificar os itens de maior valor de demanda e sobre eles exercer uma gestão mais refinada, especialmente por representarem altos valores de investimentos e, muitas vezes, com impactos estratégicos para a sobrevivência da organização. Considerando os percentuais aproximados (não são fixos) da Curva ABC (ou Curva de Pareto),\n\nassinale a alternativa correta:",
     "alternativas": [
       {
         "id": 1,
@@ -2705,7 +2705,7 @@
     "nivel": "Médio",
     "prova": "Câmara Municipal de Araguapaz - GO",
     "banca": "Ganzaroli Assessoria",
-    "enunciado": "É imprescindível que haja mecanismos que permitam controlar a tramitação dos documentos, de forma que seja possível acompanhar seus andamentos evitando possíveis perdas de documentos durante sua resolução. Esta atividade de controle é que chamamos de protocolo. Considerando a atividade de protocolo, assinale a alternativa correta:",
+    "enunciado": "É imprescindível que haja mecanismos que permitam controlar a tramitação dos documentos, de forma que seja possível acompanhar seus andamentos evitando possíveis perdas de documentos durante sua resolução. Esta atividade de controle é que chamamos de protocolo. Considerando a atividade de protocolo,\n\nassinale a alternativa correta:",
     "alternativas": [
       {
         "id": 1,
@@ -3866,7 +3866,7 @@
     "nivel": "Médio",
     "prova": "Prefeitura Municipal de Campo Alegre de Goiás - GO",
     "banca": "Fundação Aroeira",
-    "enunciado": "Sobre papéis do controle na administração, leia as afirmações a seguir: \n\n1. Limitar a autonomia dos funcionários. \n2. Acompanhar a frequência dos funcionários. \n3. Acompanhar as variações no desempenho organizacional. \n4. Avaliar se os objetivos estão sendo alcançados. \n5. Desencorajar a inovação e a criatividade. \n\nQuais estão corretas?",
+    "enunciado": "Sobre papéis do controle na administração, leia as afirmações a seguir: \n\n1. Limitar a autonomia dos funcionários. \n2. Acompanhar a frequência dos funcionários. \n3. Acompanhar as variações no desempenho organizacional. \n4. Avaliar se os objetivos estão sendo alcançados. \n5. Desencorajar a inovação e a criatividade.\n\nQuais estão corretas?",
     "alternativas": [
       {
         "id": 1,
@@ -3974,7 +3974,7 @@
     "nivel": "Médio",
     "prova": "Prefeitura Municipal de Campo Alegre de Goiás - GO",
     "banca": "Fundação Aroeira",
-    "enunciado": "O Manual de Redação da Presidência da República é um documento público que se destina a definir padrões a serem utilizados nas comunicações oficiais e elaboração de atos normativos pelo Poder Executivo Federal, servindo como referencia, também, para outras esferas de governo. Embora haja legislação recente abolindo o uso de certos pronomes de tratamento, no âmbito do poder executivo federal, esse manual é referencia para outras esferas de governo, na forma como se encontra disponível na internet. Leia com a atenção a tabela a seguir.\n\n| Autoridade | Endereçamento | Vocativo | Tratamento no corpo do texto | Abreviatura |\n|------------|---------------|----------|----------------------------|-------------|\n| 1 Outros postos militares | Ao Senhor | Senhor + Posto | Vossa Senhoria | V. Sa. |\n| 2 Senador da República | A Sua Excelência o Senhor | Senhor Senador | Vossa Excelência | V. Exa. |\n| 3 Deputado Federal | A Sua Excelência o Senhor | Senhor Deputado | Vossa Excelência | V. Exa. |\n| 4 Ministro dos Tribunais Superiores | A Sua Excelência o Senhor | Senhor Ministro | Vossa Excelência | V. Exa |\n\nQuais itens estão corretos:",
+    "enunciado": "O Manual de Redação da Presidência da República é um documento público que se destina a definir padrões a serem utilizados nas comunicações oficiais e elaboração de atos normativos pelo Poder Executivo Federal, servindo como referencia, também, para outras esferas de governo. Embora haja legislação recente abolindo o uso de certos pronomes de tratamento, no âmbito do poder executivo federal, esse manual é referencia para outras esferas de governo, na forma como se encontra disponível na internet. Leia com a atenção a tabela a seguir.\n\n| Autoridade | Endereçamento | Vocativo | Tratamento no corpo do texto | Abreviatura |\n|------------|---------------|----------|----------------------------|-------------|\n| 1 Outros postos militares | Ao Senhor | Senhor + Posto | Vossa Senhoria | V. Sa. |\n| 2 Senador da República | A Sua Excelência o Senhor | Senhor Senador | Vossa Excelência | V. Exa. |\n| 3 Deputado Federal | A Sua Excelência o Senhor | Senhor Deputado | Vossa Excelência | V. Exa. |\n| 4 Ministro dos Tribunais Superiores | A Sua Excelência o Senhor | Senhor Ministro | Vossa Excelência | V. Exa |\n\nQuais itens\n\nestão corretos:",
     "alternativas": [
       {
         "id": 1,
@@ -4271,7 +4271,7 @@
     "nivel": "Médio",
     "prova": "Prefeitura Municipal de Edéia - GO",
     "banca": "ITAME",
-    "enunciado": "Julgue os itens a seguir quanto ao emprego da crase. \n\n1- Os passageiros partirão às dezenove horas. \n2- Ele estava à cantar quando seu pai apareceu repentinamente. \n3- As informações foram solicitadas à diretora. \n4- Entregamos a encomenda àquela menina. \n\nA alternativa que apresenta a sequência correta é:",
+    "enunciado": "Julgue os itens a seguir quanto ao emprego da crase. \n\n1- Os passageiros partirão às dezenove horas. \n2- Ele estava à cantar quando seu pai apareceu repentinamente. \n3- As informações foram solicitadas à diretora. \n4- Entregamos a encomenda àquela menina. \n\nA alternativa que apresenta\n\na sequência correta é:",
     "alternativas": [
       {
         "id": 1,
@@ -6074,7 +6074,7 @@
     "nivel": "Médio",
     "prova": "Prefeitura Municipal de Coluna/MG",
     "banca": "Reis & Reis",
-    "enunciado": "A figura do cartaz abaixo faz parte de uma campanha contra queimadas lançada pelo governo federal em 2020. Leia o cartaz e assinale a alternativa correta: Que figura de linguagem é empregada no slogan “Diga sim à vida e não à queimada”?",
+    "enunciado": "A figura do cartaz abaixo faz parte de uma campanha contra queimadas lançada pelo governo federal em 2020. Leia o cartaz e\n\nassinale a alternativa correta: Que figura de linguagem é empregada no slogan “Diga sim à vida e não à queimada”?",
     "alternativas": [
       {
         "id": 1,
@@ -6844,7 +6844,7 @@
     "nivel": "Médio",
     "prova": "Prefeitura Municipal de Baliza - GO",
     "banca": "ITAME",
-    "enunciado": "Com o prêmio da Mega Sena acumulado, três amigos resolveram fazer um bolão e após algumas tentativas foram contemplados com um prêmio que foi dividido proporcionalmente, conforme a participação financeira de cada um: Hélio recebeu 40% do prêmio; Emerson recebeu 7/20 do prêmio; Edgar recebeu R$65.000,00 que restou do prêmio. Nas condições acima expostas, é correto afirmar que:",
+    "enunciado": "Com o prêmio da Mega Sena acumulado, três amigos resolveram fazer um bolão e após algumas tentativas foram contemplados com um prêmio que foi dividido proporcionalmente, conforme a participação financeira de cada um: Hélio recebeu 40% do prêmio; Emerson recebeu 7/20 do prêmio; Edgar recebeu R$65.000,00 que restou do prêmio. Nas condições acima expostas,\n\né correto afirmar que:",
     "alternativas": [
       {
         "id": 1,
@@ -7114,7 +7114,7 @@
     "nivel": "Médio",
     "prova": "Prefeitura Municipal de Baliza - GO",
     "banca": "ITAME",
-    "enunciado": "Analise os itens a seguir e marque a alternativa correta:\nSegundo o artigo 3º do Estatuto dos Servidores Públicos (Lei n. 016/90), o sistema de Administração de Pessoal compreende os seguintes órgãos:\nI. Órgãos de Assistência direta e imediata do Prefeito Municipal;\nII. Órgãos Centrais de Direção Superior;\nIII. Órgãos de Assessoramento Técnico;\nIV. Órgãos Vinculados.",
+    "enunciado": "Analise os itens a seguir e\n\nmarque a alternativa correta:\nSegundo o artigo 3º do Estatuto dos Servidores Públicos (Lei n. 016/90), o sistema de Administração de Pessoal compreende os seguintes órgãos:\nI. Órgãos de Assistência direta e imediata do Prefeito Municipal;\nII. Órgãos Centrais de Direção Superior;\nIII. Órgãos de Assessoramento Técnico;\nIV. Órgãos Vinculados.",
     "alternativas": [
       {
         "id": 1,
@@ -8107,7 +8107,7 @@
     "nivel": "Fundamental",
     "prova": "Ministério Público de Goiás - Comarca de Padre Bernardo",
     "banca": "Não informada",
-    "enunciado": "Pedro tinha uma dívida de R$1000,00 perante a empresa de cartões de crédito em 31 de janeiro de 2014 e deixou de pagá-la, acreditando que no ano novo tudo se resolveria. Em vez disso, Pedro recebe uma cobrança dessa empresa logo em janeiro de 2015, acompanhada da memória de cálculo da dívida atualizada até 31 de dezembro de 2014. Suponha que, nesse cálculo, a taxa de juros aplicada pela empresa tenha sido de 15% ao mês para os primeiros seis meses da dívida e 20% para cada um dos demais, bem como o fato de que tenham sido aplicados \"juros sobre juros\" (juros compostos). Considere, ainda, que o cálculo não fez incidir qualquer índice a título de correção monetária. Assinale a alternativa correta.",
+    "enunciado": "Pedro tinha uma dívida de R$1000,00 perante a empresa de cartões de crédito em 31 de janeiro de 2014 e deixou de pagá-la, acreditando que no ano novo tudo se resolveria. Em vez disso, Pedro recebe uma cobrança dessa empresa logo em janeiro de 2015, acompanhada da memória de cálculo da dívida atualizada até 31 de dezembro de 2014. Suponha que, nesse cálculo, a taxa de juros aplicada pela empresa tenha sido de 15% ao mês para os primeiros seis meses da dívida e 20% para cada um dos demais, bem como o fato de que tenham sido aplicados \"juros sobre juros\" (juros compostos). Considere, ainda, que o cálculo não fez incidir qualquer índice a título de correção monetária.\n\nAssinale a alternativa correta.",
     "alternativas": [
       {
         "id": 1,
@@ -9161,7 +9161,7 @@
     "nivel": "Fundamental",
     "prova": "Ministério Público de Goiás - Comarca de Alexânia",
     "banca": "Não informada",
-    "enunciado": "Assinale a alternativa que completa correta e respectivamente as lacunas das frases seguintes: I – Encaminhamos _________________ cópia do novo memorando. II – Os advogados ficaram __________________ satisfeitos com a sentença. III – Devemos permanecer sempre _________________________. IV – Água é ________________ para a saúde. V – Nos últimos dias, enfrentamos calor e poluição ____________.",
+    "enunciado": "Assinale a alternativa que completa correta e respectivamente as lacunas das frases seguintes:\n\nI – Encaminhamos _________________ cópia do novo memorando. I\n\nI – Os advogados ficaram __________________ satisfeitos com a sentença. II\n\nI – Devemos permanecer sempre _________________________. IV – Água é ________________ para a saúde.\n V – Nos últimos dias, enfrentamos calor e poluição ____________.",
     "alternativas": [
       {
         "id": 1,
@@ -9223,7 +9223,7 @@
     "nivel": "Fundamental",
     "prova": "Ministério Público de Goiás - Comarca de Alexânia",
     "banca": "Não informada",
-    "enunciado": "Assinale os pronomes de tratamento adequados para as seguintes autoridades: I – Papa; II- Juiz de Direito; III – Reitor; IV – Cardeal",
+    "enunciado": "Assinale os pronomes de tratamento adequados para as seguintes autoridades:\n\nI – Papa; I\n\nI- Juiz de Direito; II\n\nI – Reitor; IV – Cardeal",
     "alternativas": [
       {
         "id": 1,
@@ -9936,7 +9936,7 @@
     "nivel": "Fundamental",
     "prova": "Ministério Público de Goiás - Comarca de Alexânia",
     "banca": "Não informada",
-    "enunciado": "\"A massa mantém a marca, a marca mantém a mídia e a mídia controla a massa\" (George Orwell, 1903-1950). \n\nSobre a sociedade de consumo, considere as seguintes afirmativas: \n\nI – É o designativo para o tipo de sociedade do mundo desenvolvido que se caracteriza pelo consumo massivo de bens e serviços. \nII – Na sociedade de consumo, a oferta geralmente excede a procura, os produtos são normalizados e os padrões de consumo estão massificados. \nIII – Seu surgimento está diretamente ligado ao desenvolvimento industrial. IV – Na sociedade de consumo as técnicas e estratégias de marketing e a atuação da mídia não são importantes, assumindo papel secundário.",
+    "enunciado": "\"A massa mantém a marca, a marca mantém a mídia e a mídia controla a massa\" (George Orwell, 1903-1950). \n\nSobre a sociedade de consumo, considere as seguintes afirmativas:\n\nI – É o designativo para o tipo de sociedade do mundo desenvolvido que se caracteriza pelo consumo massivo de bens e serviços. \nI\n\nI – Na sociedade de consumo, a oferta geralmente excede a procura, os produtos são normalizados e os padrões de consumo estão massificados. \nII\n\nI – Seu surgimento está diretamente ligado ao desenvolvimento industrial. IV – Na sociedade de consumo as técnicas e estratégias de marketing e a atuação da mídia não são importantes, assumindo papel secundário.",
     "alternativas": [
       {
         "id": 1,
@@ -10463,7 +10463,7 @@
     "nivel": "Fundamental",
     "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
     "banca": "Não informada",
-    "enunciado": "De acordo com a ortografia oficial vigente, marque a alternativa correta:",
+    "enunciado": "De acordo com a ortografia oficial vigente,\n\nmarque a alternativa correta:",
     "alternativas": [
       {
         "id": 1,
@@ -11114,7 +11114,7 @@
     "nivel": "Fundamental",
     "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
     "banca": "Não informada",
-    "enunciado": "Faça a correta correspondência: I-3,8 metros correspondem a _____ cm; II - 3000 gramas correspondem a _____ kg; III-3 mililitros correspondem a _____ litros.",
+    "enunciado": "Faça a correta correspondência:\n\nI-3,8 metros correspondem a _____ cm; I\n\nI - 3000 gramas correspondem a _____ kg; II\n\nI-3 mililitros correspondem a _____ litros.",
     "alternativas": [
       {
         "id": 1,
@@ -11734,7 +11734,7 @@
     "nivel": "Fundamental",
     "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
     "banca": "Não informada",
-    "enunciado": "De acordo com a Lei Complementar n° 25/98, assinale a alternativa correta:",
+    "enunciado": "De acordo com a Lei Complementar n° 25/98,\n\nassinale a alternativa correta:",
     "alternativas": [
       {
         "id": 1,
@@ -11858,7 +11858,7 @@
     "nivel": "Fundamental",
     "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
     "banca": "Não informada",
-    "enunciado": "A respeito das penalidades por transgressão disciplinar, previstas na Lei 10.460/88 (Estatuto dos Servidores Públicos do Estado de Goiás), assinale a alternativa correta:",
+    "enunciado": "A respeito das penalidades por transgressão disciplinar, previstas na Lei 10.460/88 (Estatuto dos Servidores Públicos do Estado de Goiás),\n\nassinale a alternativa correta:",
     "alternativas": [
       {
         "id": 1,
@@ -11889,7 +11889,7 @@
     "nivel": "Fundamental",
     "prova": "Ministério Público de Goiás - Comarca de Niquelândia",
     "banca": "Não informada",
-    "enunciado": "De acordo com a Lei 14.810/04 (Plano de Carreira dos Servidores do Ministério Público do Estado de Goiás), marque a alternativa correta:",
+    "enunciado": "De acordo com a Lei 14.810/04 (Plano de Carreira dos Servidores do Ministério Público do Estado de Goiás),\n\nmarque a alternativa correta:",
     "alternativas": [
       {
         "id": 1,
@@ -12447,7 +12447,7 @@
     "nivel": "Fundamental",
     "prova": "Ministério Público de Goiás - Comarca de Crixás",
     "banca": "Não informada",
-    "enunciado": "MP obtém liminar que obriga Saneago a fazer a limpeza geral do sistema de abastecimento de água de Crixás. (…) Acolhendo pedido do Ministério Público de Goiás, o juiz da comarca determinou a realização do procedimento de limpeza (desincrustação), limpeza e manutenção de todo o sistema de tratamento e abastecimento de água do município de Crixás, no prazo de 90 dias, sob pena de multa diária de R$ 5 mil. (…) Assim, assinale a alternativa correta:",
+    "enunciado": "MP obtém liminar que obriga Saneago a fazer a limpeza geral do sistema de abastecimento de água de Crixás. (…) Acolhendo pedido do Ministério Público de Goiás, o juiz da comarca determinou a realização do procedimento de limpeza (desincrustação), limpeza e manutenção de todo o sistema de tratamento e abastecimento de água do município de Crixás, no prazo de 90 dias, sob pena de multa diária de R$ 5 mil. (…) Assim,\n\nassinale a alternativa correta:",
     "alternativas": [
       {
         "id": 1,
@@ -13246,5 +13246,2578 @@
       }
     ],
     "resposta_correta": 3
+  },
+  {
+    "id": 466,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "O uso do pronome átono no início das frases é destacado por um poeta e por um gramático nos textos abaixo.\n\"Dê-me um cigarro\nDiz a gramática\nDo professor e do aluno\nE do mulato sabido\nMas o bom negro e o branco\nDa Nação Brasileira\nDizem todos os dias\nDeixa disso camarada\nMe dá um cigarro\" (ANDRADE de Oswald.)\n\"Iniciar a frase com pronome átono só é lícito na conversação familiar, despreocupada, ou na língua escrita quando se deseja reproduzir a fala dos personagens(...) (CEGALLA, Domingos Paschoal.)\nComparando a explicação dada pelos autores sobre essa regra, pode-se afirmar que ambos:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Condenam essa regra gramatical."
+      },
+      {
+        "id": 2,
+        "texto": "Relativiza essa regra gramatical."
+      },
+      {
+        "id": 3,
+        "texto": "Criticam a presença de regras na gramática."
+      },
+      {
+        "id": 4,
+        "texto": "Afirmam que não há regras para o uso de pronomes"
+      },
+      {
+        "id": 5,
+        "texto": "Acreditam que apenas os esclarecidos sabem essa regra."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 467,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Quanto ao uso do SE, não é culto dizermos:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Por aqui se vai ao Rio."
+      },
+      {
+        "id": 2,
+        "texto": "Precisa-se de empregados."
+      },
+      {
+        "id": 3,
+        "texto": "Conserta-se bonecas de louça"
+      },
+      {
+        "id": 4,
+        "texto": "Vive-se bem na Suíça."
+      },
+      {
+        "id": 5,
+        "texto": "Ouviram-se gritos horríveis."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 468,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Assinale o item correto quanto a concordância verbal.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Fazem quatro anos que não viajo."
+      },
+      {
+        "id": 2,
+        "texto": "Batem quatro horas o relógio da matriz."
+      },
+      {
+        "id": 3,
+        "texto": "Existem fatos que ainda não foram revelados."
+      },
+      {
+        "id": 4,
+        "texto": "Sobra-lhe motivos para poder considerar-se uma pessoa feliz."
+      },
+      {
+        "id": 5,
+        "texto": "Partirá amanhã tu, Ramiro e as crianças."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 469,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa em que todas as palavras estão corretamente pluralizadas.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "seniors, catalões, charlatães, líquenes"
+      },
+      {
+        "id": 2,
+        "texto": "cidadãos, auto-sugestões, juniores, projéteis"
+      },
+      {
+        "id": 3,
+        "texto": "ermitões, obras-prima, fósseis, salários-família"
+      },
+      {
+        "id": 4,
+        "texto": "sem-terras, joões-de-barros, gols, abaixos-assinados"
+      },
+      {
+        "id": 5,
+        "texto": "zíperes, pôsters, estêncis, aligátores"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 470,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Assinale o item em que há erro de conjugação verbal em relação à norma culta da língua.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Era necessário que o governo impusesse medidas para baratear os produtos editoriais."
+      },
+      {
+        "id": 2,
+        "texto": "Seria desejável que a classe trabalhadora se entretivesse mais com a leitura de livros e revistas."
+      },
+      {
+        "id": 3,
+        "texto": "Se o trabalhador dispor de adequadas bibliotecas, ter-se-á dado um importante passo para o desenvolvimento cultural do país."
+      },
+      {
+        "id": 4,
+        "texto": "Era importante que se contradissesse, com as evidências disponíveis, a afirmação de que o trabalhador rejeita a leitura."
+      },
+      {
+        "id": 5,
+        "texto": "Muitos ficarão satisfeitos quando nós propusermos a reformulação do projeto."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 471,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Complete as lacunas, usando adequadamente mas/mais/mal/mau:\nPedro e João, _______ entraram em casa, perceberam que as coisas não estavam bem, pois sua irmã caçula escolhera um momento _________ para comunicar aos pais que iria viajar nas férias; _________ seus dois irmãos deixaram os pais _______ sossegados quando disseram que a jovem iria com as primas e a tia.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "mal – mau – mas – mais"
+      },
+      {
+        "id": 2,
+        "texto": "mal – mal – mais – mais"
+      },
+      {
+        "id": 3,
+        "texto": "mau – mal – mais – mas"
+      },
+      {
+        "id": 4,
+        "texto": "mal – mau – mas – mas"
+      },
+      {
+        "id": 5,
+        "texto": "mau – mau – mas – mais."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 472,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Complete o período a seguir com uma das alternativas abaixo:\n\"………. cinco parafusos dentro dessa caixinha, mas ………. quinze dias que procuro e não consigo achar\".",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Havia - fazem"
+      },
+      {
+        "id": 2,
+        "texto": "Tinha - fazem"
+      },
+      {
+        "id": 3,
+        "texto": "Tinha - faz"
+      },
+      {
+        "id": 4,
+        "texto": "haviam - faz"
+      },
+      {
+        "id": 5,
+        "texto": "Havia – faz"
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": 473,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Marque a alternativa cuja flexão verbal esteja errada:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Faz mais de cinco anos que estou esperando."
+      },
+      {
+        "id": 2,
+        "texto": "Havia muitas pessoas estranhas na escola hoje."
+      },
+      {
+        "id": 3,
+        "texto": "Houve muitas perguntas impertinentes."
+      },
+      {
+        "id": 4,
+        "texto": "Há muitas formas de resolvermos essa questão."
+      },
+      {
+        "id": 5,
+        "texto": "Houveram vezes que pensei em desistir."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": 474,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa em que as formas verbais estão corretamente flexionadas.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Os candidatos à eleição proporam medidas de ação social, mas esqueceram-nas"
+      },
+      {
+        "id": 2,
+        "texto": "Se o eleitor prevesse que seus candidatos seriam desonestos, o que faria?"
+      },
+      {
+        "id": 3,
+        "texto": "De onde provêm as verbas aplicadas em ações sociais? Alguém as retém?"
+      },
+      {
+        "id": 4,
+        "texto": "Procuro aquele funcionário competente. Quando o ver, avise-me, por favor."
+      },
+      {
+        "id": 5,
+        "texto": "Se a empresa prevesse que seus lucros seriam insuficientes, o que faria?"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 475,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "\"Agradeço.... Vossa Senhoria.... oportunidade para manifestar minha opinião....respeito.\"",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "à, a, à"
+      },
+      {
+        "id": 2,
+        "texto": "à, a, a"
+      },
+      {
+        "id": 3,
+        "texto": "a, a, à"
+      },
+      {
+        "id": 4,
+        "texto": "a, a, a"
+      },
+      {
+        "id": 5,
+        "texto": "à, à, a"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 476,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Indique a alternativa em que o sinal indicativo da crase é facultativo.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Voltou à casa do juiz."
+      },
+      {
+        "id": 2,
+        "texto": "Chegou às três horas."
+      },
+      {
+        "id": 3,
+        "texto": "Voltou à minha casa."
+      },
+      {
+        "id": 4,
+        "texto": "Devolveu as provas àquela aluna."
+      },
+      {
+        "id": 5,
+        "texto": "Voltou às pressas."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 477,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Assinale a opção em que há concordância inadequada:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "De casa à escola é três quilômetros."
+      },
+      {
+        "id": 2,
+        "texto": "A maioria dos conflitos foram resolvidos."
+      },
+      {
+        "id": 3,
+        "texto": "Deve haver bons motivos para a sua recusa."
+      },
+      {
+        "id": 4,
+        "texto": "A maioria dos estudiosos acha difícil uma solução para o problema."
+      },
+      {
+        "id": 5,
+        "texto": "Nem uma nem outra questão é difícil."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 478,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Indique a opção correta, no que se refere à concordância verbal, de acordo com a norma culta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Haviam muitos candidatos esperando a hora da prova."
+      },
+      {
+        "id": 2,
+        "texto": "Choveu pedaços de granizo na serra gaúcha."
+      },
+      {
+        "id": 3,
+        "texto": "Faz muitos anos que a equipe do IBGE não vem aqui."
+      },
+      {
+        "id": 4,
+        "texto": "Bateu três horas quando o entrevistador chegou."
+      },
+      {
+        "id": 5,
+        "texto": "Fui eu que abriu a porta para o agente do censo."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 479,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Marque a alternativa cujo verbo da oração deve ser flexionado no plural:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Organizou-se um evento em quatro dias."
+      },
+      {
+        "id": 2,
+        "texto": "Pintou-se as calçadas de verde e amarelo para a Copa do Mundo."
+      },
+      {
+        "id": 3,
+        "texto": "Faltava uma semana e um dia."
+      },
+      {
+        "id": 4,
+        "texto": "Percebeu as brigas das crianças."
+      },
+      {
+        "id": 5,
+        "texto": "Faz quatro anos que não bebo refrigerante."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 480,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Com relação aos recursos de proteção de documento do Microsoft Word 2007, assinale com C as afirmações corretas e assinale com I as incorretas.\n( ) No caso de perda ou esquecimento da senha de abertura do arquivo, a senha de administrador do Windows permite abrir e substituir a senha do arquivo protegido.\n( ) Para retirar a senha de exibição/leitura do arquivo, deve-se inserir uma assinatura digital válida para remoção de senhas.\n( ) A proteção de edição de comentários e alterações controladas pode possuir uma senha diferente da senha de abertura de arquivo protegido.\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "C – I – I."
+      },
+      {
+        "id": 2,
+        "texto": "I – C – I."
+      },
+      {
+        "id": 3,
+        "texto": "C – C – I."
+      },
+      {
+        "id": 4,
+        "texto": "I – I – C."
+      },
+      {
+        "id": 5,
+        "texto": "I – C –C."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 481,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Acerca do modo de navegação anônima no navegador Google Chrome, na sua versão atual,\n\nassinale a alternativa correta.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Todas as conexões utilizam o protocolo HTTPS."
+      },
+      {
+        "id": 2,
+        "texto": "As páginas visitadas não são registradas no histórico de navegação."
+      },
+      {
+        "id": 3,
+        "texto": "Apenas cookies de sites seguros são armazenados localmente."
+      },
+      {
+        "id": 4,
+        "texto": "Os dados de usuário e senha não serão visíveis pelos sites acessados."
+      },
+      {
+        "id": 5,
+        "texto": "A indicação de favoritos fica indisponível durante a navegação."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 482,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Complete a lacuna com a alternativa correta.\nEm uma tabela do Microsoft Word, a opção de permitir a quebra de linhas entre páginas é\ndefinida com uma propriedade ___________.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "relativa a toda tabela."
+      },
+      {
+        "id": 2,
+        "texto": "relativa a cada coluna."
+      },
+      {
+        "id": 3,
+        "texto": "relativa a cada linha."
+      },
+      {
+        "id": 4,
+        "texto": "relativa a cada célula."
+      },
+      {
+        "id": 5,
+        "texto": "relativa aos parágrafos de todo documento."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 483,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Assinale a assertiva correta a respeito da classificação de dados no Microsoft Excel.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A classificação nunca utiliza a primeira linha da planilha."
+      },
+      {
+        "id": 2,
+        "texto": "Os valores retornados das fórmulas nunca serão alterados na classificação quando a planilha"
+      },
+      {
+        "id": 3,
+        "texto": "As opções de região e localidade não afetam a ordem de classificação."
+      },
+      {
+        "id": 4,
+        "texto": "As colunas ocultas não serão movidas quando você classificar colunas."
+      },
+      {
+        "id": 5,
+        "texto": "Só é possível classificar pelo valor das células, e não pela cor da célula ou tipo de fonte"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 484,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Em certo concurso inscreveram-se 192 pessoas, sendo a terça parte, homens. Desses,\napenas a quarta parte passou. O número de homens que passaram no concurso foi:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "12;"
+      },
+      {
+        "id": 2,
+        "texto": "15;"
+      },
+      {
+        "id": 3,
+        "texto": "16;"
+      },
+      {
+        "id": 4,
+        "texto": "18;"
+      },
+      {
+        "id": 5,
+        "texto": "20."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 485,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Dalva gostaria de ter uma televisão pequena em sua sala e, procurando em diversas lojas,\nachou a que queria por R$620,00. Felizmente, no fim de semana, a loja anunciou uma promoção\noferecendo 20% de desconto em todos os produtos. Assim, Dalva pode comprar sua televisão\npor:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "R$482,00;"
+      },
+      {
+        "id": 2,
+        "texto": "R$496,00;"
+      },
+      {
+        "id": 3,
+        "texto": "R$508,00;"
+      },
+      {
+        "id": 4,
+        "texto": "R$512,00;"
+      },
+      {
+        "id": 5,
+        "texto": "R$524,00."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 486,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Fernando teve três filhos em três anos seguidos. Quando ele fez 39 anos reparou que essa\nsua idade era igual à soma das idades dos seus três filhos. Nesse dia, o seu filho mais velho\ntinha:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "12 anos;"
+      },
+      {
+        "id": 2,
+        "texto": "13 anos;"
+      },
+      {
+        "id": 3,
+        "texto": "14 anos;"
+      },
+      {
+        "id": 4,
+        "texto": "15 anos;"
+      },
+      {
+        "id": 5,
+        "texto": "16 anos."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 487,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "João recebeu 32 relatórios verdes e 40 relatórios vermelhos. Ele deve colocar esses\nrelatórios em envelopes da seguinte forma: Todos os envelopes devem conter a mesma\nquantidade de relatórios. Nenhum envelope pode misturar relatórios de cores diferentes.\nCumprindo essas exigências, o menor número de envelopes que ele precisará utilizar é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "8;"
+      },
+      {
+        "id": 2,
+        "texto": "9;"
+      },
+      {
+        "id": 3,
+        "texto": "12;"
+      },
+      {
+        "id": 4,
+        "texto": "16;"
+      },
+      {
+        "id": 5,
+        "texto": "18."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 488,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Para o jantar comemorativo do aniversário de certa empresa, a equipe do restaurante\npreparou 18 mesas com 6 lugares cada uma e, na hora do jantar, 110 pessoas compareceram.\nÉ correto afirmar que:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "se todos sentaram em mesas completas, uma ficou vazia;"
+      },
+      {
+        "id": 2,
+        "texto": "se 17 mesas foram completamente ocupadas, uma ficou com apenas 2 pessoas;"
+      },
+      {
+        "id": 3,
+        "texto": "se 17 mesas foram completamente ocupadas, uma ficou com apenas 4 pessoas;"
+      },
+      {
+        "id": 4,
+        "texto": "todas as pessoas puderam ser acomodadas em menos de 17 mesas;"
+      },
+      {
+        "id": 5,
+        "texto": "duas pessoas não puderam sentar."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": 489,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "O coronelismo, fenômeno social e político típico da República Velha, embora suas\nraízes se encontrem no Império, foi decorrente da:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "promulgação da Constituição Republicana que institui a centralização administrativa,"
+      },
+      {
+        "id": 2,
+        "texto": "supremacia política dos Estados da região sul - possuidores de maior poder econômico - cuja"
+      },
+      {
+        "id": 3,
+        "texto": "montagem de modernas instituições - autonomia estadual, voto universal - sobre estruturas"
+      },
+      {
+        "id": 4,
+        "texto": "instituição da Comissão Verificadora de Poderes que possuía autonomia para determinar"
+      },
+      {
+        "id": 5,
+        "texto": "predominância do poder federal sobre o estadual, que possibilitava ao governo manipular a"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 490,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Em agosto de 1942, o Brasil declarou guerra à Alemanha, posicionando-se ao lado dos\nAliados na Segunda Guerra Mundial. Em consequência dessa declaração de guerra, o Brasil\norganizou aproximadamente 25 mil soldados e enviou-os ao fronte italiano para derrotar tropas\nalemãs que defendiam posições em regiões montanhosas na Itália. Qual foi o motivo que levou\no Brasil a declarar guerra a Alemanha?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A ameaça americana de invadir o Brasil caso não declarasse guerra contra a Alemanha."
+      },
+      {
+        "id": 2,
+        "texto": "O ataque de submarinos alemães contra navios mercantes brasileiros."
+      },
+      {
+        "id": 3,
+        "texto": "O assassinato de um diplomata brasileiro por um general alemão na Itália."
+      },
+      {
+        "id": 4,
+        "texto": "A eclosão da Intentona Integralista."
+      },
+      {
+        "id": 5,
+        "texto": "A invasão do espaço aéreo brasileiro por aviões alemães."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 491,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Sobre o Estado Novo de Getúlio Vargas, é incorreto afirmar:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "que foi implantado por Getúlio Vargas sob a justificativa de conter uma nova ameaça de"
+      },
+      {
+        "id": 2,
+        "texto": "que tomado por uma orientação socialista, o governo preocupava-se em obter o favor dos"
+      },
+      {
+        "id": 3,
+        "texto": "financiava o amplo desenvolvimento do setor industrial brasileiro, ao realizar uma política"
+      },
+      {
+        "id": 4,
+        "texto": "para dar ao novo regime uma aparência legal, Francisco Campos redigiu uma nova"
+      },
+      {
+        "id": 5,
+        "texto": "adotou o chamado “Estado de Compromisso”, onde foram criados mecanismos de controle"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 492,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Por qual nome ficou conhecida a proposta legislativa de alteração constitucional cujo\nobjetivo era realizar eleições diretas para a presidência da República?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Emenda Tancredo Neves"
+      },
+      {
+        "id": 2,
+        "texto": "Lei Ulisses Guimarães"
+      },
+      {
+        "id": 3,
+        "texto": "Lei Antônio Carlos Magalhães."
+      },
+      {
+        "id": 4,
+        "texto": "Emenda Paulo Maluf"
+      },
+      {
+        "id": 5,
+        "texto": "Emenda Dante de Oliveira"
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": 493,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "No Estado de Goiás há importantes bacias hidrográficas do Brasil. Considerando a\nprodução de energia, aquela que possui o maior número de usinas hidrelétricas é a Bacia do\nRio:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Araguaia"
+      },
+      {
+        "id": 2,
+        "texto": "Paranaíba"
+      },
+      {
+        "id": 3,
+        "texto": "Corumbá"
+      },
+      {
+        "id": 4,
+        "texto": "Tocantins"
+      },
+      {
+        "id": 5,
+        "texto": "São Francisco"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 494,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Embora mais de trinta anos separem a época de Juscelino Kubitschek da de Fernando\nHenrique Cardoso, alguns aspectos da política empreendida entre os anos de 1994 e 2002\nrecordam aquelas políticas. No entanto, também podem ser apontadas grandes diferenças entre\nas políticas adotadas por FHC, sendo uma delas",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a recuperação do chamado Estado do Bem-Estar social."
+      },
+      {
+        "id": 2,
+        "texto": "a redução das medidas neoliberais, que eram uma das marcas de JK."
+      },
+      {
+        "id": 3,
+        "texto": "o abandono dos programas de planejamento espacial."
+      },
+      {
+        "id": 4,
+        "texto": "a redução das importações de bens que concorressem com os nacionais."
+      },
+      {
+        "id": 5,
+        "texto": "o fato do papel do Estado deixar de ser central nos investimentos."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": 495,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Nas últimas décadas do século XX e início do século XXI, o processo de desconcentração\nda indústria brasileira se acelerou em decorrência do(a)",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "política fiscal instituída sobretudo pelos estados do Sudeste, com maiores condições de impor"
+      },
+      {
+        "id": 2,
+        "texto": "processo de privatização, que restringiu a industrialização às atividades tradicionais de"
+      },
+      {
+        "id": 3,
+        "texto": "elevado nível de escolaridade dos trabalhadores brasileiros, o que tornou o território nacional"
+      },
+      {
+        "id": 4,
+        "texto": "política de desenvolvimento regional instituída pelo Estado, exemplificada pela criação da"
+      },
+      {
+        "id": 5,
+        "texto": "presença de sindicatos fortes nos estados das regiões Norte e Nordeste, o que expulsou o"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 496,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Considere as afirmações abaixo sobre o papel do Brasil na economia-mundo.\nI. Na década de 2010, o Brasil esteve entre as 10 maiores economias mundiais; o mesmo ocorre\ncom a destacada participação do país no comércio internacional, que chegou a 10% do total\nmundial.\nII. Considerando o comércio regional a participação do Brasil é significativa, principalmente\ncom os países do Mercosul, devido aos inúmeros acordos no âmbito da integração no Cone Sul.\nIII. Ao mesmo tempo em que o Brasil aumenta seu volume de exportações de produtos de\ncommodities para a China, importa daquele país produtos com maior valor agregado, o que,\npara muitos, tem contribuído para o processo de desindustrialização do país.\nEstá correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "I e II."
+      },
+      {
+        "id": 2,
+        "texto": "I"
+      },
+      {
+        "id": 3,
+        "texto": "II e III"
+      },
+      {
+        "id": 4,
+        "texto": "I e III"
+      },
+      {
+        "id": 5,
+        "texto": "III"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 497,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Desde o fim da Guerra Fria, várias propostas de regionalização do mundo têm sido\nquestionadas quanto à sua validade no mundo contemporâneo. A proposta que regionaliza o\nmundo entre países desenvolvidos e subdesenvolvidos, por exemplo, é questionada pois",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "desde a década de 1990, cresceram muito as diferenças econômicas entre os países que"
+      },
+      {
+        "id": 2,
+        "texto": "a noção de desenvolvimento foi modificada pelo critério ecológico, privilegiando os países"
+      },
+      {
+        "id": 3,
+        "texto": "somente a comparação com os países socialistas permitia a distinção das condições de"
+      },
+      {
+        "id": 4,
+        "texto": "as sucessivas crises econômicas mundiais, desde 2000, fizeram com que muitos países"
+      },
+      {
+        "id": 5,
+        "texto": "a difusão tecnológica tornou pequena a distância nos níveis de desenvolvimento entre países"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 498,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "A lei do plano de cargos dos servidores do Ministério Público do Estado de Goiás, Lei nº\n14.810/2004, discrimina as garantias para o afastamento de servidores eleitos em diretoria de\nentidade sindical representativa da classe. Considerando hipotética entidade com 2.000\nassociados, assinale a alternativa que está de acordo com a redação vigente da lei.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O(s) servidor(es) que vier(em) a ser liberado(s) não terá/terão nenhum prejuízo nas suas"
+      },
+      {
+        "id": 2,
+        "texto": "Serão liberados até dois servidores."
+      },
+      {
+        "id": 3,
+        "texto": "O(s) servidor(es) que vier(em) a ser liberado(s) não terá/terão nenhum prejuízo nas suas"
+      },
+      {
+        "id": 4,
+        "texto": "Serão liberados 3 servidores."
+      },
+      {
+        "id": 5,
+        "texto": "O(s) servidor(es) que vier(em) a ser liberado(s) não terá/terão nenhum prejuízo nas suas"
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": 499,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa em que se apresenta o órgão ou a autoridade do MP-GO que detém\na competência expressa de promover a aproximação, participação e o fortalecimento da\nsociedade civil no acompanhamento e na fiscalização das políticas públicas.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O subprocurador-geral de justiça para assuntos institucionais"
+      },
+      {
+        "id": 2,
+        "texto": "As promotorias de justiça"
+      },
+      {
+        "id": 3,
+        "texto": "O Conselho Superior"
+      },
+      {
+        "id": 4,
+        "texto": "O procurador-geral de justiça"
+      },
+      {
+        "id": 5,
+        "texto": ".Os centros de apoio operacional"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 500,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado,"
+      },
+      {
+        "id": 2,
+        "texto": "São princípios institucionais do Ministério Público a unidade, a indivisibilidade e a"
+      },
+      {
+        "id": 3,
+        "texto": "São garantias do membro do Ministério Público a vitaliciedade, a inamovibilidade e a"
+      },
+      {
+        "id": 4,
+        "texto": "O Ministério Público da União compreende: o Ministério Público Federal; o Ministério"
+      },
+      {
+        "id": 5,
+        "texto": "Compete ao Ministério Público representar o Estado judicial e extrajudicialmente, exercendo"
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": 501,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa que não contém função institucional do Ministério Público:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Exercer o controle externo da atividade policial."
+      },
+      {
+        "id": 2,
+        "texto": "Zelar pelo efetivo respeito dos Poderes Públicos e dos serviços de relevância pública aos"
+      },
+      {
+        "id": 3,
+        "texto": "Promover, privativamente, a ação penal pública, na forma da lei."
+      },
+      {
+        "id": 4,
+        "texto": "Promover a defesa dos necessitados, em todos os graus, judicial e extrajudicial, de forma"
+      },
+      {
+        "id": 5,
+        "texto": "Defender judicialmente os direitos e interesses das populações indígenas."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 502,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Não constitui prerrogativa dos Membros do Ministério Público no exercício da função:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Receber intimação pessoal em qualquer processo ou grau de jurisdição, através da entrega"
+      },
+      {
+        "id": 2,
+        "texto": "Gozar de inviolabilidade pelas opiniões que externar ou pelo teor de suas manifestações"
+      },
+      {
+        "id": 3,
+        "texto": "Ter acesso ao réu ou indiciado preso, a qualquer momento, desde que não decretada a"
+      },
+      {
+        "id": 4,
+        "texto": "Requisitar a realização de buscas ou o fornecimento gratuito de certidões a cartórios,"
+      },
+      {
+        "id": 5,
+        "texto": "Ingressar e transitar livremente em qualquer edifício ou recinto em que funcione repartição"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 503,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa em que figuram, sequencialmente, órgão(s) auxiliar(es), órgão(s) de\nexecução, órgão(s) de administração e órgão(s) de administração superior do Ministério Público:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Centros de Apoio Operacional, Colégio de Procuradores de Justiça, Promotorias de Justiça,"
+      },
+      {
+        "id": 2,
+        "texto": "Estagiários, Procuradoria-Geral de Justiça, Diretoria-Geral, Conselho Superior do Ministério"
+      },
+      {
+        "id": 3,
+        "texto": "Escola Superior do Ministério Público, Promotorias de Justiça, Procuradores de Justiça,"
+      },
+      {
+        "id": 4,
+        "texto": "Órgãos de Assessoramento, Promotores de Justiça, Procuradorias de Justiça, ProcuradorGeral de Justiça;"
+      },
+      {
+        "id": 5,
+        "texto": "Comissão de Concurso, Procuradores de Justiça, Procuradores de Justiça, Procuradoria-Geral"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 504,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Sobre o Ministério Público na Constituição da República Federativa do Brasil de 1988,\n\nassinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O Ministério Público é instituição temporária, essencial à função jurisdicional do Estado,"
+      },
+      {
+        "id": 2,
+        "texto": "São princípios institucionais do Ministério Público a paridade com o Poder Judiciário, a"
+      },
+      {
+        "id": 3,
+        "texto": "Ao Ministério Público é assegurada autonomia funcional e administrativa, podendo,"
+      },
+      {
+        "id": 4,
+        "texto": "O Ministério Público elaborará sua proposta orçamentária independentemente dos limites"
+      },
+      {
+        "id": 5,
+        "texto": "Se a proposta orçamentária de que trata este artigo for encaminhada em desacordo com os"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 505,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "Tendo em conta o disposto na Lei Estadual n.º 10.460/1988, é incorreto afirmar:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Comete transgressão disciplinar o funcionário que faz circular ou subscreve lista de donativo"
+      },
+      {
+        "id": 2,
+        "texto": "O funcionário que deixar de pagar, com regularidade, as pensões a que esteja obrigado em"
+      },
+      {
+        "id": 3,
+        "texto": "As sanções civis, penais e disciplinares poderão acumular-se, sendo umas e outras"
+      },
+      {
+        "id": 4,
+        "texto": "A absolvição criminal, por negativa da existência do fato ou da autoria, implica o afastamento"
+      },
+      {
+        "id": 5,
+        "texto": "A pena de repreensão, que poderá ser aplicada por escrito ou verbalmente, destina-se à"
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": 506,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Cachoeira Dourada",
+    "banca": "Não informada",
+    "enunciado": "De acordo com a Lei Estadual n. 10.460/1988, constitui transgressão disciplinar e ao\nfuncionário é proibido, exceto:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Retirar, sem prévia autorização da autoridade competente, qualquer documento ou objeto da"
+      },
+      {
+        "id": 2,
+        "texto": "Exercer comércio ou participar de sociedade comercial, ainda que seja como acionista,"
+      },
+      {
+        "id": 3,
+        "texto": "Valer-se do cargo para lograr proveito pessoal ilícito;"
+      },
+      {
+        "id": 4,
+        "texto": "Entreter-se, durante as horas de trabalho, em palestras ou outros afazeres estranhos ao serviço;"
+      },
+      {
+        "id": 5,
+        "texto": "Cometer a pessoa estranha à repartição, fora dos casos previstos em lei, o desempenho de"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 507,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Pediatras de todo o país vêm sendo\norientados a \"receitar livros\" para seus\npacientes de zero a seis anos. A\nmedida, anunciada nesta semana pela\nSBP (Sociedade Brasileira de\nPediatria), visa estimular o aumento\ndas conexões cerebrais nos pequenos\npor meio da leitura feita a eles pelos\npais ou porpessoas próximas.\nTrecho retirado do seguinte texto:\nMARQUES, Jairo. Folha de S. Paulo.\n18out. 2015.\nNa frase acima, o uso das aspas na\nexpressão \"receitar livros\" se justifica\nporque:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a expressão é utilizada para atestar"
+      },
+      {
+        "id": 2,
+        "texto": "a previsibilidade semântica entre o"
+      },
+      {
+        "id": 3,
+        "texto": "o verbo \"receitar\" é polissêmico no"
+      },
+      {
+        "id": 4,
+        "texto": "a palavra \"livros\" representa"
+      },
+      {
+        "id": 5,
+        "texto": "o autor faz uma ironia por discordar"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 508,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "\"Uma equipe de pesquisadores\ndescobriu na Namíbia fósseis de\nesponja, que podem ser a primeira\nprova de vida animal na Terra, o que\nfaz remontar em milhões de anos a\ndata estimada da aparição desta forma\nde vida.\nOs fósseis estavam, em sua\nmaioria, no Parque Nacional de Etosha\ne também em outros pontos do país\nafricano, em rochas de até 760\nmilhões de anos.\nA descoberta é de uma equipe\ninternacional de dez pesquisadores\nque publicaram seus resultados no\n\"South African Journal of Science\".\nA comunidade científica\nconsidera que a vida animal teria\nsurgido na Terra entre 600 milhões e\n650 milhões de anos. (...)\". Texto\nadaptado: \"Fóssil altera data de\nsurgimento da vida animal na terra\".\n(www.folha.uol.com.br).\nEm função da forma verbal \"teria\nsurgido\", é possível concluir que a\ninformação da descoberta é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "uma certeza dos estudiosos."
+      },
+      {
+        "id": 2,
+        "texto": "uma opinião dos descobridores."
+      },
+      {
+        "id": 3,
+        "texto": "uma possibilidade sugerida."
+      },
+      {
+        "id": 4,
+        "texto": "uma dúvida sobre a descoberta."
+      },
+      {
+        "id": 5,
+        "texto": "uma hipótese já comprovada."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 509,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Marque a alternativa em que a\nvírgula NÃO está empregada\ncorretamente:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Ele não fez as tarefas de que foi"
+      },
+      {
+        "id": 2,
+        "texto": "Sei que você não gosta de estudar"
+      },
+      {
+        "id": 3,
+        "texto": "Decidiu fazer um curso de MBA fora"
+      },
+      {
+        "id": 4,
+        "texto": "Elas, naquela ocasião, tinham"
+      },
+      {
+        "id": 5,
+        "texto": "Com postura e altivez, o palestrante"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 510,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "O desemprego dos idiotas\nUma pesquisa da CNI\n(Confederação Nacional da Indústria),\nque acaba de ser divulgada, informa\nque inúmeros setores da economia\nestão desesperados à procura de mão\nde obra qualificada. Não estamos\nfalando aqui de doutores, mas de\nqualificações simples. Esse é o\ndesemprego dos idiotas.\nÉ preciso muita idiotice pública\n(muita mesmo) para chegarmos nessa\nsituação em que há um imenso\nnúmero de desempregados,\nespecialmente jovens, e uma não\nmenos imensa demanda por\ntrabalhadores com um mínimo de\npreparo. Além do drama humano dos\nbatalhões de marginalizados, temos\num nada desprezível impacto no\ncrescimento econômico. Sem contar\nque, com melhor educação\nprofissional, se conseguiria distribuir\nmais a renda.\nO desemprego dos idiotas\nocorre, entre outros motivos, porque\nse dá mais atenção aos cursos\nsuperiores tradicionais, os quais,\nmuitas vezes, são de péssima\nqualidade e cuja empregabilidade é\nbaixíssima. Isso com estímulo oficial\nque dá bolsas a alunos mais pobres\npara cursarem faculdades medíocres.\nPara reduzir esse problema,\nbastaria conhecer as vocações\neconômicas locais e preparar mão-deobra para elas, acrescentando ensino\nprofissionalizante ao ensino regular.\nTudo isso pode ser feito com a ajuda\ndos recursos de educação à distância.\nNada disso é novidade e já temos, no\nBrasil, vários casos de sucesso. É\nmuito mais barato um curso superior\npara tecnólogo do que a graduação\nnormal. Mas muitos jovens não sabem\ndisso na hora de prestar o vestibular.\nO melhor que se pode fazer\npela inclusão de verdade dos jovens é\nampliar a oferta de ensino\nprofissionalizante, transformando as\nescolas de ensino médio numa porta\nde saída ao mercado de trabalho.\n(Gilberto Dimenstein. Folha\nOnline, 7/10/2007, www.folha.com.br).\nJulgue verdadeiras (V) ou falsas (F) as\nseguintes proposições.\nI. O crescimento econômico exige\ncompetência profissional e não\ncapacitação profissionalizante.\nII. Não se vislumbra uma necessidade\npremente de ensino profissionalizante\ndiante do crescimento econômico.\nIII. Entende-se por idiotice pública a\ncondição atual de muitos jovens\ndesempregados não atenderem às\nexigências do mercado.\nIV. O governo faz investimentos em\ncursos superiores de baixa qualidade,\ntodavia de valor empregatício.\n\nA seqüência correta é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "FVVF."
+      },
+      {
+        "id": 2,
+        "texto": "VVVF."
+      },
+      {
+        "id": 3,
+        "texto": "F F V F."
+      },
+      {
+        "id": 4,
+        "texto": "FFFF."
+      },
+      {
+        "id": 5,
+        "texto": "F V F V."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 511,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa em que todas\nas palavras estão grafadas\ncorretamente:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "sobrancelha - vergonhoso -"
+      },
+      {
+        "id": 2,
+        "texto": "detensão - cizânia - ilegível -"
+      },
+      {
+        "id": 3,
+        "texto": "deletério - colizão - hipocondríaco -"
+      },
+      {
+        "id": 4,
+        "texto": "onipresença - madastra - trazeira -"
+      },
+      {
+        "id": 5,
+        "texto": "plebicito - civilização - excelência -"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 512,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Um homem precisa viajar. Por sua\nconta, não por meio de histórias,\nimagens, livros ou TV. Precisa viajar\npor si, com seus olhos e pés, para\nentender o que é seu. Para um dia\nplantar as suas próprias árvores e darlhes valor. Conhecer o frio para\nconhecer o calor. E o oposto. Sentir a\ndistância e o desabrigo para estar bem\nsob o próprio teto. Um homem precisa\nviajar para lugares que não conhece\npara quebrar essa arrogância que nos\nfaz ver o mundo como o imaginamos,\ne não simplesmente como é ou pode\nser; que nos faz professores e\ndoutores do que não vimos, quando\ndeveríamos ser alunos, e\nsimplesmente ir ver. (Amyr Klink, Mar\nsem fim).\nDa análise do texto, é possível concluir\nque a repetição de \"precisa viajar\"\nacentua, no contexto, o valor daquelas\nexperiências que:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "reafirmam a simplicidade do prazer"
+      },
+      {
+        "id": 2,
+        "texto": "demonstram a importância de se"
+      },
+      {
+        "id": 3,
+        "texto": "ratificam a convicção de quem julga"
+      },
+      {
+        "id": 4,
+        "texto": "concretizam o aprendizado das"
+      },
+      {
+        "id": 5,
+        "texto": "se revelam na exploração de nossa"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 513,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Quanto à grafia correta das\npalavras, a alternativa que apresenta\npelo menos um vocábulo escrito\nincorretamente é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "mexer - recauchutar - extraoficial."
+      },
+      {
+        "id": 2,
+        "texto": "bactérias - obsoleto - repusesse."
+      },
+      {
+        "id": 3,
+        "texto": "gorjeta - indústrias - refúgio."
+      },
+      {
+        "id": 4,
+        "texto": "analisar - êxito - enxaqueca."
+      },
+      {
+        "id": 5,
+        "texto": "quisesse - enchurrada - trouxa."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": 514,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Em setembro, Lúcia e Mauro vão\nconhecer a fazenda de seus primos.\nPretendem visitar diversas cachoeiras\ne trilhas. Para a viagem, eles não\npoderão esquecer de levar blusas,\nrepelentes, lanternas, colchonetes e\nescovas de dentes.\nNesta frase, os dois pontos foram\nutilizados para anunciar:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "resumo do que foi enunciado"
+      },
+      {
+        "id": 2,
+        "texto": "citação discursiva."
+      },
+      {
+        "id": 3,
+        "texto": "acréscimo de discurso direto."
+      },
+      {
+        "id": 4,
+        "texto": "seqüência das idéias interrompida."
+      },
+      {
+        "id": 5,
+        "texto": "enumeração explicativa."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": 515,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa em que o\nverbo sublinhado é classificado como\nverbo intransitivo:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Os trabalhadores __concordaram__ com"
+      },
+      {
+        "id": 2,
+        "texto": "Minha avó __caiu__ nas escadas."
+      },
+      {
+        "id": 3,
+        "texto": "A onça __matou__ um pássaro."
+      },
+      {
+        "id": 4,
+        "texto": "As águas da chuva __inundaram__ nossa fazenda."
+      },
+      {
+        "id": 5,
+        "texto": "Minha casa __é__ a mais simples da rua."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 516,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Complete as frases abaixo com\numa das opções que estão entre\nparênteses e depois assinale a\nalternativa que apresenta a seqüência\ncorreta.\nI. Em que pese os diversos ___________\nGuilherme jamais abandonou o sonho de ser servidor\npúblico, (impecilhos / empecilhos);\nII. Mariana tem o _______________\nde trabalhar no melhor setor da\nempresa, (previlégio / privilégio);\nIII. É pouco provável que os filhos de\nClemente ______________ no próximo\nfinal de semana, (viagem / viajem);\nIV. Joana labora numa ______________ de\nmóveis para a cozinha, (seção /\ncessão).\n\nA seqüência correta é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "empecilhos - privilégio - viajem -"
+      },
+      {
+        "id": 2,
+        "texto": "impecilhos - privilégio - viajem -"
+      },
+      {
+        "id": 3,
+        "texto": "impecilhos - previlégio - viajem -"
+      },
+      {
+        "id": 4,
+        "texto": "empecilhos - previlégio - viagem -"
+      },
+      {
+        "id": 5,
+        "texto": "empecilhos - privilégio - viagem -"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 517,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Considere as seguintes\nafirmações:\n\nI - Na frase \"Só reconhecemos os\nverdadeiros amigos quando estamos\nenfrentando dificuldades.\" é obrigatório\no uso de vírgula antes do QUANDO.\nI\n\nI - Na frase \"Então ela se levantou,\nveio até a porta e pegou o\nrefrigerante.\" a omissão do acento\nindicativo da crase no A é um grande\nequívoco.\nII\n\nI - Na frase \"Uma amizade, ainda\nque imperfeita, não nos decepcionará,\na menos que lhe dermos um valor\nabsoluto.\" a virgulação é inteiramente\nadequada.\nIV - Na frase \"O sentido controverso\nda palavra discussão, deve-se ao\nmodo pelo qual costumam agir, os\ncontendores, ao exporem seus\nargumentos.\" a virgulação não está\ninteiramente correta.\n\nEstá correto apenas o que se afirma\nem:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "III e IV."
+      },
+      {
+        "id": 2,
+        "texto": "I e II."
+      },
+      {
+        "id": 3,
+        "texto": "III."
+      },
+      {
+        "id": 4,
+        "texto": "lie III."
+      },
+      {
+        "id": 5,
+        "texto": "IV."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 518,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Das frases abaixo, a única sem\nerros de ortografia é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Consumir alimentos ricos em"
+      },
+      {
+        "id": 2,
+        "texto": "O consumo de proteínas e gorduras"
+      },
+      {
+        "id": 3,
+        "texto": "Manter o organismo mau hidratado"
+      },
+      {
+        "id": 4,
+        "texto": "Sabe-se que uma substancia"
+      },
+      {
+        "id": 5,
+        "texto": "Carbohidratos ricos em fibras são"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 519,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Quanto à acentuação gráfica,\nmarque alternativa correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Do banheiro, Lucas gritou para sua"
+      },
+      {
+        "id": 2,
+        "texto": "Cada uma dessas doutrinas"
+      },
+      {
+        "id": 3,
+        "texto": "Então, me organizava de tal modo"
+      },
+      {
+        "id": 4,
+        "texto": "Os juizes começarão a elaborar as"
+      },
+      {
+        "id": 5,
+        "texto": "Este mês inteiro tem nos mostrado"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 520,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Considerando o significado das\npalavras abaixo, assinale a alternativa\nque relaciona corretamente seus\nsinônimos, atentando-se para a grafia:\nNOTÁVEL - IMEDIATO\nCONCEDER - CONSERTAR -\nCONFIRMAR - PRINCIPIANTE",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "iminente - eminente - deferir -"
+      },
+      {
+        "id": 2,
+        "texto": "eminente - iminente - deferir -"
+      },
+      {
+        "id": 3,
+        "texto": "eminente - iminente - deferir -"
+      },
+      {
+        "id": 4,
+        "texto": "iminente - eminente - diferir -"
+      },
+      {
+        "id": 5,
+        "texto": "eminente - iminente - deferir -"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 521,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "As expressões sublinhadas\ncorrespondem a um adjetivo, exceto\nem:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "João Fanhoso anda amanhecendo"
+      },
+      {
+        "id": 2,
+        "texto": "Demorava-se __de__ __propósito__ naouele"
+      },
+      {
+        "id": 3,
+        "texto": "Os bichos __da__ __terra__ fugiam em"
+      },
+      {
+        "id": 4,
+        "texto": "Noite fechada sobre aqueles ermos"
+      },
+      {
+        "id": 5,
+        "texto": "E ainda me vem com essa conversa"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 522,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "A taxa de juros de 4% ao trimestre\ntem qual taxa equivalente anual no\nregime de juros simples?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "16%a.a."
+      },
+      {
+        "id": 2,
+        "texto": "24%a.a."
+      },
+      {
+        "id": 3,
+        "texto": "12%a.a."
+      },
+      {
+        "id": 4,
+        "texto": "20% a.a."
+      },
+      {
+        "id": 5,
+        "texto": "18%a.a."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 523,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Determinado site de vendas de\ncosméticos realizou 80 vendas em três\nhoras. Considerando-se a mesma\nproporção, 260 cosméticos deverão\nser vendidos em:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "9 horas e 35 minutos."
+      },
+      {
+        "id": 2,
+        "texto": "9 horas e 45 minutos."
+      },
+      {
+        "id": 3,
+        "texto": "9 horas e 55 minutos."
+      },
+      {
+        "id": 4,
+        "texto": "9 horas e 25 minutos."
+      },
+      {
+        "id": 5,
+        "texto": "9 horas e 5 minutos."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 524,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Letícia, Lívia e Luana vão jogar\ntrês rodadas de um jogo. O combinado\né que o perdedor da rodada deve dar a\ncada um dos demais jogadores\nexatamente a quantia de dinheiro que\ncada um tem naquela rodada. Sabe-se\nque Letícia perdeu a primeira rodada,\nLívia perdeu a segunda e Luana\nperdeu a terceira. Sabendo-se ainda\nque ao final das três rodadas cada\njogadora ficou com R$ 40,00, é correto\nafirmar que Luana começou a primeira\nrodada do jogo tendo:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "20,00."
+      },
+      {
+        "id": 2,
+        "texto": "15,00."
+      },
+      {
+        "id": 3,
+        "texto": "30,00."
+      },
+      {
+        "id": 4,
+        "texto": "35,00."
+      },
+      {
+        "id": 5,
+        "texto": "40,00."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 525,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Guilherme decidiu contratar uma\nempresa para plantar árvores e cortar\na grama de sua casa. Ele quer plantar\n3 árvores e cortar 5 metros quadrados\nde grama. Quatro empresas lhe\npassaram os custos do serviço:\n1a Empresa: R$ 17,00 para cada\nárvore plantada e R$ 2,50 para cada\nmetro quadrado de grama cortada.\n2a Empresa: R$ 13,00 para cada\nárvore plantada e R$ 4,50 para cada\nmetro quadrado de grama cortada.\n3a Empresa: R$ 15,00 para cada\nárvore plantada e R$ 3,50 para cada\nmetro quadrado de grama cortada.\n4a Empresa: R$ 14,00 para cada\nárvore plantada e R$ 4,70 para cada\nmetro quadrado de grama cortada.\nQual empresa João deve contratar\npara que o serviço seja feito e ele\ngaste a menor quantia de dinheiro\npossível?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "3a empresa."
+      },
+      {
+        "id": 2,
+        "texto": "1a empresa."
+      },
+      {
+        "id": 3,
+        "texto": "2a empresa."
+      },
+      {
+        "id": 4,
+        "texto": "4a empresa."
+      },
+      {
+        "id": 5,
+        "texto": "1a ou 3a empresa, já que o valor é o"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 526,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "No tanque de combustível de um\nautomóvel flex existem 30 litros de\ngasolina. Sabe-se que cada litro de\ngasolina contém 20% de etanol. Para\nque a mistura no tanque contenha\nexatamente 50% de gasolina e 50% de\netanol, quantos litros de etanol devese acrescentar ao tanque?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "30."
+      },
+      {
+        "id": 2,
+        "texto": "24."
+      },
+      {
+        "id": 3,
+        "texto": "18."
+      },
+      {
+        "id": 4,
+        "texto": "36."
+      },
+      {
+        "id": 5,
+        "texto": "6."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 527,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Em uma pesquisa sobre a\npreferência entre dois candidatos, 48\npessoas votariam no candidato A, 63\nvotariam no candidato B, 24 pessoas\nvotariam nos dois; e, 30 pessoas não\nvotariam nesses dois candidatos. Se\ntodas as pessoas responderam uma\núnica vez, então o total de pessoas\nentrevistadas foi:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "141."
+      },
+      {
+        "id": 2,
+        "texto": "117."
+      },
+      {
+        "id": 3,
+        "texto": "87."
+      },
+      {
+        "id": 4,
+        "texto": "105."
+      },
+      {
+        "id": 5,
+        "texto": "112."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 528,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Quais dos números a seguir são\nprimos?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "13."
+      },
+      {
+        "id": 2,
+        "texto": "30."
+      },
+      {
+        "id": 3,
+        "texto": "49."
+      },
+      {
+        "id": 4,
+        "texto": "65."
+      },
+      {
+        "id": 5,
+        "texto": "87."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 529,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Um grupo de 50 pessoas fez um\norçamento inicial para organizar uma\nfesta, que seria dividido entre elas em\ncotas iguais. Verificou-se ao final que,\npara arcar com todas as despesas,\nfaltavam R$ 510,00, e que 5 novas\npessoas haviam ingressado no grupo.\nNo acerto foi decidido que a despesa\ntotal seria dividida em partes iguais\npelas 55 pessoas. Quem não havia\nainda contribuído pagaria a sua parte,\ne cada uma das 50 pessoas do grupo\ninicial deveria contribuir com mais R$\n7,00. De acordo com essas\ninformações, qual foi o valor da cota\ncalculada no acerto final para cada\numa das 55 pessoas?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "R$14,00."
+      },
+      {
+        "id": 2,
+        "texto": "R$17,00."
+      },
+      {
+        "id": 3,
+        "texto": "R$ 22,00."
+      },
+      {
+        "id": 4,
+        "texto": "R$ 32,00."
+      },
+      {
+        "id": 5,
+        "texto": "R$ 57,00."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 530,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Arthur deseja comprar um terreno\nde Cléber, que lhe oferece as\nseguintes possibilidades de\npagamento:\nOpção 1: Pagar à vista, por R$ 55\n000,00;\nOpção 2: Pagar a prazo, dando uma\nentrada de R$ 30 000,00, e mais uma\nprestação de R$ 26 000,00 para dali a\n6 meses.\nOpção 3: Pagar a prazo, dando uma\nentrada de R$ 20 000,00, mais uma\nprestação de R$ 20 000,00, para dali a\n6 meses e outra de R$ 18 000,00 para\ndali a 12 meses da data da compra.\nOpção 4: Pagar a prazo dando uma\nentrada de R$ 15 000,00 e o restante\nem 1 ano da data da compra, pagando\nR$ 39 000,00.Opção 5: Pagar a prazo,\ndali a um ano, o valor de R$ 60\n000,00.\nArthur tem o dinheiro para pagar à\nvista, mas avalia se não seria melhor\naplicar o dinheiro do valor à vista (ou\naté um valor menor) em um\ninvestimento, com rentabilidade de\n10% ao semestre, resgatando os\nvalores à medida que as prestações\nda opção escolhida fossem vencendo.\nApós avaliar a situação do ponto de\nvista financeiro e das condições\napresentadas, Arthur concluiu que era\nmais vantajoso financeiramente\nescolher a opção:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "1."
+      },
+      {
+        "id": 2,
+        "texto": "2."
+      },
+      {
+        "id": 3,
+        "texto": "3."
+      },
+      {
+        "id": 4,
+        "texto": "4."
+      },
+      {
+        "id": 5,
+        "texto": "5."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 531,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "A figura de Getúlio Vargas, como\npersonagem histórica, é bastante\npolêmica, devido à complexidade e à\nmagnitude de suas ações como\npresidente do Brasil durante um longo\nperíodo de quinze anos de 1930 de\ngrandes e importantes mudanças para\no mundo. Pode-se perceber o\ndestaque dado a Getúlio Vargas pelo\nsimples fato de este período ser\nconhecido no Brasil como a \"Era\nVargas\". Entretanto, Vargas não é\nvisto de forma favorável por todos. Se\nmuitos o consideram como um fervor\nnacionalista, um progressista ativo e o\n\"Pai dos Pobres\", existem outros\ntantos que o definem como ditador\noportunista, um intervencionista e\namigo das elites.\nConsiderando as colocações acima,\nresponda à questão seguinte,\nassinalando a alternativa correta:\nProvavelmente você percebeu que as\nduas opiniões sobre Vargas são\nopostas, defendendo valores\npraticamente antagônicos. As\ndiferentes interpretações do papel de\numa personalidade histórica podem\nser explicadas, conforme uma das\nopções abaixo. Assinale-a.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Um dos grupos está totalmente"
+      },
+      {
+        "id": 2,
+        "texto": "O grupo que acusa Vargas de ser"
+      },
+      {
+        "id": 3,
+        "texto": "Os dois grupos estão certos. Cada"
+      },
+      {
+        "id": 4,
+        "texto": "O grupo que defende Vargas como"
+      },
+      {
+        "id": 5,
+        "texto": "Os dois grupos estão errados, por"
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": 532,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Os textos abaixo relacionam-se a\nmomentos distintos da nossa história.\n\"A integração regional é um\ninstrumento fundamental para que um\nnúmero cada vez maior de países\npossa melhorar a sua inserção num\nmundo globalizado, já que eleva o seu\nnível de competitividade, aumenta as\ntrocas comerciais, permite o aumento\nda produtividade, cria condições para\num maior crescimento econômico e\nfavorece o aprofundamento dos\nprocessos democráticos. A integração\nregional e a globalização surgem\nassim como processos\ncomplementares e vantajosos.\"\n(Declaração de Porto, VIII Cimeira\nIbero-Americana, Porto, Portugal, 17 e\n18 de outubro de 1998).\n\"Um considerável número de\nmercadorias passou a ser produzido\nno Brasil, substituindo o que não era\npossível ou era muito caro importar.\nFoi assim que a crise econômica\nmundial e o encarecimento das\nimportações levaram o governo\nVargas a criar as bases para o\ncrescimento industrial brasileiro.\"\n(POMAR, Wladimir. Era Vargas - a\nmodernização conservadora)\nÉ correto afirmar que as políticas\neconômicas mencionadas nos textos\nsão:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "opostas, pois, no primeiro texto, o"
+      },
+      {
+        "id": 2,
+        "texto": "semelhantes, uma vez que ambas"
+      },
+      {
+        "id": 3,
+        "texto": "diferentes, porque, para o primeiro"
+      },
+      {
+        "id": 4,
+        "texto": "semelhantes, porque consideram a"
+      },
+      {
+        "id": 5,
+        "texto": "opostas, pois, para o primeiro texto,"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 533,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "O Brasil está inserido em uma\ncultura política de paz. Mesmo fazendo\nparte da América do Sul e sendo\nmembro da Organização das Nações\nUnidas, evita atitudes extremas, o que,\nnem sempre acontece com culturas\nvizinhas. Na América do Sul, as\nForças Armadas Revolucionárias da\nColômbia (Farc) lutam, há décadas,\npara impor um regime de inspiração\nmarxista no país. Hoje, são acusadas\nde envolvimento com o narcotráfico, o\nqual supostamente financia suas\nações, que incluem ataques diversos,\nassassinatos e sequestros. Na Ásia, a\nAl Qaeda, criada por Osama bin\nLaden, defende o fundamentalismo\nislâmico e vê nos Estados Unidos da\nAmérica (EUA) e em Israel inimigos\npoderosos, os quais deve combater\nsem trégua. A mais conhecida de suas\nações terroristas ocorreu em 2001,\nquando foram atingidos o Pentágono e\nas torres do World Trade Center. A\npartir das informações acima, concluise que:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "as ações guerrilheiras e terroristas"
+      },
+      {
+        "id": 2,
+        "texto": "o apoio internacional recebido pelas"
+      },
+      {
+        "id": 3,
+        "texto": "os EUA, mesmo sendo a maior"
+      },
+      {
+        "id": 4,
+        "texto": "as organizações mencionadas"
+      },
+      {
+        "id": 5,
+        "texto": "tanto as Farc quanto a Al Qaeda"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 534,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Acerca da história do Brasil, é\nincorreto afirmar:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Em 15 de novembro de 1889,"
+      },
+      {
+        "id": 2,
+        "texto": "A ditadura militar, a pretexto de"
+      },
+      {
+        "id": 3,
+        "texto": "O período que vai de 1930 a 1945, a"
+      },
+      {
+        "id": 4,
+        "texto": "Em 1967, o nome do país foi"
+      },
+      {
+        "id": 5,
+        "texto": "Fernando Collorfoi eleito em 1989,"
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": 535,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Sobre o tema \"escravidão no\nBrasil\",\n\nassinale a alternativa correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Os primeiros movimentos contra a"
+      },
+      {
+        "id": 2,
+        "texto": "Em 1860, a Lei Eusébio de Queirós"
+      },
+      {
+        "id": 3,
+        "texto": "Em 1881 o Parlamento Brasileiro"
+      },
+      {
+        "id": 4,
+        "texto": "Em 28 de setembro de 1885"
+      },
+      {
+        "id": 5,
+        "texto": "Não há relatos ou registros de fugas"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 536,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Sobre a Rosa dos Ventos e os\npontos cardeais e colaterais, julgue\nverdadeiras (V) ou falsas (F) as\nproposições.\n\nI - Os pontos colaterais são nornordeste (NNE), nor-noroeste (NNW),\nsul-sudeste (SSE), sul-sudoeste\n(SSW), lés-nordeste (ENE), léssudeste (ESE), oés-sudeste (WSE) e\noés-sudoeste (WSW).\nI\n\nI - Os pontos cardeais são Norte (N),\nSul (S), Leste (E) e Oeste (W).\nII\n\nI - Nordeste (NE), Sudeste (SE) não\nsão pontos colaterais.\nIV - Noroeste (NW) e Sudoeste (SW)\nsão pontos colaterais.\n\nA seqüência correta é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "F V F V."
+      },
+      {
+        "id": 2,
+        "texto": "F V V F."
+      },
+      {
+        "id": 3,
+        "texto": "V V F V."
+      },
+      {
+        "id": 4,
+        "texto": "F V F F."
+      },
+      {
+        "id": 5,
+        "texto": "VVVF."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 537,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Sobre as regiões do IBGE, marque\na alternativa correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Atualmente as regiões oficiais são"
+      },
+      {
+        "id": 2,
+        "texto": "A região Centro-Oeste possui dois"
+      },
+      {
+        "id": 3,
+        "texto": "A região Nordeste possui oito"
+      },
+      {
+        "id": 4,
+        "texto": "O Norte é uma região composta por"
+      },
+      {
+        "id": 5,
+        "texto": "O estado do Espírito Santo não faz"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 538,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "A característica fundamental é que\nele não é mais somente um agricultor\nou um pecuarista: ele combina\natividades agropecuárias com outras\natividades não agrícolas dentro ou fora\nde seu estabelecimento, tanto nos\nramos tradicionais urbano-industriais\ncomo nas novas atividades que vêm\nse desenvolvendo no meio rural, como\nlazer, turismo, conservação da\nnatureza, moradia e prestação de\nserviços pessoais.\nEssa nova forma de organização\nsocial do trabalho é denominada:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Terceirização."
+      },
+      {
+        "id": 2,
+        "texto": "Agroextrativismo coletivo."
+      },
+      {
+        "id": 3,
+        "texto": "Grilhagem..."
+      },
+      {
+        "id": 4,
+        "texto": "Agronegócio."
+      },
+      {
+        "id": 5,
+        "texto": "Cooperativismo."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 539,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Marque a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O Windows 8 traz um recurso"
+      },
+      {
+        "id": 2,
+        "texto": "Ao ser instalado, o Windows 8 cria"
+      },
+      {
+        "id": 3,
+        "texto": "A Internet é a maior rede de"
+      },
+      {
+        "id": 4,
+        "texto": "O programa Internet Explore da"
+      },
+      {
+        "id": 5,
+        "texto": "No Windows 7, para que sejam"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 540,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "No Windows 7, um dos possíveis\nacessos ao gerenciador de tarefas, por\nmeio do teclado, consiste em apertar\nsimultaneamente o conjunto de teclas:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Ctrl + Alt + End."
+      },
+      {
+        "id": 2,
+        "texto": "Alt + Shift."
+      },
+      {
+        "id": 3,
+        "texto": "Ctrl + Alt + Insert."
+      },
+      {
+        "id": 4,
+        "texto": "Shift + Esc."
+      },
+      {
+        "id": 5,
+        "texto": "Ctrl + Shift + Esc."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": 541,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Acerca da organização e da\nsegurança da informação em meio\neletrônico, julgue os próximos itens e\nescolha a opção correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Confidencialidade, um dos"
+      },
+      {
+        "id": 2,
+        "texto": "Os worms são pouco ofensivos,"
+      },
+      {
+        "id": 3,
+        "texto": "Em um ambiente computacional, a"
+      },
+      {
+        "id": 4,
+        "texto": "Ao utilizar o meio eletrônico para"
+      },
+      {
+        "id": 5,
+        "texto": "Trojans ou cavalos de troia são"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 542,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Considere as diferenças entre\nsoftware, hardware e sistemas\noperacionais. Pode-se dizer que é um\nsistema operacional:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Internet Explorer, Chrome, Mozilla"
+      },
+      {
+        "id": 2,
+        "texto": "Documento de texto do Word."
+      },
+      {
+        "id": 3,
+        "texto": "Planilhas do Excel."
+      },
+      {
+        "id": 4,
+        "texto": "O Monitor que mostra as"
+      },
+      {
+        "id": 5,
+        "texto": "Windows - conjunto de programas."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": 543,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Sobre a instituição Ministério\nPúblico, é correto afirmar:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "São princípios institucionais do"
+      },
+      {
+        "id": 2,
+        "texto": "O Ministério Público do Distrito"
+      },
+      {
+        "id": 3,
+        "texto": "A inamovibilidade, salvo por motivo"
+      },
+      {
+        "id": 4,
+        "texto": "É vedado ao membro do Ministério"
+      },
+      {
+        "id": 5,
+        "texto": "É função do Ministério Público"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 544,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "De acordo com a Lei\nComplementar Estadual n° 25, de 06\nde julho de 1998, compete ao\nProcurador-Geral de Justiça:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "aprovar o Plano Estratégico"
+      },
+      {
+        "id": 2,
+        "texto": "aprovar a proposta orçamentária"
+      },
+      {
+        "id": 3,
+        "texto": "convocar reunião extraordinária,"
+      },
+      {
+        "id": 4,
+        "texto": "eleger, dar posse e exercício ao"
+      },
+      {
+        "id": 5,
+        "texto": "encaminhar ao Poder Legislativo os"
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": 545,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Sobre as promotorias de justiça,\nregulamentas na Lei Complementar\nEstadual n° 25, de 06 de julho de\n1998, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "As Promotorias de Justiça são"
+      },
+      {
+        "id": 2,
+        "texto": "As Promotorias de Justiça serão"
+      },
+      {
+        "id": 3,
+        "texto": "As Promotorias de Justiça poderão"
+      },
+      {
+        "id": 4,
+        "texto": "Cada Promotoria de Justiça deverá"
+      },
+      {
+        "id": 5,
+        "texto": "Compete às promotorias de Justiça"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 546,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Sobre as Promotorias de Justiça,\nsegundo a Lei Complementar Estadual\nn° 25, de 06 de julho de 1998, assinale\na alternativa correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "As Promotorias de Justiça são"
+      },
+      {
+        "id": 2,
+        "texto": "As Promotorias de Justiça serão"
+      },
+      {
+        "id": 3,
+        "texto": "Consideram-se promotorias"
+      },
+      {
+        "id": 4,
+        "texto": "Os serviços auxiliares das"
+      },
+      {
+        "id": 5,
+        "texto": "Nas Comarcas com mais de 5"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 547,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "De acordo com a Lei\nComplementar no 25, de 06 de julho\nde 1998, são órgãos de execução e\nauxiliares do Ministério Público,\nrespectivamente:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a Escola Superior do Ministério"
+      },
+      {
+        "id": 2,
+        "texto": "o Colégio de Procuradores de"
+      },
+      {
+        "id": 3,
+        "texto": "os Centros de Apoio Operacional e"
+      },
+      {
+        "id": 4,
+        "texto": "os Procuradores de Justiça e os"
+      },
+      {
+        "id": 5,
+        "texto": "a Escola Superior do Ministério"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 548,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Ceres",
+    "banca": "Não informada",
+    "enunciado": "Conforme previsão da Lei Estadual\nn.14.810/2004, que institui o Plano de\nCarreira dos Servidores do Ministério\nPúblico do Estado de Goiás, na\navaliação dos servidores são\napreciados os seguintes fatores:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "profissional,"
+      },
+      {
+        "id": 2,
+        "texto": "antigüidade, profissional e"
+      },
+      {
+        "id": 3,
+        "texto": "assiduidade, qualidade e"
+      },
+      {
+        "id": 4,
+        "texto": "conhecimento do trabalho,"
+      },
+      {
+        "id": 5,
+        "texto": "profissional, desempenho e"
+      }
+    ],
+    "resposta_correta": 2
   }
 ]
