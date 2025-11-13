@@ -10,7 +10,7 @@ const fs = require("fs");
 const CONFIG = {
   cargo: "Secretário Auxiliar",
   nivel: "Fundamental",
-  prova: "Ministério Público de Goiás - Comarca de Jataí",
+  prova: "Ministério Público de Goiás - Comarca de Quirinópolis",
   banca: "Não informada",
 };
 
@@ -25,14 +25,12 @@ const CONFIG = {
 const QUESTOES_TEXTO = `
 
 
-
 `;
 
 // ============ GABARITO ============
 // Formato: número letra (ex: 15 A)
 // Ou: número espaço número (ex: 15 1)
 const GABARITO_TEXTO = `
-
 
 
 `;

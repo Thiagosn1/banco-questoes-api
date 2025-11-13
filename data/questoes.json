@@ -15782,5 +15782,977 @@
       }
     ],
     "resposta_correta": 2
+  },
+  {
+    "id": 554,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "A palavra, contida nos parênteses, preenche adequadamente a lacuna do enunciado em:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "_____________ ao novo presidente! (Alvisaras)"
+      },
+      {
+        "id": 2,
+        "texto": "A Universidade somente permaneceu aberta graças às doações de um ___________. (filântropo)"
+      },
+      {
+        "id": 3,
+        "texto": "A moça que trabalha na padaria é conhecida por sua educação e seu sorriso ____________. (jocozo)"
+      },
+      {
+        "id": 4,
+        "texto": "A criança procurou um local ___________ e começou a chorar. (recôndito)"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 555,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Marque a alternativa em que há erro na concordância verbal:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Havia cadeiras suficientes na sala."
+      },
+      {
+        "id": 2,
+        "texto": "Vende-se verduras frescas."
+      },
+      {
+        "id": 3,
+        "texto": "Este café é para nós tomarmos."
+      },
+      {
+        "id": 4,
+        "texto": "Quantos de nós também já sofreram?"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 556,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa que contém uso incorreto de crase:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Viajarei às 14h à Rio Verde das Abóboras."
+      },
+      {
+        "id": 2,
+        "texto": "Não dê ouvidos à reclamações."
+      },
+      {
+        "id": 3,
+        "texto": "Estava à procura de um profissional."
+      },
+      {
+        "id": 4,
+        "texto": "Esta é a festa à qual me referi."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 557,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Marque a assertiva que represente uso correto de concordância nominal:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Andou por mares e terras desconhecidos."
+      },
+      {
+        "id": 2,
+        "texto": "Possuía crença e fé exagerados."
+      },
+      {
+        "id": 3,
+        "texto": "Prestei o concurso menos vez que você."
+      },
+      {
+        "id": 4,
+        "texto": "As pessoas trajavam roupas nas cores azuis."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 558,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Sendo (C) para as assertivas corretas e (E) para as erradas, assinale a alternativa com a sequência correta:\n\n() Há um ano trabalho na 1ª Promotoria de Justiça de Quirinópolis.\n() O juiz houve por bem reconsiderar sua decisão.\n() Os criminosos houveram do poder público a devida punição.\n() Os promotores de justiça houveram por mais acertado pedir a absolvição do réu.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "E – E – E – C"
+      },
+      {
+        "id": 2,
+        "texto": "C – C – C – E"
+      },
+      {
+        "id": 3,
+        "texto": "C – E – E – E"
+      },
+      {
+        "id": 4,
+        "texto": "C – C – C – C"
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 559,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa em que todas as palavras estão escritas de forma correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "antebraço – creolina – sequer"
+      },
+      {
+        "id": 2,
+        "texto": "indígina – lacrimogêneo – distilar"
+      },
+      {
+        "id": 3,
+        "texto": "mimeógrafo – umidecer – sinão"
+      },
+      {
+        "id": 4,
+        "texto": "mexirico – arrepear – candeeiro"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 560,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Os sinais de pontuação são importantes elementos de expressividade. Marque a alternativa em que o emprego da vírgula é opcional.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Jovens macedônios, conhecedores de tecnologia, lançaram notícias falsas nas redes sociais."
+      },
+      {
+        "id": 2,
+        "texto": "As notícias falsas, fenômeno prejudicial à sociedade, vêm sendo discutidas pela sociedade organizada."
+      },
+      {
+        "id": 3,
+        "texto": "A publicação de notícias falsas, no ambiente virtual, prejudicou as vítimas."
+      },
+      {
+        "id": 4,
+        "texto": "Não compartilhem notícias falsas, internautas."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 561,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Seguindo a norma culta da língua portuguesa, assinale a alternativa que preenche corretamente as frases a seguir:\n\nI - As alunas _____ fizeram o trabalho.\nII - Eles não eram _____ bobos.\nIII - A minha amada mora em _____ terras.\nIV - É _____ entrada de cachorro de grande porte.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "mesmas - nenhum - longes - proibido"
+      },
+      {
+        "id": 2,
+        "texto": "mesmas - nenhuns - longes - proibido"
+      },
+      {
+        "id": 3,
+        "texto": "mesmo - nenhuns - longes - proibida"
+      },
+      {
+        "id": 4,
+        "texto": "mesmas - nenhuns - longe - proibida"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 562,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Um navio com 4 compartimentos transporta 720 pessoas. Para transportar 1260 pessoas, quantos compartimentos seriam necessários?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "7 compartimentos."
+      },
+      {
+        "id": 2,
+        "texto": "6 compartimentos."
+      },
+      {
+        "id": 3,
+        "texto": "8 compartimentos."
+      },
+      {
+        "id": 4,
+        "texto": "9 compartimentos."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 563,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Um pintor, trabalhando 8 horas por dia, durante 10 dias, pinta 7.500 telhas. Para que ele possa pintar 6.000 telhas em 4 dias, ele deverá trabalhar 16 horas por dia."
+      },
+      {
+        "id": 2,
+        "texto": "Três caminhões transportam 200m³ de areia. Para transportar 1600m³ de areia, serão necessários 25 caminhões iguais a esse."
+      },
+      {
+        "id": 3,
+        "texto": "A comida que restou para 3 náufragos seria suficiente para alimentá-los por 12 dias. Um deles resolveu saltar e tentar chegar em terra nadando. Com um náufrago a menos, a duração dos alimentos será de 15 dias."
+      },
+      {
+        "id": 4,
+        "texto": "Dez guindastes móveis carregam 200 caixas num navio em 18 dias de 8 horas de trabalho. Nessa senda, 70 caixas serão carregadas em 15 dias, por 6 guindastes, trabalhando 6 horas por dia."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 564,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Qual é o mínimo múltiplo comum entre 3, 9, 15 e 18?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "3"
+      },
+      {
+        "id": 2,
+        "texto": "27"
+      },
+      {
+        "id": 3,
+        "texto": "90"
+      },
+      {
+        "id": 4,
+        "texto": "270"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 565,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Uma geladeira, cujo preço de custo era R$800,00, foi vendida por R$980,00. De quanto por cento foi o lucro sobre o preço de custo?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "20%"
+      },
+      {
+        "id": 2,
+        "texto": "22,5%"
+      },
+      {
+        "id": 3,
+        "texto": "25%"
+      },
+      {
+        "id": 4,
+        "texto": "27,5%"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 566,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Em um loteamento, do Programa de Habitação Popular “Minha Casa Minha Vida”, foram construídos dois reservatórios de água. A razão entre os volumes internos do primeiro e do segundo é de 2 para 5, e a soma desses volumes é 14 m³. Assim, o valor absoluto da diferença entre as capacidades desses dois reservatórios, em litros, é igual a:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "6.000"
+      },
+      {
+        "id": 2,
+        "texto": "8.000"
+      },
+      {
+        "id": 3,
+        "texto": "4.000"
+      },
+      {
+        "id": 4,
+        "texto": "9.000"
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 567,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Quanto às causas da deflagração da Revolução de 1817, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A grande seca que havia atingido a região em 1816 acentuando a fome e a miséria e ocasionando uma queda na produção do café e do tabaco, produtos que eram a base da economia de Pernambuco."
+      },
+      {
+        "id": 2,
+        "texto": "Criação de novos impostos por Dom João VI provocando a insatisfação da população pernambucana."
+      },
+      {
+        "id": 3,
+        "texto": "A crescente pressão dos escravocratas da Europa que vinha incentivando o tráfico de escravos, mão de obra que se tornava cada vez mais cara e que era o motor de toda a economia agrária pernambucana."
+      },
+      {
+        "id": 4,
+        "texto": "A presença maciça de espanhóis e franceses na liderança do governo e na administração pública."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 568,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa incorreta, acerca da monarquia no Brasil:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Para entender como foi o Segundo Reinado e como ele levou à queda da monarquia, é preciso compreender como se dava a disputa entre conservadores e liberais. Estes foram grupos formados durante a regência e se estenderam até mesmo quando ela terminou."
+      },
+      {
+        "id": 2,
+        "texto": "Em 18 de julho de 1841, ocorreu a coroação do novo Imperador Constitucional e Defensor Perpétuo do Brasil: D. Pedro II, com apenas 14 anos de idade, sem que houvesse aprovação do Congresso."
+      },
+      {
+        "id": 3,
+        "texto": "Sem dúvida, o café recebeu o maior foco do Segundo Reinado. Havia três grandes regiões produtoras de café no Brasil: Vale do Paraíba (RJ/SP); Oeste Paulista (SP); e, Zona da Mata (MG)."
+      },
+      {
+        "id": 4,
+        "texto": "A Guerra do Paraguai, no segundo Reinado, foi uma das principais causas pela queda do monarquismo no Brasil."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 569,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Tendo em conta os fatos históricos que envolveram a Revolução (ou Golpe) de 1930, julgue os itens abaixo como corretos ou incorretos:\n\nI - Durante a República Velha até a Revolução de 1930, pode-se dizer que a produção agrícola brasileira era significativamente superior à industrial, fato que também se refletia na repartição do poder político, que se concentrava nas mãos de grupos de fazendeiros latifundiários, em especial, cafeicultores e criadores de gado, daí porque uma aliança política estabelecida naquele tempo - que alternava a Presidência da República entre grupos políticos de São Paulo, produtores de café, e de Minas Gerais, produtores de gado – ficou conhecida como “política do café com leite”.\nII - Washington Luís, então Presidente da República, paulista e ligado ao grupo político do Estado de São Paulo, ao invés de indicar como seu sucessor Antônio Carlos Ribeiro de Andrada, então Presidente de Minas Gerais, ou seu vice, o mineiro Fernando de Melo Viana, resolveu apoiar um paulista, Júlio Prestes, provocando tensão na “política do café com leite”. O mineiro Antônio Carlos, em contrapartida, tentou promover uma política conciliatória com Washington Luís e tentou lançar como candidato o gaúcho Getúlio Vargas, todavia, o então Presidente, após consultar os Presidentes dos Estados e obter a aprovação de 17 Estados, manteve apoio e indicou o paulista Júlio Prestes. Não manifestaram apoio a São Paulo os Estados da Paraíba, Minas Gerais e Rio Grande do Sul, que formaram a chamada Aliança Liberal, em oposição a Júlio Prestes e a favor de Getúlio Vargas, lançando este último então como candidato.\nIII - A atual bandeira da Paraíba foi adotada em 1930, na qual consta no meio da parte vermelha da bandeira a inscrição “NEGO”, que se refere ao verbo “negar” no presente do indicativo da primeira pessoa do singular e representa a não aceitação do sucessor à Presidência da República indicado pelo presidente brasileiro da época, Washington Luís.\nIV - Nas eleições realizadas em 1º de março de 1930 disputaram a Presidência da República os candidatos Júlio Prestes e Getúlio Vargas, sendo esta eleição vencida por Júlio Prestes. Após a vitória de Júlio Prestes, a Aliança Liberal - formada pelos Estados Minas Gerais, Rio Grande do Sul e Paraíba - questionou o resultado do pleito e alegou fraude eleitoral, irresignação esta que, somada ao assassinato do então VicePresidente da chapa de Getúlio Vargas, o então Presidente da Paraíba João Pessoa Cavalcanti de Abulquerque, resultou em ações militares em vários pontos do país e com a tomada a força do poder por oficiais generais, que em seguida instalaram uma Junta Provisória do governo, composta por 3 militares, que decidiu transmitir o poder a Getúlio Vargas.\nV - O então Presidente da Paraíba e candidato à Vice-Presidente em chapa com Getúlio Vargas, João Pessoa Cavalcanti de Abulquerque, concentrava bastante apoio popular na região nordeste do país, razão pela qual, após as eleições de 1930, foi morto a mando do grupo político dominante de São Paulo, que atendia a interesses de Júlio Prestes, então eleito, e que visava a consolidação do grupo paulista no poder. \nA fim de criar uma cortina de fumaça e, com isso, evitar o crescimento de uma comoção popular que se iniciava em torno da morte de João Pessoa e que culminaria na Revolução de 30, o então Presidente Washington Luís tentou criar uma cortina de fumaça, usando de sua influência para publicar notícias falsas em jornais para esconder a verdadeira motivação da morte de João Pessoa, a partir da divulgação de fatos falsos relacionados a uma conhecida animosidade pessoal do governante paraibano com o jornalista João Duarte Dantas.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Somente duas assertivas estão corretas."
+      },
+      {
+        "id": 2,
+        "texto": "Somente três assertivas estão corretas."
+      },
+      {
+        "id": 3,
+        "texto": "Somente quatro assertivas estão corretas."
+      },
+      {
+        "id": 4,
+        "texto": "Todas as assertivas estão corretas."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 570,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Sobre a Era Vargas, assinale a opção correta acerca das seguintes assertivas:\n\nI - A Constituição da República de 1934, ao contrário da Constituição da República de 1891, definia o Brasil como República Federativa, conservava a separação e a autonomia dos três poderes e estabelecia as eleições diretas.\nII – A Constituição da República de 1934 não reconhecia direitos trabalhistas e proibida o voto feminino.\nIII - A Constituição da República de 1934 não garantia o voto secreto, facilitando, assim, a prática de corrupção eleitoral.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Somente os itens I e II estão corretos."
+      },
+      {
+        "id": 2,
+        "texto": "Somente os itens II e III estão corretos."
+      },
+      {
+        "id": 3,
+        "texto": "Somente o item III está correto."
+      },
+      {
+        "id": 4,
+        "texto": "Nenhum item está correto."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 571,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "A criação do Sistema Único de Saúde (SUS) como uma política universal para todos constitui-se em uma das mais importantes conquistas da sociedade brasileira no século XX. Consagrado na Constituição Federal de 1988, nos seus artigos 196 a 1981, o SUS deve ser valorizado e defendido como um marco para a cidadania e o avanço civilizatório. É importante salientar que a enorme desigualdade social existente no País produz vulnerabilidades que, ao lado do envelhecimento da população, aumentam o consumo dos serviços de saúde. \nA saúde, como direito previsto pela Constituição, estabeleceu um sistema essencialmente público e único, reservando ao setor privado um papel complementar, ou seja, de atuar onde o sistema público não estivesse presente, mediante necessidades explícitas sob a decisão e a regulação do SUS. \nA sociedade deve reconhecer a diferença entre direito à saúde e poder de compra de serviços de saúde; reconhecer o significado do SUS como uma conquista social que garantiu ações de atenção básica, de vigilância em saúde, de emergência e que tem 75% da população como usuária exclusiva. Tarefa difícil para os tempos individualistas, mas necessária se o Brasil escolher, nessa encruzilhada complexa, o caminho futuro de uma sociedade solidária e democrática. \nA democracia envolve um modelo de Estado onde políticas sociais protegem os cidadãos e reduzem as desigualdades. A democracia participativa no âmbito da saúde é uma diretriz que valoriza a participação social, fortalece a cidadania e contribui para assegurar o exercício de direitos sociais, o pluralismo político e o bem-estar como valores de uma sociedade fraterna, pluralista e sem preconceitos, conforme prevê a Constituição. \n\n(RIZZOTO, M. L. F. et al. Justiça social, democracia com direitos sociais e saúde: a luta do Cebes. Revista Saúde em Debate, n. 116, jan.-mar. 2018 (adaptado) - https://saudeemdebate.org.br/sed/article/view/491/23) \n\nSegundo o texto, duas características da concepção da política pública analisada, um marco da democracia e da cidadania no Brasil, são:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Universalismo e igualitarismo."
+      },
+      {
+        "id": 2,
+        "texto": "Nacionalismo e individualismo."
+      },
+      {
+        "id": 3,
+        "texto": "Paternalismo e filantropia."
+      },
+      {
+        "id": 4,
+        "texto": "Revolucionarismo e coparticipação."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 572,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa correta quanto à República Federativa do Brasil:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Em função do sistema de distribuição de competências legislativas criado pela CF, há patente superioridade hierárquica das leis federais sobre as estaduais."
+      },
+      {
+        "id": 2,
+        "texto": "As entidades políticas são pessoas jurídicas de direito privado, como a União, os estados, o Distrito Federal e os municípios. Já as entidades administrativas integram a administração pública e têm autonomia política, como as autarquias e as fundações públicas."
+      },
+      {
+        "id": 3,
+        "texto": "De acordo com a Constituição Federal, novos municípios poderão ser criados mediante incorporação, fusão e desmembramento de municípios."
+      },
+      {
+        "id": 4,
+        "texto": "Os municípios e os estados-membros da Federação brasileira são dotados de personalidade de direito internacional."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 573,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O espaço geográfico é resultante da ação humana sobre o meio, o que inevitavelmente provoca uma transformação nas paisagens. É exemplo de paisagem natural: Reserva ambiental em área rural."
+      },
+      {
+        "id": 2,
+        "texto": "A paisagem não é estática, é dinâmica. Sua transformação pode acontecer constantemente. É exemplo de paisagem natural: Floresta equatorial não ocupada pelo homem."
+      },
+      {
+        "id": 3,
+        "texto": "A paisagem possui elementos naturais e culturais, estes algumas vezes justapostos e expressando a harmonia entre o presente e o passado. É exemplo de paisagem cultural: um parque ambiental construído pelo homem."
+      },
+      {
+        "id": 4,
+        "texto": "A paisagem cultural pode ser considerada um reflexo direto da compreensão humana. É exemplo de paisagem natural: Hotel fazenda reservado para o turismo."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 574,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "A partir do emprego da rosa dos ventos e dos conhecimentos básicos sobre os pontos cardeais e seus intermediários, um oficial de Promotoria de Justiça concluiu que a cidade de Quirinópolis está localizada à sudoeste da cidade de Vianópolis. Isso significa que, em relação à cidade de Quirinópolis, a cidade de Vianópolis está localizada à:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Sudoeste."
+      },
+      {
+        "id": 2,
+        "texto": "Sudeste."
+      },
+      {
+        "id": 3,
+        "texto": "Noroeste."
+      },
+      {
+        "id": 4,
+        "texto": "Nordeste."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 575,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "A história dos Estados Unidos da América reflete uma trajetória que culmina com seu poderio econômico e bélico atual. Algumas doutrinas, posicionamentos intelectuais, filosóficos e até religiosos colaboraram para esse sucesso. Tratando dessa temática, assinale a alternativa correta acerca das assertivas a seguir:\n\nI - O Iluminismo, movimento filosófico, contribuiu com ideias de relevante importância para a política e a economia dos EUA. O Iluminismo prega, dentre outras coisas, a democracia, o liberalismo econômico, a liberdade de culto e de pensamento. A independência dos EUA foi feita sob a égide desses pensamentos.\nII - Após sua independência, os EUA desenvolveram a ideia do Destino Manifesto, a qual os colocava como eleitos por Deus para levar o \"progresso\" e a \"civilização\" a outros povos. Em meados do século XIX, essa doutrina deu embasamento à expansão territorial para oeste, o que acabou implicando na morte de milhares de índios e mexicanos.\nIII - Apesar de estar no contexto do Iluminismo, o Liberalismo Econômico contribuiu por demais com a industrialização dos EUA, de modo que em meados do século XIX, o país já despontava como a quinta nação do mundo em produção industrial. Na verdade, apesar de os EUA pregar o liberalismo, dentro do próprio país havia grande concentração de monopólios e trustes.\nIV - A Doutrina Monroe pregava que a América teria que ser para os americanos. Assim, para os EUA, qualquer intrusão das potências europeias na América seria vista como um ato de agressão, o que colaborou para o início da hegemonia estadunidense em toda América.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Todas as assertivas estão corretas."
+      },
+      {
+        "id": 2,
+        "texto": "A assertiva I está incorreta."
+      },
+      {
+        "id": 3,
+        "texto": "A assertiva II está incorreta."
+      },
+      {
+        "id": 4,
+        "texto": "A assertiva III está incorreta."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 576,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa incorreta quanto ao correio eletrônico:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Por meio do correio eletrônico é possível o envio e a troca de documentos, imagens e áudios para qualquer pessoa que possua um endereço de correio eletrônico."
+      },
+      {
+        "id": 2,
+        "texto": "A caixa de entrada do correio eletrônico é onde os usuários recebem suas mensagens e elas ficam nesse local até serem arquivadas, lidas ou apagadas."
+      },
+      {
+        "id": 3,
+        "texto": "Os correios eletrônicos são disponibilizados pelos navegadores para que os usuários possam receber e enviar e-mails."
+      },
+      {
+        "id": 4,
+        "texto": "Para acessar o correio eletrônico basta apenas o acesso à internet, dispensando-se um endereço eletrônico pessoal."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 577,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa incorreta, a respeito das opções do Painel de Controle do sistema operacional Windows:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Por meio da opção Personalização, é possível alterar as imagens, as cores e os sons no computador."
+      },
+      {
+        "id": 2,
+        "texto": "Por meio da opção Recuperação, é possível restaurar o sistema sem afetar os arquivos."
+      },
+      {
+        "id": 3,
+        "texto": "Por meio da opção Sistema, é possível exibir informações sobre o computador."
+      },
+      {
+        "id": 4,
+        "texto": "Por meio do Windows Update é possível se acessar de forma segura o provedor do serviço de correio eletrônico."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 578,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "O sistema operacional Windows conta com uma série de atalhos que otimizam a experiência no trabalho. A esse respeito, julgue os itens abaixo como corretos ou incorretos:\n\nI - Ao utilizar o atalho Ctrl + Z o Windows não desfaz a última ação realizada, sendo este recurso exclusivo do Office Word.\nII - Ao clicar em algum arquivo e em seguida teclar F2 o Windows permite que o nome deste arquivo seja renomeado.\nIII - O atalho Ctrl + C realiza a operação “colar”.\nIV - O atalho para abrir o manual de ajuda de um programa em funcionamento no Windows é F10.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Somente 1 está correta."
+      },
+      {
+        "id": 2,
+        "texto": "Somente 2 estão corretas."
+      },
+      {
+        "id": 3,
+        "texto": "Somente 3 estão corretas."
+      },
+      {
+        "id": 4,
+        "texto": "Todas estão corretas."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 579,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Nos navegadores de Internet, os atalhos de teclado facilitam a navegação, especialmente entre guias abertas na janela atual. Sobre o tema, assinale a alternativa correta acerca das seguintes assertivas:\n\nI - Ctrl+T (abrir uma nova guia)\nII - Ctrl+P (Imprimir a página atual)\nIII - Ctrl+J (exibir downloads)\nIV - Ctrl+H (exibir o histórico de navegação)",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Apenas os itens I, II e III estão corretos."
+      },
+      {
+        "id": 2,
+        "texto": "Apenas os itens I, II e IV estão corretos."
+      },
+      {
+        "id": 3,
+        "texto": "Apenas os itens II e IV estão corretos."
+      },
+      {
+        "id": 4,
+        "texto": "Os itens I, II, III e IV estão corretos."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 580,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Atalhos de teclado são teclas ou combinações de teclas que fornecem uma maneira alternativa de fazer algo que você normalmente faria com o mouse ou ainda que facilitam a navegação pelo desktop, com o uso concomitante do mouse. \nPor exemplo, para selecionar arquivos ou pastas não sequenciais no Windows 10, você deve selecionar o primeiro arquivo ou a primeira pasta do seu interesse, usando o mouse e, depois, manter a tecla de atalho ____ pressionada e continuar a selecionar outros arquivos ou outras pastas que queira. \nA alternativa que preenche corretamente a lacuna é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Alt"
+      },
+      {
+        "id": 2,
+        "texto": "Ctrl"
+      },
+      {
+        "id": 3,
+        "texto": "Shift"
+      },
+      {
+        "id": 4,
+        "texto": "Tab"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 581,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa que contenha uma hipótese que configura vedação constitucional ao membro do Ministério Público:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Requisitar diligências investigatórias e a instauração de inquérito policial, indicados os fundamentos jurídicos de suas manifestações processuais."
+      },
+      {
+        "id": 2,
+        "texto": "Promover o inquérito civil e a ação civil pública, para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos."
+      },
+      {
+        "id": 3,
+        "texto": "Exercer atividade político-partidária, contanto que autorizado pelo Procurador-Geral de Justiça."
+      },
+      {
+        "id": 4,
+        "texto": "Promover a ação de inconstitucionalidade ou representação para fins de intervenção da União e dos Estados, nos casos previstos nesta Constituição."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 582,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "De acordo com a Lei Complementar Estadual de nº 25/98, compete aos Centros de Apoio Operacional do Ministério Público:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Zelar pelo cumprimento das obrigações do Ministério Público, decorrentes de convênios firmados."
+      },
+      {
+        "id": 2,
+        "texto": "Encaminhar ao Procurador-Geral de Justiça e ao Corregedor-Geral do Ministério Público estatística anual e relatório trimestral de suas atividades."
+      },
+      {
+        "id": 3,
+        "texto": "Remeter informações técnico-jurídicas, com caráter vinculativo, aos órgãos ligados à sua atividade."
+      },
+      {
+        "id": 4,
+        "texto": "Apresentar ao Corregedor-Geral do Ministério Público propostas e sugestões para edição de atos e instruções, sem caráter normativo, tendentes à melhoria do serviço do Ministério Público."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 583,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "As alternativas abaixo relacionam-se às competências dos Procuradores de Justiça, conforme preconizado pela Lei Complementar Estadual de nº 25/98. Marque a alternativa que não se enquadra nas competências previstas para os Procuradores de Justiça.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Impetrar habeas corpus, mandado de segurança, requerer correição parcial, bem como propor outras medidas cabíveis, perante os Tribunais competentes."
+      },
+      {
+        "id": 2,
+        "texto": "Integrar comissão de processo administrativo disciplinar instaurado contra membro do Ministério Público."
+      },
+      {
+        "id": 3,
+        "texto": "Participar das sessões dos Tribunais, no julgamento dos processos em que oficiou, tomando ciência, pessoalmente e mediante vista dos autos respectivos, das decisões proferidas."
+      },
+      {
+        "id": 4,
+        "texto": "Requisitar, do Procurador Geral de Justiça, fundamentadamente, quando for o caso, a interposição de recursos aos Tribunais locais ou Superiores, ou adoção de outras medidas cabíveis."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 584,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Julgue as assertivas abaixo, que cuidam da notícia de fato, prevista na Resolução de nº 09/2018, editada pelo Colégio de Procuradores de Justiça do Estado de Goiás.\n\nI - A notícia de fato será apreciada no prazo de 90 (noventa) dias, a contar do seu recebimento pelo órgão de execução, prorrogável uma vez, fundamentadamente, por até 120 (cento e vinte) dias;\nII - Em caso de necessidade, o membro do Ministério Público poderá encaminhar a notícia a órgão externo com atribuição para apuração inicial dos fatos, requisitando, se for o caso, providências e comunicação acerca do resultado das diligências;\nIII - Se aquele a quem for encaminhada a notícia de fato entender que a atribuição para apreciála é de outro órgão do Ministério Público, a ele promoverá a sua remessa, após o referendo do Conselho Superior.. \n\nAssinale a alternativa que corresponde aos julgamentos das assertivas:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "I, II e III estão corretas."
+      },
+      {
+        "id": 2,
+        "texto": "II e III estão incorretas."
+      },
+      {
+        "id": 3,
+        "texto": "II e III estão corretas."
+      },
+      {
+        "id": 4,
+        "texto": "I e III estão incorretas."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 585,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O Ministério Público da União compreende o Ministério Público Federal; o Ministério Público do Trabalho; o Ministério Público Militar; o Ministério Público eleitoral e o Ministério Público do Distrito Federal e Territórios."
+      },
+      {
+        "id": 2,
+        "texto": "São funções institucionais do MP: promover, privativamente, a ação penal pública, na forma da lei; promover a ação de inconstitucionalidade ou representação para fins de intervenção da União e dos Estados, nos casos previstos na Constituição; requisitar diligências investigatórias e a instauração de inquérito policial, indicados os fundamentos jurídicos de suas manifestações processuais."
+      },
+      {
+        "id": 3,
+        "texto": "São funções institucionais do MP: defender judicialmente os direitos e interesses das populações indígenas; expedir notificações nos procedimentos administrativos de sua competência, requisitando informações e documentos para instruí-los, na forma da lei complementar respectiva; exercer outras funções que lhe forem conferidas, desde que compatíveis com sua finalidade, sendo-lhe vedada a representação judicial e a consultoria jurídica de entidades privadas mas sendo permitida a consultoria de entidades públicas."
+      },
+      {
+        "id": 4,
+        "texto": "São princípios institucionais do Ministério Público a unidade, a indivisibilidade e a independência funcional. No tocante à autonomia do MP, a C.F estabelece que durante a execução orçamentária do exercício, não poderá haver a realização de despesas ou a assunção de obrigações que extrapolem os limites estabelecidos na lei de diretrizes orçamentárias, exceto se autorizadas posteriormente, mediante a abertura de créditos suplementares ou especiais."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 586,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Compete ao Conselho Superior do MP indicar o nome do mais antigo membro do Ministério Público para remoção ou promoção por antiguidade; bem como deliberar sobre remoção, permuta, reingresso e aproveitamento de membros do Ministério Público em disponibilidade."
+      },
+      {
+        "id": 2,
+        "texto": "Compete ao Conselho Superior do MP indicar ao Procurador-Geral de Justiça, através de formação de lista, Promotores de Justiça para substituição por convocação; bem como aprovar o regulamento de estágio probatório elaborado pela Corregedoria Geral do Ministério Público."
+      },
+      {
+        "id": 3,
+        "texto": "Compete ao Conselho Superior do MP nomear os membros do Ministério Público que integrarão a Comissão de Concurso de ingresso na carreira; bem como opinar sobre recomendações aos órgãos do Ministério Público, sem caráter normativo, para desempenho de suas funções, nos casos em que se mostrar conveniente a atuação uniforme."
+      },
+      {
+        "id": 4,
+        "texto": "Compete ao Conselho Superior do MP dar posse aos Promotores de Justiça Substitutos e conhecer dos relatórios reservados elaborados pela Corregedoria Geral do Ministério Público, em inspeções e correições realizadas nas Promotorias de Justiça, recomendando as providências cabíveis."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 587,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "É exemplo de órgão de execução do Ministério Público:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Centro de Apoio Operacional."
+      },
+      {
+        "id": 2,
+        "texto": "Coordenação de Apoio Técnico Pericial."
+      },
+      {
+        "id": 3,
+        "texto": "Escola Superior do Ministério Público."
+      },
+      {
+        "id": 4,
+        "texto": "Promotor de Justiça."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 588,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Ainda tendo por embasamento a Lei Estadual de Goiás 20.756/2020, no pertinente ao capítulo que trata das Responsabilidades, marque a alternativa correta quanto às assertivas a seguir:\n\nI - O servidor responde civil, penal e administrativamente pelo exercício irregular de suas atribuições.\nII - A responsabilidade civil decorre de conduta omissiva ou comissiva, dolosa ou culposa, que importe em prejuízo ao erário ou a terceiro.\nIII - A responsabilidade penal abrange os crimes e as contravenções imputados ao servidor, nesta qualidade.\nIV - As sanções civis, penais e administrativas poderão cumular-se, sendo independentes entre si; entretanto, a responsabilidade administrativa e civil do servidor será afastada no caso de sentença penal absolutória quanto ao mesmo fato, fundada na sua inexistência material ou na negativa de sua autoria.",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Todas as assertivas estão corretas."
+      },
+      {
+        "id": 2,
+        "texto": "Apenas uma assertiva está incorreta."
+      },
+      {
+        "id": 3,
+        "texto": "Apenas duas assertivas estão incorretas."
+      },
+      {
+        "id": 4,
+        "texto": "Pelo menos três assertivas estão incorretas."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 589,
+    "cargo": "Secretário Auxiliar",
+    "nivel": "Fundamental",
+    "prova": "Ministério Público de Goiás - Comarca de Quirinópolis",
+    "banca": "Não informada",
+    "enunciado": "Seguindo a disciplina legal da Lei 14.810/2004, que institui o Plano de Carreira dos Servidores do Ministério Público do Estado de Goiás, o ingresso nas categorias do Quadro Permanente dar-se-á na classe e referência iniciais, mediante concurso público de provas e títulos, sendo que o tempo de serviço prestado ao Ministério Público do Estado de Goiás será computado como título nos termos do respectivo edital. Os servidores nomeados para cargo de provimento efetivo no âmbito da instituição ficarão sujeitos ao estágio probatório. Acerca dessa temática, podemos afirmar, exceto:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O período de estágio probatório é de três (03) anos, durante o qual serão apurados os requisitos necessários para a aquisição da estabilidade."
+      },
+      {
+        "id": 2,
+        "texto": "São requisitos mínimos a serem observados no estágio probatório: idoneidade moral, assiduidade, pontualidade, disciplina, eficiência e aptidão."
+      },
+      {
+        "id": 3,
+        "texto": "O não atendimento dos requisitos necessários para aquisição de estabilidade implicará na instauração de processo de exoneração do servidor nomeado, o qual será concluído no prazo de 30 (trinta) dias."
+      },
+      {
+        "id": 4,
+        "texto": "São vedadas a promoção e a progressão funcional durante o estágio probatório, findo o qual será concedida ao servidor aprovado a progressão funcional para a referência 02 da classe “A” da respectiva carreira."
+      }
+    ],
+    "resposta_correta": 3
   }
 ]
