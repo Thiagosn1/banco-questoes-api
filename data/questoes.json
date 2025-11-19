@@ -17294,5 +17294,1625 @@
       }
     ],
     "resposta_correta": 4
+  },
+  {
+    "id": 610,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Um usuário do Windows, que está conectado à internet via computador próprio, deseja compartilhar a sua conexão por Wi-Fi. Para tal, dentre as opções de configuração do Windows, o compartilhamento pode ser feito em",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "adição de VPN."
+      },
+      {
+        "id": 2,
+        "texto": "hotspot móvel."
+      },
+      {
+        "id": 3,
+        "texto": "ethernet."
+      },
+      {
+        "id": 4,
+        "texto": "assistente de foco."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 611,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Aplicativos para escritório são amplamente empregados nas tarefas diárias em diversos contextos: empresa, universidade, governo, dentre outros. Tais aplicativos incluem aqueles primariamente dedicados à edição e à criação de apresentações multimídia, tais como:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Impress e PowerPoint."
+      },
+      {
+        "id": 2,
+        "texto": "Keeper e Netbeans."
+      },
+      {
+        "id": 3,
+        "texto": "Calc e Impress."
+      },
+      {
+        "id": 4,
+        "texto": "Netbeans e Powerpoint."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 612,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O navegador de internet é um software que permite o acesso à web, pela interpretação das informações de sites e de arquivos de tipos variados, tal que promova uma melhor visualização dessas informações. São exemplos de navegadores de internet:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Mozilla Firefox e Oracle."
+      },
+      {
+        "id": 2,
+        "texto": "Github e Google Chrome."
+      },
+      {
+        "id": 3,
+        "texto": "Oracle e Apple Safari."
+      },
+      {
+        "id": 4,
+        "texto": "Opera e Microsoft Edge."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 613,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "No contexto de configuração de navegadores para a internet, bloqueadores de anúncios são componentes acrescidos visando barrar a criação de janelas não solicitadas, por exemplo janelas ligadas a anúncios de produtos. Usualmente, a forma de acréscimo desses componentes ocorre por meio",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "da extensão de navegador."
+      },
+      {
+        "id": 2,
+        "texto": "do serviço de busca."
+      },
+      {
+        "id": 3,
+        "texto": "do mapa de caracteres."
+      },
+      {
+        "id": 4,
+        "texto": "do protocolo de navegador."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 614,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "As mensagens de e-mail não desejadas e usualmente enviadas em massa (para múltiplos destinatários), que possuem desde propagandas indesejadas até vírus, em geral são detectáveis por serviços de correio eletrônico, são classificadas como",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "cookies."
+      },
+      {
+        "id": 2,
+        "texto": "plugins."
+      },
+      {
+        "id": 3,
+        "texto": "spams."
+      },
+      {
+        "id": 4,
+        "texto": "sniffers."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 615,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, previsto no Decreto n° 1.171/1994, estabelece que, no exercício das suas funções, o servidor público não poderá jamais desprezar o elemento ético de sua conduta. Assim, não terá que decidir somente entre o legal e o ilegal, o justo e o injusto, o conveniente e o inconveniente, o oportuno e o inoportuno, mas principalmente entre o honesto e o desonesto. Sendo assim, entre as principais obrigações dos que trabalham em órgãos públicos apresentadas no Código de Ética, está a de",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "abster-se de realizar sua função ou usar sua autoridade com finalidade estranha ao interesse individual."
+      },
+      {
+        "id": 2,
+        "texto": "retardar a prestação de contas, condição essencial da gestão dos bens, direitos e serviços da coletividade a seu cargo."
+      },
+      {
+        "id": 3,
+        "texto": "ter respeito à hierarquia, porém resguardando o temor de representar contra qualquer comprometimento indevido da estrutura em que se funda o Poder Estatal."
+      },
+      {
+        "id": 4,
+        "texto": "tratar cuidadosamente os usuários dos serviços, aperfeiçoando o processo de comunicação e contato com o público."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 616,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A Lei n° 9.784/1999 estabelece normas básicas acerca do processo administrativo no âmbito da Administração Federal direta e indireta, visando, entre outras disposições, a proteção dos direitos dos administrados e o melhor cumprimento dos fins da Administração. Nos termos do artigo 3º da lei, o administrado tem o seguinte direito perante a Administração, sem prejuízo de outros que lhe sejam assegurados:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "fazer-se assistir, obrigatoriamente, por advogado de forma obrigatória, por força de disposição da lei."
+      },
+      {
+        "id": 2,
+        "texto": "ser tratado com respeito pelas autoridades e servidores, que deverão facilitar o exercício de seus direitos e o cumprimento de suas obrigações."
+      },
+      {
+        "id": 3,
+        "texto": "ter vista dos autos dos processos administrativos, sendo vedada a obtenção de cópias de documentos neles contidos."
+      },
+      {
+        "id": 4,
+        "texto": "prestar as informações que lhe forem solicitadas no curso do processo administrativo e colaborar para o esclarecimento dos fatos."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 617,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "No Brasil, o acesso à informação pública está inscrito na Constituição Federal de 1988 no capítulo que versa sobre os Direitos e Deveres Individuais e Coletivos, em especial no inciso XXXIII do artigo 5º, que traz: \"XXXIII – todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado\". É este dispositivo que a Lei n° 12.527/2011, também conhecida como Lei de Acesso à Informação Pública, regulamenta. Ao efetivar o direito de acesso à informação, através de suas diretrizes gerais, a referida lei",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "determina a divulgação de informações de interesse público, mediante solicitação endereçada ao ente público correspondente."
+      },
+      {
+        "id": 2,
+        "texto": "adota a observância da publicidade de dados públicos como preceito geral e do sigilo como exceção."
+      },
+      {
+        "id": 3,
+        "texto": "estipula a utilização de meios impressos de divulgação, em detrimento daqueles viabilizados pela tecnologia da informação."
+      },
+      {
+        "id": 4,
+        "texto": "estabelece parâmetros para o desenvolvimento do controle dos atos da administração pública pelo próprio Estado."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 618,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O artigo 1º da Constituição Federal de 1988 prevê os fundamentos da República Federativa do Brasil, que se constitui em Estado Democrático de Direito. São fundamentos previstos no dispositivo constitucional:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a soberania, a cidadania e a autodeterminação dos povos."
+      },
+      {
+        "id": 2,
+        "texto": "a independência, a solução pacífica de conflitos e o pluralismo político."
+      },
+      {
+        "id": 3,
+        "texto": "a dignidade da pessoa humana, a livre iniciativa e a cidadania."
+      },
+      {
+        "id": 4,
+        "texto": "a não-intervenção, a livre iniciativa e a soberania."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 619,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Os direitos e garantias fundamentais são enunciados no Título II da Constituição Federal de 1988, a partir do artigo 5º, que dispõe sobre os direitos e liberdades individuais. Com relação à tais disposições, a liberdade de",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "locomoção é plena, em tempo de paz, sendo vedada quaisquer limitações, mesmo em casos excepcionais previstos pela legislação."
+      },
+      {
+        "id": 2,
+        "texto": "reunião é uma das espécies de liberdade de associação, mas de forma mais branda e sem formalidades, exigindo-se apenas autorização legal."
+      },
+      {
+        "id": 3,
+        "texto": "vida privada engloba a intimidade, honra e imagem da pessoa, bem como suas comunicações telegráficas e telefônicas."
+      },
+      {
+        "id": 4,
+        "texto": "pensamento refere-se à consciência e crença, bem como à liberdade de constituir uma família, advinda ou não do matrimônio."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 620,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O princípio constitucional que assegura a todos o direito a receber dos órgãos públicos informações de seu interesse particular, de interesse coletivo ou geral, que serão prestadas no prazo da lei, sob pena de responsabilidade é o princípio da",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "legalidade."
+      },
+      {
+        "id": 2,
+        "texto": "impessoalidade."
+      },
+      {
+        "id": 3,
+        "texto": "publicidade."
+      },
+      {
+        "id": 4,
+        "texto": "eficiência."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 621,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A Constituição Federal de 1988 tem um capítulo no qual trata exclusivamente dos municípios brasileiros. De acordo com seu art. 31°, a fiscalização do Município será exercida",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "pelo Tribunal de Contas do Estado (TCE), mediante controle interno e pela Presidência da República."
+      },
+      {
+        "id": 2,
+        "texto": "pelo Poder Legislativo Municipal, mediante controle externo e pelos sistemas de controle interno do Poder Executivo Municipal."
+      },
+      {
+        "id": 3,
+        "texto": "pelo poder judiciário, mediante controle externo e pelo Ministério Público do Trabalho em casos de gestão de pessoas."
+      },
+      {
+        "id": 4,
+        "texto": "pela sociedade, mediante controle externo e pelas organizações não governamentais, mediante o controle interno."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 622,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o caso a seguir.\n\nDurante atividade rotineira em uma empresa pública, ocorreu o vazamento de substância tóxica. Quando os empregados perceberam o acidente, imediatamente interromperam o sistema produtivo, tomaram as providências previamente determinadas e, desse modo, ninguém se feriu.\n\nNo processo de gestão de riscos as medidas adotadas pelos empregados correspondem",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "à identificação de riscos."
+      },
+      {
+        "id": 2,
+        "texto": "à avaliação de riscos."
+      },
+      {
+        "id": 3,
+        "texto": "ao monitoramento de riscos."
+      },
+      {
+        "id": 4,
+        "texto": "ao controle de riscos."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 623,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o caso a seguir.\n\nA Gerência de Licitação da Secretaria X recebeu um processo aquisitivo destinado a contratação de serviço de limpeza e conservação, cujo valor total anual de referência perfaz R$ 2.200.000,00 (dois milhões e duzentos mil reais).\n\nNessa situação, a modalidade de licitação adequada, bem como sua justificativa é",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "o pregão, por se tratar de um serviço comum."
+      },
+      {
+        "id": 2,
+        "texto": "a dispensa de licitação, em razão do objeto singular."
+      },
+      {
+        "id": 3,
+        "texto": "a carta convite, em razão do valor."
+      },
+      {
+        "id": 4,
+        "texto": "a inexigibilidade de licitação, por ser um serviço incomum."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 624,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A Constituição Federal de 1988 manifesta uma grande preocupação do legislador com o orçamento público. Dentre as inúmeras obrigações, ela impõe aos entes federados a publicação anual de uma lei orçamentária. Assim, de acordo com a Constituição Federal, a Lei Orçamentária Anual (LOA) possui a prerrogativa de",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "prever a receita e fixar a despesa."
+      },
+      {
+        "id": 2,
+        "texto": "ter vigência pelo período de dez anos."
+      },
+      {
+        "id": 3,
+        "texto": "compreender metas e prioridades da administração."
+      },
+      {
+        "id": 4,
+        "texto": "ser de autoria do Poder Legislativo."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 625,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir.\n\nA legislação permite que qualquer cidadão solicite dados da administração pública federal, estadual ou municipal, das 3 esferas de poder: Executivo, Legislativo e Judiciário. Não é preciso dar um motivo para justificar a demanda por informação, e o órgão público tem um prazo máximo de 20 dias para responder o solicitante, renovável por mais 10. É possível ainda recorrer a instâncias superiores, como a Controladoria Geral da União, em caso de negativas.\nDisponível em: <https://www.poder360.com.br/brasil/lei-de-acesso-ainformacao-completa-10-anos-saiba-como-foi-criada/>. Acesso em: 18 dez. 2023.\n\nO texto refere-se à",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Lei Federal nº 14.133/2021."
+      },
+      {
+        "id": 2,
+        "texto": "Lei Complementar nº 101/2000."
+      },
+      {
+        "id": 3,
+        "texto": "Lei Federal nº 8.112/1990."
+      },
+      {
+        "id": 4,
+        "texto": "Lei Federal nº 12.527/2011."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 626,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A Lei nº 13.251/1998 dispõe sobre a organização do Tribunal de Contas dos Municípios (TCM) em Goiás. Segundo essa norma, compete ao TCM, nas suas atividades de controle externo",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "apreciar as contas prestadas anualmente pelos administradores municipais, estadual e federal."
+      },
+      {
+        "id": 2,
+        "texto": "fiscalizar as contas de empresas ou consórcios interestaduais, bem como os repasses da União aos Estados e Distrito Federal."
+      },
+      {
+        "id": 3,
+        "texto": "auxiliar as Câmaras Municipais na fiscalização financeira, orçamentária, contábil, operacional e patrimonial."
+      },
+      {
+        "id": 4,
+        "texto": "defender o administrador municipal em ações propostas pelos Tribunais de Contas do Estado e da União."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 627,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Uma licitação deve ser anulada por motivo de",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "conveniência e oportunidade."
+      },
+      {
+        "id": 2,
+        "texto": "mudança de governo."
+      },
+      {
+        "id": 3,
+        "texto": "ilegalidade insanável."
+      },
+      {
+        "id": 4,
+        "texto": "férias da autoridade competente."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 628,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A participação da sociedade na administração pública, com objetivo de acompanhar e fiscalizar as ações de Governo, a fim de solucionar os problemas e assegurar a manutenção dos serviços de atendimento ao cidadão recebe o nome de",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "controle interno."
+      },
+      {
+        "id": 2,
+        "texto": "controle social."
+      },
+      {
+        "id": 3,
+        "texto": "controle externo."
+      },
+      {
+        "id": 4,
+        "texto": "controle financeiro."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 629,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Dizer que uma licitação é inexigível significa que",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a administração deve licitar, obedecendo ao comando da Lei Geral de Licitações."
+      },
+      {
+        "id": 2,
+        "texto": "frente à administração pública, o gestor deve revogá-la, conforme entendimento pacificado pelo TCU."
+      },
+      {
+        "id": 3,
+        "texto": "frente a uma calamidade pública, a administração deve dispensar a licitação."
+      },
+      {
+        "id": 4,
+        "texto": "frente à inviabilidade de competição, é proibida a promoção de disputa entre fornecedores."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 630,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Observe a imagem a seguir.\nA capacidade das unidades administrativas de antever os perigos que se apresentarão nas suas atividades e se preparar previamente para enfrentá-los, diminuindo as incertezas, denomina-se",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "gestão de riscos."
+      },
+      {
+        "id": 2,
+        "texto": "gestão de resultados."
+      },
+      {
+        "id": 3,
+        "texto": "gestão semi-integrada."
+      },
+      {
+        "id": 4,
+        "texto": "gestão integrada."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 631,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A metodologia de elaboração do orçamento público, adotada pela Lei nº 4.320/1964, que expressa, financeira e fisicamente, os programas de trabalho de governo, possibilitando a integração do planejamento com o orçamento, a quantificação de objetivos e a fixação de metas, as relações insumo-produto, as alternativas programáticas, o acompanhamento físico-financeiro, a avaliação de resultados e a gerência por objetivos é denominada",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "orçamento participativo."
+      },
+      {
+        "id": 2,
+        "texto": "orçamento-programa."
+      },
+      {
+        "id": 3,
+        "texto": "integração orçamentária."
+      },
+      {
+        "id": 4,
+        "texto": "conteúdo programático."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 632,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A lei que impõe ações planejadas e transparentes, em que se previnem riscos e corrigem desvios capazes de afetar o equilíbrio das contas públicas, mediante o cumprimento de metas de resultados entre receitas e despesas e a obediência a limites e condições no que tange à renúncia de receita, geração de despesas com pessoal, da seguridade social e outras, é a Lei",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "de Licitações e Contratos Administrativos."
+      },
+      {
+        "id": 2,
+        "texto": "de Acesso à Informação."
+      },
+      {
+        "id": 3,
+        "texto": "dos Crimes de Responsabilidade."
+      },
+      {
+        "id": 4,
+        "texto": "de Responsabilidade Fiscal."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 633,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Ele é o principal instrumento de planejamento orçamentário de médio prazo do ente federativo. Ele define as metas, os objetivos e as diretrizes da administração pública, contemplando os investimentos e daquelas relativas aos programas de duração continuada. Ele é estabelecido por lei, com vigência de quatro anos. Inicia-se no segundo ano de mandato do chefe do poder executivo e se prolonga até o final do primeiro ano do mandato de seu sucessor. O texto refere-se",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "ao Plano Plurianual (PPA)."
+      },
+      {
+        "id": 2,
+        "texto": "à Lei de Diretrizes Orçamentárias (LDO)."
+      },
+      {
+        "id": 3,
+        "texto": "à Lei Orçamentária Anual (LOA)."
+      },
+      {
+        "id": 4,
+        "texto": "ao Planejamento Estratégico (PE)."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 634,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O sistema composto por mecanismos e princípios que as instituições possuem para auxiliar a tomada de decisões e para administrar as relações com a sociedade, alinhado às boas práticas de gestão e às normas éticas recebe o nome de",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "accountability."
+      },
+      {
+        "id": 2,
+        "texto": "governança."
+      },
+      {
+        "id": 3,
+        "texto": "licitação."
+      },
+      {
+        "id": 4,
+        "texto": "contrato."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 635,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir.\n\n\"… basicamente compreende o controle político e o financeiro. O controle político aprecia se as decisões administrativas atendem aos aspectos legais e de oportunidade e conveniência diante do interesse público. O controle financeiro é exercido com auxílio do Tribunal de Contas que implementa fiscalizações contábeis, financeiras, orçamentárias, patrimoniais e operacionais\".\nDisponível em: <https://portal.tcu.gov.br/biblioteca-digital/controles-naadministracao-publica.htm>. Acesso em: 18 dez. 2023.\n\nO texto refere-se ao controle",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "administrativo."
+      },
+      {
+        "id": 2,
+        "texto": "judicial."
+      },
+      {
+        "id": 3,
+        "texto": "legislativo."
+      },
+      {
+        "id": 4,
+        "texto": "social."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 636,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O controle concomitante é aquele que",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "sujeita o futuro ato administrativo à autorização ou aprovação prévia, visando impedir que seja praticado ato ilegal ou contrário ao interesse público."
+      },
+      {
+        "id": 2,
+        "texto": "revê os atos já praticados, para corrigi-los, desfazê-los ou apenas confirmá-los. Abrange atos como os de aprovação, homologação, anulação, revogação, convalidação."
+      },
+      {
+        "id": 3,
+        "texto": "acompanha a atuação administrativa quando o ato administrativo é executado como o procedimento licitatório e a execução orçamentária da despesa."
+      },
+      {
+        "id": 4,
+        "texto": "dispensa a atuação dos órgãos de controle, liberando a administração para agir sem acompanhamento algum."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 637,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "As Normas Brasileiras de Auditoria do Setor Público (NBASP), emitidas pelo Instituto Rui Barbosa (IRB), do qual são membros os tribunais de contas brasileiros, têm como objetivo promover uma auditoria independente e eficaz e apoiar os tribunais de contas no desempenho de suas atribuições constitucionais e legais. Segundo essas normas, os serviços de auditoria interna são",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "realizados pelo poder judiciário, em relação aos órgãos públicos."
+      },
+      {
+        "id": 2,
+        "texto": "realizados pelos tribunais de contas dos estados e municípios."
+      },
+      {
+        "id": 3,
+        "texto": "contratados junto à iniciativa privada para atuarem nas instituições a serem auditadas."
+      },
+      {
+        "id": 4,
+        "texto": "estabelecidos dentro dos órgãos e instituições governamentais."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 638,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Transparência Ativa, de acordo com a Lei Estadual nº 18.025/2013, significa que",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "os órgãos públicos deverão responder aos pedidos de informação formulados por qualquer pessoa natural ou jurídica."
+      },
+      {
+        "id": 2,
+        "texto": "os órgãos e as entidades da administração estadual deverão promover a divulgação de informações públicas de interesse coletivo ou geral, independente de provocação."
+      },
+      {
+        "id": 3,
+        "texto": "os pedidos de acesso a informações, qualquer que seja a forma de requisição, serão registrados conforme regulamento editado por ato do Chefe do Poder Executivo."
+      },
+      {
+        "id": 4,
+        "texto": "os órgãos públicos não poderão revelar a remuneração e o subsídio recebidos por ocupantes de cargo, emprego ou função."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 639,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o caso a seguir.\n\nAo analisar previamente um edital de licitação, o servidor da área de controle interno identificou um detalhe do objeto que restringia a participação de muitos fornecedores e possivelmente direcionaria a contratação para determinado fornecedor.\n\nO caso apresentado é um exemplo de auditoria",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "de conformidade."
+      },
+      {
+        "id": 2,
+        "texto": "financeira."
+      },
+      {
+        "id": 3,
+        "texto": "operacional."
+      },
+      {
+        "id": 4,
+        "texto": "de pessoas."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 640,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "\n<center><strong>Fernanda Torres ganha Globo de Ouro de Melhor Atriz</strong></center>\n<center>Ela é a primeira brasileira a receber a estatueta, considerada uma prévia do Oscar. 'Ainda estou aqui' concorria a Melhor Filme de Língua Estrangeira, que premiou 'Emília Pérez'</center>\n\nA brasileira Fernanda Torres levou, neste domingo (05/01/25), o Globo de Ouro de Melhor Atriz por sua atuação em \"Ainda estou aqui\". Com isso, ela se tornou a primeira brasileira a faturar a estatueta que é considerada uma prévia do Oscar, o principal prêmio da indústria do cinema.\nTorres dedicou o prêmio à sua mãe, Fernanda Montenegro, que concorreu na mesma categoria em 1999 por sua atuação em \"Central do Brasil\".\n- \"Isso é uma prova que a arte pode resistir através da vida\" - Fernanda Torres em discurso ao receber o Globo de Ouro de melhor atriz neste domingo (5).\n\"Ainda estou aqui\", dirigido por Walter Salles, concorria ao prêmio de Melhor Filme de Língua Estrangeira, que acabou vencido pelo musical \"Emília Pérez\". A produção francesa, ambientada no México, tem sido criticada por abordar a cultura mexicana e mulheres transgênero de maneira estereotipada.\nO longa brasileiro se baseia no livro de mesmo nome de Marcelo Rubens Paiva e conta a história de Eunice Paiva, mãe do escritor, interpretada por Fernanda Torres, em busca do paradeiro de seu marido, Rubens Paiva, ex-deputado federal sequestrado, torturado e morto por agentes da ditadura militar em 1971.\n\"Ainda estou aqui\" já levou mais de 3 milhões de pessoas aos cinemas e é a maior bilheteria brasileira do pós-pandemia. O filme recebeu o prêmio de Melhor Roteiro no Festival de Veneza e é o candidato brasileiro ao Oscar. Fernanda Torres também é cotada a disputar a estatueta. Os indicados serão conhecidos em 17 de janeiro, como registrou o jornal O Globo.\nDisponível em: <https://www.nexojornal.com.br/extra/2025/01/06/fernandatorres-globo-de-ouro>. Acesso em: 11 jan. 2025. [Adaptado].\n\nO Texto nos fala sobre o reconhecimento à equipe do filme brasileiro \"Ainda estou aqui\" numa premiação internacional, mostrando a repercussão desse longa-metragem fora do país. O gênero textual nele representado mostra sua relevância social por",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "retratar a trajetória do diretor brasileiro Walter Salles desde o lançamento do filme \"Central do Brasil\" até sua premiação como melhor diretor em 2025."
+      },
+      {
+        "id": 2,
+        "texto": "relatar o alcance da produção cinematográfica brasileira, que, com esse filme, aborda um tema de importância histórica para o país, a ditadura militar."
+      },
+      {
+        "id": 3,
+        "texto": "argumentar a favor da ampliação do público dos cinemas brasileiros, que teve um crescimento no período pós-pandemia."
+      },
+      {
+        "id": 4,
+        "texto": "criticar a produção cinematográfica francesa pelo lançamento do filme \"Emília Pérez\", que ganhou o Globo de Ouro de Melhor Filme."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 641,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Em \"Torres dedicou o prêmio à sua mãe, Fernanda Montenegro [...]\", a regência do verbo \"dedicar\" justifica-se pela sua transitividade. Tem-se o mesmo caso de regência verbal na frase",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "\"Eu dei o pacote ao meu irmão.\""
+      },
+      {
+        "id": 2,
+        "texto": "\"Ela precisa de ajuda.\""
+      },
+      {
+        "id": 3,
+        "texto": "\"Eu ouvi a notícia no rádio.\""
+      },
+      {
+        "id": 4,
+        "texto": "\"Ele encontrou o livro perdido.\""
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 642,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Na frase \"´Ainda estou aqui´ já levou mais de 3 milhões de pessoas aos cinemas e é a maior bilheteria brasileira do pós-pandemia.\", a coordenação entre orações revela o sucesso do filme de Fernanda Torres por",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "comparar a quantidade de pessoas que já assistiram ao filme com a bilheteria brasileira do pós-pandemia."
+      },
+      {
+        "id": 2,
+        "texto": "contradizer a informação sobre o público do filme com a informação sobre a bilheteria brasileira do pós-pandemia."
+      },
+      {
+        "id": 3,
+        "texto": "contrapor duas informações sobre a bilheteria do filme."
+      },
+      {
+        "id": 4,
+        "texto": "justapor duas informações sobre o público que já assistiu ao filme."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 643,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A tirinha retrata o personagem Guru, criado pelo artista brasiliense Pedro Sangeon, que aborda, em suas ilustrações, temas relacionados à meditação, yoga, espiritualidade, entre outros. Pelo humor, a tirinha explora",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a passividade do personagem, que se deixa levar pelos pensamentos repetitivos."
+      },
+      {
+        "id": 2,
+        "texto": "a transitoriedade dos pensamentos, que tomam a mente, mas se vão em seguida."
+      },
+      {
+        "id": 3,
+        "texto": "o desconforto do personagem pelos pensamentos aleatórios que lhe tomam a mente."
+      },
+      {
+        "id": 4,
+        "texto": "o desencontro dos pensamentos, que se tornam confusos na mente do personagem."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 644,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Nas falas de Guru, \"Oi, pensamento\" e \"Tchau, pensamento\", emprega-se a vírgula pois o",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "aposto deve ser isolado por vírgula."
+      },
+      {
+        "id": 2,
+        "texto": "adjunto adnominal prescinde de vírgula."
+      },
+      {
+        "id": 3,
+        "texto": "vocativo vem normalmente isolado por vírgula."
+      },
+      {
+        "id": 4,
+        "texto": "objeto direto vem usualmente isolado por vírgula."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 645,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Rael abriu os olhos lentamente, o sol que entrava pelas frestas das tábuas irritava seus olhos. Levantou e foi até a cozinha, onde a mãe estava preparando o café. Ela lhe perguntou algo, mas ele não ouviu direito e foi para o banheiro lavar o rosto.\n[...]\n– Fio, estão chamando lá fora, acho que é o Will – disse sua mãe.\nRael se dirigiu ao portão e avistou Will e Dida, dois amigos que havia muito não encontrava.\n– E aí, manos! Que saudade, por onde vocês tavam, hein?\n– Rael, meu truta! Nós tava em Paraisópolis. Eu e o Dida tivemos que ir pra lá por causa do nosso pai, arrumou uma treta aqui.\n– É, isso eu fiquei sabendo, mas vocês podiam avisar, pô! Todo mundo ficou preocupado, não sabiam nem o que tinha acontecido com vocês.\n– Só! Mas o importante é que nós voltamos e vamos visitar todos os manos, tá ligado?\nFERRÉZ. Capão pecado. São Paulo: Planeta, 2016.\n\nO Texto é um trecho de Capão pecado, livro escrito por Ferréz, autor conhecido por narrar episódios da vida dos moradores da periferia de São Paulo. No diálogo transcrito entre Rael, Will e Dida, é possível identificar qual fenômeno linguístico?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Variação linguística sociocultural."
+      },
+      {
+        "id": 2,
+        "texto": "Variação linguística histórica."
+      },
+      {
+        "id": 3,
+        "texto": "Sinestesia."
+      },
+      {
+        "id": 4,
+        "texto": "Metáfora."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 646,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Mantém-se a correção gramatical, com relação aos princípios de concordância verbal e nominal, no trecho reescrito:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Rael abriu os olhos lentamente, o sol que entrava pelas frestas das tábuas irritavam seus olhos."
+      },
+      {
+        "id": 2,
+        "texto": "Rael abriu os olhos lentamente, o sol que entrava pelas fresta das tábuas irritava seus olhos."
+      },
+      {
+        "id": 3,
+        "texto": "Rael e sua mãe se dirigiram ao portão e avistaram Will e Dida, dois amigos que havia muito não encontrava."
+      },
+      {
+        "id": 4,
+        "texto": "Rael e sua mãe se dirigiram ao portão e avistaram Will e Dida, dois amigos que havia muito não encontravam."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 647,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "No trecho \"Ela lhe perguntou algo, mas ele não ouviu direito e foi para o banheiro lavar o rosto.\", temos um exemplo de colocação pronominal do tipo",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "inicial."
+      },
+      {
+        "id": 2,
+        "texto": "final."
+      },
+      {
+        "id": 3,
+        "texto": "próclise."
+      },
+      {
+        "id": 4,
+        "texto": "ênclise."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 648,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "\n<center><strong>A vida presta, e muito!</strong></center>\n<center>Quem resiste e enfrenta a violência no cotidiano são as mulheres e mães</center>\n<div style=\"text-align: right;\">Vivian Mesquita, Colunista ICL</div>\nFernandinha Torres, uau!\nA alegria que tomou o Brasil ao celebrar o Globo de Ouro da atriz se compara à Copa do Mundo de Futebol, final do Brasileirão e à medalha de ouro nos Jogos Olímpicos. A arte brasileira presta, e muito!\nMais de 3 milhões de pessoas assistiram, até janeiro, ao filme que consagrou Fernanda Torres como melhor atriz em filme dramático na premiação. \"Ainda estou aqui\" é uma obra extraordinária do cinema nacional. Narra um dos episódios mais tristes da ditadura no Brasil e é também um retrato da resistência feminina.\nEm entrevista esta semana ao N2, a filha mais velha do casal Eunice e Rubens Paiva, Vera Paiva, lembra que quem resiste e enfrenta a violência no cotidiano são as mães. As mães da Praça de Maio, na Argentina, as Mães de Maio, de Acari, e de Paraisópolis, no Brasil.\n\"Minha mãe segurou firme como mãe e como mulher e o Marcelo (Paiva, irmão de Vera) fez uma homenagem justa para as mulheres latino-americanas, que é quem segura essa onda, quem de fato refaz o traçado para manter a família junta e a resistência do cotidiano a essa violência do Estado\", disse Vera Paiva.\nAs Mães da Praça de Maio a que Vera se refere foi o movimento que começou em 1977, na Argentina, quando 14 mulheres se reuniram na Praça de Maio, em Buenos Aires, para protestar pela falta de informações sobre seus filhos desaparecidos na ditadura do regime militar. As mulheres vestiam lenços brancos na cabeça e três delas chegaram a desaparecer, perseguidas pelo regime.\nNo Brasil, o movimento das Mães de Maio representa as vítimas do massacre que tirou a vida de centenas de civis em São Paulo — a maioria sem passagem pela polícia –, numa ação da polícia em retaliação a um ataque a policiais feito pelo PCC em 2006.\nAté hoje não se sabe ao certo o número exato de mortos na operação.\nO movimento Mães de Acari completou 34 anos em 2024. Ele representa a luta de mães e familiares dos 11 adolescentes executados por um grupo de extermínio composto por policiais militares de Magé, na Baixada Fluminense, no Rio de Janeiro.\nJá o massacre de Paraisópolis completou cinco anos em primeiro de dezembro do ano passado, sem a definição de uma pena para os responsáveis pela morte de 9 jovens.\n[...]\nQuando eu revejo a cena da atriz britânica Tilda Swinton aplaudindo de pé e celebrando a vitória de Fernanda Torres na mesma categoria em que ela também estava disputando o prêmio, eu penso que sim, a vida ainda vale a pena para nós, mulheres.\nDisponível em: <https://iclnoticias.com.br/a-vida-presta-e-muito/>. Acesso em: 12 jan. 2025.\n\nO Texto é um artigo de opinião redigido pela jornalista Vivian Mesquita sobre o Globo de Ouro recebido pela atriz Fernanda Torres. Para reforçar a sua opinião de que quem resiste e enfrenta a violência no cotidiano são as mulheres e mães, anunciada no subtítulo do texto, a jornalista faz uso de",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "comparações entre as formas de extermínio de pessoas ocorridas na Argentina e no Brasil."
+      },
+      {
+        "id": 2,
+        "texto": "citações de eventos em que mães se manifestaram em protesto à morte ou desaparecimento de seus filhos."
+      },
+      {
+        "id": 3,
+        "texto": "inferências sobre a alegria que tomou o Brasil ao celebrar a premiação recebida pela atriz."
+      },
+      {
+        "id": 4,
+        "texto": "pressuposições a respeito do motivo pelo qual Tilda Swinton celebrou a vitória de Fernanda Torres."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 649,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Na frase \"Mais de 3 milhões de pessoas assistiram, até janeiro, ao filme que consagrou Fernanda Torres como melhor atriz em filme dramático na premiação.\", observa-se a regência correta, de acordo com a norma padrão, do verbo \"assistir\". A regência verbal está corretamente empregada porque \"assistir\", no sentido de ver, observar, testemunhar é um verbo",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "transitivo indireto."
+      },
+      {
+        "id": 2,
+        "texto": "transitivo direto."
+      },
+      {
+        "id": 3,
+        "texto": "intransitivo."
+      },
+      {
+        "id": 4,
+        "texto": "bitransitivo."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 650,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "No Windows 10, uma funcionalidade essencial da interface gráfica é a utilização de atalhos de teclado para aumentar a eficiência do usuário. Qual atalho é utilizado para abrir o Gerenciador de Tarefas diretamente?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Ctrl + Alt + Del."
+      },
+      {
+        "id": 2,
+        "texto": "Ctrl + Shift + Esc."
+      },
+      {
+        "id": 3,
+        "texto": "Alt + Tab."
+      },
+      {
+        "id": 4,
+        "texto": "Windows + Tab."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 651,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Durante a pesquisa de arquivos no Windows, um usuário deseja localizar um documento de texto criado recentemente, mas não se lembra do nome. Qual filtro de pesquisa ele deve usar para restringir os resultados pelo tipo de arquivo desejado?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "*.mp3"
+      },
+      {
+        "id": 2,
+        "texto": "*.mp4"
+      },
+      {
+        "id": 3,
+        "texto": "*.txt"
+      },
+      {
+        "id": 4,
+        "texto": "*.jpg"
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 652,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "No aplicativo Bloco de Notas, disponível no Windows, qual funcionalidade permite localizar rapidamente uma palavra ou expressão em um texto?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Ctrl + H."
+      },
+      {
+        "id": 2,
+        "texto": "Ctrl + F."
+      },
+      {
+        "id": 3,
+        "texto": "Ctrl + A."
+      },
+      {
+        "id": 4,
+        "texto": "F7."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 653,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Qual procedimento de backup no Windows oferece maior proteção contra perda de dados ao permitir a restauração completa do sistema?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Backup de Arquivos."
+      },
+      {
+        "id": 2,
+        "texto": "Restauração do Sistema."
+      },
+      {
+        "id": 3,
+        "texto": "Backup e Restauração."
+      },
+      {
+        "id": 4,
+        "texto": "Histórico de Arquivos."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 654,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "No PowerPoint, para aplicar um efeito de transição em um slide, o usuário deve",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "selecionar o slide desejado, acessar a guia \"Transições\" e escolher um efeito."
+      },
+      {
+        "id": 2,
+        "texto": "selecionar o slide desejado, acessar a guia \"Inserir\" e escolher um efeito."
+      },
+      {
+        "id": 3,
+        "texto": "acessar a guia \"Exibição\" e habilitar as transições para todos os slides."
+      },
+      {
+        "id": 4,
+        "texto": "clicar com o botão direito no slide e escolher \"Animar Transições\"."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 655,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o caso a seguir.\n\nO agente público J. foi condenado por beneficiar um amigo em concurso público realizado pelo município C., ao dar acesso a informações privilegiadas de que tinha conhecimento em virtude de seu cargo.\n\nNessa situação hipotética, J. praticou",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "ato de improbidade atentatório aos princípios da administração pública."
+      },
+      {
+        "id": 2,
+        "texto": "ato de improbidade que causou prejuízo ao erário, em virtude da anulação do concurso."
+      },
+      {
+        "id": 3,
+        "texto": "ato de improbidade que importou em enriquecimento ilícito do terceiro beneficiado."
+      },
+      {
+        "id": 4,
+        "texto": "ato de improbidade administrativa de natureza cível acrescido de efeitos criminais."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 656,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "No Brasil, a garantia do direito fundamental de acesso à informação se dá mediante",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "disponibilização de instalação física ou sítio eletrônico de serviço de informações ao cidadão."
+      },
+      {
+        "id": 2,
+        "texto": "divulgação de informações de interesse público, mediante solicitação."
+      },
+      {
+        "id": 3,
+        "texto": "punição do agente público ou militar que divulgar ou permitir acesso indevido a informação pessoal."
+      },
+      {
+        "id": 4,
+        "texto": "proteção da informação sigilosa, entendida como aquela relacionada à pessoa natural identificada."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 657,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir.\n\nA gestão das políticas sociais brasileiras é historicamente atravessada por características tais como: centralização, seletividade e autoritarismo, sobretudo durante as ditaduras civis/empresariais e/ou militares.\nRIZZOTTI, Maria Luiza Amaral. PAULA, Renato Francisco dos Santos. Gestão pública e gestão social no Brasil: uma história de caminhos, descaminhos e esperanças. In: PAULA, Renato Francisco dos Santos (org.). Gestão social e planejamento público: temas de políticas públicas. Curitiba: CRV, 2018. p. 85.\n\nEm contraposição às características das políticas sociais apontadas, a Constituição brasileira de 1988",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "manteve uma estrutura organizacional centralizada em sistemas únicos, embora de viés democrático."
+      },
+      {
+        "id": 2,
+        "texto": "estabeleceu políticas sociais de cobertura universal e de gestão descentralizada."
+      },
+      {
+        "id": 3,
+        "texto": "manteve um sistema de políticas sociais seletivo em sua cobertura e atendimento."
+      },
+      {
+        "id": 4,
+        "texto": "estabeleceu uma estrutura de gestão descentralizada, porém sem mecanismos de participação social."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 658,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O processo administrativo pode ser entendido como um conjunto de atos coordenados que visam preparar uma decisão final da administração pública. A Lei nº 9.784/1999 disciplina o processo administrativo no âmbito da administração federal, prevendo sua aplicabilidade",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "própria à administração direta e supletiva à administração indireta autárquica e fundacional."
+      },
+      {
+        "id": 2,
+        "texto": "aos órgãos dos Poderes Legislativo e Judiciário da União, quando no desempenho de função administrativa."
+      },
+      {
+        "id": 3,
+        "texto": "aos órgãos do Poder Executivo, cabendo aos demais poderes elaborarem regulamentação própria."
+      },
+      {
+        "id": 4,
+        "texto": "própria aos processos contenciosos e disciplinares, mas subsidiária aos processos graciosos e de expediente."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 659,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Recentes inovações normativas trouxeram para a disciplina dos atos e processos administrativos a ênfase nos princípios de eficiência e segurança jurídica, de que é exemplo o dispositivo que",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "determina a motivação de decisões a partir da contextualização dos fatos ou dos fundamentos jurídicos."
+      },
+      {
+        "id": 2,
+        "texto": "autoriza a autoridade pública a esclarecer aplicação de normas mediante súmulas e enunciados não vinculantes."
+      },
+      {
+        "id": 3,
+        "texto": "torna regra geral a responsabilização do agente público que não supervisiona e fiscaliza seus subordinados adequadamente."
+      },
+      {
+        "id": 4,
+        "texto": "proíbe declarar inválida situação plenamente constituída devido à mudança posterior de orientação geral."
+      }
+    ],
+    "resposta_correta": 5
+  },
+  {
+    "id": 660,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Um agente público, durante uma licitação municipal, resolveu pela contratação de um prestador de serviços utilizando-se apenas de critérios subjetivos. Com base nisso, qual princípio da administração pública foi ferido pela ação do agente?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Parcialidade."
+      },
+      {
+        "id": 2,
+        "texto": "Impersonalidade."
+      },
+      {
+        "id": 3,
+        "texto": "Moralidade."
+      },
+      {
+        "id": 4,
+        "texto": "Eficiência."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 661,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O município X tem uma população de 49.900 habitantes. Caso o Sr. J.S. queira informações relativas à receita, compreendendo lançamento e recebimento de toda a receita das unidades gestoras, inclusive no que se refere a recursos extraordinários, qual é o prazo para solicitação de tais informações?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "4 anos."
+      },
+      {
+        "id": 2,
+        "texto": "3 anos."
+      },
+      {
+        "id": 3,
+        "texto": "2 anos."
+      },
+      {
+        "id": 4,
+        "texto": "1 ano."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 662,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Compete ao Tribunal de Contas dos Municípios (TCM/GO):",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "apreciar e emitir laudo prévio nas contas semestrais de governo prestadas pelo Chefe do Poder Executivo municipal."
+      },
+      {
+        "id": 2,
+        "texto": "exercer exclusivamente a fiscalização contábil, financeira, orçamentária e patrimonial das prefeituras e câmaras municipais e demais entidades instituídas e mantidas pelo Poder Público Municipal."
+      },
+      {
+        "id": 3,
+        "texto": "decidir sobre denúncia que lhe seja encaminhada por qualquer cidadão, partido político, associação ou sindicato, na forma estabelecida neste Regimento Interno."
+      },
+      {
+        "id": 4,
+        "texto": "expedir medida preventiva."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 663,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A prefeitura do município X necessita contratar uma empresa para um serviço de manutenção de veículos automotores, cujo valor é de R$ 110.000,00. O responsável pelo departamento de licitação menciona que a licitação pode ser dispensada, visto que o valor é inferior ao limite estabelecido em lei. Contudo, o assistente de controle interno do município discorda de tal afirmativa, mencionando que o valor ultrapassa o permitido para a dispensa de licitação. Com base nessas informações, quem está correto e por qual motivo?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O responsável pelo departamento de licitação está correto pois a dispensa para veículos automotores é de até 300.000,00."
+      },
+      {
+        "id": 2,
+        "texto": "O responsável pelo departamento de licitação está certo pois a dispensa para veículos automotores é de até 119.812,02."
+      },
+      {
+        "id": 3,
+        "texto": "O assistente de controle interno está correto pois a dispensa para veículos automotores é de até 100.000,00."
+      },
+      {
+        "id": 4,
+        "texto": "O assistente de controle interno está certo pois a dispensa para veículos automotores é de até 50.000,00."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 664,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Qual é a modalidade licitatória utilizada para contratar objeto que envolva inovação tecnológica ou técnica?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Pregão."
+      },
+      {
+        "id": 2,
+        "texto": "Concorrência."
+      },
+      {
+        "id": 3,
+        "texto": "Leilão."
+      },
+      {
+        "id": 4,
+        "texto": "Diálogo competitivo."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 665,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O município X elaborou sua Lei Orçamentária Anual (LOA) para o exercício financeiro de 2025 e incluiu a previsão de receitas e despesas. Durante o processo de execução orçamentária, um gestor municipal decidiu redirecionar recursos originalmente destinados à construção de uma escola para a aquisição de equipamentos médicos, sem alterar formalmente a LOA. Além disso, foi identificado que despesas previstas no orçamento estavam sendo realizadas em 2024, ou seja, antes do início do exercício financeiro correspondente. Diante do exposto, e com base nos princípios orçamentários,",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "as situações estão de acordo com os princípios orçamentários, pois a administração pública pode alterar a destinação de recursos conforme as necessidades do município."
+      },
+      {
+        "id": 2,
+        "texto": "a realização de despesas em 2024 respeita o princípio da unidade, mas o redirecionamento de recursos contraria o princípio do equilíbrio orçamentário."
+      },
+      {
+        "id": 3,
+        "texto": "a violação de princípios orçamentários é considerada inexistente, desde que a alteração seja aprovada pela Câmara Municipal."
+      },
+      {
+        "id": 4,
+        "texto": "o redirecionamento dos recursos viola o princípio da exclusividade, enquanto a execução de despesas em exercício anterior fere o princípio da anualidade."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 666,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "De acordo com a Constituição Federal e a legislação orçamentária, o Plano Plurianual (PPA) da administração pública federal pode",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "incluir as diretrizes, os objetivos e as metas da administração pública federal, sem abranger os demais entes federativos, que possuem seus próprios PPAs."
+      },
+      {
+        "id": 2,
+        "texto": "incluir as diretrizes, os objetivos e as metas de todos os entes federativos, pois deve contemplar a gestão pública em todos os níveis de governo."
+      },
+      {
+        "id": 3,
+        "texto": "incorporar diretrizes e metas de outros entes federativos, desde que haja acordo entre os governantes estaduais e municipais."
+      },
+      {
+        "id": 4,
+        "texto": "abranger todas as diretrizes, objetivos e metas de cada ente federativo, considerando o planejamento nacional."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 667,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "É um princípio geral das Normas Brasileiras de Auditoria do Setor Público – NBASP:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "o planejamento."
+      },
+      {
+        "id": 2,
+        "texto": "a execução."
+      },
+      {
+        "id": 3,
+        "texto": "o controle de qualidade."
+      },
+      {
+        "id": 4,
+        "texto": "o relatório e Monitoramento."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 668,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O tipo de auditoria que analisa os processos e os resultados governamentais em busca da excelência dos serviços públicos é chamado de",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "qualidade."
+      },
+      {
+        "id": 2,
+        "texto": "gestão."
+      },
+      {
+        "id": 3,
+        "texto": "especial."
+      },
+      {
+        "id": 4,
+        "texto": "sistemas."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 669,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Flores de Goiás – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Se a dívida consolidada de um ente da Federação ultrapassar os limites definidos na Lei de Responsabilidade Fiscal (LC nº 101/2000), o percentual excedente deverá ser reconduzido",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "nos dois quadrimestres seguintes, sendo pelo menos um 1/3 no primeiro."
+      },
+      {
+        "id": 2,
+        "texto": "nos dois quadrimestres seguintes, sendo pelo menos um 2/3 no primeiro."
+      },
+      {
+        "id": 3,
+        "texto": "nos três quadrimestres seguintes, sendo pelo menos um 1/4 no primeiro."
+      },
+      {
+        "id": 4,
+        "texto": "nos três quadrimestres seguintes, sendo pelo menos um 1/2 no primeiro."
+      }
+    ],
+    "resposta_correta": 3
   }
 ]
