@@ -8,10 +8,10 @@ const fs = require("fs");
 
 // ============ CONFIGURAÇÃO DA PROVA ============
 const CONFIG = {
-  cargo: "Secretário Auxiliar",
-  nivel: "Fundamental",
-  prova: "Ministério Público de Goiás - Comarca de Quirinópolis",
-  banca: "Não informada",
+  cargo: "Assistente de Controle Interno",
+  nivel: "Médio",
+  prova: "Câmara Municipal de Anápolis – GO",
+  banca: "Instituto Verbena/UFG",
 };
 
 // ============ QUESTÕES ============
@@ -25,12 +25,14 @@ const CONFIG = {
 const QUESTOES_TEXTO = `
 
 
+
 `;
 
 // ============ GABARITO ============
 // Formato: número letra (ex: 15 A)
 // Ou: número espaço número (ex: 15 1)
 const GABARITO_TEXTO = `
+
 
 
 `;
@@ -80,8 +82,8 @@ function parseQuestoes(texto) {
       continue;
     }
 
-    // Alternativa (começa com a), b), etc) - só aceita se ainda não tiver 5
-    const matchAlternativa = linha.match(/^[a-e]\)\s*(.+)/i);
+    // Alternativa: a), b), c) OU (A), (B), (C) - só aceita se ainda não tiver 5
+    const matchAlternativa = linha.match(/^[\(\s]*([a-eA-E])[\)\s]\s*(.+)/);
     if (
       matchAlternativa &&
       questaoAtual &&
@@ -89,7 +91,7 @@ function parseQuestoes(texto) {
     ) {
       questaoAtual.alternativas.push({
         id: alternativaId++,
-        texto: matchAlternativa[1],
+        texto: matchAlternativa[2],
       });
       continue;
     }
@@ -188,9 +190,34 @@ function parseGabarito(texto) {
   const gabarito = {};
   const linhas = texto.trim().split("\n");
 
-  for (let linha of linhas) {
-    linha = linha.trim();
+  let numerosGuardados = null; // Para armazenar linha de números
+
+  for (let i = 0; i < linhas.length; i++) {
+    let linha = linhas[i].trim();
     if (!linha) continue;
+
+    // Formato: linha de números seguida de linha de letras
+    // Ex: "01 02 03 04 05" seguido de "C D D B A"
+    const apenasNumeros = linha.match(/^(\d+(?:\s+\d+)+)$/);
+    if (apenasNumeros) {
+      numerosGuardados = linha.split(/\s+/).map((n) => parseInt(n));
+      continue;
+    }
+
+    // Linha de letras correspondente aos números guardados
+    const apenasLetras = linha.match(/^([A-E](?:\s+[A-E])+)$/i);
+    if (apenasLetras && numerosGuardados) {
+      const letras = linha.split(/\s+/).map((l) => l.toUpperCase());
+      for (
+        let j = 0;
+        j < Math.min(numerosGuardados.length, letras.length);
+        j++
+      ) {
+        gabarito[numerosGuardados[j]] = letras[j].charCodeAt(0) - 64; // A=1, B=2, etc
+      }
+      numerosGuardados = null;
+      continue;
+    }
 
     // Formato múltiplo na mesma linha: 1) B 2) C 3) D
     const matchMultiplo = linha.matchAll(/(\d+)\)\s*([A-E])/gi);

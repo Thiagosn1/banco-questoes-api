@@ -16754,5 +16754,275 @@
       }
     ],
     "resposta_correta": 3
+  },
+  {
+    "id": 590,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia a charge a seguir. O gênero textual charge é marcado pelo caráter humorístico e crítico. Na charge acima, a crítica é construída com base na polissemia de um",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "pronome interrogativo."
+      },
+      {
+        "id": 2,
+        "texto": "substantivo."
+      },
+      {
+        "id": 3,
+        "texto": "adjeto."
+      },
+      {
+        "id": 4,
+        "texto": "advérbio."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 591,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Quem procura a essência de um conto no espaço que fica entre a obra e seu autor comete um erro: é muito melhor procurar não no terreno que fica entre o escritor e sua obra, mas justamente no terreno que fica entre o texto e seu leitor.\nOZ, Amós. De amor e trevas. São Paulo: Cia. das Letras, 2005.\n\nAo tratar sobre a identificação da \"essência de um conto\", o texto refere-se à atividade de leitura. Com base no que Oz (2005) expõe no texto, infere-se que o sentido de um conto",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "é construído na interação entre leitor e obra."
+      },
+      {
+        "id": 2,
+        "texto": "é determinado e configurado pelo autor."
+      },
+      {
+        "id": 3,
+        "texto": "é resultado apenas da atividade subjetiva do leitor."
+      },
+      {
+        "id": 4,
+        "texto": "é definido apenas pelas condições objetivas da obra."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 592,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Quem procura a essência de um conto no espaço que fica entre a obra e seu autor comete um erro: é muito melhor procurar não no terreno que fica entre o escritor e sua obra, mas justamente no terreno que fica entre o texto e seu leitor.\nOZ, Amós. De amor e trevas. São Paulo: Cia. das Letras, 2005.\n\nNa oração \"Quem **procura** a essência de um conto no espaço\", o sujeito da forma verbal destacado classifica-se como",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "desinencial."
+      },
+      {
+        "id": 2,
+        "texto": "indeterminado."
+      },
+      {
+        "id": 3,
+        "texto": "inexistente."
+      },
+      {
+        "id": 4,
+        "texto": "simples."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 593,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "**A lógica do humor**\n\nPiada racista termina com polícia em casa de shows. É engraçado gozar de minorias? Até onde se pode chegar para fazer os outros rirem? Aliás, do que rimos?\nDe um modo geral, achamos graça quando percebemos um choque entre dois códigos de regras ou de contextos, todos consistentes, mas incompatíveis entre si. Um exemplo: \"O masoquista é a pessoa que gosta de um banho frio pelas manhãs e, por isso, toma uma ducha quente\".\nCometo agora a heresia de explicar a piada. Aqui, o fato de o sujeito da anedota ser um masoquista subverte a lógica normal: ele faz o contrário do que gosta, porque gosta de sofrer. É claro que a lógica normal não coexiste com seu reverso, daí a graça da pilhéria. Uma variante no mesmo padrão é: \"O sádico é a pessoa que é gentil com o masoquista\".\nEssa \"gramática\" dá conta da estrutura intelectual das piadas, mas há também dinâmicas emocionais. Kant, na Crítica do juízo, diz que o riso é o resultado da \"súbita transformação de uma expectativa tensa em nada\". Rimos porque nos sentimos aliviados. Torna-se plausível rir de desgraças alheias. Em alemão, há até uma palavra para isso: \"schadenfreude\", que é o sentimento de alegria provocado pelo sofrimento de terceiros. Não necessariamente estamos felizes pelo infortúnio do outro, mas sentimo-nos aliviados com o fato de não sermos nós a vítima.\nMais ou menos na mesma linha vai o filósofo francês Henri Bergson. Em \"O riso\", ele observa que muitas piadas exigem \"uma anestesia momentânea do coração\". Ou seja, pelo menos as partes mais primitivas de nosso eu acham graça em troçar dos outros. Daí os inevitáveis choques entre humor e adequação social.\nComo não podemos dispensar o riso nem o combate à discriminação, o conflito é inevitável. Resta torcer para que seja autolimitado. Não deixaremos de rir de piadas racistas, mas não podemos esquecer que elas colocam um problema moral.\nDisponível em: <https://avaranda.blogspot.com/2012/03/logica-dohumor-helio-schwartsman.html>. Acesso em: 30 nov. 2023.\n\nDe acordo com a estrutura composicional, com os objetivos comunicativos e com sua função social, o texto acima concretiza o gênero textual",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "artigo científico."
+      },
+      {
+        "id": 2,
+        "texto": "artigo de opinião."
+      },
+      {
+        "id": 3,
+        "texto": "manifesto."
+      },
+      {
+        "id": 4,
+        "texto": "resenha."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 594,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "**A lógica do humor**\nPiada racista termina com polícia em casa de shows. É engraçado gozar de minorias? Até onde se pode chegar para fazer os outros rirem? Aliás, do que rimos?\nDe um modo geral, achamos graça quando percebemos um choque entre dois códigos de regras ou de contextos, todos consistentes, mas incompatíveis entre si. Um exemplo: \"O masoquista é a pessoa que gosta de um banho frio pelas manhãs e, por isso, toma uma ducha quente\".\nCometo agora a heresia de explicar a piada. Aqui, o fato de o sujeito da anedota ser um masoquista subverte a lógica normal: ele faz o contrário do que gosta, porque gosta de sofrer. É claro que a lógica normal não coexiste com seu reverso, daí a graça da pilhéria. Uma variante no mesmo padrão é: \"O sádico é a pessoa que é gentil com o masoquista\".\nEssa \"gramática\" dá conta da estrutura intelectual das piadas, mas há também dinâmicas emocionais. Kant, na Crítica do juízo, diz que o riso é o resultado da \"súbita transformação de uma expectativa tensa em nada\". Rimos porque nos sentimos aliviados. Torna-se plausível rir de desgraças alheias. Em alemão, há até uma palavra para isso: \"schadenfreude\", que é o sentimento de alegria provocado pelo sofrimento de terceiros. Não necessariamente estamos felizes pelo infortúnio do outro, mas sentimo-nos aliviados com o fato de não sermos nós a vítima.\nMais ou menos na mesma linha vai o filósofo francês Henri Bergson. Em \"O riso\", ele observa que muitas piadas exigem \"uma anestesia momentânea do coração\". Ou seja, pelo menos as partes mais primitivas de nosso eu acham graça em troçar dos outros. Daí os inevitáveis choques entre humor e adequação social.\nComo não podemos dispensar o riso nem o combate à discriminação, o conflito é inevitável. Resta torcer para que seja autolimitado. Não deixaremos de rir de piadas racistas, mas não podemos esquecer que elas colocam um problema moral.\nDisponível em: <https://avaranda.blogspot.com/2012/03/logica-dohumor-helio-schwartsman.html>. Acesso em: 30 nov. 2023.\n\nNo quarto e no quinto parágrafo, com o objetivo de convencer o interlocutor da validade de suas proposições, o locutor do texto utiliza argumentos de",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "autoridade."
+      },
+      {
+        "id": 2,
+        "texto": "base histórica."
+      },
+      {
+        "id": 3,
+        "texto": "comparação."
+      },
+      {
+        "id": 4,
+        "texto": "exemplificação."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 595,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "**A lógica do humor**\nPiada racista termina com polícia em casa de shows. É engraçado gozar de minorias? Até onde se pode chegar para fazer os outros rirem? Aliás, do que rimos?\nDe um modo geral, achamos graça quando percebemos um choque entre dois códigos de regras ou de contextos, todos consistentes, mas incompatíveis entre si. Um exemplo: \"O masoquista é a pessoa que gosta de um banho frio pelas manhãs e, por isso, toma uma ducha quente\".\nCometo agora a heresia de explicar a piada. Aqui, o fato de o sujeito da anedota ser um masoquista subverte a lógica normal: ele faz o contrário do que gosta, porque gosta de sofrer. É claro **que a lógica normal não coexiste com seu reverso**, daí a graça da pilhéria. Uma variante no mesmo padrão é: \"O sádico é a pessoa que é gentil com o masoquista\".\nEssa \"gramática\" dá conta da estrutura intelectual das piadas, mas há também dinâmicas emocionais. Kant, na Crítica do juízo, diz que o riso é o resultado da \"súbita transformação de uma expectativa tensa em nada\". Rimos porque nos sentimos aliviados. Torna-se plausível rir de desgraças alheias. Em alemão, há até uma palavra para isso: \"schadenfreude\", que é o sentimento de alegria provocado pelo sofrimento de terceiros. Não necessariamente estamos felizes pelo infortúnio do outro, mas sentimo-nos aliviados com o fato de não sermos nós a vítima.\nMais ou menos na mesma linha vai o filósofo francês Henri Bergson. Em \"O riso\", ele observa que muitas piadas exigem \"uma anestesia momentânea do coração\". Ou seja, pelo menos as partes mais primitivas de nosso eu acham graça em troçar dos outros. Daí os inevitáveis choques entre humor e adequação social.\nComo não podemos dispensar o riso nem o combate à discriminação, o conflito é inevitável. Resta torcer para que seja autolimitado. Não deixaremos de rir de piadas racistas, mas não podemos esquecer que elas colocam um problema moral.\nDisponível em: <https://avaranda.blogspot.com/2012/03/logica-dohumor-helio-schwartsman.html>. Acesso em: 30 nov. 2023.\n\nNo período \"É claro **que a lógica normal não coexiste com seu reverso**, daí a graça da pilhéria\", a oração destacada exerce a função sintática de",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "aposto da oração principal."
+      },
+      {
+        "id": 2,
+        "texto": "objeto direto da oração principal."
+      },
+      {
+        "id": 3,
+        "texto": "sujeito da oração principal."
+      },
+      {
+        "id": 4,
+        "texto": "vocativo da oração principal."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 596,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O professor deve ser um guia seguro, muito senhor de sua língua; se outra for a orientação, vamos cair na \"língua brasileira\", refúgio nefasto e confissão nojenta de ignorância do idioma pátrio, recurso vergonhoso de homens de cultura falsa e de falso patriotismo. Como havemos de querer que respeitem a nossa nacionalidade se somos os primeiros a descuidar daquilo que exprime e representa o idioma pátrio?\nALMEIDA, Napoleão Mendes de. Prefácio. Gramática metódica da língua portuguesa. São Paulo: Saraiva, 1999. [Adaptado].\n\nAs afirmações feitas no texto fundamentam-se sobre o pressuposto de que a língua é",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "um conjunto de possibilidades variáveis de seleção e de uso vocabular."
+      },
+      {
+        "id": 2,
+        "texto": "uma forma resultante de processos de dominação e de exclusão."
+      },
+      {
+        "id": 3,
+        "texto": "uma realidade homogênea, imutável e idealizada."
+      },
+      {
+        "id": 4,
+        "texto": "uma realidade heterogênea, em constante transformação."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 597,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O professor deve ser um guia seguro, muito senhor de sua língua; se outra for a orientação, vamos cair na \"língua brasileira\", refúgio nefasto e confissão nojenta de ignorância do idioma pátrio, recurso vergonhoso de homens de cultura falsa e de falso patriotismo. Como havemos de querer que respeitem a nossa nacionalidade se somos os primeiros a descuidar daquilo que exprime e representa o idioma pátrio?\nALMEIDA, Napoleão Mendes de. Prefácio. Gramática metódica da língua portuguesa. São Paulo: Saraiva, 1999. [Adaptado].\n\nNos sintagmas \"de cultura falsa\" e \"de falso patriotismo\", a mudança de posição do adjetivo não altera o sentido por ele assumido. Situação análoga ocorre nos sintagmas",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "amigo velho e velho amigo."
+      },
+      {
+        "id": 2,
+        "texto": "funcionário alto e alto funcionário."
+      },
+      {
+        "id": 3,
+        "texto": "reação certa e certa reação."
+      },
+      {
+        "id": 4,
+        "texto": "relação linda e linda relação."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 598,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "**Dupla dinâmica**\nNo dicionário, a Sociologia está definida como uma ciência que pretende pesquisar e estudar a organização e funcionamento das sociedades humanas e as leis fundamentais que regem as relações sociais. Já a Economia se preocupa em estudar os fenômenos relacionados com a obtenção e a utilização dos recursos materiais necessários a uma população. Embora o campo de estudos de ambas as disciplinas seja parecido, na prática há um abismo separando as duas áreas. Filhas da mesma mãe, a Filosofia, as duas disciplinas vieram ao mundo praticamente na mesma época. Em razão de algumas diferenças, porém, estão sem dialogar entre si há quase três séculos.\nSociologia, ciência & vida.\n\nNo período \"**Embora o campo de estudos de ambas as disciplinas seja parecido**, na prática há um abismo separando as duas áreas\", a oração em destaque apresenta o valor semântico de",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "causa."
+      },
+      {
+        "id": 2,
+        "texto": "concessão."
+      },
+      {
+        "id": 3,
+        "texto": "condição."
+      },
+      {
+        "id": 4,
+        "texto": "consequência."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 599,
+    "cargo": "Assistente de Controle Interno",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Anápolis – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "**Dupla dinâmica**\nNo dicionário, a Sociologia está definida como uma ciência que pretende pesquisar e estudar a organização e funcionamento das sociedades humanas e as leis fundamentais que regem as relações sociais. Já a Economia se preocupa em estudar os fenômenos relacionados com a obtenção e a utilização dos recursos materiais necessários a uma população. Embora o campo de estudos de ambas as disciplinas seja parecido, na prática há um abismo separando as duas áreas. Filhas da mesma mãe, a Filosofia, as duas disciplinas vieram ao mundo praticamente na mesma época. Em razão de algumas diferenças, porém, estão sem dialogar entre si há quase três séculos.\nSociologia, ciência & vida.\n\nNo período \"**Embora o campo de estudos de ambas as disciplinas seja parecido**, na prática há um abismo separando as duas áreas\", a palavra \"ambas\" é importante para o estabelecimento da coesão textual, funcionando morfologicamente como",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "adjeto, com função textual anafórica."
+      },
+      {
+        "id": 2,
+        "texto": "advérbio, com função textual anafórica."
+      },
+      {
+        "id": 3,
+        "texto": "numeral, com função textual anafórica."
+      },
+      {
+        "id": 4,
+        "texto": "pronome, com função textual anafórica."
+      }
+    ],
+    "resposta_correta": 4
   }
 ]
