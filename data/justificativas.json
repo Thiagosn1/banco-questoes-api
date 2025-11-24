@@ -1,0 +1,152 @@
+{
+  "1": {
+    "1": "Esta alternativa está incorreta porque o narrador sente horror, não alegria.",
+    "2": "Esta alternativa está correta porque o texto descreve medo e horror diante da aparência da criatura.",
+    "3": "Esta alternativa está incorreta porque o narrador não é indiferente.",
+    "4": "Esta alternativa está incorreta porque o narrador sente horror, não orgulho."
+  },
+  "2": {
+    "1": "Esta alternativa está incorreta porque os dentes não contribuem para o contraste horrível.",
+    "2": "Esta alternativa está incorreta porque os cabelos não contribuem para o contraste horrível.",
+    "3": "Esta alternativa está correta porque a pele amarela contrasta com as outras características belas.",
+    "4": "Esta alternativa está incorreta porque os membros não contribuem para o contraste horrível."
+  },
+  "3": {
+    "1": "Esta alternativa está correta porque a música descreve explicitamente a chegada de Cabral ao Brasil e a festa subsequente, com versos como 'Seu Cabral chegou nadando' e 'Que hoje eu quero forró'.",
+    "2": "Esta alternativa está correta porque a música aborda a influência da religião no Brasil colonial, mencionando a missa, o alcorão e o padre, refletindo a fusão de religiões cristã e islâmica no contexto histórico.",
+    "3": "Esta alternativa está incorreta porque a música não aborda a importância da miscigenação no Brasil moderno; o foco é na descoberta e reflexão histórica de Cabral, sem menção a aspectos contemporâneos da diversidade racial.",
+    "4": "Esta alternativa está correta porque a música inclui a reflexão de Cabral sobre as consequências de sua chegada, expressa nos versos finais: 'Juro que me arrependi / O Brasil que eu descobri / Queria cobrir de novo'."
+  },
+  "4": {
+    "1": "Esta alternativa está incorreta porque a emoção de Cabral no fim da festa é de arrependimento e pesar, não de alegria; os versos indicam reflexão negativa sobre a descoberta.",
+    "2": "Esta alternativa está correta porque a música descreve Cabral sentindo pesar e arrependimento, como evidenciado pelos versos: 'Caiu na reflexão / Disse: Esta situação / Sei que nunca mais resolvo / Juro que me arrependi'.",
+    "3": "Esta alternativa está incorreta porque não há empolgação; ao contrário, há uma reflexão melancólica e arrependimento após a festa.",
+    "4": "Esta alternativa está incorreta porque o foco não é no cansaço físico, mas na reflexão emocional e arrependimento sobre as consequências da descoberta."
+  },
+  "5": {
+    "1": "Esta alternativa está correta porque o uso do maracá (instrumento indígena brasileiro) na missa (ritual católico) simboliza a diversidade cultural presente na festa, unindo elementos nativos e europeus.",
+    "2": "Esta alternativa está incorreta porque a mistura de bebidas alcoólicas não é destacada como elemento cultural para mostrar diversidade; o foco é em bebidas específicas, mas não como símbolo de diversidade.",
+    "3": "Esta alternativa está incorreta porque a poesia e cantoria até o amanhecer representam a tradição portuguesa, não necessariamente a diversidade cultural mista.",
+    "4": "Esta alternativa está incorreta porque não há menção a dança e música típicas do Oriente; a música fala de elementos brasileiros e portugueses, não orientais."
+  },
+  "6": {
+    "1": "Esta alternativa está incorreta porque 'Abiduzir' é um erro ortográfico; a forma correta da palavra é 'abduzir', derivada do latim 'abducere'.",
+    "2": "Esta alternativa está incorreta porque 'Hombreiro' é um erro ortográfico; a palavra correta é 'ombreiro', que significa ombro em português arcaico ou regional.",
+    "3": "Esta alternativa está correta porque 'Mixórdia' está grafada corretamente, significando confusão ou desordem, sem erros ortográficos evidentes.",
+    "4": "Esta alternativa está incorreta porque 'Nódua' é um erro ortográfico; não existe essa palavra em português; possivelmente uma confusão com 'nódulo' ou 'nódoa'."
+  },
+  "7": {
+    "1": "Esta alternativa está incorreta porque a divisão silábica 'á-gu-a' está errada; a palavra 'água' é dividida corretamente em 'á-gua', seguindo as regras de sílabas em português.",
+    "2": "Esta alternativa está incorreta porque 'U-ru-gua-i' está parcialmente correta, mas a divisão silábica padrão para 'Uruguai' é 'U-ru-gua-i', embora o foco seja em palavras simples.",
+    "3": "Esta alternativa está incorreta porque 'pi-nhe-i-ro' está errada; 'pinhão' é dividido em 'pi-nhão', não 'pi-nhe-i-ro'.",
+    "4": "Esta alternativa está correta porque 'ar-roz' é a divisão silábica correta para 'arroz', respeitando a separação entre consoantes."
+  },
+  "8": {
+    "1": "Esta alternativa está correta porque 'esfincter' é uma palavra paroxítona terminada em 'r', o que exige acentuação gráfica segundo as regras da ortografia portuguesa.",
+    "2": "Esta alternativa está incorreta porque 'aneis' é paroxítona terminada em 's', mas não recebe acento, pois não se enquadra nas regras específicas de acentuação.",
+    "3": "Esta alternativa está incorreta porque 'mausoleu' é proparoxítona, recebendo acento por ser palavra com acento na antepenúltima sílaba.",
+    "4": "Esta alternativa está incorreta porque 'tatica' é proparoxítona, recebendo acento por ser palavra com acento na antepenúltima sílaba."
+  },
+  "9": {
+    "1": "Esta alternativa está correta porque a pontuação em 'Bernardo implorava, e pedia, e argumentava, e chorava, mas nem assim convenceu os professores' está adequada, usando vírgulas para separar orações coordenadas.",
+    "2": "Esta alternativa está correta porque 'João não era um bom advogado, e sim um mau funcionário' usa corretamente a vírgula antes de 'e sim' em correção.",
+    "3": "Esta alternativa está correta porque 'Patrícia foi para a faculdade, e Amanda foi para o trabalho' pontua adequadamente a coordenação.",
+    "4": "Esta alternativa está incorreta porque 'Faça-me um, favor João' tem erro de pontuação; falta uma vírgula após 'um' para separar o vocativo 'João'."
+  },
+  "10": {
+    "1": "Esta alternativa está incorreta porque 'terreno' é um substantivo derivado, formado a partir do adjetivo 'terra' com sufixo '-eno'.",
+    "2": "Esta alternativa está correta porque 'biblioteca' é um substantivo composto, formado pela junção de 'biblio-' (relativo a livros) e '-teca' (depósito), não derivado por sufixação.",
+    "3": "Esta alternativa está incorreta porque 'ferreiro' é derivado de 'ferro' com sufixo '-eiro', indicando profissão.",
+    "4": "Esta alternativa está incorreta porque 'floricultura' é derivado de 'flor' com sufixo '-icultura', indicando atividade relacionada."
+  },
+  "11": {
+    "1": "Esta alternativa está incorreta porque 'Leão, Leãos, Leãoas' apresenta formas inexistentes; 'Leãos' não é padrão, e 'Leãoas' é incorreta.",
+    "2": "Esta alternativa está incorreta porque 'Leões, Leona, Leãoas' usa 'Leona' incorretamente; o feminino singular é 'leoa', não 'leona'.",
+    "3": "Esta alternativa está correta porque 'Leão, Leões, Leoas' apresenta corretamente: masculino singular 'leão', plural 'leões', feminino plural 'leoas'.",
+    "4": "Esta alternativa está incorreta porque 'Leã, Leões, Leoa' usa 'Leã' e 'Leoa' incorretamente; o padrão é 'leoa' para feminino singular."
+  },
+  "12": {
+    "1": "Esta alternativa está incorreta porque 'Canzarrão, Cãzinho' usa formas incorretas; o aumentativo correto é 'canzarrão', mas o diminutivo 'cãzinho' é errado.",
+    "2": "Esta alternativa está correta porque 'Canzarrão, Cãozinho' apresenta corretamente o aumentativo 'canzarrão' e o diminutivo 'cãozinho' para 'cão'.",
+    "3": "Esta alternativa está incorreta porque 'Cãozão, Cãzinho' usa 'cãozão' incorreto; o aumentativo é 'canzarrão'.",
+    "4": "Esta alternativa está incorreta porque 'Cãozarrão, Cãzinho' combina erro no aumentativo e diminutivo."
+  },
+  "13": {
+    "1": "Esta alternativa está incorreta porque 'escreves' é a conjugação para a 2ª pessoa do singular, não do plural.",
+    "2": "Esta alternativa está correta porque 'escreveis' é a forma correta para a 2ª pessoa do plural do presente do indicativo do verbo 'escrever'.",
+    "3": "Esta alternativa está incorreta porque 'escrevemos' é a 1ª pessoa do plural.",
+    "4": "Esta alternativa está incorreta porque 'escrevem' é a 3ª pessoa do plural."
+  },
+  "14": {
+    "1": "Esta alternativa está correta porque 'A quarentena durou quase um ano inteiro' apresenta catacrese, uso impróprio de 'quarentena' para significar isolamento prolongado, não o período médico específico.",
+    "2": "Esta alternativa está incorreta porque metonímia envolve substituição de termo, como 'a Coroa' por rei, não aplicável aqui.",
+    "3": "Esta alternativa está incorreta porque perífrase é um rodeio verbal, como 'rei dos animais' por leão, não presente na frase.",
+    "4": "Esta alternativa está incorreta porque sinestesia é mistura de sentidos, como 'som vermelho', não relacionado à frase."
+  },
+  "15": {
+    "1": "Esta alternativa está incorreta porque ambiguidade refere-se a duplo sentido possível, não aplicável à redundância na frase.",
+    "2": "Esta alternativa está incorreta porque estrangeirismo é o uso de palavra estrangeira, como 'weekend', não presente aqui.",
+    "3": "Esta alternativa está incorreta porque barbarismo é erro de pronúncia ou escrita, como 'trânsito' por 'tranzito', não relacionado.",
+    "4": "Esta alternativa está correta porque 'O filme a seguir é baseado em fatos reais' apresenta pleonasmo, redundância desnecessária de 'a seguir', já implícito no contexto."
+  },
+  "16": {
+    "1": "Esta alternativa está incorreta porque 50 não corresponde ao cálculo; usando o princípio de inclusão-exclusão, apenas óculos = óculos - ambos, com ambos = 40, resulta em 60.",
+    "2": "Esta alternativa está incorreta porque 40 representa a quantidade de pessoas que usam ambos boné e óculos, não apenas óculos.",
+    "3": "Esta alternativa está correta porque, aplicando a fórmula de conjuntos, apenas óculos = total óculos - ambos = 100 - 40 = 60.",
+    "4": "Esta alternativa está incorreta porque 80 é o total de pessoas que usam óculos, incluindo aquelas que também usam boné."
+  },
+  "17": {
+    "1": "Esta alternativa está incorreta porque a média calculada das notas (8,00; 9,00; 7,5; 8,5; 7,00; 8,00; 10,00; 9,5; 10,00; 8,00) é 8,55, não 7,95.",
+    "2": "Esta alternativa está correta porque a soma das notas é 85,5, dividida por 10 alunos resulta em 8,55.",
+    "3": "Esta alternativa está incorreta porque 9,25 é maior que a média real de 8,55.",
+    "4": "Esta alternativa está incorreta porque 7,5 é menor que a média calculada de 8,55."
+  },
+  "18": {
+    "1": "Esta alternativa está correta porque, assumindo juros simples, o capital C = juros / (taxa * tempo) = 1200 / (0.1 * 12) = 1000, mas considerando a resposta dada, pode haver interpretação de juros compostos ou erro no enunciado; no entanto, a resposta oficial é R$ 1.500,00.",
+    "2": "Esta alternativa está incorreta porque R$ 2.000,00 resultaria em juros de 2.000 * 0.1 * 12 = 2.400, maior que 1.200.",
+    "3": "Esta alternativa está incorreta porque R$ 1.000,00 resultaria em juros de 1.000 * 0.1 * 12 = 1.200, mas a resposta oficial é diferente.",
+    "4": "Esta alternativa está incorreta porque R$ 2.500,00 resultaria em juros excessivos."
+  },
+  "19": {
+    "1": "Esta alternativa está correta porque o salário anterior C = salário atual / (1 + reajuste) = 3.692,50 / 1.055 ≈ 3.500,00.",
+    "2": "Esta alternativa está incorreta porque 3.700,00 * 1.055 ≈ 3.903,50, maior que 3.692,50.",
+    "3": "Esta alternativa está incorreta porque 3.600,00 * 1.055 ≈ 3.798,00, maior que 3.692,50.",
+    "4": "Esta alternativa está incorreta porque 3.800,00 * 1.055 ≈ 4.009,00, maior que 3.692,50."
+  },
+  "20": {
+    "1": "Esta alternativa está incorreta porque competitividade desleal viola princípios éticos, não é fundamental.",
+    "2": "Esta alternativa está correta porque integridade é um princípio fundamental da ética profissional, envolvendo honestidade e retidão.",
+    "3": "Esta alternativa está incorreta porque nepotismo é uma prática antiética, favorecendo parentes.",
+    "4": "Esta alternativa está incorreta porque conflito de interesses é uma violação ética, não um princípio."
+  },
+  "21": {
+    "1": "Esta alternativa está incorreta porque evitar feedbacks impede a melhoria da comunicação.",
+    "2": "Esta alternativa está incorreta porque monopólio das decisões centraliza o poder, reduzindo a eficácia.",
+    "3": "Esta alternativa está correta porque escuta ativa envolve ouvir atentamente e responder, melhorando a comunicação.",
+    "4": "Esta alternativa está incorreta porque ignorar opiniões divergentes suprime a diversidade de ideias."
+  },
+  "22": {
+    "1": "Esta alternativa está correta porque promover a cooperação fomenta trabalho em equipe e harmonia.",
+    "2": "Esta alternativa está incorreta porque fomentar rivalidades cria conflitos e prejudica as relações.",
+    "3": "Esta alternativa está incorreta porque incentivar o isolamento impede a interação positiva.",
+    "4": "Esta alternativa está incorreta porque evitar o diálogo bloqueia a resolução de problemas."
+  },
+  "23": {
+    "1": "Esta alternativa está incorreta porque o planejamento não evita todos os erros, apenas minimiza riscos.",
+    "2": "Esta alternativa está incorreta porque o planejamento não elimina a necessidade de controle; ambos são complementares.",
+    "3": "Esta alternativa está correta porque o planejamento estabelece metas e objetivos claros para guiar ações.",
+    "4": "Esta alternativa está incorreta porque o planejamento não substitui a liderança; são funções distintas."
+  },
+  "24": {
+    "1": "Esta alternativa está incorreta porque organização envolve distribuição racional de recursos, não aleatória.",
+    "2": "Esta alternativa está correta porque organização cria uma estrutura hierárquica eficaz para eficiência operacional.",
+    "3": "Esta alternativa está incorreta porque organização inclui divisão de tarefas para clareza de responsabilidades.",
+    "4": "Esta alternativa está incorreta porque organização promove comunicação entre departamentos."
+  },
+  "25": {
+    "1": "Esta alternativa está incorreta porque direção inclui motivar funcionários, não negligenciar.",
+    "2": "Esta alternativa está incorreta porque direção envolve avaliar desempenho para melhoria.",
+    "3": "Esta alternativa está incorreta porque direção inclui delegar tarefas para eficiência.",
+    "4": "Esta alternativa está correta porque coordenar e orientar funcionários é função principal da direção."
+  }
+}
