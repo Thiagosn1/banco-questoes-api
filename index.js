@@ -7,7 +7,6 @@ const path = require("path");
 const DATA_DIR = path.join(__dirname, "data");
 const QUESTOES_JSON_PATH =
   process.env.QUESTOES_JSON_PATH || path.join(DATA_DIR, "questoes.json");
-const JUSTIFICATIVAS_JSON_PATH = path.join(DATA_DIR, "justificativas.json");
 const DB_PATH = process.env.DB_PATH || path.join(DATA_DIR, "questoes.db");
 
 if (!fs.existsSync(DATA_DIR)) {
@@ -43,19 +42,6 @@ function atualizarQuestoesJSON() {
   } catch (error) {
     console.error("Erro ao atualizar questões:", error);
     return [];
-  }
-}
-
-function carregarJustificativas() {
-  try {
-    const justificativas = JSON.parse(
-      fs.readFileSync(JUSTIFICATIVAS_JSON_PATH, "utf8")
-    );
-    console.log("Justificativas carregadas com sucesso");
-    return justificativas;
-  } catch (error) {
-    console.error("Erro ao carregar justificativas:", error);
-    return {};
   }
 }
 
@@ -122,8 +108,6 @@ console.log("=== Carregamento Inicial ===");
 console.log(`Encontradas ${questoesIniciais.length} questões no arquivo JSON`);
 console.log("==========================");
 
-let justificativas = carregarJustificativas();
-
 const db = new sqlite3.Database(DB_PATH, (err) => {
   if (err) {
     console.error("Erro ao conectar ao banco:", err);
@@ -160,17 +144,6 @@ const db = new sqlite3.Database(DB_PATH, (err) => {
           syncQuestoes(db, questoesAtualizadas);
         }
       });
-
-      fs.watch(JUSTIFICATIVAS_JSON_PATH, (eventType) => {
-        if (eventType === "change") {
-          console.log("\n=== Atualização de Justificativas Detectada ===");
-          console.log(
-            "Arquivo justificativas.json modificado, recarregando..."
-          );
-          console.log("===============================================");
-          justificativas = carregarJustificativas();
-        }
-      });
     }
   );
 });
@@ -179,10 +152,8 @@ app.get("/", (req, res) => {
   res.json({
     message: "API de Questões de Concurso",
     endpoints: {
-      "GET /api/questoes":
-        "Lista todas as questões (inclui justificativas se disponíveis)",
-      "GET /api/questoes/:id":
-        "Retorna uma questão específica (inclui justificativas se disponíveis)",
+      "GET /api/questoes": "Lista todas as questões",
+      "GET /api/questoes/:id": "Retorna uma questão específica",
       "POST /api/questoes": "Adiciona uma nova questão",
       "GET /api/status": "Verifica o status da API",
       "GET /api/ping": "Verifica se a API está ativa",
@@ -225,10 +196,6 @@ app.get("/api/questoes", (req, res) => {
         ...row,
         alternativas: JSON.parse(row.alternativas),
       };
-      const just = justificativas[row.id];
-      if (just) {
-        questao.justificativas = just;
-      }
       return questao;
     });
 
@@ -253,10 +220,6 @@ app.get("/api/questoes/:id", (req, res) => {
     }
 
     row.alternativas = JSON.parse(row.alternativas);
-    const just = justificativas[row.id];
-    if (just) {
-      row.justificativas = just;
-    }
     console.log(`Questão ID ${id} encontrada e retornada`);
     res.json(row);
   });
