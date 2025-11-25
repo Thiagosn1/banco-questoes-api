@@ -18914,5 +18914,815 @@
       }
     ],
     "resposta_correta": 3
+  },
+  {
+    "id": 670,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "\n<center><strong>A vida nos tempos do Pix</strong></center> \n\nPedro Tavares e Renata Buono \n\nO Pix completou três anos, período no qual transformou radicalmente o sistema bancário no Brasil. Ao menos 73% dos brasileiros já usaram a ferramenta para transferir ou receber dinheiro. No ano passado, o Pix movimentou quase 11 trilhões de reais, o triplo que os cartões de crédito, débito e pré-pagos. No começo, quase toda transferência era feita de pessoa para pessoa. Com o tempo, no entanto, muitas empresas foram aderindo à nova modalidade, que continua crescendo em ritmo acelerado. Em 2024, o Banco Central vai lançar o Pix Automático, que permitirá agendar pagamentos a empresas, como contas de luz, água e academia. \nDisponível em: <https://piaui.folha.uol.com.br/vida-nos-tempos-do-pix/>. Acesso em: 08 jan. 2024. \n\nEm \"Ao menos 73% dos brasileiros já usaram a ferramenta para transferir ou receber dinheiro\", a concordância verbal relativa no verbo \"usar\" se estabelece ao considerar",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a proximidade do substantivo \"brasileiros\" ao verbo \"usar\", que na frase aparece na forma plural \"usaram\"."
+      },
+      {
+        "id": 2,
+        "texto": "a quantidade descrita na porcentagem, que é indicativa de um número grande de pessoas."
+      },
+      {
+        "id": 3,
+        "texto": "as ações dos verbos \"transferir\" e \"receber\", que constam como mais de uma forma de uso da ferramenta Pix."
+      },
+      {
+        "id": 4,
+        "texto": "a porcentagem numérica e o substantivo \"brasileiros\" no plural simultaneamente, que garantem ao verbo \"usar\" a sua concordância de número na frase."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 671,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "No trecho \"período no qual transformou <strong>radicalmente</strong> o sistema bancário no Brasil\", a palavra em destaque apresenta o mesmo processo de formação de palavras como em",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "voluntariamente."
+      },
+      {
+        "id": 2,
+        "texto": "agente."
+      },
+      {
+        "id": 3,
+        "texto": "ciente."
+      },
+      {
+        "id": 4,
+        "texto": "infelizmente."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 672,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "<center><strong>Cultura do 'melhor aluno' prejudica maioria dos estudantes no Brasil?</strong></center>\n\nLetícia Mori \n\nA educação no Brasil não é pensada para garantir o sucesso de todos os alunos, mas para privilegiar os que são considerados os \"melhores\" estudantes. Essa é a conclusão do pedagogo Ocimar Munhoz Alavarse, professor da Faculdade de Educação da Universidade de São Paulo (USP) e coordenador do Grupo de Estudos e Pesquisas em Avaliação Educacional (Gepave). Ele chama essa postura de \"pensamento olímpico\", porque certos alunos seriam educados para serem os \"campeões\" — como se a educação fosse uma Olimpíada — enquanto as necessidades da maioria dos alunos seriam deixadas de lado. Como consequência, diz Alavarse, os \"melhores alunos\" recebem mais atenção, incentivo e elogios para potencializar seu desenvolvimento, enquanto alunos com mais dificuldades são deixados para trás. \nAlavarse diz que, embora o \"pensamento olímpico\" não faça parte oficialmente de uma política educacional, é algo arraigado e bastante comum no comportamento de muitos professores, diretores, gestores escolares e políticos. \"É claro que nos documentos oficiais ninguém assume uma postura seletiva para a escolarização, mas todo mundo que já esteve em uma sala dos professores sabe que sempre existe o que é considerado o 'bom aluno'\", afirma. \"Sempre existem aqueles que acreditam que a escola é para escolher os melhores\". Um exemplo seria as políticas públicas que premiam professores conforme os bons resultados dos seus alunos, segundo o pesquisador. \n\"É uma ideia totalmente equivocada\", diz ele, \"porque não faz sentido exigir performance dos professores sem fornecer as condições mínimas de trabalho e de estrutura\" [...]. Alavarse diz que um equívoco comum é considerar as avaliações em si a raiz do problema – o que não é o caso, diz ele. A lógica \"olímpica\" para a educação não vem de haver testes, mas da forma como se leem os resultados desses testes, afirma. \"É preciso sim que haja avaliações internas e externas – não para ranquear os alunos ou escolas, mas para entender adequadamente quais as necessidades e podermos definir quais as ações pedagógicas necessárias para garantir o sucesso de todos\", diz ele. \nDisponível em: <https://www.bbc.com/portuguese/articles/c3g2enkn8l3o>. Acesso em: 21 dez. 2023. \n\nA partir da leitura do texto, é possível compreender que",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a \"lógica olímpica\" é essencial para estimular a melhoria dos resultados em avaliações escolares."
+      },
+      {
+        "id": 2,
+        "texto": "a educação brasileira privilegia todos os alunos igualmente, tanto aqueles que apresentam bons desempenhos quanto aqueles que apresentam dificuldades."
+      },
+      {
+        "id": 3,
+        "texto": "a formação educacional no país segue um \"pensamento olímpico\", que prioriza os alunos que são considerados exemplares em detrimento daqueles que não conseguem atingir os resultados esperados."
+      },
+      {
+        "id": 4,
+        "texto": "a \"lógica olímpica\" é um problema que será resolvido somente com a eliminação dos testes no processo educacional brasileiro."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 673,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "No trecho \"certos alunos seriam educados para serem os \"campeões\" — como se a educação fosse uma Olimpíada\", é possível identificar o segmento em destaque como o processo de produção de sentido denominado",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "metáfora."
+      },
+      {
+        "id": 2,
+        "texto": "pressuposto."
+      },
+      {
+        "id": 3,
+        "texto": "comparação."
+      },
+      {
+        "id": 4,
+        "texto": "inferência."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 674,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A regência nominal do substantivo \"danos\" presente na tirinha também ocorre no substantivo",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "natural."
+      },
+      {
+        "id": 2,
+        "texto": "obediente."
+      },
+      {
+        "id": 3,
+        "texto": "luta."
+      },
+      {
+        "id": 4,
+        "texto": "perto."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 675,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Sobre a construção do sentido humorístico da tirinha, o aspecto essencial para seu entendimento é",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a conotação da palavra \"poder\"."
+      },
+      {
+        "id": 2,
+        "texto": "a metáfora na expressão \"trabalho sobre drogas\"."
+      },
+      {
+        "id": 3,
+        "texto": "a metonímia na expressão \"o poder\"."
+      },
+      {
+        "id": 4,
+        "texto": "a ambiguidade da palavra \"drogas\"."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 676,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "\n<center><strong>A cidade que ainda celebra a Saturnália, festa romana milenar que antecedeu o Natal</strong></center>\n\nO festival em homenagem a Saturno, o deus romano da agricultura e da colheita, era uma das celebrações mais populares do antigo império. Originalmente o evento só era celebrado no dia 17 de dezembro, mas sua popularidade fez com que fosse prolongado até 23 de dezembro. Embora os romanos aderissem às regras sociais rígidas e todos tivessem o seu lugar na sociedade, durante a Saturnália, eles se esqueciam dessas regras e até pessoas escravizadas podiam participar e se divertir.\nA celebração envolvia troca de presentes, além de excesso de comida e bebida; tradições que continuaram quando o feriado foi substituído pelo Natal após a queda do Império Romano.\nDisponível em: <https://www.bbc.com/portuguese/articles/cw908nr183xo>. Acesso em: 19 dez. 2023.\n\nA reportagem em questão tem como propósito comunicativo",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "comparar as festividades da Saturnália com o que hoje conhecemos como Natal."
+      },
+      {
+        "id": 2,
+        "texto": "exaltar as diferenças entre o modo como ocorria o festival durante o Império Romano e o modo como ocorrem atualmente na Grã-Bretanha."
+      },
+      {
+        "id": 3,
+        "texto": "caracterizar o festival em sua origem, descrevendo as atividades realizadas e rememorando suas peculiaridades."
+      },
+      {
+        "id": 4,
+        "texto": "narrar os acontecimentos de uma das edições da Saturnália, dando o devido destaque aos personagens como o deus Saturno e as pessoas escravizadas."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 677,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "\n<center><strong>A cidade que ainda celebra a Saturnália, festa romana milenar que antecedeu o Natal</strong></center>\n\nO festival em homenagem a Saturno, o deus romano da agricultura e da colheita, era uma das celebrações mais populares do antigo império. Originalmente o evento só era celebrado no dia 17 de dezembro, mas sua popularidade fez com que fosse prolongado até 23 de dezembro. Embora os romanos aderissem às regras sociais rígidas e todos tivessem o seu lugar na sociedade, durante a Saturnália, eles se esqueciam dessas regras e até pessoas escravizadas podiam participar e se divertir.\nA celebração envolvia troca de presentes, além de excesso de comida e bebida; tradições que continuaram quando o feriado foi substituído pelo Natal após a queda do Império Romano.\nDisponível em: <https://www.bbc.com/portuguese/articles/cw908nr183xo>. Acesso em: 19 dez. 2023.\n\nA partir da leitura do texto, é possível afirmar que a sequência textual predominante é do tipo",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "dialogal."
+      },
+      {
+        "id": 2,
+        "texto": "injutiva."
+      },
+      {
+        "id": 3,
+        "texto": "narrativa."
+      },
+      {
+        "id": 4,
+        "texto": "descritiva."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 678,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "\n<center><strong>Ninguém se cura permanecendo no mesmo ambiente em que adoeceu</strong></center>\n\nMarcel Camargo\n\nNinguém se cura sem cortar a causa do mal, sem se privar do que machuca e contamina sua felicidade, sem evitar ficar junto de quem não faz nada mais do que sofrer. A gente adoece por várias razões, tanto físicas quanto psicológicas. O mesmo se dá com os tipos de doenças: existem males do corpo e males da alma. Mente e corpo são indissociáveis, assim como na Antiguidade já se ensinava, ou seja, temos que cuidar de tudo o que nos constitui, por dentro e por fora. De nada adianta um corpo perfeito habitado por uma alma sucateada, e vice-versa. Infelizmente, é difícil atentarmos para essa necessidade de equilibrarmos o que vem de fora e o que nasce aqui dentro, o que o espelho reflete e o que não, o que fazemos com nosso corpo e o que fazem com nossa alma. O mundo todo supervaloriza as aparências, o que dificulta a atenção que deve ser voltada ao que sentimos, ao que nos faz bem. Sabemos muito bem qual roupa queremos vestir, mas é complicado saber o que acelera o nosso coração.\nTalvez ninguém consiga se livrar da infelicidade que toma conta de si, caso permaneça parado, sem sair do lugar. Aquilo que nos adoece deve ser evitado, seja o vento gelado, seja o tratamento frio do outro. Ser descuidado com a saúde adoece, ser descuidado com os sentimentos também. Práticas saudáveis incluem tanto atividades físicas quanto exercitar o amor próprio. Alimentar o corpo e a alma, sempre.\nNinguém há de ser feliz permanecendo em histórias cujo final não tem chance de ser feliz. Ninguém se cura sem cortar a causa do mal, sem se privar do que machuca e contamina sua felicidade, sem evitar ficar junto de quem não faz nada mais do que sofrer. Ninguém volta a sorrir nos lugares onde sua felicidade foi perdida, roubada, aviltada, negada.\nEntender que as dores e doenças são alertas que nos pedem calma, que nos clamam por um repensar, por um respirar, por sobrevivência, acaba nos encorajando a tomar as atitudes certas, por mais que doam, que entristeçam, que pareçam impossíveis. Nada é impossível, quando ainda há sonhos a serem alcançados e vida dentro da gente. Caso não consigamos cair fora do que nos adoece, então morrerão os sonhos, morrerão os planos, morreremos nós, ainda que com vida. Ainda que por muitos dias. Por anos…\nDisponível em: <https://www.contioutra.com/ninguem-se-cura-permanecendono-mesmo-ambiente-em-que-adoeceu/>. Acesso em: 19 dez. 2023.\n\nConsiderando as características do gênero textual blog, podemos dizer que o texto se assemelha a um texto correspondente",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "ao gênero diário, em que o autor expressa suas posições íntimas e pessoais sobre determinado tema, situação ou pessoas de seu convívio."
+      },
+      {
+        "id": 2,
+        "texto": "ao gênero artigo de opinião, em que o autor defende um ponto de vista a partir de uma perspectiva argumentativa."
+      },
+      {
+        "id": 3,
+        "texto": "ao gênero e-mail, em que o autor disserta sobre questões pessoais ou profissionais a um remetente específico."
+      },
+      {
+        "id": 4,
+        "texto": "ao gênero crítica, em que o autor avalia um determinado assunto de cunho social ou uma manifestação cultural."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 679,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "\n<center><strong>Ninguém se cura permanecendo no mesmo ambiente em que adoeceu</strong></center>\n\nMarcel Camargo\n\nNinguém se cura sem cortar a causa do mal, sem se privar do que machuca e contamina sua felicidade, sem evitar ficar junto de quem não faz nada mais do que sofrer. A gente adoece por várias razões, tanto físicas quanto psicológicas. O mesmo se dá com os tipos de doenças: existem males do corpo e males da alma. Mente e corpo são indissociáveis, assim como na Antiguidade já se ensinava, ou seja, temos que cuidar de tudo o que nos constitui, por dentro e por fora. De nada adianta um corpo perfeito habitado por uma alma sucateada, e vice-versa. Infelizmente, é difícil atentarmos para essa necessidade de equilibrarmos o que vem de fora e o que nasce aqui dentro, o que o espelho reflete e o que não, o que fazemos com nosso corpo e o que fazem com nossa alma. O mundo todo supervaloriza as aparências, o que dificulta a atenção que deve ser voltada ao que sentimos, ao que nos faz bem. Sabemos muito bem qual roupa queremos vestir, mas é complicado saber o que acelera o nosso coração.\nTalvez ninguém consiga se livrar da infelicidade que toma conta de si, caso permaneça parado, sem sair do lugar. Aquilo que nos adoece deve ser evitado, seja o vento gelado, seja o tratamento frio do outro. Ser descuidado com a saúde adoece, ser descuidado com os sentimentos também. Práticas saudáveis incluem tanto atividades físicas quanto exercitar o amor próprio. Alimentar o corpo e a alma, sempre.\nNinguém há de ser feliz permanecendo em histórias cujo final não tem chance de ser feliz. Ninguém se cura sem cortar a causa do mal, sem se privar do que machuca e contamina sua felicidade, sem evitar ficar junto de quem não faz nada mais do que sofrer. Ninguém volta a sorrir nos lugares onde sua felicidade foi perdida, roubada, aviltada, negada.\nEntender que as dores e doenças são alertas que nos pedem calma, que nos clamam por um repensar, por um respirar, por sobrevivência, acaba nos encorajando a tomar as atitudes certas, por mais que doam, que entristeçam, que pareçam impossíveis. Nada é impossível, quando ainda há sonhos a serem alcançados e vida dentro da gente. Caso não consigamos cair fora do que nos adoece, então morrerão os sonhos, morrerão os planos, morreremos nós, ainda que com vida. Ainda que por muitos dias. Por anos…\nDisponível em: <https://www.contioutra.com/ninguem-se-cura-permanecendono-mesmo-ambiente-em-que-adoeceu/>. Acesso em: 19 dez. 2023.\n\nNo trecho \"Caso não consigamos cair fora do que nos adoece, então morrerão os sonhos, morrerão os planos, morreremos nós, ainda que com vida\", considerando os aspectos de coesão e de coerência textuais nos conectivos destacados, podemos considerar que há, respectivamente, os sentidos de",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "causa e consequência."
+      },
+      {
+        "id": 2,
+        "texto": "introdução e conclusão."
+      },
+      {
+        "id": 3,
+        "texto": "adversidade e continuidade."
+      },
+      {
+        "id": 4,
+        "texto": "condição e conclusão."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 680,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Entre os princípios da administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, estão",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "legalidade, impessoalidade, modernidade, pluralidade e eficácia."
+      },
+      {
+        "id": 2,
+        "texto": "legitimidade, impessoalidade, moralidade, publicidade e eficácia."
+      },
+      {
+        "id": 3,
+        "texto": "legalidade, impessoalidade, moralidade, publicidade e eficiência."
+      },
+      {
+        "id": 4,
+        "texto": "legitimidade, impessoalidade, modernidade, pluralidade e eficiência."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 681,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Em se tratando de redação de documentos oficiais, a estrutura do padrão ofício, de acordo com a ordem em que cada elemento aparece no documento oficial, é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "cabeçalho; identificação do expediente; local e data do documento; endereçamento; assunto; texto do documento; fechos para comunicações; identificação do signatário; e numeração das páginas."
+      },
+      {
+        "id": 2,
+        "texto": "cabeçalho; local e data do documento; identificação do expediente; endereçamento; assunto; texto do documento; fechos para comunicações; identificação do signatário; e numeração das páginas."
+      },
+      {
+        "id": 3,
+        "texto": "cabeçalho; endereçamento; identificação do expediente; local e data do documento; assunto; texto do documento; fechos para comunicações; identificação do signatário; e numeração das páginas."
+      },
+      {
+        "id": 4,
+        "texto": "cabeçalho; identificação do expediente; local e data do documento; endereçamento; assunto; texto do documento; identificação do signatário; fechos para comunicações; e numeração das páginas."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 682,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Quanto à fiscalização do Município, os Tribunais de Contas dos Estados ou Tribunais de Contas dos Municípios, onde houver, exercem função de",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "supervisão do Poder Legislativo Municipal, mediante controle interno."
+      },
+      {
+        "id": 2,
+        "texto": "supervisão do Poder Legislativo Municipal, mediante controle externo."
+      },
+      {
+        "id": 3,
+        "texto": "auxílio ao Poder Legislativo Municipal, mediante controle interno."
+      },
+      {
+        "id": 4,
+        "texto": "auxílio ao Poder Legislativo Municipal, mediante controle externo."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 683,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A Lei Orçamentária Anual (LOA) estima as receitas e fixa as despesas do município, com prazo de vigência anual. Essa lei é de iniciativa do",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Órgão de Controle."
+      },
+      {
+        "id": 2,
+        "texto": "Poder Judiciário."
+      },
+      {
+        "id": 3,
+        "texto": "Poder Legislativo."
+      },
+      {
+        "id": 4,
+        "texto": "Poder Executivo."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 684,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Conforme a Lei nº 14.133/2021, que estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios, compra é considerada como",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "atividade ou conjunto de atividades destinadas a obter determinada utilidade, intelectual ou material, de interesse da Administração."
+      },
+      {
+        "id": 2,
+        "texto": "modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto."
+      },
+      {
+        "id": 3,
+        "texto": "aquisição remunerada de bens para fornecimento de uma só vez ou parceladamente, considerada imediata aquela com prazo de entrega de até 30 (trinta) dias da ordem de fornecimento."
+      },
+      {
+        "id": 4,
+        "texto": "contrato cujo objeto é a prestação de serviços, que pode incluir a realização de obras e o fornecimento de bens, com o objetivo de proporcionar economia ao contratante, na forma de redução de despesas correntes, remunerado o contratado com base em percentual da economia gerada."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 685,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O conjunto de práticas de prestação de contas e responsabilidade que representa a vinculação necessária, notadamente na administração de recursos públicos, entre decisões, condutas e competências e seus respectivos responsáveis é conhecido como",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "controle de riscos."
+      },
+      {
+        "id": 2,
+        "texto": "accountability."
+      },
+      {
+        "id": 3,
+        "texto": "mapeamento de processos."
+      },
+      {
+        "id": 4,
+        "texto": "gestão por projetos."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 686,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Em gestão pública, o conjunto de mecanismos de liderança, estratégia e controle posto em prática para avaliar, direcionar e monitorar a gestão, com vistas à condução de políticas públicas e à prestação de serviços de interesse da sociedade é definido como",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "governança."
+      },
+      {
+        "id": 2,
+        "texto": "governabilidade."
+      },
+      {
+        "id": 3,
+        "texto": "planejamento."
+      },
+      {
+        "id": 4,
+        "texto": "transparência."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 687,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "São documentos públicos identificados como correntes aqueles",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "em curso ou que, mesmo sem movimentação, constituam objeto de consultas frequentes."
+      },
+      {
+        "id": 2,
+        "texto": "que, não sendo de uso corrente nos órgãos produtores, por razões de interesse administrativo, aguardam a sua eliminação."
+      },
+      {
+        "id": 3,
+        "texto": "que, não sendo de uso corrente nos órgãos produtores, por razões de interesse administrativo, aguardam o recolhimento para guarda permanente."
+      },
+      {
+        "id": 4,
+        "texto": "de valor histórico, probatório e informativo que devem ser definitivamente preservados."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 688,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Comunicação é a troca de informações entre pessoas. Nas organizações, a comunicação vertical é aquela que ocorre entre níveis hierárquicos diferentes. Há dois sentidos de fluxos na comunicação vertical. São eles",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "multidirecional e horizontal."
+      },
+      {
+        "id": 2,
+        "texto": "ascendente e descendente."
+      },
+      {
+        "id": 3,
+        "texto": "lateral e transversal."
+      },
+      {
+        "id": 4,
+        "texto": "colateral e circular."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 689,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Inhumas – GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Em organizações, a comunicação deve ser formal. A comunicação formal é a quela que ocorre",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "entre os gestores, em paralelo à comunicação oficial."
+      },
+      {
+        "id": 2,
+        "texto": "envolvendo as conversas entre líderes e liderados ou entre colegas em caráter não oficial, não sistemático."
+      },
+      {
+        "id": 3,
+        "texto": "extraoficialmente, por meio de rede de rumores."
+      },
+      {
+        "id": 4,
+        "texto": "em caráter oficial, respeitando os trâmites burocráticos e utilizando os canais instituídos pelas autoridades superiores."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 690,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "<center><strong>Calça larga</strong></center>\n\nGrupo Caverá\n\nSeu calça larga, moço de dezoito anos,\nGaúcho veio largado, de bombacha de dois panos.\n(Seu calça larga, ai, meu bem,\nSeu calça larga, tire par, dance também.)\nÔ calça larga, desencoste da parede,\nVá dançar com aquela moça que tá de vestido verde.\n(Seu calça larga, ai, meu bem,\nSeu calça larga, tire par, dance também.)\n(...)\nDisponível em: <https://www.letras.mus.br/grupo-cavera/calca-larga/>. Acesso em: 26 fev. 2024. [Adaptado].\n\nPelas marcas linguísticas e o vocabulário encontrados na canção folclórica, pode-se inferir que a variação linguística notada é",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "estilística."
+      },
+      {
+        "id": 2,
+        "texto": "histórica."
+      },
+      {
+        "id": 3,
+        "texto": "geográfica."
+      },
+      {
+        "id": 4,
+        "texto": "sociocultural."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 691,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "\n<center><strong>Calça larga</strong></center>\n\nGrupo Caverá\n\nSeu calça larga, moço de dezoito anos,\nGaúcho veio largado, de bombacha de dois panos.\n(Seu calça larga, ai, meu bem,\nSeu calça larga, tire par, dance também.)\nÔ calça larga, desencoste da parede,\nVá dançar com aquela moça que tá de vestido verde.\n(Seu calça larga, ai, meu bem,\nSeu calça larga, tire par, dance também.)\n(...)\nDisponível em: <https://www.letras.mus.br/grupo-cavera/calca-larga/>. Acesso em: 26 fev. 2024. [Adaptado].\n\nO trecho \"Ô calça larga\" está exercendo a função sintática de",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "vocativo."
+      },
+      {
+        "id": 2,
+        "texto": "objeto direto."
+      },
+      {
+        "id": 3,
+        "texto": "aposto."
+      },
+      {
+        "id": 4,
+        "texto": "adjunto adnominal."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 692,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "\n<center><strong>Calça larga</strong></center>\n\nGrupo Caverá\n\nSeu calça larga, moço de dezoito anos,\nGaúcho veio largado, de bombacha de dois panos.\n(Seu calça larga, ai, meu bem,\nSeu calça larga, tire par, dance também.)\nÔ calça larga, desencoste da parede,\nVá dançar com aquela moça que tá de vestido verde.\n(Seu calça larga, ai, meu bem,\nSeu calça larga, tire par, dance também.)\n(...)\nDisponível em: <https://www.letras.mus.br/grupo-cavera/calca-larga/>. Acesso em: 26 fev. 2024. [Adaptado].\n\nA locução \"de dois panos\" tem o mesmo valor de um",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "substantivo."
+      },
+      {
+        "id": 2,
+        "texto": "verbo."
+      },
+      {
+        "id": 3,
+        "texto": "advérbio."
+      },
+      {
+        "id": 4,
+        "texto": "adjetivo."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 693,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "\n<center><strong>Manual: como aproveitar o máximo da sua air fryer</strong></center>\n\n(...)\n\nAir fryers não são fritadeiras, e sim fornos de convecção: o ar quente circula e confere a alguns alimentos a crocância característica de algo fritinho – sem a parte do óleo. Para alcançar um bom resultado, não encha a assadeira: com pequenas porções por vez (e espaçadas entre si), o ar circula melhor e assa uniformemente. Como num forno.\n\n(...)\n\nDisponível em: <https://super.abril.com.br/sociedade/manual-air-fryer>. Acesso em: 27 fev. 2024.\n\nPela leitura do texto, o excerto dado indica que",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "as air fryers são fritadeiras que funcionam por convecção e que são semelhantes a um forno comum."
+      },
+      {
+        "id": 2,
+        "texto": "o ar quente das air fryers deixa alguns alimentos com a textura de algo que foi frito, mas sem o óleo."
+      },
+      {
+        "id": 3,
+        "texto": "os aparelhos em questão conseguem assar melhor os alimentos se estes estiverem menos espaçados."
+      },
+      {
+        "id": 4,
+        "texto": "a crocância de algo frito é possível porque as air fryers inibem a circulação de ar quente entre as porções de alimentos."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 694,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "\n<center><strong>Manual: como aproveitar o máximo da sua air fryer</strong></center>\n\n(...)\n\nAir fryers não são fritadeiras, e sim fornos de convecção: o ar quente circula e confere a alguns alimentos a crocância característica de algo fritinho – sem a parte do óleo. Para alcançar um bom resultado, não encha a assadeira: com pequenas porções por vez (e espaçadas entre si), o ar circula melhor e assa uniformemente. Como num forno.\n\n(...)\n\nDisponível em: <https://super.abril.com.br/sociedade/manual-air-fryer>. Acesso em: 27 fev. 2024.\n\nEm \"Para alcançar um bom resultado, não encha a assadeira: com pequenas porções por vez (...), o ar circula melhor\", há uma instrução, que é característica própria da sequência textual",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "argumentativa."
+      },
+      {
+        "id": 2,
+        "texto": "descritiva."
+      },
+      {
+        "id": 3,
+        "texto": "narrativa."
+      },
+      {
+        "id": 4,
+        "texto": "injutiva."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 695,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Quanto à colocação pronominal, a oração em que há o uso de ênclise é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Deixei-me influenciar por opiniões alheias."
+      },
+      {
+        "id": 2,
+        "texto": "Sair tarde de casa nos causou transtornos."
+      },
+      {
+        "id": 3,
+        "texto": "Fez bem em seguir as dicas que lhe deram."
+      },
+      {
+        "id": 4,
+        "texto": "Ver-se-ia grande progresso se todos colaborassem."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 696,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Em relação aos mecanismos de subordinação, há subordinação adjetiva em:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A chuva foi tanta que o rio da cidade transbordou."
+      },
+      {
+        "id": 2,
+        "texto": "O bolo que preparei ontem acabou rapidamente."
+      },
+      {
+        "id": 3,
+        "texto": "O importante é que saibamos aonde queremos chegar."
+      },
+      {
+        "id": 4,
+        "texto": "A técnica está certa de que tomou a melhor decisão para o time."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 697,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia a frase a seguir.\n\nNós nos divertimos muito. Fomos ao cinema.\n\nElaborado pelo(a) autor(a).\n\nConsiderando os conectores como recursos de coesão para unir os dois períodos dados acima, tais períodos adquirem o sentido de causa em:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Nós nos divertimos muito e fomos ao cinema."
+      },
+      {
+        "id": 2,
+        "texto": "Nós nos divertimos muito, mas fomos ao cinema."
+      },
+      {
+        "id": 3,
+        "texto": "Nós nos divertimos muito porque fomos ao cinema."
+      },
+      {
+        "id": 4,
+        "texto": "Nós nos divertimos muito conforme fomos ao cinema."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 698,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A concordância nominal está adequada em:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Suas faturas foram enviadas anexo no e-mail."
+      },
+      {
+        "id": 2,
+        "texto": "Ela mesmo decidiu elaborar os docinhos da festa."
+      },
+      {
+        "id": 3,
+        "texto": "Todos ficaram meio constrangidos com a situação."
+      },
+      {
+        "id": 4,
+        "texto": "Aquelas despesas já foram inclusa no orçamento."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 699,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O mesmo processo de formação de palavras observado em beija-flor é encontrado em",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "hidrelétrica."
+      },
+      {
+        "id": 2,
+        "texto": "girassol."
+      },
+      {
+        "id": 3,
+        "texto": "somente."
+      },
+      {
+        "id": 4,
+        "texto": "andança."
+      }
+    ],
+    "resposta_correta": 2
   }
 ]
