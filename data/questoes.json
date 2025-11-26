@@ -19725,5 +19725,1058 @@
       }
     ],
     "resposta_correta": 2
+  },
+  {
+    "id": 700,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir.\n\nProcesso de coordenação do trabalho dos membros de uma organização e alocação dos recursos organizacionais para alcançar os objetivos estabelecidos de uma forma eficaz e eficiente.\nSOBRAL, Filipe. PECI, Alketa. Administração: teoria e prática no contexto brasileiro. 2. ed. São Paulo: Pearson Education do Brasil, 2013.\n\nO texto faz referência ao conceito de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "organização."
+      },
+      {
+        "id": 2,
+        "texto": "governança."
+      },
+      {
+        "id": 3,
+        "texto": "administração."
+      },
+      {
+        "id": 4,
+        "texto": "gestão."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 701,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Os princípios legalidade, impessoalidade, moralidade, publicidade e eficiência têm uma relação direta com a gestão de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "armazenamento."
+      },
+      {
+        "id": 2,
+        "texto": "distribuição."
+      },
+      {
+        "id": 3,
+        "texto": "compra."
+      },
+      {
+        "id": 4,
+        "texto": "estoque."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 702,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A comunicação nas organizações ocorre tanto de maneira formal quanto informal. A comunicação informal:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "ocorre por meio de canais corporativos."
+      },
+      {
+        "id": 2,
+        "texto": "tem direção descendente."
+      },
+      {
+        "id": 3,
+        "texto": "é de interesse da organização."
+      },
+      {
+        "id": 4,
+        "texto": "ocorre de forma espontânea."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 703,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Trata-se da lei que define as prioridades do governo pelo período de 4 anos:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "LDO – Lei de Diretrizes Orçamentárias."
+      },
+      {
+        "id": 2,
+        "texto": "LOA – Lei do Orçamento Anual."
+      },
+      {
+        "id": 3,
+        "texto": "PPA – Plano Plurianual."
+      },
+      {
+        "id": 4,
+        "texto": "PPP – Plano de Políticas Públicas."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 704,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "As organizações usam uma forma visual de representação da estrutura organizacional que se chama:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "fluxograma."
+      },
+      {
+        "id": 2,
+        "texto": "organograma."
+      },
+      {
+        "id": 3,
+        "texto": "layout."
+      },
+      {
+        "id": 4,
+        "texto": "tabela."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 705,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A prática administrativa da gestão pública que conduz e coordena as pessoas na execução do trabalho é relacionada à função de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "planejamento."
+      },
+      {
+        "id": 2,
+        "texto": "controle."
+      },
+      {
+        "id": 3,
+        "texto": "direção."
+      },
+      {
+        "id": 4,
+        "texto": "organização."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 706,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir.\n\nTrata-se de processos interativos mediante os quais a sociedade e a economia são dirigidas em favor de objetivos coletivos comuns.\nDisponível em: <https://repositorio.enap.gov.br/bitstream/1/4281/1/5_Livro_Governan%C3%A7a%20Gest%C3%A3o%20de%20Riscos%20e%20Integridade.pdf>. Acesso em: 05 abr. 2024. [Adaptado].\n\nO texto faz referência ao conceito de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "accountability."
+      },
+      {
+        "id": 2,
+        "texto": "governança."
+      },
+      {
+        "id": 3,
+        "texto": "governabilidade."
+      },
+      {
+        "id": 4,
+        "texto": "sustentabilidade."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 707,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A relação entre a gestão por processos e a responsabilidade com a sociedade tem como finalidade promover a prestação de contas de forma que os cidadãos conheçam e compreendam as operações do governo. Essa finalidade está associada aos conceitos de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "qualidade e rapidez."
+      },
+      {
+        "id": 2,
+        "texto": "transparência e accountability."
+      },
+      {
+        "id": 3,
+        "texto": "eficiência e eficácia."
+      },
+      {
+        "id": 4,
+        "texto": "quantidade e efetividade."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 708,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Como é chamada uma série de etapas criadas para produzir um produto ou serviço, incluindo várias funções?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Atividade."
+      },
+      {
+        "id": 2,
+        "texto": "Procedimento."
+      },
+      {
+        "id": 3,
+        "texto": "Tarefa."
+      },
+      {
+        "id": 4,
+        "texto": "Processo."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 709,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Como se chama um esforço temporário com início e fim definidos, para atingir um objetivo específico, apoiado por atividades planejadas, executadas e controladas, utilizando um conjunto de recursos, humanos, materiais e financeiros?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Programa."
+      },
+      {
+        "id": 2,
+        "texto": "Processo."
+      },
+      {
+        "id": 3,
+        "texto": "Plano."
+      },
+      {
+        "id": 4,
+        "texto": "Projeto."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 710,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir.\n\nElemento da administração pública que compreende os projetos, as atividades, as operações especiais e não orçamentárias de um determinado programa.\nBERNARDONI, Doralice Lopes; CRUZ, June A. Westarb. Planejamento e orçamento na administração pública. Curitiba: Ibpex, 2010.\n\nO texto faz referência ao conceito de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "ação."
+      },
+      {
+        "id": 2,
+        "texto": "plano."
+      },
+      {
+        "id": 3,
+        "texto": "processo."
+      },
+      {
+        "id": 4,
+        "texto": "programa."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 711,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir.\n\nProcesso lógico que orienta o comportamento racional na consecução de atividades intencionais voltadas para o futuro. Algo que deve ser definido pelas organizações para que possam traçar um caminho a ser seguido.\nBERNARDONI, Doralice Lopes; CRUZ, June A. Westarb. Planejamento e orçamento na administração pública. Curitiba: Ibpex, 2010.\n\nO texto faz referência ao conceito de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "administração."
+      },
+      {
+        "id": 2,
+        "texto": "organização."
+      },
+      {
+        "id": 3,
+        "texto": "direção."
+      },
+      {
+        "id": 4,
+        "texto": "planejamento."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 712,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O documento utilizado para comunicação interna e externa trocada entre autoridades de hierarquia equivalente ou enviada a alguém de hierarquia superior à daquele que assina é chamado de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "memorando."
+      },
+      {
+        "id": 2,
+        "texto": "carta."
+      },
+      {
+        "id": 3,
+        "texto": "ofício."
+      },
+      {
+        "id": 4,
+        "texto": "comunicado."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 713,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O agrupamento de documentos, de acordo com as funções e atividades do órgão, em classes, subclasses, grupos e subgrupos, em uma ordem hierárquica do geral para o particular é chamado de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "triagem."
+      },
+      {
+        "id": 2,
+        "texto": "registro."
+      },
+      {
+        "id": 3,
+        "texto": "organização."
+      },
+      {
+        "id": 4,
+        "texto": "classificação."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 714,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o caso a seguir.\n\nNo atendimento ao público, um servidor apresenta uma fisionomia serena, utiliza trajes adequados, tem contato visual com o usuário, é simpático e cordial, estabelece o diálogo durante o atendimento.\nDisponível em: <https://www.tcm.ba.gov.br/wpcontent/uploads/2018/12/manual-de-excelencia-no-atendimento-e-boaspraticas-no-servico-publico-3.pdf.>. Acesso em 18 abr. 2024. [Adaptado].\n\nO caso faz referência:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "ao conhecimento da estrutura do órgão."
+      },
+      {
+        "id": 2,
+        "texto": "à adoção de uma postura adequada."
+      },
+      {
+        "id": 3,
+        "texto": "ao uso adequado da linguagem."
+      },
+      {
+        "id": 4,
+        "texto": "à atenção ouvindo o interessado."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 715,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Santo Antônio do Descoberto - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir\n\nÉ um instrumento legal de comprometimento de despesa, antes de ser realizada, o qual a administração pública adota no acompanhamento e controle da execução orçamentária.\nBERNARDONI, Doralice Lopes; CRUZ, June A. Westarb. Planejamento e orçamento na administração pública. Curitiba: Ibpex, 2010.\nO texto se refere:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "à ordem de pagamento."
+      },
+      {
+        "id": 2,
+        "texto": "ao ajuste de receita."
+      },
+      {
+        "id": 3,
+        "texto": "à transferência de recursos."
+      },
+      {
+        "id": 4,
+        "texto": "ao empenho de despesas."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 716,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "\n<center><strong>Chega de saudade</strong></center>\nTom Jobim\n\nVai, minha tristeza\nE diz a ela que sem ela não pode ser\nDiz-lhe, numa prece, que ela regresse\nPorque eu não posso mais sofrer\nChega de saudade\nA realidade é que sem ela não há paz\nNão há beleza, é só tristeza e a melancolia\nQue não sai de mim, não sai de mim, não sai\n\nA interpretação da letra da música aponta para a construção do sentido um eu-lírico que interage com a tristeza como mensageira de seu sentimento pela mulher amada, por meio de uma:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "onomatopeia."
+      },
+      {
+        "id": 2,
+        "texto": "metonímia."
+      },
+      {
+        "id": 3,
+        "texto": "nominalização."
+      },
+      {
+        "id": 4,
+        "texto": "personificação."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 717,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Do ponto de vista gramatical, o trecho \"Vai, minha tristeza\" é composto, respectivamente, por um verbo:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "no infinitivo pessoal e um aposto antecedido por um pronome demonstrativo."
+      },
+      {
+        "id": 2,
+        "texto": "no imperativo afirmativo e um vocativo antecedido por um pronome possessivo."
+      },
+      {
+        "id": 3,
+        "texto": "no futuro do subjuntivo e um adjetivo antecedido por um pronome demonstrativo."
+      },
+      {
+        "id": 4,
+        "texto": "no presente do indicativo e um substantivo antecedido por um pronome possessivo."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 718,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O trecho \"Diz-lhe, numa prece, que ela regresse\" é iniciado por uma colocação pronominal denominada de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "ênclise (obrigatória por se tratar de um texto poético)."
+      },
+      {
+        "id": 2,
+        "texto": "próclise (modo indicado em frases imperativas)."
+      },
+      {
+        "id": 3,
+        "texto": "ênclise (trata-se da forma básica da norma-padrão)."
+      },
+      {
+        "id": 4,
+        "texto": "próclise (facultativa por anteceder uma pontuação)."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 719,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Parônima — diz-se da palavra que tem pronúncia e/ou grafia semelhante à de outra palavra, mas tem significado diferente.\n\nSegundo a gramática normativa, pode-se dizer que são exemplos de parônimas:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "deferir e diferir."
+      },
+      {
+        "id": 2,
+        "texto": "beneficente e beneficiente."
+      },
+      {
+        "id": 3,
+        "texto": "digladiar e degladiar."
+      },
+      {
+        "id": 4,
+        "texto": "despercebido e dispercebido."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 720,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "No trecho \"pronúncia e/ou grafia semelhante à de outra palavra\", aconteceu um fenômeno gramatical denominado de\"crase\", a fusão entre a preposição \"a\" e o artigo definido feminino \"a\". Para demarcar isso, usa-se o acento grave. Tal emprego está correto, porque ocorreu um caso de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "ambiguidade."
+      },
+      {
+        "id": 2,
+        "texto": "catáfora."
+      },
+      {
+        "id": 3,
+        "texto": "polissemia."
+      },
+      {
+        "id": 4,
+        "texto": "elipse."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 721,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Outro fenômeno gramatical correlato às parônimas, e igualmente importante na construção de sentidos apropriados em uma comunicação, é chamado de homônimas, as quais podem ser classificadas em:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "homógrafas (palavras iguais na pronúncia e diferentes na grafia / censo [recenseamento] e senso [juízo]);\n homófonas (palavras iguais na grafia e diferentes na pronúncia / colher [verbo] e colher [substantivo]);\n e perfeitas (palavras iguais na grafia e na pronúncia / caminho [substantivo] e caminho [verbo])."
+      },
+      {
+        "id": 2,
+        "texto": "homógrafas (palavras iguais na grafia e diferentes na pronúncia / jogo [substantivo] e jogo [verbo]);\n homófonas (palavras iguais na pronúncia e diferentes na grafia / concertar [harmonizar] e consertar [reparar]);\n e perfeitas (palavras iguais na grafia e na pronúncia / livre [adjetivo] e livre [verbo])."
+      },
+      {
+        "id": 3,
+        "texto": "homógrafas (palavras iguais na grafia e na pronúncia / caminho [substantivo] e caminho [verbo]);\n homófonas (palavras iguais na grafia e diferentes na pronúncia / denúncia [substantivo] e denuncia [verbo]);\n e perfeitas (palavras iguais na pronúncia e diferentes na grafia / acender [atear] e ascender [subir])."
+      },
+      {
+        "id": 4,
+        "texto": "homógrafas (palavras iguais na pronúncia e diferentes na grafia / voz [substantivo] e vós [pronome]);\n homófonas (palavras iguais na grafia e na pronúncia / são [saudável] e são [verbo ser]);\n e perfeitas (palavras iguais na grafia e diferentes na pronúncia / acerto [substantivo] e acerto [verbo])."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 722,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Se as palavras tivessem sempre um sentido óbvio e único, não haveria literatura, não haveria mal-entendido e controvérsia. Se as palavras tivessem sempre o mesmo sentido e se indicassem diretamente as coisas nomeadas, como seria possível a mentira? É por isso que o poeta Fernando Pessoa, em versos famosos, escreveu:\nO poeta é um fingidor.\nFinge tão completamente\nQue chega a fingir que é dor,\nA dor que deveras sente.\nO poeta é um \"finge-dor\", e seu fingimento — isto é, sua criação artística — é tão profundo e tão constitutivo de seu ser de porta, que ele finge — isto é, transforma em poema, em obra de arte — a dor que deveras ou de verdade sente.\nCHAUI, M. Convite à Filosofia. 12. ed. São Paulo: Ática, 1999, p. 96-97.\n\nA autora do texto está defendendo um ponto de vista, o de que o mundo das palavras não é exato. Para construir sua ideia, são usados tipos de argumento. No trecho em que ela cita o poeta Fernando Pessoa, estamos diante de um argumento:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "de exemplificação, ao apresentar-se uma narrativa poética do cotidiano que exemplifica e vai de encontro ao ponto de vista inicial da autora."
+      },
+      {
+        "id": 2,
+        "texto": "por comparação, pois faz-se um comparativo entre ideias semelhantes, endossando-se a fala do poeta em detrimento da sua própria argumentação."
+      },
+      {
+        "id": 3,
+        "texto": "de autoridade, ao utilizar-se do poema de uma personalidade conceituada para ratificar a sua linha argumentativa."
+      },
+      {
+        "id": 4,
+        "texto": "por raciocínio lógico, uma vez que há uma relação de causa e efeito entre as ideias da autora e do poeta, de tal modo que a primeira retifica a segunda."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 723,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir.\n<center><strong>O sonho</strong></center>\nClarice Lispector\n\nFoi um sonho tão forte que acreditei nele por minutos como uma realidade. Sonhei que aquele dia era Ano-Novo. E quando abri os olhos cheguei a dizer: Feliz Ano-Novo! Não entendo de sonhos. Mas este me parece um profundo desejo de mudança de vida. Não precisa ser feliz sequer. Basta ano novo. E é tão difícil mudar. Às vezes escorre sangue.\n\nTendo em conta as características do texto acima, quanto ao conteúdo temático, ao estilo e à forma composicional, trata-se de um exemplo do gênero textual denominado de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "soneto."
+      },
+      {
+        "id": 2,
+        "texto": "conto."
+      },
+      {
+        "id": 3,
+        "texto": "crônica."
+      },
+      {
+        "id": 4,
+        "texto": "editorial."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 724,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A respeito do tema \"atributos do ato administrativo\", aquele que permite a Administração executar alguns atos direta e imediatamente, dispensando ordem judicial, é o atributo da:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "autoexecutoriedade."
+      },
+      {
+        "id": 2,
+        "texto": "imperatividade."
+      },
+      {
+        "id": 3,
+        "texto": "presunção de veracidade."
+      },
+      {
+        "id": 4,
+        "texto": "tipicidade."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 725,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Sobre os direitos fundamentais, estes são considerados:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "ilimitados."
+      },
+      {
+        "id": 2,
+        "texto": "prescritíveis."
+      },
+      {
+        "id": 3,
+        "texto": "renunciáveis."
+      },
+      {
+        "id": 4,
+        "texto": "universais."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 726,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "De acordo com Constituição Federal, os servidores nomeados para cargo de provimento efetivo em virtude de concurso público são estáveis após três anos de efetivo exercício, sendo exigido(a) para que possam perder o cargo:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a avaliação periódica de desempenho, na forma de lei ordinária."
+      },
+      {
+        "id": 2,
+        "texto": "o processo administrativo em que seja assegurada ampla defesa."
+      },
+      {
+        "id": 3,
+        "texto": "a periódica avaliação funcional, prescindindo de ampla defesa."
+      },
+      {
+        "id": 4,
+        "texto": "a sentença judicial, dispensando-se o trânsito em julgado."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 727,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Nos termos do Decreto nº 9.830/2019, é erro grosseiro do agente público, no exercício de suas funções:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "o duvidoso, quando não há certeza do emprego da técnica."
+      },
+      {
+        "id": 2,
+        "texto": "o manifesto e evidente praticado com culpa, caracterizado por ação."
+      },
+      {
+        "id": 3,
+        "texto": "o que resulta de omissão, independentemente do grau de negligência, imprudência ou imperícia."
+      },
+      {
+        "id": 4,
+        "texto": "o manifesto, evidente e inescusável praticado com culpa grave."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 728,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Segundo a Constituição Federal, os três níveis de governo que integram a estrutura organizacional do Estado no sistema federativo brasileiro são:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Executivo, Legislativo e Judiciário."
+      },
+      {
+        "id": 2,
+        "texto": "Federal, Estadual e Municipal."
+      },
+      {
+        "id": 3,
+        "texto": "União, Estados-Membros e Municípios."
+      },
+      {
+        "id": 4,
+        "texto": "Nacional, Estadual e Local."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 729,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Qual é a finalidade da administração no contexto das organizações, sejam elas públicas ou privadas:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A burocratização de departamentos."
+      },
+      {
+        "id": 2,
+        "texto": "A burocratização de recursos."
+      },
+      {
+        "id": 3,
+        "texto": "O alcance dos objetivos."
+      },
+      {
+        "id": 4,
+        "texto": "O mecanismo do controle."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 730,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir.\n\nSão características desta função: a maleabilidade, possibilitando a introdução de mudanças decorrentes de alterações nos planos e nas ordens, a instantaneidade, acusando o mais depressa possível as faltas e os erros verificados, e a correção, permitindo a reparação das faltas e dos erros evitando-se sua repetição.\n\nO texto refere-se a qual função da administração:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Ao planejamento."
+      },
+      {
+        "id": 2,
+        "texto": "À direção."
+      },
+      {
+        "id": 3,
+        "texto": "À organização."
+      },
+      {
+        "id": 4,
+        "texto": "Ao controle."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 731,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir.\n\nSeu número e estrutura depende do tamanho da organização. Em sua estrutura, via de regra, destacam-se três principais abrangências: 1 - onde está a direção, 2 - onde estão as chefias intermediárias e 3 - onde se localiza a execução das rotinas e processos.\n\nO texto refere-se:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "aos níveis hierárquicos, sendo eles, respectivamente: estratégico, tático e operacional."
+      },
+      {
+        "id": 2,
+        "texto": "aos níveis funcionais, sendo eles, respectivamente: coordenador, supervisor e monitor."
+      },
+      {
+        "id": 3,
+        "texto": "aos níveis organizacionais, sendo eles, respectivamente: divisional, em rede e matricial."
+      },
+      {
+        "id": 4,
+        "texto": "aos níveis de projetos organizacionais, sendo eles, respectivamente: funcional, matriz e projetizada."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 732,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir.\n\nArrolamento de todos os itens de material existentes em estoque, permitindo uma ideia geral do conjunto.\n\nO texto refere-se a uma das etapas da classificação de materiais, que é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a simplificação."
+      },
+      {
+        "id": 2,
+        "texto": "a catalogação."
+      },
+      {
+        "id": 3,
+        "texto": "a identificação."
+      },
+      {
+        "id": 4,
+        "texto": "a codificação."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 733,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A aquisição de bens e serviços comuns na administração pública, com critérios de julgamento estabelecidos por lei, dá-se por meio de qual modalidade da licitação:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Pregão."
+      },
+      {
+        "id": 2,
+        "texto": "Leilão."
+      },
+      {
+        "id": 3,
+        "texto": "Concurso."
+      },
+      {
+        "id": 4,
+        "texto": "Concorrência."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 734,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir.\n\nA perspectiva desta gestão é mais global ou mais sistêmica: ela envolve o conjunto da organização. Significa gerir a organização considerando a interação entre as suas atividades e entre essas e o ambiente.\n\nO texto refere-se ao conceito de gestão por:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "competências."
+      },
+      {
+        "id": 2,
+        "texto": "qualidade."
+      },
+      {
+        "id": 3,
+        "texto": "projetos."
+      },
+      {
+        "id": 4,
+        "texto": "processos."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 735,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir.\n\nÉ um importante fator no setor público para implementação das políticas públicas e para a continuidade do Estado, decorrente do padrão de relacionamento entre governo e cidadão, englobando três aspectos: transparência, responsabilidade e prestação de contas.\n\nO texto refere-se:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "à governança pública."
+      },
+      {
+        "id": 2,
+        "texto": "à gestão pública."
+      },
+      {
+        "id": 3,
+        "texto": "ao accountability."
+      },
+      {
+        "id": 4,
+        "texto": "ao e-commerce."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 736,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Uma das características da redação oficial é a linguagem formal. Quais principais aspectos são compreendidos por esta linguagem:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Linguagem coloquial, emprego de linguagens regionais de acordo com o destinatário, pessoalidade, clareza e temporariedade."
+      },
+      {
+        "id": 2,
+        "texto": "Linguagem padrão, interdição quanto ao emprego de gírias e outras expressões regionais, impessoalidade, clareza e objetividade."
+      },
+      {
+        "id": 3,
+        "texto": "Linguagem coloquial, de acordo com a regionalidade do destinatário, pessoalidade, uso de referências a documentos públicos."
+      },
+      {
+        "id": 4,
+        "texto": "Linguagem padrão, emprego de gírias e outras expressões regionais, pessoalidade, clareza e subjetividade."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 737,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A administração da documentação pública ou de caráter público compete, por lei, às instituições arquivísticas federais, estaduais, do Distrito Federal e municipais. São considerados arquivos de competência da administração municipal o conjunto de documentos produzidos e recebidos:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "do Poder Executivo e do Poder Legislativo."
+      },
+      {
+        "id": 2,
+        "texto": "do Poder Legislativo e do Poder Judiciário."
+      },
+      {
+        "id": 3,
+        "texto": "das Relações Exteriores e do Ministério da Marinha."
+      },
+      {
+        "id": 4,
+        "texto": "do Exército e das Relações Exteriores."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 738,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Observe a figura a seguir.\n A imagem refere-se a conceitos que, além de, nesse contexto, terem sido aplicados ao atendimento ao cidadão, são relacionados à administração. A imagem acima sintetiza respectivamente:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a produtividade, a organização e os métodos."
+      },
+      {
+        "id": 2,
+        "texto": "o planejamento, o controle e a direção."
+      },
+      {
+        "id": 3,
+        "texto": "a eficiência, a eficácia e a efetividade."
+      },
+      {
+        "id": 4,
+        "texto": "o controle, o planejamento e a liderança."
+      }
+    ],
+    "resposta_correta": 3
   }
 ]
