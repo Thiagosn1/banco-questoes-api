@@ -20778,5 +20778,545 @@
       }
     ],
     "resposta_correta": 3
+  },
+  {
+    "id": 739,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir.\n<center><strong>PARATODOS</strong></center>\nChico Buarque\nO meu pai era paulista\nMeu avô, pernambucano\nO meu bisavô, mineiro\nMeu tataravô, baiano\nMeu maestro soberano\nFoi Antonio Brasileiro\n(...)\nO meu pai era paulista\nMeu avô, pernambucano\nO meu bisavô, mineiro\nMeu tataravô, baiano\nVou na estrada há muitos anos\nSou um artista brasileiro\n\nNos excertos da canção do compositor e cantor Chico Buarque de Holanda (primeira e última estrofes), nota-se a presença de figuras de sintaxe denominadas de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "zeugma e hipérbole."
+      },
+      {
+        "id": 2,
+        "texto": "elipse e metonímia."
+      },
+      {
+        "id": 3,
+        "texto": "zeugma."
+      },
+      {
+        "id": 4,
+        "texto": "elipse."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 740,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o trecho a seguir.\n\n\"BR-153 – EM DIREÇÃO A SÃO PAULO E CALDAS NOVAS, VIRE À DIREITA.\"\n\nO trecho acima refere-se à qual tipologia narrativa?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Descritiva."
+      },
+      {
+        "id": 2,
+        "texto": "Narrativa."
+      },
+      {
+        "id": 3,
+        "texto": "Argumentativa."
+      },
+      {
+        "id": 4,
+        "texto": "Injuntiva."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 741,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A regência nominal não está adequada à norma padrão em qual frase:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "\"Ele é muito apegado à bens materiais.\""
+      },
+      {
+        "id": 2,
+        "texto": "\"O e-mail é referente ao resultado da homologação do concurso.\""
+      },
+      {
+        "id": 3,
+        "texto": "\"O andarilho é suspeito de ter invadido a Loja 1 na Avenida Central.\""
+      },
+      {
+        "id": 4,
+        "texto": "\"Sigamos firmes na nossa meta!\""
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 742,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia a charge a seguir.\nDe acordo com a norma gramatical culta, qual frase foi adaptada adequadamente a partir das frases da charge acima:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "\"Norma formou-se, com louvor em letras\"."
+      },
+      {
+        "id": 2,
+        "texto": "\"Porém, ficou anos sem emprego e teve que aceitar trabalhar de telefonista num tele-pizza\"."
+      },
+      {
+        "id": 3,
+        "texto": "\"– Alô, quero pedir uma pizza!\"."
+      },
+      {
+        "id": 4,
+        "texto": "\"Norma, continua, desempregada...\"."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 743,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Qual frase destacada não se classifica como oração subordinada substantiva, desempenhando o papel de complemento nominal:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Sempre tive uma imensa vontade <strong>de que ele viajasse comigo.</strong>"
+      },
+      {
+        "id": 2,
+        "texto": "O diretor da empresa necessita <strong>de que todos os colaboradores estejam presentes na reunião.</strong>"
+      },
+      {
+        "id": 3,
+        "texto": "Temos fé <strong>de que a humanidade pare de destruir o planeta.</strong>"
+      },
+      {
+        "id": 4,
+        "texto": "Estamos bem longe <strong>do que seria o ideal.</strong>"
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 744,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir.\nAs variações linguísticas procuram estabelecer uma comunicação em relação a um contexto. Proporcionam relacionar maneiras de como os indivíduos apresentam formas em utilizar essa mesma língua no seu dia a dia. Como é classificada a variação linguística presente no texto supramencionado?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Estilística."
+      },
+      {
+        "id": 2,
+        "texto": "Sociocultural."
+      },
+      {
+        "id": 3,
+        "texto": "Geográfica."
+      },
+      {
+        "id": 4,
+        "texto": "Histórica."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 745,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir.\n<center><strong>Saúde mental: trabalhadores da geração z são os que mais sofrem burnout</strong></center>\nJuliana Sousa\nA Síndrome do Esgotamento Profissional é um distúrbio emocional com sintomas de exaustão extrema, estresse e esgotamento físico. Recém-formada em publicidade e propaganda, Maria* (*nome fictício) foi contratada em uma renomada empresa do ramo com apenas 23 anos. Certa de que a carreira daria espaço para sua criatividade, a jovem acreditou que a oportunidade seria um divisor de águas em sua vida profissional, até que a rotina de trabalho mudou drasticamente em 2020, com a chegada da pandemia da covid-19. Muitos de seus colegas foram demitidos para cortar gastos, a pressão em seu trabalho aumentou. O home office, prazos apertados, reuniões virtuais intermináveis e a urgência de criar campanhas que ressoassem com um público isolado tornaram-se a nova realidade.\nEm meio ao caos, a agência exigia resultados, Maria se sentiu obrigada a se comprometer ainda mais com medo de perder a tão sonhada chance. \"Eu acordava preocupada e ia dormir sempre muito tarde. Eu nem tinha tempo para pensar se estava cansada, recebia ligações intermináveis a quase qualquer hora do dia. Eu só pensava em trabalhar, em fazer bem feito e tentar não estragar tudo\", contou a jovem que não sabia, mas já apresentava os primeiros sintomas de algo que a acompanharia por muito tempo: a Síndrome de Burnout.\nDeclarada doença ocupacional desde 2022 pela Organização Mundial da Saúde (OMS), a Síndrome do Esgotamento Profissional é um distúrbio emocional com sintomas de exaustão extrema, estresse e esgotamento físico que pode ser resultante de situações de trabalho desgastante que demanda muita competitividade ou responsabilidade.\nSegundo uma pesquisa da Harvard Business Review (2022), 50% dos trabalhadores da Geração Z (nascidos entre 1995 e 2010) relataram que suas experiências de trabalho estão afetando sua saúde mental, e 75% disseram que desejam ver mais apoio de suas organizações em relação à saúde mental. O relatório da Pew Research Center, publicado no mesmo ano, reforça esse resultado. O estudo destacou que a faixa etária enfrenta pressões significativas relacionadas a expectativas de desempenho, segurança financeira e questões sociais, que são fatores que podem contribuir para o burnout.\n\nA partir da interpretação textual da reportagem do jornal Correio Braziliense e do contexto abordado, qual trecho que resume a reportagem do jornal Correio Braziliense:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "A jovem acreditou que a oportunidade seria um divisor de águas em sua vida profissional, até que a rotina de trabalho mudou drasticamente em 2020, com a chegada da pandemia da covid-19."
+      },
+      {
+        "id": 2,
+        "texto": "O relatório da Pew Research Center, publicado no mesmo ano, reforça esse resultado."
+      },
+      {
+        "id": 3,
+        "texto": "Segundo uma pesquisa da Harvard Business Review (2022), 50% dos trabalhadores da Geração Z (nascidos entre 1995 e 2010) relataram que suas experiências de trabalho estão afetando sua saúde mental."
+      },
+      {
+        "id": 4,
+        "texto": "O estudo destacou que a faixa etária enfrenta pressões significativas relacionadas a expectativas de desempenho, segurança financeira e questões sociais, que são fatores que podem contribuir para o burnout."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 746,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o poema a seguir.\n<center><strong>Poeminho do Contra</strong></center>\nTodos esses que aí estão\nAtravancando meu caminho,\nEles passarão...\nEu passarinho!\n\nA partir da leitura do \"Poeminho do Contra\" e à luz de análise sintática, percebe-se que:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "no primeiro verso, a conjunção \"que\" inicia uma oração subordinada adverbial de lugar."
+      },
+      {
+        "id": 2,
+        "texto": "o sujeito da frase do terceiro verso é \"eles\"."
+      },
+      {
+        "id": 3,
+        "texto": "o terceiro verso apresenta a primeira frase nominal do poema."
+      },
+      {
+        "id": 4,
+        "texto": "a palavra \"passarinho\" é um advérbio de modo."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 747,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Com base no processo de formação de palavras e no Acordo Ortográfico da Língua Portuguesa (2009), quais palavras não se encaixam nos padrões?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Afrodescendente, eurocomunista e bem-amada."
+      },
+      {
+        "id": 2,
+        "texto": "Assembleia, colmeia e joia."
+      },
+      {
+        "id": 3,
+        "texto": "Autorretato, antissocial e extrasseco."
+      },
+      {
+        "id": 4,
+        "texto": "Microondas, microônibus e antiinflamatório."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 748,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Há ambiguidade textual em qual frase abaixo?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "\"Alynne disse à irmã que Kauã, seu namorado, a estava esperando.\""
+      },
+      {
+        "id": 2,
+        "texto": "\"Presos por crime em Bragança Paulista são transferidos.\""
+      },
+      {
+        "id": 3,
+        "texto": "\"Cansada, a mãe saiu apressada do trabalho.\""
+      },
+      {
+        "id": 4,
+        "texto": "\"Crianças que frequentemente recebem leite materno são mais sadias.\""
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 749,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A missão, a visão e os valores organizacionais são conceitos básicos no estudo de administração. Define-se missão como:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "uma ferramenta utilizada para identificar os pontos fortes e fracos de uma organização."
+      },
+      {
+        "id": 2,
+        "texto": "a finalidade organizacional, a razão de ser da organização."
+      },
+      {
+        "id": 3,
+        "texto": "o que a organização gostaria de se tornar e como gostaria de ser reconhecida pelas partes interessadas ou atores com os quais se relaciona."
+      },
+      {
+        "id": 4,
+        "texto": "um conjunto de crenças essenciais ou princípios morais que informam as pessoas como devem reger os seus comportamentos na organização."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 750,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Planejamento, como função administrativa, é o processo de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "guiar as atividades dos membros da organização nos rumos adequados."
+      },
+      {
+        "id": 2,
+        "texto": "estruturar e integrar os recursos e os órgãos incumbidos de sua administração e estabelecer relações entre eles e suas atribuições."
+      },
+      {
+        "id": 3,
+        "texto": "definir objetivos e decidir sobre os recursos e as tarefas necessários para alcançá-los adequadamente."
+      },
+      {
+        "id": 4,
+        "texto": "monitorar e avaliar as atividades e os resultados alcançados."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 751,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Entre as áreas funcionais de uma organização, aquela dedicada ao recrutamento e seleção de pessoas é a de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "produção."
+      },
+      {
+        "id": 2,
+        "texto": "marketing."
+      },
+      {
+        "id": 3,
+        "texto": "finanças."
+      },
+      {
+        "id": 4,
+        "texto": "recursos humanos."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 752,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "No que diz respeito à administração de materiais, entende-se estoque como:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "toda e qualquer porção armazenada de material, com valor econômico para a organização, que é reservada para emprego em momento futuro, quando se mostrar necessária às atividades organizacionais."
+      },
+      {
+        "id": 2,
+        "texto": "o procedimento de identificação de um bem patrimonial, efetuado na incorporação do bem ao patrimônio de uma organização."
+      },
+      {
+        "id": 3,
+        "texto": "o procedimento de levantamento físico e de contagens dos itens de material em uma organização."
+      },
+      {
+        "id": 4,
+        "texto": "o capital disponível e demais fontes de financiamento às atividades organizacionais."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 753,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Compra, na Administração Pública, é a aquisição remunerada de bens para fornecimento de uma só vez ou parceladamente. A compra considerada imediata é aquela:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "com pagamento parcelado em, no máximo, duas vezes."
+      },
+      {
+        "id": 2,
+        "texto": "com prazo de entrega de até 30 trinta dias da ordem de fornecimento."
+      },
+      {
+        "id": 3,
+        "texto": "realizada por encomenda."
+      },
+      {
+        "id": 4,
+        "texto": "realizada sem autorização da autoridade competente."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 754,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Quanto à transparência pública, a divulgação de informações nos sítios eletrônicos oficiais é denominada de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "transparência ativa."
+      },
+      {
+        "id": 2,
+        "texto": "transparência passiva."
+      },
+      {
+        "id": 3,
+        "texto": "portal da transparência."
+      },
+      {
+        "id": 4,
+        "texto": "portal digital."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 755,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O instrumento que estabelecerá, de forma regionalizada, as diretrizes, os objetivos e as metas da Administração Pública para as despesas de capital e outras delas decorrentes, bem como para as relativas aos programas de duração continuada é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a Lei Orçamentária Anual (LOA)."
+      },
+      {
+        "id": 2,
+        "texto": "a Lei de Diretrizes Orçamentária (LDO)."
+      },
+      {
+        "id": 3,
+        "texto": "o Plano Plurianual (PPA)."
+      },
+      {
+        "id": 4,
+        "texto": "o Planejamento Estratégico (PE)."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 756,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A redação oficial é a maneira pela qual o Poder Público redige comunicações oficiais e atos normativos. Transmitir o máximo de informações com o mínimo de palavras é um atributo da redação oficial conhecido como:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "coesão."
+      },
+      {
+        "id": 2,
+        "texto": "coerência."
+      },
+      {
+        "id": 3,
+        "texto": "impessoalidade."
+      },
+      {
+        "id": 4,
+        "texto": "concisão."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 757,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Os conjuntos de documentos produzidos e recebidos por órgãos públicos, no exercício de suas atividades, em decorrência de funções administrativas, legislativas e judiciárias, são chamados de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "instrumentos de apoio."
+      },
+      {
+        "id": 2,
+        "texto": "instrumentos de validação."
+      },
+      {
+        "id": 3,
+        "texto": "arquivos públicos."
+      },
+      {
+        "id": 4,
+        "texto": "arquivos comerciais."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 758,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Câmara Municipal de Rio Quente - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O bom atendimento é um atendimento de qualidade, que inclui dar um tratamento empático ao(à) cidadão(ã) e satisfazer, com tempestividade e suficiência, as demandas de informação, serviços ou produtos por ele(a) apresentadas. Nesse contexto, tempestividade refere-se a:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "receber o(a) cidadão(ã) com entusiasmo e cordialidade."
+      },
+      {
+        "id": 2,
+        "texto": "atender a demanda do(a) cidadão(ã) no prazo legal."
+      },
+      {
+        "id": 3,
+        "texto": "fazer tudo o que é necessário para atender a demanda do(a) cidadão(ã)."
+      },
+      {
+        "id": 4,
+        "texto": "chamar o(a) cidadão(ã) pelo nome."
+      }
+    ],
+    "resposta_correta": 2
   }
 ]
