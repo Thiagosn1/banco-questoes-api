@@ -21311,12 +21311,548 @@
       {
         "id": 3,
         "texto": "fazer tudo o que é necessário para atender a demanda do(a) cidadão(ã)."
-      },
-      {
-        "id": 4,
-        "texto": "chamar o(a) cidadão(ã) pelo nome."
       }
     ],
     "resposta_correta": 2
+  },
+  {
+    "id": 759,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O objetivo do Comitê Paralímpico Brasileiro para as Paralimpíadas de Paris era ousado: atingir sua melhor campanha e alcançar pela primeira vez o top 5 da competição. Mas, com uma campanha impecável, o Brasil cumpriu o objetivo e se firmou com uma das cinco maiores potências paralímpicas do mundo. A delegação brasileira bateu o recorde de medalhas, com 89 pódios conquistados, alcançou o maior número de ouros, com 25, e terminou em quinto lugar no quadro geral dos Jogos. [...] O Brasil travou uma batalha acirrada com a Itália pela quinta posição até o último dia dos Jogos. A delegação brasileira terminou o sábado na segunda colocação, atrás do país europeu. [...] Um dado interessante e que ajudou a alcançar a campanha perfeita foi a quantidade de estados que foram ao pódio. As medalhas foram conquistadas por atletas de 16 estados, além do Distrito Federal, com participação maciça das cinco regiões. \n\nConsiderando o conteúdo e estrutura do texto, bem como seu propósito enunciativo, trata-se de um(a):",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "notícia, visto ser um texto expositivo que apresenta as informações acerca do desempenho da delegação brasileira nas Paralimpíadas de Paris 2024."
+      },
+      {
+        "id": 2,
+        "texto": "artigo de opinião, pois relata como o Brasil conseguiu se superar no evento esportivo na França."
+      },
+      {
+        "id": 3,
+        "texto": "dissertativo-argumentativo, uma vez que o foco é convencer o leitor o quão a equipe Paralímpica é superior à Olímpica."
+      },
+      {
+        "id": 4,
+        "texto": "carta aberta, tendo em vista que o objetivo principal é informar a sociedade brasileira da importância do investimento em esportes para todos os tipos de atletas."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 760,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "No excerto: \"A delegação brasileira terminou o sábado na segunda colocação, atrás do país europeu.\", o verbo \"terminou\" cumpre função sintática de um verbo:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "intransitivo."
+      },
+      {
+        "id": 2,
+        "texto": "transitivo direto."
+      },
+      {
+        "id": 3,
+        "texto": "de ligação."
+      },
+      {
+        "id": 4,
+        "texto": "transitivo indireto."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 761,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O termo em destaque na oração \"As medalhas foram conquistadas por atletas de 16 estados, <strong>além do</strong> Distrito Federal, com participação maciça das cinco regiões\" exerce função:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "adversativa."
+      },
+      {
+        "id": 2,
+        "texto": "disjuntiva."
+      },
+      {
+        "id": 3,
+        "texto": "explicativa."
+      },
+      {
+        "id": 4,
+        "texto": "aditiva."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 762,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Considerando as definições de sequência textual, trata-se de uma sequência narrativa:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "O mundo passou por uma crise sanitária no século XXI que é considerada uma das maiores da história. Um vírus se espalhou pelos continentes e provocou enormes consequência."
+      },
+      {
+        "id": 2,
+        "texto": "A pandemia da Covid-19, sem dúvida, foi um marco histórico para o século XXI. Segundo especialistas da área sanitária, durante anos será possível identificar consequências dessa catástrofe."
+      },
+      {
+        "id": 3,
+        "texto": "Era início de 2020, quando percebi que o mundo não seria mais o mesmo. Vi pelos noticiários que uma crise sanitária havia se espalhado pelo mundo. Eu sabia que as consequências iriam persistir por anos."
+      },
+      {
+        "id": 4,
+        "texto": "Para evitar o contágio pelo vírus da Covid-19: use máscaras de proteção e lave as mãos com água e sabão. Lembre-se de carregar sempre álcool em gel 70% e usar sempre que puder."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 763,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A Inteligência Artificial (IA) é uma tecnologia revolucionária que vem transformando significativamente diversos setores da sociedade brasileira. Se por um lado traz avanços impressionantes e benefícios em áreas como saúde, economia e educação, por outro, levanta questões importantes sobre ética, privacidade e inclusão. \nA inteligência artificial tem potencial para revolucionar vários aspectos da vida cotidiana no Brasil. Na área da saúde, por exemplo, sistemas de IA são utilizados para diagnósticos mais precisos, tratamentos personalizados e descoberta de novas drogas. No setor econômico, a automação de processos e a análise de dados impulsionam a eficiência e a inovação nas empresas. Na educação, pode-se aplicar a IA para personalizar o ensino, adaptando-se às necessidades individuais dos alunos, até mesmo para usar como tira-dúvidas para melhor desenvolver o aprendizado. \nApesar dos benefícios, a inteligência artificial também traz desafios éticos e preocupações importantes. Questões relacionadas à privacidade dos dados, viés algorítmico, discriminação e substituição de empregos são algumas das preocupações levantadas pela crescente adoção da IA. É essencial que as políticas e regulamentações acompanhem esses avanços tecnológicos para garantir um uso ético e responsável da inteligência artificial. \n\nUma das principais preocupações no uso da Inteligência Artificial consiste na(s):",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "questões relacionadas aos algoritmos e privacidade de dados."
+      },
+      {
+        "id": 2,
+        "texto": "aplicações diretas no âmbito da medicina."
+      },
+      {
+        "id": 3,
+        "texto": "forma como a educação irá conduzir o ensino da inteligência artificial nas escolas."
+      },
+      {
+        "id": 4,
+        "texto": "maneira como a legislação irá fiscalizar o uso da IA."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 764,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Analise o destaque do excerto: \"Na educação, <strong>pode-se</strong> aplicar a IA para personalizar o ensino\". Neste caso, a colocação pronominal trata-se de uma:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "próclise."
+      },
+      {
+        "id": 2,
+        "texto": "mesóclise."
+      },
+      {
+        "id": 3,
+        "texto": "ênclise."
+      },
+      {
+        "id": 4,
+        "texto": "proposição livre."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 765,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "No excerto \"Na educação, pode-se aplicar a IA para personalizar o ensino, adaptando-se às necessidades individuais dos alunos, até mesmo para usar como tira-dúvidas para melhor desenvolver o aprendizado\", a construção da palavra \"tira-dúvidas\" é realizada por:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "derivação prefixal."
+      },
+      {
+        "id": 2,
+        "texto": "justaposição."
+      },
+      {
+        "id": 3,
+        "texto": "aglutinação."
+      },
+      {
+        "id": 4,
+        "texto": "derivação regressiva."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 766,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Considere o excerto: \"O transtorno do espectro autista (TEA) é um distúrbio do neurodesenvolvimento caracterizado por desenvolvimento atípico, manifestações comportamentais, déficits na comunicação e na interação social, padrões de comportamentos repetitivos e estereotipados, podendo apresentar com um repertório restrito de interesses e atividades\". Há desvio da norma padrão no uso da regência verbal em:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "\"é um distúrbio do neurodesenvolvimento\"."
+      },
+      {
+        "id": 2,
+        "texto": "\"caracterizado por desenvolvimento\"."
+      },
+      {
+        "id": 3,
+        "texto": "\"padrões de comportamentos repetitivos\"."
+      },
+      {
+        "id": 4,
+        "texto": "\"apresentar com um repertório\"."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 767,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O transtorno do espectro autista (TEA) é um distúrbio do neurodesenvolvimento caracterizado por desenvolvimento atípico, manifestações comportamentais, déficits na comunicação e na interação social, padrões de comportamentos repetitivos e estereotipados, podendo apresentar com um repertório restrito de interesses e atividades. \nSinais de alerta no neurodesenvolvimento da criança podem ser percebidos nos primeiros meses de vida, sendo o diagnóstico estabelecido por volta dos 2 a 3 anos de idade. Embora a prevalência seja maior no sexo masculino, há casos também em mulheres. \nA identificação de atrasos no desenvolvimento, o diagnóstico oportuno de TEA e encaminhamento para intervenções comportamentais e apoio educacional na idade mais precoce possível, pode levar a melhores resultados a longo prazo, considerando a neuroplasticidade cerebral. \nRessalta-se que o tratamento oportuno com estimulação precoce deve ser preconizado em qualquer caso de suspeita de TEA ou desenvolvimento atípico da criança, independentemente de confirmação diagnóstica. \n\nNo segundo parágrafo, há a oração “Embora a prevalência seja maior no sexo masculino, há casos também em mulheres”. O termo “embora” exerce função de:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "concessão entre a primeira e segunda oração."
+      },
+      {
+        "id": 2,
+        "texto": "adição entre a segunda e a primeira oração."
+      },
+      {
+        "id": 3,
+        "texto": "conclusiva entre a primeira e segunda oração."
+      },
+      {
+        "id": 4,
+        "texto": "explicativa entre a segunda e primeira oração."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 768,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia a tirinha a seguir.\n No contexto da tirinha, o termo “ter pena” é considerado:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "citação."
+      },
+      {
+        "id": 2,
+        "texto": "inferência."
+      },
+      {
+        "id": 3,
+        "texto": "polissemia."
+      },
+      {
+        "id": 4,
+        "texto": "comparação."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 769,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir. \n\nConforme Chiavenato (2007), \"O sistema de comunicação envolve, no mínimo dois grupos: o remetente (fonte) e o receptor (destino), isto é, o que envia a comunicação e o que a recebem. A fonte é o ponto inicial e o destino, o ponto final da comunicação. Entre eles existem mais de quatro componentes do processo: a transmissão, o canal, a recepção e o ruído\". Para entender a importância de um bom atendimento, inicialmente deve-se entender porque atender bem os clientes é tão importante, e para que isso ocorra, é necessária uma boa comunicação entre as partes.\n\nNesse contexto, qual das abordagens é recomendada para um bom atendimento ao público?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Adotar uma postura autoritária para mostrar segurança."
+      },
+      {
+        "id": 2,
+        "texto": "Evitar contato visual para não intimidar o cliente."
+      },
+      {
+        "id": 3,
+        "texto": "Usar termos técnicos sem se preocupar com o entendimento do cliente."
+      },
+      {
+        "id": 4,
+        "texto": "Demonstrar empatia e esclarecer as dúvidas do cliente."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 770,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia a definição a seguir. \n\nA palavra Administração vem do latim, ad – que significa direção, tendência para, e minister – que significa subordinação ou obediência, ou seja, quem realiza uma função sob comando de outra ou presta serviço a outro.\n\nConsiderando-se as funções do administrador, o que define o conceito de “planejamento” na administração?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Definição dos objetivos e como alcançá-los."
+      },
+      {
+        "id": 2,
+        "texto": "Coordenação de recursos humanos."
+      },
+      {
+        "id": 3,
+        "texto": "Controle das atividades desenvolvidas."
+      },
+      {
+        "id": 4,
+        "texto": "Implementação das estratégias definidas."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 771,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Segundo Meirelles (2015), a administração pública é o conjunto de atividades e instituições que o Estado utiliza para planejar, organizar, dirigir e controlar os recursos públicos a fim de atender as necessidades coletivas. Ela compreende tanto os órgãos e agentes responsáveis pela formulação das políticas públicas quanto aqueles encarregados de executá-las, seja no âmbito federal, estadual ou municipal. A administração pública pode ser entendida em sentido formal, que se refere ao conjunto de órgãos e entidades, ou em sentido material, que trata das funções desempenhadas pelo Estado. Nesse sentido, que item que corresponde a uma característica da administração pública direta?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Empresas estatais."
+      },
+      {
+        "id": 2,
+        "texto": "Fundações privadas."
+      },
+      {
+        "id": 3,
+        "texto": "Órgãos subordinados diretamente ao governo."
+      },
+      {
+        "id": 4,
+        "texto": "Sociedades de economia mista."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 772,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "A licitação pública é o processo por meio do qual a administração pública contrata obras, serviços, compras e alienações. Em outras palavras, licitação é a forma como a administração pública pode comprar e vender. De acordo com a legislação vigente, a modalidade de licitação que é obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "parceria público-privada (ppp)."
+      },
+      {
+        "id": 2,
+        "texto": "concorrência."
+      },
+      {
+        "id": 3,
+        "texto": "tomada de preços."
+      },
+      {
+        "id": 4,
+        "texto": "pregão."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 773,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "De acordo como Ballou (2006), “Gerenciar os estoques é também equilibrar a disponibilidade dos produtos, ou serviços ao consumidor, por um lado, com os custos de abastecimentos que, por outro lado são necessários para um determinado grau de disponibilidade”. Sobre a gestão de estoque, qual dos seguintes métodos é utilizado para controlar a saída de materiais de um estoque, baseado na ordem de entrada?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "LIFO."
+      },
+      {
+        "id": 2,
+        "texto": "PEPS."
+      },
+      {
+        "id": 3,
+        "texto": "Método ABC."
+      },
+      {
+        "id": 4,
+        "texto": "Just-in-Time."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 774,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir. \n\nPara Chiavenato (2010, p.190) as empresas não operam tendo como base o improviso, e que as empresas não funcionam ao acaso, pois o plano deve nortear toda sua estrutura e operações. Planejar, que também é a função inicial administrativa, onde é necessário interpretar a missão organizacional, os objetivos da empresa, e também os meios necessários para a realização dos objetivos com a máxima de eficácia possível. É necessário que no planejamento se realize algumas vertentes, como por exemplo: deliberar a missão, objetivos e prioridades; precisar como estão as coisas no momento; desenvolver estimativas quanto as condições possíveis no futuro; encontrar os caminhos para que se alcance o foi determinado; efetuar o que se foi traçado e realizar avaliações dos resultados.\n\nNo que se refere às funções administrativas qual destas envolve a alocação e coordenação de recursos para atingir os objetivos organizacionais?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Planejamento."
+      },
+      {
+        "id": 2,
+        "texto": "Controle."
+      },
+      {
+        "id": 3,
+        "texto": "Organização."
+      },
+      {
+        "id": 4,
+        "texto": "Direção."
+      }
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": 775,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "O administrador público, segundo Hely Lopes Meirelles, é investido de competência decisória, exercendo autoridade, com poderes e deveres específicos do cargo ou função e com responsabilidades próprias de suas atribuições. Nesse sentido, qual dos atos administrativos abaixo refere-se à manifestação unilateral da administração pública para criar, modificar ou extinguir direitos?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Despacho."
+      },
+      {
+        "id": 2,
+        "texto": "Licitação."
+      },
+      {
+        "id": 3,
+        "texto": "Contrato."
+      },
+      {
+        "id": 4,
+        "texto": "Decreto."
+      }
+    ],
+    "resposta_correta": 4
+  },
+  {
+    "id": 776,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "É um exemplo de dispensa de licitação:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "a contratação emergencial de serviços essenciais."
+      },
+      {
+        "id": 2,
+        "texto": "a aquisição de bens comuns com ampla concorrência."
+      },
+      {
+        "id": 3,
+        "texto": "a aquisição de produtos estrangeiros sem concorrentes nacionais."
+      },
+      {
+        "id": 4,
+        "texto": "a contratação de obras de engenharia de grande porte."
+      }
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": 777,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Seguindo o Manual de Redação da Presidência da República sobre os documentos oficiais, a finalidade de uma ata é:",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "registrar atos normativos internos."
+      },
+      {
+        "id": 2,
+        "texto": "relatar as deliberações de uma reunião."
+      },
+      {
+        "id": 3,
+        "texto": "convocar reuniões formais."
+      },
+      {
+        "id": 4,
+        "texto": "publicar contratos administrativos."
+      }
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": 778,
+    "cargo": "Agente Administrativo",
+    "nivel": "Médio",
+    "prova": "Prefeitura Municipal de Carmo do Rio Verde - GO",
+    "banca": "Instituto Verbena/UFG",
+    "enunciado": "Leia o texto a seguir. \n\nNão há como falar em administração de empresas sem citar Peter Drucker. A ideia de capital humano, que reconhece a importância dos funcionários para uma organização, é apenas um dos seus legados. Observador e visionário, Drucker ficou conhecido como o pai da administração moderna, ampliando a perspectiva da sociedade sobre o que é gestão e o papel essencial das pessoas para o sucesso de qualquer empresa.\n\nConhecendo-se as funções administrativas, qual é o principal objetivo do controle?",
+    "alternativas": [
+      {
+        "id": 1,
+        "texto": "Monitorar o desempenho e corrigir desvios."
+      },
+      {
+        "id": 2,
+        "texto": "Definir metas e objetivos."
+      },
+      {
+        "id": 3,
+        "texto": "Organizar os recursos humanos."
+      },
+      {
+        "id": 4,
+        "texto": "Desenvolver o planejamento estratégico."
+      }
+    ],
+    "resposta_correta": 1
   }
 ]
